@@ -1,0 +1,22 @@
+bread, milk/cream, eggs
+- pie charts
+- bar charts
+- "overall" viz (difficult, skip and come back around if time/desire)
+# Be cool to visualize essential ingredients for all recipes in one chart
+# matrix. each row represents a recipe. 
+# first column is bread, second column is eggs, third is milk/cream
+# color coded to tell you which type it is.
+
+viz for "other" ingredients
+
+ratios e.g. egg to bread to milkcream
+
+basic stats
+- number of recipes
+- number of unique ingredients (*as judged by me)
+- top ingredients mentioned / included in each recipe
+- unique/fun look at certain ingredients e.g. orange juice, cream-cheese
+
+variants of french toast (mostly determined by title)
+
+"average" french toast recipe

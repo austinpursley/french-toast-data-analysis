@@ -1,0 +1,82 @@
+#2022-03-06 03:05 PM 
+finished pie charts.
+pie charts are difficult to do right. but trying to get them in a way that I like taught me a lot of matplotlib and other python tools
+
+next:
+- take a break from analysis
+- finish up final clean up / qa
+- publish "part 1" to website
+- move onto anlaysis again
+- bar charts
+- etc.
+
+3/4/2022
+- consider expanding "cut" column beyond bread, if there's any value added there
+- move onto analysis. outline / plan of metrics, etc.
+
+(left of with "french_toast_recipes_4_cleaned_draft.csv")
+
+1/6/2022
+- second run through cleaning
+- fix / reconsider bread units
+- - -- - remove loaves, add "1/2-inch-slices" etc. as units?
+- consider: "cut" column e.g. cubed, halved, 1/2-inch-thick etc.
+- draft "analysis plan" e.g. metrics you think are interesting and want to extract + general game plan / idea on how to do it
+- it would be cool to create a webpage for each recipe, somehow. that prob wouldn't work tho lol
+
+
+1/20/2022
+now:
+- write recipe ID for each ingredient in "0ingr_cln" csv
+- write "draft" version of v2 0ingr_cln
+- manually clean recipe data (could take a long time)
+
+1/29/2022
+where need to pick back up:
+- step 1: edit "2nums_key.csv" so that it's correct, final
+- step 2: add code into "average_french_toast_1_clean2.py" to apply nums key
+- step 3: remove clean4 as is, edit clean5 to clean4
+
+overview of code process:
+- clean0: cut out variants
+- clean1: write out unique values to help with writing keys
+- between clean1 and clean2, write units, nums, words cut keys
+- clean2: apply keys have so far
+- clean3: create ingredients key step 1, breaking down ingredeients further
+- between clean3 and clean4, write ingredients key
+- clean4: 
+
+this process is sort of "organic" and more-or-less reflects how I approached cleaning without a clear idea upfront of how I wanted to approach it. bad? maybe, because planning is always good, but then again experience is golden as well. a lot of times you just got to dig in. and to be fair, I wasn't familiar with data yet either, so also understanding data as moving along etc.
+
+in retrospect, it seems obvious that you'd want to
+(1) determine numbers, cut those out of full ingredients
+(2) determine units, cut those out of full ingreidents w/ units cut out
+(3) THEN go through remaining unique ingredients. 
+     - - cut out obvious words
+     - - break them into basic ingredients e.g. bread, eggs, milk
+     - - apply key to ingredients
+     - - etc.
+
+1/16/2022
+
+in "average_french_toast1.py"
+I am cleaning data.
+for example, looking through and figuring out different subsitutes for milk, egg, or bread (core ingredients, I've decided)
+
+I'm going through recipes "non milk" varieties. finding + including other substitutes. (side note: alton brown doesn't use milk, he uses half-and-half)
+
+subcategories of ingredients:
+- milk and creams
+- eggs and sub
+- bread
+- fruits
+- vanilla
+- sugar
+- syrups
+
+recipes with fucked-up ingredients:
+chocolate-banana-french-toast
+stuffed-french-toast-with-fresh-berry-topping
+bacon-crusted-fruit-stuffed-french-toast
+
+cyle of looking at data, enacting filters, checking filtered data, using feedback from that to implement more and/or better filters.
