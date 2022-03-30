@@ -1,0 +1,71 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/143711/eggnog-cinnamon-french-toast/",
+    "name": "EggNog Cinnamon French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "EggNog Cinnamon French Toast"
+    },
+    "datePublished": "2021-08-04T02:51:27.000Z",
+    "description": ".",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "2 cups eggnog",
+        "1 teaspoon cinnamon",
+        "2  large eggs eggs",
+        "1  serving Vegetable oil cooking spray or butter or margarine",
+        "12 slices firm white bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine LACTAID&reg; EggNog, cinnamon and eggs in a shallow dish. Beat with whisk.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray large nonstick skillet with vegetable oil cooking spray or melt butter or margarine over medium heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip the bread into the eggnog mixture, turning to coat both sides. Fry bread over medium heat until golden brown on each side.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "EggNog Cinnamon French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "272.1 calories",
+        "carbohydrateContent": "37.2 g",
+        "cholesterolContent": "112 mg",
+        "fatContent": "9.6 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "9.2 g",
+        "saturatedFatContent": "4.6 g",
+        "servingSize": null,
+        "sodiumContent": "410.2 mg",
+        "sugarContent": "9.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

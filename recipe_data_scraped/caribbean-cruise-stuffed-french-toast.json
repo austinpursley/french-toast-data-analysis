@@ -1,0 +1,288 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/204211/caribbean-cruise-stuffed-french-toast/",
+    "name": "Caribbean Cruise Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F988570.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2009-07-27T20:20:41.000Z",
+    "description": "Now, just two slices of Wonder Classic White Sandwich Bread have as much calcium as an eight ounce glass of milk. Plus, they're as soft and delicious as ever. And you know what that means? This French toast will not only taste good, it'll help your family feel good, too.",
+    "prepTime": "P0DT0H30M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H40M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 (8 ounce) package fat-free cream cheese, softened",
+        "\u2153 cup crushed pineapple, drained",
+        "\u00bd cup confectioners' sugar",
+        "1\u2009\u00bd teaspoons vanilla, divided",
+        "\u00bd cup toasted pecan pieces",
+        "12 slices Wonder\u00ae Classic White Sandwich Bread",
+        "4  large eggs eggs",
+        "\u00be cup fat-free half and half, whipping cream or milk",
+        "\u00bc teaspoon ground cinnamon",
+        "2 tablespoons butter",
+        "1 (12 ounce) jar apricot preserves",
+        "\u2153 cup orange juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine cream cheese and pineapple. Stir in confectioners sugar, 1 teaspoon vanilla and pecans. Spread 6 slices of bread with cream cheese mixture. Top with remaining 6 slices of bread.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs, half and half, remaining 1/2 teaspoon vanilla and cinnamon together. Carefully dip each sandwich into egg mixture.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet or griddle over medium-high heat. Cook sandwiches until golden brown on both sides.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine apricot preserves and orange juice in a small saucepan. Heat, stirring constantly, until warm. Ladle over stuffed French toast.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 15,
+        "itemReviewed": "Caribbean Cruise Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "512 calories",
+        "carbohydrateContent": "82.7 g",
+        "cholesterolContent": "138.7 mg",
+        "fatContent": "15.8 g",
+        "fiberContent": "1.2 g",
+        "proteinContent": "15.8 g",
+        "saturatedFatContent": "4.6 g",
+        "servingSize": null,
+        "sodiumContent": "604.3 mg",
+        "sugarContent": "40.1 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-16T06:26:30.993Z",
+            "reviewBody": "We love this recipe and make it with whatever fruit or preserves I have on hand.  I put the 6 sandwiches in my casserole dish pour the egg mixture over it and bake about 25 to 30 minutes at 350\u00b0.  You can even leave in refrigerator overnight and bake in the morning.  Absolutely delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "vjohns",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-03T09:18:09.077Z",
+            "reviewBody": "I used fresh baked bread and farm fresh eggs and fruit from my local market instead and it was amazing! Just make time to let it settle and have a tea afterwards :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lusciouslola",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-17T10:11:18.513Z",
+            "reviewBody": "My family loved this. I used peaches instead of pineapple so the filling was 'peaches and cream'. No need for the preserves on top, I just diced more fresh peaches and dusted with powdered sugar. This was surprisingly easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Becca",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-16T14:40:21.430Z",
+            "reviewBody": "I had better luck with stale french bread(the wonder bread was too soft and gushy). We used coconut syrup recipe from this website and it was a tropical breakfast treat. I'll bet banana slices with the cream cheese spread would be good also.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TRISH",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-22T07:26:00.650Z",
+            "reviewBody": "Kids loved them!  Did not try the apricot sauce, we used blueberry syrup. Next time will use a different white bread with more strength but over all really good. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Zeke",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-28T13:47:35.020Z",
+            "reviewBody": "Sooo delicious way better than IHop and I made it myself",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mary",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-16T07:43:59.313Z",
+            "reviewBody": "yummy, but too much cream cheese.  we used frozen strawberries and no pecans.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robbi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-26T17:38:37.813Z",
+            "reviewBody": "This one is a winner!  Great flavour and a pleaser to all who eats it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shashakaboo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-03T10:35:59.517Z",
+            "reviewBody": "The whole family enjoyed these! The only exception was that we perfer using our normal syrup, the apricot one was too sweet for our taste.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "niecy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-01T10:25:09.707Z",
+            "reviewBody": "Spread filling on both sides and add layer of banana slices: holds together and definately adds to finished product.  Used homemade hot blueberry sauce for topping. This is not overly sweet either.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "meeky",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-25T13:13:30.890Z",
+            "reviewBody": "I loved the idea of this recipe... I changed a few things because I dint have a few ingredients..\nInstead of vanilla-honey, instead of picans-peanuts, instead of half and half -milk, instead of pineapple chunks -i used preseved pineapple spread, and last instead of apricot -i used Papaya preserved. Ohhhhhh and y stuffed my frenchtoast wt deli ham too. Yeaaaa Amazingly Goood!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharyle Lebron",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-12T08:25:42.053Z",
+            "reviewBody": "As is this recipe would NOT work for us. There is WAY too much cream cheese mixture. And the apricot syrup is WAY too sweet. I used french bread instead of sliced bread and it held up pretty well. I ate one sandwich with the apricot syrup and thought I might get sick from the sweetness. I tried another with plain maple syrup and it was MUCH better. My kids even said that it hurt their teeth. Thanks for the idea, but this doesn't work for us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "D89BUTTONS",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

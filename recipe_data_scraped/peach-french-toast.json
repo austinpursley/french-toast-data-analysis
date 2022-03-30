@@ -1,0 +1,536 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/120951/peach-french-toast/",
+    "name": "Peach French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F989681.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T00:25:41.000Z",
+    "description": "Let the aroma of baked peaches, brown sugar and cinnamon wake up your clan when you prepare this homespun dish from Geraldine Case of Anderson, Indiana. Drizzle the golden syrup that bakes at the bottom of this casserole over the tender slices of French toast.",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H45M",
+    "totalTime": "P0DT1H5M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 cup packed brown sugar",
+        "\u00bd cup butter or margarine",
+        "2 tablespoons water",
+        "1 (29 ounce) can sliced peaches, drained",
+        "12 (3/4 inch thick) slices day-old French bread",
+        "5  large eggs eggs",
+        "1\u2009\u00bd cups milk",
+        "1 tablespoon vanilla extract",
+        "1 pinch Ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a saucepan, bring brown sugar, butter and water to a boil. Reduce heat; simmer for 10 minutes, stirring frequently. Pour into a greased 13-in. x 9-in. x 2-in. baking dish; top with peaches. Arrange bread over peaches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, whisk the eggs, milk and vanilla; slowly pour over bread. Cover and refrigerate for 8 hours or overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the refrigerator 30 minutes before baking. Sprinkle with cinnamon. Cover and bake at 350 degrees F for 20 minutes. Uncover; bake 25-30 minutes longer or until the bread is golden brown. Serve with a spoon.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 31,
+        "itemReviewed": "Peach French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "513.3 calories",
+        "carbohydrateContent": "71.2 g",
+        "cholesterolContent": "200.6 mg",
+        "fatContent": "21.3 g",
+        "fiberContent": "2.5 g",
+        "proteinContent": "11.7 g",
+        "saturatedFatContent": "11.9 g",
+        "servingSize": null,
+        "sodiumContent": "392.9 mg",
+        "sugarContent": "53.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-30T14:15:03.503Z",
+            "reviewBody": "The first time I made this some of it was mushy and some too crisp.  So I now dunk each piece of bread in the egg mixture. I also sub the peach syrup for the water.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "EIEIO1010",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-03-11T10:19:14.257Z",
+            "reviewBody": "Served this recipe to 150 people this morning. Nothing but RAVE reviews from everyone who ate it.  Definitely a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MJ Giacomini",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-13T20:06:23.760",
+            "reviewBody": "This recipe is the same as Grandma's Peach French Toast.  Anyway, it's good but needs some tweaking.  I used bread that I had made--Cinnamon Raisin Bread I--and still sprinkled cinnamon on top.  The bread was mushy on both sides, maybe bc I turned it over before baking.  I love peaches, but I'm wondering if elminating those and just using peach syrup in the egg mix would make for a better french toast.  Also, I think the recipe calls for way too much egg mixture.  I would halve it next time--way too  much liquid when we were done.  Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pomplemousse",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-23T10:54:20.043Z",
+            "reviewBody": "I added a pint of fresh blueberries to mine &amp; it was delicious! The only other change I made was to use 6 eggs. I would love to try this with cinnamon bread sometime. Also, I break up my bread into bite-sized cubes - I think it all bakes up better and is easier to serve. My family loves these easy breakfast bakes - thanks Geraldine!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer Plourde",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-25T19:37:51.563Z",
+            "reviewBody": "YUMMY!  I will make this again.  Make sure you use a BIG can of Peaches drained.  Served it this morning for Christmas Breakfast.  Everyone loved it, might even make this with other types of canned fruits the next time!  Wonderful!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "monica02mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-05T07:48:18.697Z",
+            "reviewBody": "Okay, I hate when others do this, change the recipe then write the review based on the changes, but this ended up being great.  I canned some peach/vanilla syrup last year so thinking of adding peach flavoring to french toast, I mixed 3/4 of a pint of peach syrup into the egg/milk mixture.   We then had cut up peaches on top.  It was a excellent variation of standard french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rebecca Mielke",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-12T11:30:07.460Z",
+            "reviewBody": "Very yummy. I've also made this using a can of pieach or apple pie filling in place of the peach mixture. Turns out great and makes it even easier. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CDPEFFER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-02T10:01:14.980Z",
+            "reviewBody": "This was very good but since it was too sweet for our family, reduced sugar by l/4 c., butter by 3 Tbsp., and added l/4 t. cinnamon to cooking liquid.  I made 3 rows in l3x9\" pan perfectly w/sliced peaches exactly. Going to try w/pineapple as my husband's favorite fruit. Also great reheated the next morning!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BORNTOBAKE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-31T14:33:56.337Z",
+            "reviewBody": "I love this recipe and have made it many times.  If you can get your hands on it, use Mexican clear vanilla.  It turns up the wow factor significantly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "heidi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-21T18:22:48.147Z",
+            "reviewBody": "It's like having Peach Cobbler for breakfast.  Delicious! and easy to prepare.   I used frozen peaches which made it easy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SNGranna",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-23T14:57:15.697Z",
+            "reviewBody": "I made this for a girlfriends brunch, served with fresh sliced strawberries and blueberrie and mimosas! It was very good. All my friends raved about it and had a second helping. I used thick sliced bakery bread that I set out all day to get stale. I baked it uncovered and didn't get any of the mushiness mentioned in other reviews. No need to eat with a spoon when made this way. \n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LYNNE K",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-16T11:31:20.213Z",
+            "reviewBody": "Very good flavor, ours was a bit soggy in the middle, probably needed about an extra 10 minutes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie S",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-24T04:33:14.343Z",
+            "reviewBody": "I serve this every Christmas morning.  It's delicious and easy - we all look forward to it every year.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kris",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-19T20:06:08.963Z",
+            "reviewBody": "Tasty to be sure but ended up with very soupy caramel. Guess I'll have to make it a few more times to get it right. YAY! ;-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shelly Kingsley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-03T08:24:18.830Z",
+            "reviewBody": "I give this recipe one star for easy and quick prep - but otherwise, it was way too mushy, so it hardly even looked appetizing, and the texture of the bread in your mouth was very unappetizing.  Tried a couple of the peaches, and they, too, had a funny taste/texture.  I followed the recipe to a T - directions and everything - so I know I didn't do anything wrong.  There was way too much liquid on the bottom when it came out of the oven.  It wasn't \"syrupy\" like it says for drizzling on top.  It was pretty much just a watery liquid that filled my baking dish on the bottom.  I even let it bake for 40 minutes (10 minutes longer than it calls for) and that didn't help.  I wont make this again.  It looks like others have had luck with it, but my first time trying it was a complete fail - so I wont waste my time next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "megan1987",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-04T08:42:20.420Z",
+            "reviewBody": "My family loves this dish.  To calm down the sweetness we top our helpings off with cool whip.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KATSIX",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-03T15:28:20.780Z",
+            "reviewBody": "This was easy to prepare the night before, toss in the oven just before company arrived.  Absolutely delicious!  They ate every last morsel.  You could cut down the brown sugar a tad.  I served it with Waldorf Salad and it made an impressive brunch.  \nKaren Z.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen from Winnipeg",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-25T08:40:08.060",
+            "reviewBody": "We had this for breakfast on Christmas morning and it was great!  I thought it was a little sweet but still great and my husband loved it.  Next time I will use more peaches though.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melody",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-05-29T09:47:58.973Z",
+            "reviewBody": "Followed the directions, but my french toast came out like mush.  Not appetizing at all.  Even my kids didn't like it.  I bought bakery bread that I sliced thick myself.  I won't be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "C_WHITES_",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-27T05:21:03.947Z",
+            "reviewBody": "VERY GOOD.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ZOINKS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-10T06:59:21.923Z",
+            "reviewBody": "Excellent recipe! Wonderful flavors, set up great! This will be a Sunday staple at my house!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tami",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-08T11:02:51.880Z",
+            "reviewBody": "This is absolutely delicious...but don't throw the peach juice away. Mix 1/4 cup of cold juice with 1 tablespoon cornstarch, stir until well dissolved. Place remaining juice in a small saucepan. Stir cornstalk mixture into saucepan. Cook and stir until thickened and syrup will be transparent. Serve with the peach french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SALLY WEIHS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-17T04:35:56.527Z",
+            "reviewBody": "Recipe was a great hit! Easy and fast to make. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dawn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-24T08:54:58.030Z",
+            "reviewBody": "I followed the recipe exactly and left the french bread out all day to get harder.  It was still super mushy.  Didn't love it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-01T12:36:21.270Z",
+            "reviewBody": "This was wonderful!  My family said it is a definate keeper. Very, very quick and easy to put together the night before. Yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "maryp68",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-25T11:28:05.433Z",
+            "reviewBody": "Delicious and easy.  Just don't think about all the calories!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SteelersFan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-03T15:23:16.033Z",
+            "reviewBody": "Nice flavor, but I didn't really care for the consistency of this dish. The bread was crispy on top, but very mushy on the bottom.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Liza",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

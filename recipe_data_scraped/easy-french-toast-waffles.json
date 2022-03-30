@@ -1,0 +1,1192 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/246198/easy-french-toast-waffles/",
+    "name": "Easy French Toast Waffles",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3242413.jpg",
+        "width": 2472,
+        "height": 1648
+    },
+    "datePublished": "2019-04-02T07:06:18.000Z",
+    "description": "Making French toast in your waffle iron combines the best of both worlds. You get all the custardy richness of French toast plus waffle's signature crispy ridges. All the better to hold more maple syrup.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H3M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "4 slices",
+    "recipeIngredient": [
+        "cooking spray",
+        "\u00bd cup whole milk",
+        "2 large eggs",
+        "1 tablespoon maple syrup",
+        "\u00bd teaspoon vanilla extract",
+        "1 pinch salt",
+        "4 pieces 1/2-inch thick pieces brioche"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat a waffle iron according to manufacturer's instructions and spray with cooking spray.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk milk, eggs, maple syrup, vanilla extract, and salt together in a wide bowl until thoroughly combined. Dip bread slices 1 at a time in the egg mixture, coating both sides completely. Lift bread with a slotted spatula to allow excess egg mixture to drain back into the bowl. Place dipped bread slices on a rimmed baking sheet and let rest until mixture soaks in, about 2 minutes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place dipped bread in the preheated waffle iron. Gently close the lid without forcing it down. Cook according to manufacturer's instructions until golden brown, 3 to 5 minutes. Repeat with remaining slices.\n"
+        }
+    ],
+    "recipeCategory": [
+        "Waffles"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "foodelicious",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/foodelicious"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 92,
+        "itemReviewed": "Easy French Toast Waffles",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "671.4 calories",
+        "carbohydrateContent": "81.3 g",
+        "cholesterolContent": "335.3 mg",
+        "fatContent": "27.8 g",
+        "fiberContent": "2.2 g",
+        "proteinContent": "23.3 g",
+        "saturatedFatContent": "7.2 g",
+        "servingSize": null,
+        "sodiumContent": "799.7 mg",
+        "sugarContent": "22 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-02T00:17:47.28",
+            "reviewBody": "Awesome!! Update 03/02/16. I have made this many different ways and just thought I'd let you know. This has become a staple food item in my house. I've tried half 'n half,  heavy cream, and whole milk. Full heavy cream and half 'n half win for texture and creamy taste. Milk got a bit more soggy quickly  but still delicious. I tried using honey instead of maple syrup and almost cried. It's just not the same without the maple. I've used regular sandwich bread and brioche bread (always gluten free, even for non-celieac family memebers) and brioche wins for taste. Adding a touch of cinnamon won't get you arrested and might even get you an extra kiss in the morning (not guaranteed). These freeze well, making your children super happy at midnight after cram sessions before exams and helping out on those mornings when you may have hit the snooze button one too many times. Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Buckwheat Queen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-25T20:41:19.080Z",
+            "reviewBody": "I'm rating this highly because there's no question it's wonderful, but for me on a busy morning, thick slices of French bread dipped in egg substitute with no other ingredients at all (I avoid sugar) is also remarkably good from the waffle maker. Try it that way, if you just want to get out of the kitchen fast but like to make everybody happy.  They can add the syrup and butter at the table.  Have been doing this for several years!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ROSEP47",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-24T03:24:43.470Z",
+            "reviewBody": "I use my waffle iron for bacon, Alton Brown style. I make 2 slices of bacon (cut each in half to make 4 shorter slices)  then a waffle which cooks in the bacon grease ...... and I repeat per person so everyone gets hot waffles and bacon. By the time the first person is ready for seconds  I will have gotten everyone their first helpings. I also do fresh ground sausage patties. I've done burges too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PlatypusMom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-26T10:57:35.677Z",
+            "reviewBody": "Two of my favorite breakfast foods combined into one!  What's not to love?  Because of what I had on hand, I had to make a couple of changes...I used 1/2 &amp; 1/2 instead of whole milk and Challah instead of brioche.  I also added a bit of cinnamon to the batter.  I loved the creaminess of the French toast coupled with the crispiness of the waffle.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jhester66",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-26T09:18:32.66",
+            "reviewBody": "How is it possible I have not made this sooner?  This was fabulous!  So much faster than making a waffle.   It had a creamy interior like french toast, but, a crispy texture on the outside like a waffle. The brioche bread was perfect for this recipe.  It held up to the waffle maker without getting too flat and smashed.   I did add a little cinnamon to the custard mixture before dipping in the bread.   Big, big hit in my house.  Thanks so much for the recip!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Happyschmoopies",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-02T15:53:15.86",
+            "reviewBody": "This was a huge hit in our house.  The flavor was great and it was super easy.  I used Texas toast for the bread.  We liked how it was crispy but still soft.  I will be using this method from now on for french toast.  Also they freeze well this way to pop in the toaster for breakfast on another day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sanzoe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-27T08:24:04.880Z",
+            "reviewBody": "Quick and easy, and seems to make FT better by resulting in a texture which is less custardy (gooey) than most versions.\n\nI did not cut all slices evenly, so the thinner ones were not as well cooked -- will be more careful next time.\n\nbtw, I believe that it is not necessary to grease a well tempered waffle iron.   I use mine several times a month, and I cannot remember when I last bothered to grease it -- must have been at least 15 years ago.   As long as it is hot enough, and the cooking is long enough, the waffles will come out clean.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KitchenKen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-14T12:52:42.177Z",
+            "reviewBody": "good twist on waffles i truly think it a good addition to brunch",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "paris",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-02T09:08:07.603",
+            "reviewBody": "These were yummy, but I don't suggest adding in the maple syrup to the egg mixture, as it's not distinguishable in the mixture. Save it for topping the waffled French toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "thedailygourmet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-23T14:54:55.987Z",
+            "reviewBody": "My family doesn't like traditional French Toast because it \"tastes like soggy bread\" to them.  This is NOT soggy and they loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Linda Quiggle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-21T08:46:48.48",
+            "reviewBody": "We loved this! I used thick sliced cinnamon raisin bread from a local bakery and wow what a great flavor! We loved the crispness in the outside and the soft center! This was such a great way to make French toast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amanda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-23T13:29:12.823Z",
+            "reviewBody": "Ive been making this for my kids for several years, the only prob is it makes a mess of your waffle iron which can be a chore to clean opposed to a fry pans easy clean up. My original choice for bread is 1-2 day old baguette which is too hard for sandwiches, it really helps the egg absorption if its a bit dried out- but not rock solid which just makes a bloody mess when you cut it- in the requisite 3/4\" slices, fitting 2 together on each waffle section.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ken",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-10T12:31:46.537",
+            "reviewBody": "As other reviewers have noted, these are obviously great, especially made with brioche. I wanted to make them with regular white bread and Ezekiel bread just to see how they would turn out. They turned out great with the white bread and tasted wonderful with fruit or with syrup. The ones made with Ezekiel bread, oddly enough, tasted best with syrup, but that defeats the use of the healthier Ezekiel bread in the first place, doesn't it?",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paula",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-06T06:50:26.1",
+            "reviewBody": "Delicious! Aldi carries two kinds of brioche in their \"Specially Selected\" brand - vanilla cream and chocolate chip . . . I made this using the vanilla cream brioche. So, so good! I'm looking forward to trying this with the chocolate chip brioche as well - which I'm sure my kids will enjoy. Thanks for sharing this fun, elegant and yummy recipe Vanessa!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kim's Cooking Now",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-04T13:31:57.067Z",
+            "reviewBody": "These are the best things ever! I made them bite-size for small hands to dip in syrup and they are amazing! My 6 year old LOVED them, I loved them, and I can see many breakfasts in our future that include these. They're easy, and can be made with any thick bread. Perfect as written!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer Baker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-27T16:52:05.953Z",
+            "reviewBody": "I loved this recipe! I used Hawaiian bread and it came out perfect. I will absolutely make this again and again. Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gretch",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-31T19:08:58.740Z",
+            "reviewBody": "This was great. Loved the crisp and the flavor of French toast. I'll make it again. I did use fresh bread instead of brioche.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-23T10:26:43.760Z",
+            "reviewBody": "It tasted exactly like normal french toast, but the waffle shape made it crisp. It also improved french toast, and now it is better!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "G, M, and R",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-31T10:02:32.223",
+            "reviewBody": "These were great! It was a quick method for making a lot of french toast! The kids loved them! I sprinkled with cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Erica Brown",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-02T13:20:59.793",
+            "reviewBody": "This was good.  Nice twist using the iron instead of a frying pan.  I still prefer the nice thick, custard like slices but this was fun, too.  Not sure if I would go through all the effort to use the iron again when it is easier to clean the skillet but who knows?  It present nicely and it holds nice amounts of syrup in the little indentations.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "What's for dinner, mom?",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-08-25T14:58:07.9",
+            "reviewBody": "Wonderful. Won't bother with another French toast recipe again ever. So easy and delicious! I didn't add the cinnamon this time, but definitely will next time. I had a problem with the pieces on the front of my waffle iron -- the lid didn't touch the top of the French toast when I closed the iron, so I just flipped the pieces when I put in the next batch (see pictures). That worked perfectly. I doubled the recipe to use up most of my loaf of French brioche bread, let the extra pieces cool, placed them in ziplock bags, and we'll pop them in the toaster later this week for a quick breakfast. Thank you for a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-29T03:57:26.050Z",
+            "reviewBody": "This was a hit in my house! I've used half and half instead of milk as suggested by some as well as heavy whipping cream and a dash of cinnamon. Also made some with egg beaters for someone who can't eat eggs! I did find the French brioche  bread...delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clau",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-28T15:04:20.657Z",
+            "reviewBody": "This was a huge hit in our house. Will definitely be put on regular rotation on our breakfast menu!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Linda Beringer Foley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-09T17:02:04.610Z",
+            "reviewBody": "Love it!!!!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "darleneruger",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-28T13:38:45.917Z",
+            "reviewBody": "Made it exactly as the recipe was written.  Very good. Adults and children loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Scarlet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-19T18:38:30.860Z",
+            "reviewBody": "This was tasty! I do wish I would've went with my instincts and added some cinnamon to the egg, but other than that this was fine. I served it with strawberries and chocolate sauce. I would make this again (adding the cinnamon). Thanks for sharing. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-21T15:13:59.490Z",
+            "reviewBody": "So good (and easy and quick)! My usual recipe is just eggs, milk, and nutmeg but the syrup and vanilla add some flavor. I ended up putting in some nutmeg, cloves, and ground cinnamon too. Cleanup is super easy so that's a huge plus for busy mornings.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jo Klein",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-31T00:34:14.230Z",
+            "reviewBody": "The Perfect easy, lazy night, just what the doctor ordered type of meal.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tom Rose Sr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-26T15:18:56.083Z",
+            "reviewBody": "I changed the bread in the directions to regular sandwich bread. I will probably make it again. Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tori",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-04-27T22:14:38.510Z",
+            "reviewBody": "I made this for dinner for me one night, it\u2019s not heavy and it was delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Divine1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-09-21T03:23:32.380Z",
+            "reviewBody": "Definitely will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jud",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-12T14:52:21.19",
+            "reviewBody": "I used Texas toast. This cane out pretty good. I definitely looks good. I think next time I would use a little more syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jayjayandme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-07T02:42:41.987Z",
+            "reviewBody": "Grand kids devoured this fast. Couldn't make them fast enough. I made them with soy milk and added cinnamon along with the vanilla.I also used Texas toast for the bread . Perfect.  Really yummy and the grand kids can't wait for me to make them again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather Mitchell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-09-27T16:08:36.137Z",
+            "reviewBody": "Quick and easy way to make french toast. Not waffles at all. Would definitely make them again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Payton Shupe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-23T21:12:30.827Z",
+            "reviewBody": "Easy and good I used egg bread",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alfonso",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-04T14:41:49.960Z",
+            "reviewBody": "This is the most requested breakfast in my family.  It's quick, easy and yummy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David Gorman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-01T16:01:33.490Z",
+            "reviewBody": "I made this with day old Country Rustic  Bread from Panera Bread.  I cut slices into about 1/2 - 1 inch (I did not measure si I arather guessing).  I think I will try a different bread though.  I peeled the other edge but it was still tough in the middle.  I like this recipe, I just think I chose the wrong bread for the first time out.  I will continue to tweak it to my liking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David Morrow",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-27T06:20:20.430Z",
+            "reviewBody": "Just made this a few moments ago... Big hit with the entire family. My husband likes French toast and the kids don't but they like waffles.  Great mix of both. I was unable to find brioche bread so I just used thick farmhouse bread out of the bread aisle. Added a sprinkle of powdered sugar at the end and viola!  Perfection!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dawgs727",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-28T22:44:42.017Z",
+            "reviewBody": "I added to cinnamon to mine and will definitely make this again and again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzie Q",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-08-03T20:21:05.110Z",
+            "reviewBody": "lovedddddd it! definitely making again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kylie Nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-12T23:49:36.160Z",
+            "reviewBody": "Wonderful.  Did not use maple syrup, didn\u2019t have it , however, cinnamon and nutmeg.  Used 1/2 and 1/2 and Brioche bread.  Made a second batch for the freezer.  Helped use up the 1/2 and 1/2 and bread.  What a keeper.  Thank u.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KAT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-08T23:54:18.043Z",
+            "reviewBody": "Didn\u2019t have a waffle maker so i put the bread on a skillet and turned out amazing",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "yulianna perez",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-12T19:13:41.143Z",
+            "reviewBody": "We used Dave's Killer Bread, next time I think we will try a different bread.  I recommend going  with a bread that doesn't already have a strong flavor of it's own.  We added a pinch of nutmeg and a teaspoon of cinnamon to a double batch.  The bread's natural flavor overwhelmed the seasonings.  I think with a lighter flavored bread it would have been much tastier.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stormybeach",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-20T01:41:43.477Z",
+            "reviewBody": "These were super fun and a unique way to make waffles!  They were delicious and smelled amazing.  I also used half and half and they turned out perfect.  I am interested to see what whole milk does and then heavy cream.  Thanks again - this was a nice treat!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lucianna A Momose",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-07T12:08:33.463Z",
+            "reviewBody": "Delicious!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marsha",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-28T07:57:34.960Z",
+            "reviewBody": "Made this with the following edits:  added cinnamon, and a little heavy cream to 1%milk. Used Texas toast bread on a Belgium waffle maker and the pieces fit perfectly.  Served with fresh sliced strawberries and powered sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ValtheDJ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-02-17T01:15:34.687Z",
+            "reviewBody": "I made it for my husband as a Valentines day breakfast.  The only thing I changed is I added cinnamon to the batter.  My mother would have turned over in her grave if I made french toast without cinnamon.  It was quick, easy and delicious.  The brioche bread gave it a very good flavor.  Definitely a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nannette Washington",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-21T02:00:24.863Z",
+            "reviewBody": "This is awesome! Everyone in my family loved it! I used French bread and it was delicious and very easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eddie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-05T16:51:02.927Z",
+            "reviewBody": "I made this special breakfast today. My whole family loved it, including me. It was quite delish! Super easy to make, flip, and, of course, EAT! SO YUMMY!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer Botts Redleaf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-27T08:22:37.027Z",
+            "reviewBody": "So easy and so very yummy!  I followed the recipe with only one substitution;  fresh-from-the store French Bread.   The slices were just the right size, fitting 3 at a time in my Oster rotating waffle-maker.  Yum Yum Yum!  Next Time I will try sourdough, and maybe some Hawaiian bread also.  Enjoy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wendy Preuss",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-24T12:14:48.383Z",
+            "reviewBody": "These were very quick and easy to make. I would omit the vanilla next time.........not  fond of it and it takes away from the natural taste of eggs!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-02-20T16:08:05.780Z",
+            "reviewBody": "My husband really liked this.  He loves crunchy waffles and this was a little different.   I love French toast and prefer to just make French toast.  This was extra work. Dipping each piece and waiting while it soaked (not hard, I dipped and let it sit while a piece cooked) and only cooking one at a time, I\u2019d rather just cook four pieces at a time in a frying pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "handiwife",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-05-17T21:34:45.417Z",
+            "reviewBody": "I made this recipe (with a few variations) for Mother's Day. It was absolutely Amazing!! I was already planning on fixing French toast, but I wanted to do something different. This recipe was a lifesaver. My sister and I are Lactose intolerant so I used Almond milk for the egg mixture. I'd Highly recommend this dish for Any occasion.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-06-27T19:04:18.140Z",
+            "reviewBody": "What a great idea.  I only gave it a four because it lacked a bit of something for me.  I think next time a sprinkle of cinnamon/sugar on top before cooking.  I will definitely make this again.  So easy and so fun.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sariah Griffin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-02-12T02:50:30.080Z",
+            "reviewBody": "Very good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Haya Sleiman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-31T22:15:15.990Z",
+            "reviewBody": "I had white bakery bread and 0% milk, but it was still very good and a hit with my husband.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Southerngirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-21T17:01:37.173Z",
+            "reviewBody": "it was good",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MSmith",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-29T17:31:48.207Z",
+            "reviewBody": "I did not have maple syrup on hand,used bosenberry syrup. It was crusty but dry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Overcast",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-06T18:52:33.357Z",
+            "reviewBody": "I make with Texas toast. Best way to make French toast. Doesn\u2019t get so soggy in the middle this way. A family favorite!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joanne",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-16T14:14:02.583Z",
+            "reviewBody": "Fantastic! Added a little cinnamon and a pinch of sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-06-12T22:33:26.577Z",
+            "reviewBody": "Such a fun and delicious way to cook French toast. My whole family loved these.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BNicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-09-10T13:27:59.447Z",
+            "reviewBody": "Easy and yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "aliciamarie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-06-24T18:55:22.860Z",
+            "reviewBody": "This recipe was yummy!  I read previous reviews and added 1/2 teaspoon of nutmeg and 1 Tbsp of brown sugar. I doubled the vanilla.  I used Brioche bread and used butter on the griddle instead of oil.  Perfectly sweet, only needed a little syrup and powdered sugar!  The flour kept it fluffy and not soggy! My kids LOVED it!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yolanda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-28T10:28:40.423Z",
+            "reviewBody": "Turned out very delicious! I used French toast bread &amp; sliced it kinda thick &amp; worked out perfectly! Will definitely make again. My picky five year old even liked it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tracy",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ],
+    "video": {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "name": "Easy French Toast Waffles",
+        "description": "Two breakfast favorites\u2014together at last! ",
+        "uploadDate": "2016-05-03T18:58:53.515Z",
+        "duration": "PT1M0.627S",
+        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3242413.jpg",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+            },
+            "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+            ]
+        },
+        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4876470320001"
+    }
+}

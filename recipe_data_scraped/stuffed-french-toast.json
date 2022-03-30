@@ -1,0 +1,108 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/118893/stuffed-french-toast/",
+    "name": "Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F991856.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T06:32:51.000Z",
+    "description": "The recipe takes a little longer to prepare than regular French toast, but I think it's worth it, especially on holiday mornings. The sweet apricot syrup complements the cream cheese filling.         --Karen Leutz, Sylvania, Ohio",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H15M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "8 (1 inch thick) slices French bread",
+        "2 (3 ounce) packages cream cheese, softened",
+        "\u2153 cup crushed pineapple, undrained",
+        "\u00bd cup chopped pecans",
+        "4  large eggs eggs",
+        "1 cup whipping cream",
+        "\u00bd teaspoon vanilla extract",
+        "1\u2009\u00bd teaspoons ground ginger",
+        "1 (12 ounce) jar apricot preserves",
+        "\u2153 cup orange juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cut a pocket through the crust of each slice of bread. In a mixing bowl, beat the cream cheese and pineapple; stir in pecans. Stuff into pockets. In a shallow bowl, beat the eggs, cream, vanilla and ginger; dip both sides of bread. Cook on a greased hot griddle until golden brown on both sides.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine syrup ingredients in a saucepan; heat until warmed, stirring constantly. Serve with the French toast.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 6,
+        "itemReviewed": "Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1036.7 calories",
+        "carbohydrateContent": "121.4 g",
+        "cholesterolContent": "314.3 mg",
+        "fatContent": "53.7 g",
+        "fiberContent": "4.2 g",
+        "proteinContent": "24.6 g",
+        "saturatedFatContent": "26 g",
+        "servingSize": null,
+        "sodiumContent": "902.7 mg",
+        "sugarContent": "44.8 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-15T08:39:28.070Z",
+            "reviewBody": "This was very yummy.  Not too sweet, but very rich.  I will make it again.  It was not difficult at all.  Just don't forget to get the cream cheese out so it has a chance to soften.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "camarochicc",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-30T07:41:51.033Z",
+            "reviewBody": "I made this today for breakfast.  Didn't have French bread so I just used regular bread and made sandwiches with the filling.  We're not big fans of this.  The cream cheese is too much for me.  I started picking out the fruit and pecans.  Bf didn't like the sogginess from the cream cheese.  I'd think that if we toasted the bread it might be less soggy, but we weren't enthralled enough with the recipe to make it again.  Thanks for sharing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pomplemousse",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,464 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/218459/gils-brioche-french-toast/",
+    "name": "Gil's Brioche French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F672031.jpg",
+        "width": 3648,
+        "height": 2736
+    },
+    "datePublished": "2019-04-04T03:50:47.000Z",
+    "description": "Brioche French toast with homemade strawberry sauce and homemade whip cream, topped with fresh strawberries.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H15M",
+    "totalTime": "P0DT0H35M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "1 (1 pound) loaf rectangular brioche bread",
+        "3 cups fresh strawberries, hulled, divided",
+        "2 tablespoons water",
+        "2 cups heavy cream, divided",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon confectioners' sugar",
+        "6 eggs",
+        "2 tablespoons unsalted butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place a metal mixing bowl and beaters from an electric mixer into the freezer to chill. Trim the end crusts from the brioche bread, and slice the loaf in half; cut each half in half again (4 pieces), and cut each quarter in half to total 8 pieces of brioche.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place 2 cups of strawberries and the water into a saucepan over medium-high heat; cover the pan, and bring to a simmer. Gently steam the berries until they release their juice, about 5 minutes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat 1 cup of heavy cream, vanilla extract, and confectioners' sugar together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks; set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk the eggs and remaining 1 cup cream together in a large bowl, and place the bread pieces into the mixture, spooning the cream over the bread to coat. Allow to stand for 5 minutes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the butter in a skillet over medium heat until fragrant, and lay the coated brioche pieces into the skillet. Cook until the French toast is golden brown, about 3 minutes per side.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To serve, place 2 pieces of French toast onto a plate, overlapping slightly. Ladle cooked strawberries and their juice over the French toast, and top with a generous dollop of whipped cream. Top the cream with several fresh strawberries.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Charles Gilbert, STL, MO",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/3375114"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 26,
+        "itemReviewed": "Gil's Brioche French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1008.2 calories",
+        "carbohydrateContent": "67.2 g",
+        "cholesterolContent": "562.9 mg",
+        "fatContent": "72.8 g",
+        "fiberContent": "3.9 g",
+        "proteinContent": "23.8 g",
+        "saturatedFatContent": "36.7 g",
+        "servingSize": null,
+        "sodiumContent": "614.4 mg",
+        "sugarContent": "17.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-17T19:10:09.010Z",
+            "reviewBody": "I really liked this recipe. Loved using Brioche to make french toast. I used the Brioche recipe on this site for the brioche. My only complaint about this recipe is that the strawberries need some sugar. I suppose it depends on how sweet your berries are, mine were sweet but not enough.  And I ended up thickening the berries with about 2 teaspoons of cornstarch. Thanks for the recipe I will be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-13T12:25:23.773Z",
+            "reviewBody": "Delicious!  Brioche is the way to go for real French toast, and who can go wrong with strawberries and whipped cream on top?!  Also try warm apples and cinnamon!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Grid-Iron Chef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-24T19:03:23.187Z",
+            "reviewBody": "Yum, yum, yum, yum, yum!  This was easy and delicious.  I used the brioche recipe on this site to go with this and it was the best french toast ever!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kim Gourlay",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-14T06:58:05.140Z",
+            "reviewBody": "I made brioche yesterday in culinary school and my professor said that it made the best french toast and I had to try it. I found this recipe (didn't use the toppings) and it was amazing. The brioche soaks up so much of the eggs and cream mixture that the final result is almost custardy. I can see why this is the true french bread for french toast! While I have enjoyed challah in the past for this, the enriched eggy butteriness of brioche is perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christy Cooks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-30T16:13:58.473Z",
+            "reviewBody": "This recipe is AMAZING!  My husband said that it is restaurant quality.  I made a half batch and it was plenty for the two of us!  The brioche is a great change up from regular bread.  It is also great with raspberries or maple syrup!  Thank you for sharing!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Trucalf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-15T11:34:23.163Z",
+            "reviewBody": "if your looking to surprise your special someone with a beautiful decadent breakfast in bed try this recipe with the addition of banana's and a little Grand Marnier (to taste in the fruit while it makes its sweet syrup)  HEAVEN!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cms396",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-10-08T18:00:18.600Z",
+            "reviewBody": "This dish was incredible!  I used Challah bread cut thickly.  We (2 of us) gobbled down half a loaf!  To save calories/fat  I sauteed apples in margarine for the topping and omitted the whipped cream.  Still decadent and so delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kathy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-05-22T18:27:57.023Z",
+            "reviewBody": "I used the brioche recipe on this site to make this french toast.  My husband liked it but I thought it was bleh.  The strawberry sauce was kind of tart.  If I make it again I will add some sugar.  The whipped cream wasn't too great but it may have been the heavy creamer I used.  I will probably make this again but with some changes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ehelwig",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-18T06:09:52.793Z",
+            "reviewBody": "Used Brioche off AR for this recipe. It was good but I had to double the strawberry syrup to have just enough. Next time I would also add a little sugar in the syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Josephine Roeper",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-10T20:22:54.060Z",
+            "reviewBody": "a real crowd pleaser!  so divine!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elisa Herrera",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-11T12:29:47.230Z",
+            "reviewBody": "I made french toast twice yesterday. The first time was my amateur way of just dipping bread into eggs. Then found this recipe and tried it again for dinner after a visit to the store for the missing ingredients I needed. Just the smell alone told us how yummy we could expect this time would be. The taste blew us away - it was the first time my husband really had good french toast. I didn't even whip the cream right this time (so I dribbled it on like syrup) and it was still so delightful. I want to try to whip it next time. I did make a simple mistake, but I think it paid off - I added the sugar and vanilla to the egg/cream mixture so all that flavor soaked into the bread too. I made this using gluten-free bread and my husband even worried a little asking me which bread I used (due to allergy) because he couldn't believe it tasted so great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sarakyong",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T01:20:28.683Z",
+            "reviewBody": "Sounds lovely, as I am about to prepare some French Toast, and thanks for posting. \n\nHappy Holidays,\nMargaux.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Margaux",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-09-24T13:10:42.823Z",
+            "reviewBody": "This was the best French toast ever! I did not make the strawberry sauce, just used fresh strawberries mixed with a little vanilla sugar.  Be sure to soak for full  five minutes and cook to golden brown on griddle. The heavy cream takes it over the top with the egg mixture.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Theresa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-13T14:28:17.07",
+            "reviewBody": "I loved this recipe. I made a brioche recipe (gasp!) from another website because I didn't have enough eggs to make the recipe on this one. I'd like to try it again after a grocery trip . . . with a more authentic brioche, but I imagine this would be tasty with regular bread or even Texas toast. The flavors were simply amazing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ilkaisha",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-08-23T16:20:46.327Z",
+            "reviewBody": "This french toast recipe was fantastic.  A big hit with my family.  Using brioche bread was perfect.  The only substitution I made was cutting up  thin slices of fresh strawberries and bananas to put on the French Toast instead of cooking the strawberries.  Reminded me of the way french toast is served at a great place in Sarasota, FL called The Toasted Cocoanut .   Next time, I will add a little more powdered sugar to the whipped cream to sweeten it more..  This recipe will be a family go to recipe from. now on.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michele",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-04T01:45:21.437Z",
+            "reviewBody": "Did not use the whip cream or the strawberries and it was still awesomely delish!  A keeper for sure!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina0017",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-20T03:58:55.983",
+            "reviewBody": "So incredibly easy to make and hands down the BEST french toast we\u2019ve ever had! I used Sarah Lee\u2019s new brioche sliced bread and it turned out perfect. This will be my \u201cgo to\u201d recipe for breakfast when we have overnight guests from now on.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kay",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-09-28T16:37:30.490Z",
+            "reviewBody": "No changes and it was amazing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gauge Christian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-01-06T04:03:05.427Z",
+            "reviewBody": "This was very good! It was even better when I softened some cream cheese, added powdered sugar to the cream cheese and then spread it on the brioche before the strawberries. Delicious!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bridgette",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-27T05:17:02.697Z",
+            "reviewBody": "Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Delainee2001",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-01-01T15:47:16.003Z",
+            "reviewBody": "Just the right amount of egg mixture. Fantastic New Year brunch",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Keawa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-08T11:33:13.983Z",
+            "reviewBody": "I made this recipe for my girlfriends on a weekend out and we all thought it was a big hit. I will make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rose",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,1253 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/173452/mascarpone-stuffed-french-toast-with-peaches/",
+    "name": "Mascarpone Stuffed French Toast with Peaches",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F813012.jpg",
+        "width": 2448,
+        "height": 3264
+    },
+    "datePublished": "2008-08-06T18:27:21.000Z",
+    "description": "Lemon zest and mascarpone stuffed into thick white bread slices, dipped in batter, pan fried, and smothered in fresh peach sauce. I love this recipe for breakfast but it could be fancy enough for dessert too.",
+    "prepTime": "P0DT0H35M",
+    "cookTime": "P0DT0H25M",
+    "totalTime": "P0DT1H0M",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+        "8 fresh peaches",
+        "\u00bd cup sugar",
+        "4 pinches ground nutmeg",
+        "\u00bd teaspoon ground cinnamon",
+        "4 Mexican bolillo rolls",
+        "1 cup mascarpone cheese",
+        "6 tablespoons confectioners' sugar",
+        "1 lemon, zested",
+        "6 eggs",
+        "\u00be cup milk",
+        "\u00bd teaspoon vanilla extract",
+        "2 teaspoons butter, or as needed",
+        "2 teaspoons vegetable oil, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Peel peaches, remove pits, and slice into a heavy saucepan, catching all the juices. Stir in sugar, nutmeg, and cinnamon, and cook over medium heat until bubbly. Continue cooking, stirring occasionally, until the sauce reaches a syrupy consistency, about 10 minutes. Remove from heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, cut off and discard the ends of the bolillo rolls. Slice the rolls into 1 1/4-inch-thick slices. Lay each slice of bread on a board, and with a sharp knife held parallel to the board, cut a pocket into each slice, leaving three sides intact. Set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together the mascarpone, confectioners' sugar, and lemon zest until smooth. Scoop this mixture into a small plastic bag. Cut off one corner of the bag, and pipe as much filling into the pocket in each slice of bread as will fit without overflowing.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together the eggs, milk, and vanilla in a shallow bowl. Melt butter with oil over medium heat in a large nonstick skillet.  Dip each stuffed piece of bread into the batter, add to the skillet, and cook until browned on both sides.  Serve hot with the warm peach sauce.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Escapechef",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/2978777"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 91,
+        "itemReviewed": "Mascarpone Stuffed French Toast with Peaches",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "456.5 calories",
+        "carbohydrateContent": "56.3 g",
+        "cholesterolContent": "179.5 mg",
+        "fatContent": "20.4 g",
+        "fiberContent": "1.3 g",
+        "proteinContent": "12.7 g",
+        "saturatedFatContent": "9.6 g",
+        "servingSize": null,
+        "sodiumContent": "91.9 mg",
+        "sugarContent": "26.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-06T14:07:22.167",
+            "reviewBody": "This recipe was delectable. I have prepared French toast per this recipe three times and the French toast has been awesome each time.  Each time I have used Texas Toast as I could not source the Mexican Bolillio Rolls. I find that if you don\u2019t over saturate your bread in batter (to a point of sogginess) and that if your skillet or griddle is hot enough, the mascarpone filling should not melt as it takes the toast less than a minute (about 45 seconds)  to brown on each side. This is a recipe that one should definitely try more than once--making adjustments according to one\u2019s taste; i.e. with different fruit, etc. Also to those who cannot locate Mascarpone cheese or the cheese is too expensive etc., I have found an awesome substitute for Mascarpone cheese that is as good as, if not better, than the real thing.  Enjoy!  Mascarpone Cheese Substitute: 1 (8 ounce) package cream cheese  1/4 cup heavy whipping cream  2 1/2 tablespoons sour cream  Combine well. Do not substitute low fat cream cheese or sour cream.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carol's Daughter",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-11T10:50:52.447Z",
+            "reviewBody": "Oh, wow! I had left over mascarpone from a dessert recipe, and not knowing what else to do, I looked here. This recipe is absolutely delicious! The only changes I made were: I used french bread instead of bollio, and I added regular sugar to the mascarpone in addition to the powdered, because I didn't think the confectioners cut it.   Also, since it wasn't peach season, U used frozen peaches and it still came out really well. I'd recommend this recipe to anyone!\n****UPDATE: I just wanted to share a much easier way of  making this. Forget the loaf and cutting and stuffing! Just buy a presliced loaf of french sandwich bread and spread the filling between two slices and make as normal. So much easier and I say even better!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dsperin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-07T08:59:42.033",
+            "reviewBody": "This recipe was wonderful!  The subtle flavors of the lemon in the marscapone and the nutmeg in the peaches really made an exciting, yet warm/comforting breakfast.  My husband stated that he much preferred this breakfast to anything else we've had before because it's not overtly syrupy sweet like so many other french toast/pancake recipes. The only changes I made was using canned peaches as this was a last minute recipe and I didn't have fresh.  Since the canned peaches were already sweeter than fresh I did not add the granulated sugar, but just left in a little bit of the light syrup it came in and then seasoned according to the recipe. I also used plain bread slices as I've never even seen Mexican Bolillo Rolls in my small northern town. I will definitely be using this recipe again in the future.  Thanks so much!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AmberJo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-07T10:24:05.890Z",
+            "reviewBody": "I love this recipe.  I used the french bread and cut it into thick slices.  I used frozen respberries instead of peaches for the sauce.  This made a sauce with a bit of a tart flavor to go with sweetness of the mascarpone.  It came together so well and tasted wonderful.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "beachy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-27T09:10:12.760Z",
+            "reviewBody": "I made some changes to this to suit my minimalist cooking style and make it a little healthier.  Just made plain french toast without the pockets with a good multi grain bread.  Spread the mascarpone filling in the middle of two pieces and served with fresh peaches and blueberries.  I thought the blueberries were a nice compliment to the lemon and peaches.  My teenage son will be demanding I make this every weekend, and I will happily comply.  :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SANDYARENZ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-12T08:11:42.593Z",
+            "reviewBody": "This really was awesome. My new favorite breakfast. I did use the rolls, even though they make tiny pieces, but they were very very good.  You could probably use any type of fruit (apples, strawberries, blueberries...).  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "juliemf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-02T11:45:06.853Z",
+            "reviewBody": "delicious and always gets rave reviews!  i've used french bread and sourdough and both have worked well.  i let the stuffed bread soak in the batter mix for 5-10 minutes on each side before frying instead of just dipping it.  much better, in my opinion.  i LOVE the flavor of blueberry and lemon together so instead of topping with peaches, i simmer about 2 cups of frozen blueberries with a few tablespoons of sugar for about an hour then drizzle that over the french toast when serving.  add a little dark maple syrup for an amazing brunch :-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anjanette",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-09T09:07:05.480Z",
+            "reviewBody": "This was wonderful. The filling has a great, custard-y flavor. I tried it once with blueberries on top, and once with apples (fresh, cooked down with sugar and cinnnamon). I also couldn't find the right bread, so used a good loaf of fresh French bread. Turned out great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "haleighlachance",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-02T06:16:06.713Z",
+            "reviewBody": "Made this New Year's Day for 20 people for brunch.\nVery tasty! Was the hit of the party.\nOnly negative comment was that I ended up with more filling and more peach topping than necessary.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rennee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-12T06:14:00.153Z",
+            "reviewBody": "Very exceptional &amp; special way to make an old classic.  It was delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "J La",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-01T07:34:58.567Z",
+            "reviewBody": "This is absolutely delicious.  It's decadent but is still light and crisp somehow, so you don't feel like you're being bogged down when you eat it.  I read that bolillo bread is much like french bread, so I used a loaf of that and cut it into 1 1/2 inch slices, then made \"sandwiches\" with the mascarpone mixture.  Six eggs is too many; I recommend starting with 4 (and slightly reducing milk.) We had to throw away quite a bit of batter.  Don't skimp on the lemon zest - it's so delicious in this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mommymeggy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-13T07:06:03.970Z",
+            "reviewBody": "Excellent twist on french toast. We took the easy way out and grilled the french toast first and then spread the cheese mixture on top afterward.  We used Texas Toast b/c we couldn't find the recommended rolls.  We also bought frozen peaches b/c fresh weren't is season; otherwise we followed the recipe and really enjoyed the results.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shannon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-11T09:42:48.590Z",
+            "reviewBody": "Awesome!!! I double the recipe (except for the egg mixture - it makes way too much) and use the whole loaf of french bread. I cut it in half and then into the pieces. I also use three small bags of frozen peaches but only double the sugar. I doubled the mascarpone mixture since I cut the loaf in half to make the 1 1/4 - 1 1/2 inch thick pieces. Wow. This is incredible.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luv2cook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-14T08:24:31.960Z",
+            "reviewBody": "I just made this for Valentine's Day breakfast. We loved it. The things I did differently: I used challah bread b/c I didn't have the roles. I used 2 cans peaches in natural juice. I did not add sugar to the peach syrup mixture, I just used all the juices in the cans. The lemon flavor is great and made this way, it's just sweet enough, not too much. It's SO good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Veggiebee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-04T09:42:56.473Z",
+            "reviewBody": "Loved the idea of this recipe, it sounds very warm and comforting.  Tried it this morning for daughter's birthday brunch.  While they all said they enjoyed it and that it was good... I was a little less impressed.  Used the bread suggested and I don't know, just seemed to much bread to filling ratio.  I will make again but making a few changes.  Probably will try Texas toast and making a sandwich version before frying in a pan.  Peach topping was very good and could see other toppings being just as good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mdteachick",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-24T15:53:41.473Z",
+            "reviewBody": "Everyone, including the picky eaters and connoisseurs, loved this french toast!  We took the suggestions of others to grill the french toast first and then stuff it with the marscapone.  Came out really great!  We made our own challah bread in bread maker, sliced it about 1 inch thick.  It looked great and tasted great.  We passed on the peach topping, but may try it next time when peaches are in season.  We will absolutely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sneeebs",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-14T19:06:05.877Z",
+            "reviewBody": "Oh so very very good and supper easy \u2013 start to finish probably half an hour.  My peaches were not all that ripe and way pre-season (I did this Valentine's day in Ohio), so I added about a 1/4 cup of orange juice to the pan to help them cook - they turned out spectacular, not too sweet and a great fresh peach taste (I can't imagine doing this with canned peaches).  I also added a little extra powdered sugar to the Mascarpone - I would recommend doing a little sampling and sweetening to taste =) I used a fat baguette of fresh sourdough bread because that is what I had; and I bet pretty much any kind of bread would work \u2013 as long as it is in \u201cslice yourself\u201d form.  I also skipped the plastic bag and just used a fork to stuff my slices, and it worked just fine.  I cooked them on an electric griddle with the recommended butter/oil mix.  The pictures uploaded here don\u2019t do the recipe justice\u2026 mine came out looking absolutely elegant and I will definitely do it again for guests.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sophia's mommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-20T12:27:44.993Z",
+            "reviewBody": "This was the fist time making stuffed french toast and it came out perfecty! My family loved it! I will make this one again and again and try it out with other fruit toppings :D",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kimmy001",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-19T23:06:45.130Z",
+            "reviewBody": "Loved this! Used frozen blueberries to make the sauce, and orange zest for the filling ... gotta work with what's in the house.  :)   I had some squareish/flatish dinner rolls, so I trimmed off the tops to get the right \"width\" for the toasts.  (I cooked up the trimmed tops as well.)  Total delicious, melt-in-your-mouth, give-me-more fantasticness!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "whilom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-02T00:05:42.770Z",
+            "reviewBody": "Made this for breakfast this morning, and it satisfied everyone's sweet tooth cravings. I had been meaning to make this while peaches were in season, but by the time breakfast came around I either had no mascarpone, or I ate all of the peaches. Instead, today I used canned pears instead of peaches, and orange zest instead of lemon, as I'm not generally a fan of incorporating sourness into anything for some strange reason. With my 29oz canned pears, I had to add about half of the syrup to ensure there was liquid in the pan while making the sauce. If you go this route, you'd be pretty safe either cutting back the sugar or eliminating it altogether. Now for the filling, I didn't use any real measurement of how much orange zest to add, I simply added a bit, stirred it well enough to mix it in, and do a small taste test. I was only making enough toast for 2 adults and a child, so the filling and batter I cut by half. This made enough for 9 slices (cut 1.25\"). The sauce I didn't cut in half, and knowing what I know now I will in the future. I always like to have a bit more on hand rather then not enough. I wish we had bolillo rolls locally, but no luck. As others suggested, I wouldn't fill the toast until after they cook, as the cheese will turn to liquid and you'll end up with soggy french toast. I added mine immediately after removing from the skillet and served thereafter. Great breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TruthKid",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-08T13:24:07.467Z",
+            "reviewBody": "well I did it the first time exactly like instructions said and it was to soggy in the middle but the flavors were wonderful so next time i made i cooked toast first then added filling and i like it much better so rating is based on 2nd time making it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "alicia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-04T15:03:48.623",
+            "reviewBody": "This is the BEST french toast I've ever had! Restaurant, homemade, anything. I used a firm loaf of country white bread from a local bakery, and canned peaches in pear juice. I also squeezed some of the lemon juice into the filling mixture to give it more lemon flavor. GREAT recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "VCavani",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-27T20:01:34.613Z",
+            "reviewBody": "Good flavor but like others have said it's easier to get use french bread and add the filling after cooking.  I was disappointed that the marscapone cheese turned to liquid it will firm up when it cools but then it looses something.  I would try with other fruit to since not everyone is a cooked peach fan and I think it could use some crunch like a coating before cooking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melissa Moore",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-10T10:21:13.207Z",
+            "reviewBody": "Very good.  Only tip I can offer to improve (my own experience) is to make sure that the pocket is cut edge to edge so that you get the yummy filling in every bite!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Juliana Cloud",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-20T12:06:58.78",
+            "reviewBody": "Phenomenal !!  I used Texas Toast bread instead of the Mexican bolillo rolls and used two jars of Del Monte Cinniman Spiced Peaches that are in the cold section of the market. I removed the peaches initially and thickened the existing syrup to taste adding the required spices.  The lemon zest really complements the mascarpone filling.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diego91914",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-12T18:31:10.130Z",
+            "reviewBody": "Amazing. We used strawberries for the sauce because they were in season and it was still fabulous. Cant wait to try it with the peaches. We are making it again in the morning with our fresh baked challah bread!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BethDai",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-19T11:54:49.403Z",
+            "reviewBody": "Amazing!  So delicious it is a must try and try again.  What a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sarita166",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-29T07:40:31.400Z",
+            "reviewBody": "Peaches were wonderful. Used Texas toast instead of the rolls. Mascarpone was a little blah. It also separated a little. The only thing I have ever used mascarpone for is tiramisu, so maybe there is a trick to it that I don't know? I will kepp this recipe and use cream cheese next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LYNN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-04T05:29:16.983Z",
+            "reviewBody": "This was excellent. My boyfriend and I made it for breakfast. Easy and delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bethany",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-12T08:35:12.743Z",
+            "reviewBody": "This is an amazing recipe.  I don't understand why anyone would leave a review based on what it \"sounds like\".  Thanks for sharing this wonderful breakfast idea.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Randi Evans",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-11T15:05:17.280Z",
+            "reviewBody": "Great recipe! I used leftover french bread and it came out great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mullen22",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-18T07:34:15.250Z",
+            "reviewBody": "Best french toast ever! I made this for my husband's B-day, it was delicious! I used Texas toast and just made a \"sandwich\" with the mascarpone spread in the middle. My only complaint is that the mascarpone mixture melted like butter and lost it's creaminess. Next time I will make the french toast and when they are done I will spread the mascarpone mixture in the middle and serve immediately. Otherwise this is a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "girlbob",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-06T07:21:17.360Z",
+            "reviewBody": "I've made this 7 times with 7 different fruits (peach, strawberry, blueberry, orange, apple, mango, and papaya)...and each time it's delicious.\nDefinitely a crowd pleaser and keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dean Cannon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-20T18:13:12.813Z",
+            "reviewBody": "With some modifcations, this recipe could be 5 stars.  I used challah bread, cut it into 1 inch slices, and then cut a pocket into each slice to insert the filling.  I only used 3 tbsp of confectioners sugar in the filling and omitted the lemon zest.  I used frozen sliced peaches (~2 cups) to save time and cooked them with 1/4 c of maple syrup instead of the sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melanie_P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-05T09:50:31.343Z",
+            "reviewBody": "This was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Caitlin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-25T14:51:27.540Z",
+            "reviewBody": "yum",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sheri",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-12T17:31:28.843Z",
+            "reviewBody": "Five star breakfast made at home!  Thanks contributer for the recipe.  I have bought mascarpone before for making tiramisu and I never would have thought to use it in french toast.  I used canned peaches but will make it in the summer with fresh.  I used cinnamon bread from the bakery and spread the cream on the slices and even put the peaches inside the 2 slices.  Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heidi Shirk",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-02-28T19:34:52.063Z",
+            "reviewBody": "I know I messed with the recipe but total inspiration is from here. I madd a savory version with saut\u00e9ed onions, garlic and herbs mixed with non fat greek yogurt and filled it in multigrain rolls. I made the sauce with tomatoes and seasoned it. Used egg whites only. All at home loved the french toasts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "VIVNIDHI",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-24T20:11:15.300Z",
+            "reviewBody": "well french toast is always great..... but we were a little disappointed with this.  First of all, prob my fault, the peach sauce didn't need that 1/2 cup of sugar.  Taste the peaches first.  Then, cutting down and trimming those rolls.... forget it.  i wont do that again!  the mascarpone mixture was, unfortunately, nothing rememberable.  very sad that this was overshadowed by the amazing pecan bacon that i made as an accompaniment.  glad so many of you enjoy this, but we will keep looking for \"our\" french toast recipe.  :-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RondaRDH",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-17T17:16:14.867Z",
+            "reviewBody": "This recipe satisfied my craving for peaches and cream stuffed French toast from a restaurant in Colorado",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillybeanfl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-16T13:33:31.737Z",
+            "reviewBody": "This recipe is excellent!  My mother in law said it was the best breakfast she's ever had.  I made it with two slices of white bread put together as a sandwhich with the mascarpone in between.  You won't be  disappointed!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RobVT3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-19T10:38:30.110Z",
+            "reviewBody": "I made this for my boyfriend's birthday breakfast. He absolutely loved it. It was not overly sweet. I followed the recipe, but I used coconut sugar instead or regular cane sugar for the topping. I also followed another reviewers suggestion and poured the egg mixture over the bread and let it sit while I made the peach sauce before I cooked the toast. I couldn't quite figure out how to get the mascarpone mixture to not spill out the sides of the bread but it really didn't matter. It was delicious and the only suggestion my boyfriend made was to sprinkle a little confectioner's sugar on top the next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ACherryinFL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-04-10T10:13:27.807Z",
+            "reviewBody": "This makes you look so fancy! I used brioche bread. \n\nMake the mascarpone mix the night before so the lemon zest really comes through. \n\nI added chopped pistachios for flavor and presentation.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amanda SusieQ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-09-13T08:06:21.113Z",
+            "reviewBody": "This was great !  Very easy to put together and many options to personalize to your tastes.  I fried then baked the toast to give a crunch and it was awesome !",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bill Murray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-06T14:55:54.270Z",
+            "reviewBody": "Completely awesome - whole family loves it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "becky6377",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-05-11T00:08:00.583Z",
+            "reviewBody": "Amazing!!! Made this for my mom on Mother's Day and she loved it!!! Not so overly sweet you think it's dessert but just perfect!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "7Barbie4",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-10T08:34:40.023Z",
+            "reviewBody": "Very good!!!! I halved the recipe since it was just me, my husband, and our 2 yr old. There was still leftover peaches after we filled up our plates. Next time, I will half the half recipe. Will be keeping this in my recipe box for holidays and special occasions. \n  I substituted cream cheese for the mascarpone since the grocery store was out. It tasted wonderful. I'm sure you could substitute any kind of fruit for the peaches like strawberries, blueberries, apples...endless possibilities.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "residentevil35",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-05-08T04:23:57.880Z",
+            "reviewBody": "Excellent recipe! Used this Mascarpone cheese substitute recipe that I got off google instead since the real stuff is crazy expensive.\n    1 - 8 oz pkg cream cheese\n    1/4 c. heavy whipping cream\n    2 1/2 Tbsp. sour cream\n    \n    Combine well",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "anitajustbcuz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-12T13:52:00.113Z",
+            "reviewBody": "All I made was the sauce but it was fabulous!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "April Dahl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-28T09:55:17.800Z",
+            "reviewBody": "Wonderful!! Changed it up a bit but tastes great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tgu3mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-08-22T14:55:12.633Z",
+            "reviewBody": "Z",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-17T16:58:16.087Z",
+            "reviewBody": "French toast is one of my favorite breakfast options, and this recipe sure seemed right for me on paper.   Problem is the mascarpone is not the proper texture to be a \"filling\".   I read many reviews before trying this myself and decided to not \"fill\" a bread pouch since it seems the middle just liquifies anyway during the cooking.   So I cooked my slices alone and made small sandwiches afterwards with the mascarpone filling between two slices.   Just the warmth of the french toast melted the filling down to a oily glaze right away.  By the time it made it to anyone's plate, half the filling was on the serving pan floor .     Tasted good, but I wasn't wowed enough by it to save this recipe.     Regular cream cheese (with a higher melting point) might work better and have a stronger taste.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lynn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-31T12:21:04.523Z",
+            "reviewBody": "Perfect!! I made it sandwich style and it was great!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daphne",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-12T21:46:32.040Z",
+            "reviewBody": "used regular bread and made sandwiches.  Some of the cheese leaked out but still good.  Used canned peached so I cut the sugar in half.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-08-08T02:46:22.353Z",
+            "reviewBody": "Made it according to directions.  Excellent!  Made blueberry syrup (no peaches).  Husband loved it.  The Mexican rolls were perfect.  Found them at Wal-Mart.  The lemon in the cheese mixture along with the blueberries was the perfect taste combination.  Will be regular at my house.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-03-28T02:05:59.660Z",
+            "reviewBody": "Delicious! Big hit with guests.  But,  my hats off to those who can make it in 35 minutes.   Used frozen mixed fruit (surprised at the beauty of the fruit) that I cooked down beyond syrupy.  The thicker it got, the better it tasted.  This would be a beautiful topping for ice cream or cakes.  Used French bread and made sandwiches.  Learned that the toast needed to be cooked on high heat or it takes forever.  After making a dozen sandwiches (2 per person) I had used up a loaf of bread, all the mascarpone mixture, all the egg breading, a stick of butter and all the fruit.  Will make it again but may do as much of it as possible the day before or feed fewer people.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Phyllis Bleiweis",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-08-11T03:40:27.103Z",
+            "reviewBody": "Delicious and extravagent!  Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Witchee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-08-04T11:32:40.290Z",
+            "reviewBody": "delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Goodgf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-30T00:46:23.740Z",
+            "reviewBody": "I used frozen peaches &amp; they were great. I did use mascarpone this time but I missed the tang of cream cheese - I would go back to that (it's what I've traditionally made the filling for stuffed French bread and crepes out of, I'm just used to it I guess). This was so good, and smelled amazing while cooking. Highly recommend.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JARRIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-08-30T19:30:40.400Z",
+            "reviewBody": "Very easy and way, way yummy!  I am thinking of doing airBandB with my cottage in Ashland.  This would make a great breakfast using the local peaches that were actually allowed to stay on the tree until ripe.  I substituted french bread and cream cheese.  I will keep my eyes open for the suggested ingredients to see if the taste is any different.  What should I serve with it besides coffee?",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathy Green",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-05-22T16:04:30.980Z",
+            "reviewBody": "This is a good recipe. I deleted the zest, but added butternut flavoring to the filling. My kids loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "juliet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-07-26T08:29:59.803",
+            "reviewBody": "Made French Bread and Mascarpone from AR to make this recipe. It was very good but really sweet. Will reserve for special occasions because it's a very rich breakfast. Next time I would like to use a sandwich press to enclose the mascarpone cheese to make it more presentable.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Josephine Roeper",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-11-16T15:06:48.070Z",
+            "reviewBody": "I made this recipe exactly as written except I couldn't didn't the bread so I got a loaf of French bread. I cut into think slices but next time I will buy sliced French and make it like a sandwich. This was delicious!!!! I was nervous about making it because it had so many ingredients and I didn't think I could find the mascarpone cheese but it was in my local grocery store. This was worth making. A little time consuming my first but I am sure next won't be as long!!!! Will be my go to recipe for French toast!!!! Make it make it make it:-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tinisha Simone",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-01-14T01:39:08.103Z",
+            "reviewBody": "Oh My goodness!!! This is the best stuffed french toast my husband and I have ever eaten!!  The lemon is key in this recipe-just subtle enough to taste in the background -Fresh peaches were out of season in Colorado so we used canned \n and we couldn't find the rolls so used french bread slices- it was absolutely phenomenal! We are having our family over tomorrow so they can taste it!  Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CAROL M",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-08-12T22:23:52.823Z",
+            "reviewBody": "They are heavenly delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzannie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-08-09T22:25:07.907Z",
+            "reviewBody": "This was much easier than I had anticipated.  Couldn't find the mascarpone in any of the stores here (small town) so I improvised with a mixture of cream cheese, sour cream and cream.  Turned out phenomenal!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "WyoRanch",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-07-07T00:42:15.723Z",
+            "reviewBody": "I made this Father's Day breakfast, and it was very much enjoyed. We had mascarpone filling left over, and it was delicious on toast and Eggo waffles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "v6nittany",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ],
+    "video": {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "name": "Mascarpone Stuffed French Toast with Peaches",
+        "description": "Stuffed French toast is served with delectable peach sauce.",
+        "uploadDate": "2013-04-18T22:01:52.316Z",
+        "duration": "PT4M45.619S",
+        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F813012.jpg",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+            },
+            "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+            ]
+        },
+        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2310656651001"
+    }
+}

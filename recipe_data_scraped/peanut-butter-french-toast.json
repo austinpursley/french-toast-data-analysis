@@ -1,0 +1,1710 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/213730/peanut-butter-french-toast/",
+    "name": "Peanut Butter French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F367428.jpg",
+        "width": 3296,
+        "height": 2472
+    },
+    "datePublished": "2020-06-19T03:41:49.000Z",
+    "description": "If you love French toast and you love peanut butter, why not combine them into one easy, delish recipe? Top with sliced strawberries or bananas.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H20M",
+    "recipeYield": "2 servings",
+    "recipeIngredient": [
+        "\u00bd cup milk",
+        "3 eggs",
+        "\u00bc cup peanut butter",
+        "2 tablespoons white sugar",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bc teaspoon ground cinnamon",
+        "1 tablespoon vegetable oil",
+        "4 slices bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together milk, eggs, peanut butter, sugar, vanilla extract, and cinnamon in a large bowl.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a griddle or frying pan over medium heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dunk each slice of bread in egg mixture, soaking both sides. Place in pan, and cook on both sides until golden, about 3 to 4 minutes per side. Serve hot.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Jessica MacArthur",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/4136035"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 124,
+        "itemReviewed": "Peanut Butter French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "572.8 calories",
+        "carbohydrateContent": "47.9 g",
+        "cholesterolContent": "283.9 mg",
+        "fatContent": "33.4 g",
+        "fiberContent": "3.3 g",
+        "proteinContent": "23.4 g",
+        "saturatedFatContent": "7.9 g",
+        "servingSize": null,
+        "sodiumContent": "618.7 mg",
+        "sugarContent": "21.2 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-25T06:50:02.237Z",
+            "reviewBody": "My teenage son loved this and it was really quite easy.  Hint: to make peanut butter mix better, I first heated it in the microwave for 30-40 seconds, then added the milk, stirred and microwaved another 20 seconds. Then added the other ingredients, making for a thick, smooth batter.  Served with warm maple syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kristincsw",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T08:59:10.663Z",
+            "reviewBody": "I love peanut butter and any new way of eating it -I'll try it!  This recipe caught my attention as I also love french toast.  You definitely have to melt the peanut butter.  I did add the optional vanilla extract as I always use that when making french toast.  I also added a little nutmeg along with the cinnamon.  I just eyeballed the ingredients, because I've been making french toast for years!  Instead of veg. oil, I used butter.  I never use veg. oil when making french toast.  Overall, this was very good especially with some sliced bananas, a little extra melted peanut butter and some maple syrup on top!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-19T20:59:15.623Z",
+            "reviewBody": "This french toast was tasty!  A very rich peanutty taste.  I agree with a previous post that suggests melting the peanut butter before mixing with egg mixture.  We did not do so, using the natural peanut butter.  It was difficult to mix the peanut butter with the egg mixture, so our first two pieces had very little pb, but the others were coated.  By the last piece, there were globs of pb coating the toast.  Nothing to complain about if you like pb...Definitely stir batter prior to each dip.   Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tisha Parrott",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-14T11:33:08.873Z",
+            "reviewBody": "This was a good recipe, but I would suggest butter instead of vegetable oil, I would also find a way to melt the peanut butter, but you can blend all of the ingredients in by using a mixer.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "twinkie19842000",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T06:17:55.510Z",
+            "reviewBody": "I am going to spread one side of the bread with PB first, then dunk the bread in the egg mixture, then cook both sides.  This method may also work for jelly, spread a good, adhering jelly to one side of the bread, then dunk into egg mixture, then cook.  Interesting recipe! Definitely 5 stars for originality, yet extremely logical!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julia's Child",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-10T13:08:33.68",
+            "reviewBody": "My boys loved this.  I followed the directions.  Make sure to whisk the wet ingredients vigorously to get it all smooth.  I used Texas Toast for the bread and got 6 slices.  We served this with regular syrup and bananas.  I will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "homeschooler3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T13:57:16.060Z",
+            "reviewBody": "An even easier version...make french toast as normal, put a spoon of PB on right after it comes out of the pan.  The PB will melt so you can spread it, then top with a maple syrup drizzle. To die for!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sylvie100",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-28T15:57:21.567Z",
+            "reviewBody": "WOW!  That is all I can say.  I may never eat French toast without the peanut butter again.  It was sweet and yummy.  I melted the pb 30 seconds but I think next time 20 might make it less liquid.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Beth Beveliaque Thomas",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-19T13:13:42.550Z",
+            "reviewBody": "This was excellent! The only trouble I had was getting the peanut butter to stay mixed, which may have been my brand or something. All I did was re-whip it before dipping a new piece of bread in. Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-07T10:16:32.470Z",
+            "reviewBody": "I just used this recipe and I absolutely love the peanut butter taste it gives...I just wish that I had some ground cinnamon on me but i love this recipe!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lindsey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T09:21:53.263Z",
+            "reviewBody": "I wasn't sure about this, but I am so happy I tried it!  I will never eat regular French Toast again!!  I skipped the cinnamon because I don't like it with maple and I used butter instead of oil.  I followed the advice of another reviewer and microwaved the pb, then added the  milk.  Then I zapped it again.  Make sure it cools a minute before adding the eggs.  Then I just whisked it with a fork.  Worked great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nichole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T09:47:33.103Z",
+            "reviewBody": "this was excellent! try it with chunky peanut butter!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "brytness",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T16:06:17.557Z",
+            "reviewBody": "This was excellent.  I'm not a HUGE fan of peanut butter but this was subtle enough for my liking!  Next time, I think I'll spice it up even more and add some melted chocolate to the mixture! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "renay rafter",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-20T11:49:33.38",
+            "reviewBody": "Thanks for sharing!! Really enjoyed it! :) I made it exactly as called for, and used homemade syrup on it! Delicious! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kaydell33",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T13:39:15.910Z",
+            "reviewBody": "Instead of peanut butter, try almond butter - uymmy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nancy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T11:21:24.260Z",
+            "reviewBody": "Based on the difficulty other reviewers had mixing the peanut butter into the mixture, I mixed everything in the blender.  It did come out smooth.  Unfortunately the French toast didn't have much of a peanut butter taste.  I don't think I'd bother with this recipe again.  Not bad, but not worth making, in my opinion.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alloney",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-03T10:20:58.877Z",
+            "reviewBody": "this was a great recipe! used natural peanut butter and blended with a hand mixer. They came out great! This is a keeper for sure.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Georgina Sikora",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-20T10:23:19.633Z",
+            "reviewBody": "Delicious. If using thicker bread I found it makes the french toast better if you poke fork holes in teh bread while soaking in the solution.  It allows the egg and pb to soak into the bread better, otherwise it is only bread in the middle. After poking holes, super delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "hockeyproyo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-10T05:23:51.600Z",
+            "reviewBody": "made mixture as others suggested by melting pb first.  then took 2 slices of bread and placed a handful of chocolate chips between the 2 slices, then carefully dipped the chocolate sandwich trying to flip and dip without losing any chocolate chips, then placed in hot pan with melted butter.  topped with pancake syrup.  was soooo yummy!  it was enough to make 4 chocolate stuffed french toast (8 slices of bread).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NurseKimmi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T10:13:35.627Z",
+            "reviewBody": "This was very good.  As with other reviewers, I had a hard time keeping the peanut butter mixed into the egg/milk mixture - it just sunk to the bottom and didn't really mix well.  The only substitution I made was I didn't have loaf bread so I used 2 8\" sub rolls cut lengthwise into 3 sections.  They worked well.  I did have enough mixture left over to dunk a couple regular slices of bread and it contained most of the peanut butter - even though I stirred after each dunk.  I didn't feel it had enough of a peanut butter taste - hence the 4 instead of 5 stars.  I believe recipe is a good jumping off point, however.  Next time I will use regular sliced bread and spread the peanut butter on one slice and top with another slice then dunk the whole \"sandwich\" in the egg mixture.  I may even add a little jam to the inside.  Again, a good recipe and a great idea!  I'll be making this again but with changes.  Thanks, Jessiker for the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DinnerDiva",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-03T16:35:00.233Z",
+            "reviewBody": "This made tasty french toast, although we didn't find it to be OVERLY peanut buttery.  That might be due to the fact that we used wheat bread, though.  It might come through more with regular white bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kacey Platky Warren",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-28T06:47:39.657Z",
+            "reviewBody": "This is good and if you're into slightly sweetned leave the syrup off. They're great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jeepgirl77",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-04T14:12:37.467Z",
+            "reviewBody": "EXCELLENT! Definitely melt the peanut butter prior to mixing it in. We tried crunchy peanut butter but the peanuts sunk to the bottom of the batter and didn't really make a difference in the end.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jules",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-05T09:29:17.067Z",
+            "reviewBody": "Yum.  Melted pb in a square pyrex dish in the microwave first, then mixed in other ingredients.  Could maybe use just a hint more sugar and a pinch of salt.  Made enough for 6 pieces of plain white bread, though I would like to try with a more substantial bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "amyC",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T07:23:27.240Z",
+            "reviewBody": "This was wonderful.  I got the PB incorporated by mixing everything in a blender.  I left off the syrup because it covered up the taste of the PB.  Instead I served it with sliced bananas.  I plan to make it again as my contribution to a pot luck brunch.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "WiddoMouse",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-25T05:00:35.803Z",
+            "reviewBody": "This was super easy to make and my husband liked it. The peanut butter gives it a unique taste for french toast. I will definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sblackwood1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-21T12:47:26.113Z",
+            "reviewBody": "This is amazing! Like others have said, melt the peanut butter in the microwave first, and it's perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carolyn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-04T16:59:14.993Z",
+            "reviewBody": "Definitely melt the peanut butter. I didn't read the reviews before making this, and I wish I had, since my arm was beat after trying to mix this \"smooth\" I only used one egg, turned out fine, and I still got four slices. I think if you were using texas toast or thicker sliced bread, the 3 eggs would make sense, but with normal bread like I was using, I couldn't see making that much egg batter.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BLyn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-03T22:39:44.230Z",
+            "reviewBody": "definately melt the peanut butter first, but this is a staple breakfast in my house!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kejohnson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-22T10:12:22.670Z",
+            "reviewBody": "Everyone really enjoyed this.  I had a problem with the PB being on the bottom of the dish so maybe I will try heating it as other reviewers suggested.  Will definitely be making again. Added sliced bananas on top and everyone loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MTRATTNER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-13T12:25:16.510Z",
+            "reviewBody": "My husband and I liked this, but it's not something I'd want to have everyday.  It's a little rich, but we did enjoy it and will fix it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela Ledkins Coleman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-26T08:06:12.643Z",
+            "reviewBody": "I followed other reviews and melted the peanut butter first. I didn't have any milk on hand, but did have half and half. I also doubled the recipe. Instead of it making 8 pieces it made 14!!! The peanut butter flavor is great and not over powering. So glad I made this, and so is my step daughter. =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T09:57:12.620Z",
+            "reviewBody": "I used fat free evaporated milk, Trader Joe's organic peanut butter and whole wheat bread. My kids ate it with more peanut butter spread over the top with a drizzling of homemade low-sugar maple syrup. They all loved it, even my husband.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-01T06:44:19.293Z",
+            "reviewBody": "Very tasty! I read the reviews and heated the peanut butter for a smooth mixture and it covered very nicely. I only used 2 eggs because 3 seemed like so many and it turned out perfectly. Next time I will use a nice nonstick pan with cooking spray with little to no oil...the last 2 pieces were the best because they weren't soaking up all the oil. Overall very yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "6kenns",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-07T06:47:14.487Z",
+            "reviewBody": "it was yummy but I should've taken the advice of another reviewer and microwaved the peanut butter. chunks of peanut butter stayed behind the bowl and I had to sort of coat the bread with them.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mistyblu",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-05-06T08:02:16.81",
+            "reviewBody": "Love this. I've made it a few times now but had to tweak two things to make it easier and more to our liking. 1. We put the peanut butter inside two pieces of bread (it just did not like adhering to the outside with everything else and the flavor is maximized when its put inside the bread.) 2. We omitted the sugar (we've found it sweet enough without it.) I also use cinnamon swirl bread, just for extra flavor. Great breakfast treat!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Faith N",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-04T07:41:47.633Z",
+            "reviewBody": "Totally yummy!  This is one of those recipes that would make a great \"Got Milk\" commercial--make sure you have extra on hand in the frig since it goes so well with the peanut buttery taste.  Let's see, I tried out the maple syrup but definitely preferred garnishing with powdered sugar.  Normally, I love fluffy french toast; the fluffier the better.  But one of these got a little crunchy in the pan and I really think it improved the flavor even more, so I think that next time I will try cooking these in the waffle iron rather than on a pan on the stove.  Might give them a chance at being crunchier and I think that would make them even yummier.  Anyway, thanks for sharing--great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-17T16:58:55.943Z",
+            "reviewBody": "Hi, its me Casserroo  I made this last night for dinner.  My husband commented on how delicious it smelled when it was cooking.  I did not change a single thing.  The only thing I did differently was to mix the wet ingredients with my electric mixer.  Then I added the peanut butter and also gave it a mix with the electric mixer on high.  It seemed to do the trick.  I did not have the problem that others   mentioned about the peanut butter not mixing in properly.   The toast smelled delicious and tasted delicious.  By the way, did anyone else have extra batter left over.  Perhaps next time I willuse thicker slices of bread.  We ate it with peanut butter on top and slices of bananas.  Yum Yum!!!Thanks for the great tasting meal.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Casserroo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-17T13:32:02.910Z",
+            "reviewBody": "I followed another reviewers advice and spread the peanut butter on the bread before dipping in the egg.  I used cruncy peanut butter and topped with maple syrup.  It was awesome!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Di",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-26T05:49:48.293Z",
+            "reviewBody": "My kids thought this was TOO peanut buttery!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Coco Perry",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-08T06:46:30.503Z",
+            "reviewBody": "Tried this recipe as a breakfast special in our restaurant, those who dared to try it gave it great reviews, and the staff loved it!  It might need a little something extra for folks to take the plunge, still thinking about that!  Thanks for the inventive recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "milaminute",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-20T13:02:36.333Z",
+            "reviewBody": "Decided to try something different for a change.  My husband wasnt too fond of it, but I liked it.  It was tasty with sliced bananas and maple syrup.  Thanks for sharing =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PookityPoo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-06T05:54:10.047Z",
+            "reviewBody": "Love this recipe! Made these with a mushed banana, sour cream and brown sugar topping. Was delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mary - Fa Niente Luxury Events",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-10-25T08:27:36.050Z",
+            "reviewBody": "Made as directed, just heated peanut butter for 30 sec in microwave prior to cooking as suggested. I didn't need to heat again after, just kept stirring.  For me, this recipe made enough for 6+ slices of bread.  Light peanut-buttery taste, would have liked just a bit more so may add more peanut butter next time.  Didn't need syrup or anything, just ate them straight. Was good :) It won't be a 'staple', but definitely something I will make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SMILIE224",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-29T06:33:43.400Z",
+            "reviewBody": "This recipe did nothing for me. The peanut butter flavor was far more subtle than I thought it would be to the point of being barely noticeable. Will not be making again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "oddbeat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-17T14:53:04.647Z",
+            "reviewBody": "This isn't my cup of tea, but Husband loved it! I cut back on the amount of sugar, and upped the vanilla. Served it with some fresh sliced banana. Thanks, Jessiker!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Caroline C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T02:37:09.907Z",
+            "reviewBody": "Loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "El_Moncur",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-05T10:05:39.540Z",
+            "reviewBody": "I love this! I made mine with potato bread and it came out terrific. The peanut butter does fall to the bottom of the bowl so make sure you dip the bread towards the bottom to get the full affect. I def plan on making it again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "vollyson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T10:42:10.150Z",
+            "reviewBody": "Was great! I omitted oil and used a little pam",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PRCook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T06:05:25.997Z",
+            "reviewBody": "very good. The kids loved it. I may omit the cinnamon next time because it seems to mask the peanut butter flavor a bit.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cncgirl00",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T18:56:33.773",
+            "reviewBody": "yummy!!after getting up early,i made my family a big surprise!!!thanks for ur delicious recipe!BTW,i topped some honey ,with the comparatively high temperature,the honey made it smell better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "greenrachel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-07-27T06:37:49.303Z",
+            "reviewBody": "Interesting idea, but it did not work out.  Kids took a bite and walked away.  Just not a whole lot of peanut butter taste going on.\nI agree that warming the peanut butter helps smooth the batter, though.\nIf I take anything away from this recipe, it will be to use the peanut butter, milk, vanilla and sugar mixture as a sauce for standard french toast.  This spread (without the eggs) is actually very creamy and tasty. With a little honey  drizzled on top - now that would be a hit with the kids!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "macmac11",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-08T17:42:08.873Z",
+            "reviewBody": "A great twist on French toast! So good and I've had many compliments. Make sure and warm up the peanut butter in the microwave for about 20-30 seconds until it stirs easily before adding to the batter. This way, there will by no clumps and it will whisk in smoothly. Delicious! Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "boxergirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-28T05:26:15.5",
+            "reviewBody": "Hmmm, different. I used unsalted butter to cook with instead of oil. I had enough batter to dip 8 pieces of bread so this actually ended up making 4 servings not 2 as stated unless you are cooking for a big eater like Hungry Jack or Jethro Bodine. I thought it was okay but I would rather not have it again, but my hubs loves peanut butter and syrup so I am sure this something he would love. The peanut butter kept wanting to sink to the bottom and it really didn't mix it well even though I used a whisk and kept stirring it even between bread dippings. Thanks for the idea Jessiker, I enjoyed making a new fun recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TxCinILove2Ck",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-19T07:47:33.823Z",
+            "reviewBody": "This was delicious and the kids gobbled it up!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shannon Zaucha",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-06-21T13:46:11.393Z",
+            "reviewBody": "I loved it and so did my kiddos!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kramamos",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-03T07:04:36.973Z",
+            "reviewBody": "Excellent recipe, the amount of peanut butter is just right. Served with bacon and real Quebec maple syrup it makes for a great Sunday morning breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jringe01",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-28T12:39:07.320Z",
+            "reviewBody": "This was good, but not a really strong peanut butter flavor. I will make it again, maybe just lwith a little more PB. The kids loved them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cooksville",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-19T10:11:01.503Z",
+            "reviewBody": "This recipe was okay, but I woulldn't want to have it again. The taste of peanut butter was very subtle and I almost didn't notice it. It also turned the toast brown after it had been cooked which didn't make it look very appealing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "4-H Teen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-05T14:58:11.467Z",
+            "reviewBody": "Not bad, but nobody could taste the peanut butter until I pointed it out. probably won't make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "triciareneeb",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-19T20:54:29.640Z",
+            "reviewBody": "Make a peanut butter sandwich, then dunk it in French toast 'batter' (eggs etc) .. Better peanut butter French toast",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brittany Heaberlin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-18T01:45:24.420Z",
+            "reviewBody": "yummmyy!  Ate this with bananas, honey, and chopped almonds!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cynnabun",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-05T09:27:57.800Z",
+            "reviewBody": "Made this the first time without reading any reviews &amp; had same problem with pb so melted it in microwave second time around then my son bought Skippy PB with honey.  It's smooth &amp; all natural ingredients no preservatives &amp; no need to microwave just gave it a good whisk &amp; turned out great.  Also tried another recipe where u spread PB on two sides of bread then topping with banana &amp; sandwich together &amp; then dipping in egg mixture.  Turned out great as well.  Thanks for nice recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mags",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-26T23:43:03.153Z",
+            "reviewBody": "I love the idea but try it in a sandwich!!! Make your normal peanut butter sandwich. Dunk into the wet mix , fry and top with bananas! Bombdiggity!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aulbrey Howard",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-18T04:32:16.380Z",
+            "reviewBody": "This is a great recipe, and even better with just some minor changes... First combine and mix together peanut butter and 1 tablespoon maple syrup; using a kitchen table teaspoon, mix very well until combined and smooth. Keep on mixing, adding more syrup a tablespoon at a time, until peanut butter and syrup have completly combined and smooth in texture; add a little more syrup to give mixture a fairly runny consistancy, but not to runny. You want a consistancy like honey.  Add in 1/2 cup of milk and mix well. Keep on mixing until completly combined and well mixed, add more milk, 1/2 cup at a time (3 cups total); mixing well till completly combined, smooth and all one color.  In a seperate small bowl, beat eggs well; combine with peanut butter/millk mixture. Add in rest of ingredients. Mix well.  Heat griddle to 300F; coat griddle with a thin oil coating.  Dunk each slice of bread in peanut butter/egg mixture, soaking both sides. Place on griddle and cook on both sides until golden brown, about 3 to 4 minutes per side. Serve hot with butter, sliced bananas, and maple syrup.  Be sure to keep your peanut butter/egg mixture well stired at all times.  Enjoy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SAWMAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-09T15:32:20.077Z",
+            "reviewBody": "Great flavor, just need to make more next time!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "litttlelaura",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-19T13:15:04.560Z",
+            "reviewBody": "If I could eat anything all day long it would be french toast.  I also love peanut butter and bannanas as well so this recipe is like a godsend. I would give this recipe 5 stars.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carl French",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-05-29T15:24:32.800Z",
+            "reviewBody": "This was terrific. I made it with Sourdough bread and with Pumpernickel.  Both very good.  The second time I made it, in addition to heating the peanut butter and milk, I mixed it in my Ninja blender.  It mixed very well, but I might mix it less next time because there were no more little chunks of peanut butter, which I like. \nTerrific recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "acorn2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-19T08:34:37.097Z",
+            "reviewBody": "It was worth trying, but I would not make this a second time. The peanut butter flavor is subtle, but still a bit strange for french toast. I also had trouble mixing the peanut butter in. I tried warming it first which helped, but I had to continue to stir it each time after I dipped the bread. It just wanted to glob together. When I was done there was a good amount of peanut butter left in the bowl that just didn't mix in.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "4hmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-28T19:24:41.303Z",
+            "reviewBody": "not a huge hit with our family- everyone ate them but they were not good enough to make again",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Corri Taylor",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T11:02:45.967Z",
+            "reviewBody": "Loved it! Made it with no changes...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mom2five",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-29T11:58:54.417Z",
+            "reviewBody": "I thought this was very good. My three year old is a very picky eater and he kept asking for more. The peanut butter did not mix well but maybe warming it up would help.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mary christina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-13T20:26:39.360Z",
+            "reviewBody": "Cute idea for children. I add double the amount of peanut butter, and it had a nice taste. Served it with little peanut butter balls",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "samw",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-30T10:56:56.310Z",
+            "reviewBody": "LOVE it...melted pb like others said. Used a tad bit more because we love pb. Used brown sugar just because I like it better- and like others said- used butter rather than veggie oil. What a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Feriante Villanti",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T08:13:04.090Z",
+            "reviewBody": "This where Fantastic! And so easy to veganize!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kelly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-27T07:40:09.463Z",
+            "reviewBody": "I tried this recipe this morning.  It turned out very good.  I will double the recipe next time and add more peanut butter.  But overall I think my kids will enjoy it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patrick's Kitchen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-06-20T01:15:07.367Z",
+            "reviewBody": "It tasted good but as others have said getting the peanut butter to mix with the other ingredients  is a challenge",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joy Marie Grinnell-Mccoy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-07T10:31:25.757Z",
+            "reviewBody": "It wasn't anything impressive. I mean it smelled amazing well cooking but it was a huge let down when I took that first bite. We made regular french toast yesterday and this today and really there wasn't enough of a wow factor for all the extra measuring and stuff",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "coleebear",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-28T16:06:51.280Z",
+            "reviewBody": "The best french toast.  My whole family loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Garcia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T04:34:15.830Z",
+            "reviewBody": "This is great, but I spread it with chocolate spread! I suppose chocolate sauce would have been easier, but it was really gorgeous. I'll try to keep this as a once a week treat!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andrea",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-06-20T18:47:24.180Z",
+            "reviewBody": "I made it with whole grain wheat bread and it was delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Oletha Vicks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-27T18:11:42.61",
+            "reviewBody": "was amazing! Posted a pic too. Omitted the sugar, it doesn't need it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "WATTYZ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-30T08:18:34.590Z",
+            "reviewBody": "It was great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "krayzie4him",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T06:52:42.747Z",
+            "reviewBody": "I gave it '4' stars because it brought back my memory to add vanilla, which I had always done but had gotten away from (living by myself). I had never thought about adding cinnamon. That IS the key (next to vanilla). It adds a very nice taste. Since I like the taste of egg, I cut the milk to 1/4c and add pinch of salt &amp; pepper, (if you omit the pb), but again, that's my taste. I also had to cut the white sugar to only 1 T, otherwise too sweet for me. Yes, this is changed and should not be rated when you change it but I don't know how to add my comments without 'rating' it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JudyK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-07-01T10:04:07.280Z",
+            "reviewBody": "Delicious! I beat with hand mixer to get the peanut butter mixed in. Topped with extra peanut butter and jam.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie S",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-09T17:21:41.817Z",
+            "reviewBody": "Tasted amazing!! Will definitely be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ema C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-23T08:19:53.990Z",
+            "reviewBody": "Peanut butter flavor was really subtle and kind of messy overall.  Will not be making again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "devonp",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-07T07:25:06.873Z",
+            "reviewBody": "Overall, good recipe.  I had some issues with getting the peanut butter to mix together so I melted it and then added it. But the mixture still didn't blend together that well.  I think next time I might just pour the melted peanut butter over the toast, almost like a syrup. Or better yet I might cut up some french bread and bake it all in the oven.  But I will definitely try this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DeVonne Johnson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-18T10:40:04.193Z",
+            "reviewBody": "it was very good. i add a little more peanutbutter then it called for. next time i'll put a little more.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cake baby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-11T15:24:41.853Z",
+            "reviewBody": "Easy and Delicious! After reading the reviews, I melted the peanut butter in the microwave with the milk before I mixed in the eggs and other ingredients. I also doubled the amount of peanut butter.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tobie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-10T06:27:56.247Z",
+            "reviewBody": "I'm a complete 1000% noob when it comes to cooking. This is the first dish I've ever made by myself that involves something other than opening a packet and putting the contents in boiling water. It actually tastes good and I'm AMAZED that I could make it without any burning/disasters/nuclear explosions. 10/5 stars for simplicity+deliciousness.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Krupa Hebbar",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T08:59:22.500Z",
+            "reviewBody": "Just made this with my son-so yummy! i gave it 4 stars only because i did not add the sugar- i didn't feel it was necessary with the vanilla and cinnamon added to sweeten it, and also since we would be dipping it in syrup. it turned out great!! thanks for sharing such a simple delicious recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "shellybell819",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-03-25T08:11:12.280Z",
+            "reviewBody": "I have not made this yet, but based on the comments, I think I would make peanut butter sandwiches by spreading the peanut butter on one slice of bread and then topping it with the second slice.  Omit the peanut butter in the batter, then fry the \u201cpeanut butter sandwiches\u201d.  I think it would turn out great.  I\u2019ll post once I try it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina Miller",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-23T06:39:14.023Z",
+            "reviewBody": "the whole,family loved them followed the recipe to the t",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mikey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-17T14:46:58.370Z",
+            "reviewBody": "I really liked this recipe.  I did melt the peanut butter first as suggested and I also left out the sugar - I topped the toast with sliced bananas and maple syrup which is sugary enough for me :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sigurrs Soffa Kristinsdttir",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-19T19:35:17.000Z",
+            "reviewBody": "So YUMMY!  My husband absolutely loves Peanut Butter and this made his day.  My 5 year old who absolutely despises PB enjoyed it as well!  A sure hit in our home.  Make sure to use Texas Toast as when the toast cooks, you get a yummy custard middle.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Baking Mama",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

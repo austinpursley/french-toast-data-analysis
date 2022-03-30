@@ -1,0 +1,360 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/21206/reduced-fat-french-toast/",
+    "name": "Reduced Fat French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F297427.jpg",
+        "width": 500,
+        "height": 332
+    },
+    "datePublished": "2000-08-05T21:20:04.000Z",
+    "description": "This is an easy variation on the basic French toast recipe, except it uses reduced fat substitutes! Serve with fruit or sugar-free maple syrup.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "\u00bd cup egg substitute",
+        "\u2154 cup skim milk",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon ground cinnamon",
+        "6 slices reduced calorie white bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Beat together egg substitute, milk, vanilla and cinnamon. Dip bread slices in egg mixture until both sides are soaked.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray a skillet or frying pan with cooking spray and heat over medium high heat. Place bread slices into pan and cook until golden brown on both sides\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Jen",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/NewJurzJ@aol.com/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 21,
+        "itemReviewed": "Reduced Fat French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "77 calories",
+        "carbohydrateContent": "11.9 g",
+        "cholesterolContent": "0.8 mg",
+        "fatContent": "1.3 g",
+        "fiberContent": "2.3 g",
+        "proteinContent": "5.4 g",
+        "saturatedFatContent": "0.3 g",
+        "servingSize": null,
+        "sodiumContent": "152.7 mg",
+        "sugarContent": "2.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-04T06:02:37.740Z",
+            "reviewBody": "I did not have egg substitute, I used one full egg and two egg whites. I also used whole wheat bread. My only issue with this recipe was that it wasn't enough to cover six pieces--it was just enough to cover five. Barely. My kids ate all of it. No complaints here.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-08-10T07:48:31.200Z",
+            "reviewBody": "Of course you can taste the difference between this and regular french toast, but it's low fat.  That's the point.  Tasted fantastic!  Great substitute for regular french toast if you're concerned about your health.  I'll definently make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-04-17T15:31:11.250Z",
+            "reviewBody": "You can tell that it is low-fat. There is no substitute for good ol' fashioned french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-10-04T14:35:42.757Z",
+            "reviewBody": "A good basic french toast, but I liked it a lot better when I used wheat bread instead of white.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-06-05T05:18:11.060Z",
+            "reviewBody": "I like this recipe.  I use Sasquatch bread from Trader Joe's loaded with crunchy sunflower seeds. Makes a great, low fat, breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-11T07:18:04.740Z",
+            "reviewBody": "This was the first time I made French Toast (I always opt for lowfat) and it didn't turn out too well.  It was way too soggy, and I'm not sure that's how it's supposed to be.  I threw away all of it, except for one which I ate.  I could taste the vanilla and the texture of the egg substitute.  :(",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "swirly_luv",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-23T11:30:37.970Z",
+            "reviewBody": "great recipe - I just used double fiber wheat bread - yummmm.....",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mimi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-24T07:48:05.653Z",
+            "reviewBody": "This is a great low calorie options for breakfast. Do not leave the bread in the egg mixture for more than a second to keep it from being soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gavigabmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-06-27T17:07:30.520Z",
+            "reviewBody": "This is typical French Toast. Nothing surprising here. Jazz it up with some orange zest and use more cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kimime",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-07-18T22:03:10.087Z",
+            "reviewBody": "Wonderful treat,  especially when you are tired of eggs every which way. Use a splash of your best Vanilla extract!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dentyb",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T14:01:57.627Z",
+            "reviewBody": "It was delicious and my family enjoyed having something new and low in fat and carbs... I will continue to make this for my family from now on",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Niccole Dorsey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-02-03T02:52:23.777Z",
+            "reviewBody": "Amazing and delicious recipe. Mine came out a little soggy but next time I'll remove it from the egg mixture sooner.  I can't wait to eat this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Betty-Ann",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-05-10T17:25:21.417Z",
+            "reviewBody": "Good just didn\u2019t seem like it was low in fat",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "candwich85",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-06-05T01:03:19.657Z",
+            "reviewBody": "Thank you so much for this recipe! I skipped breakfast today because I was busy shopping. I switched out the egg substitute I found for something I desired for a special occasion happening. It's a long story; but anyway! It's still the best and most simplest French Toast recipe! I can't find much low-fat or low-calorie recipes, so this made my day when I came home and started making it! To me, it tasted just like French Toast! The recipe was enough to cover my bread, thankfully! I would of still added more to cover, but still!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lil Danny",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-10-14T13:19:48.887Z",
+            "reviewBody": "Used 2 regular eggs with french vanilla sugar free creamer and cinnamon using olive oil spray on sliced bakery bread ; )",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BARB2018",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-14T03:16:40.480Z",
+            "reviewBody": "My fianc\u00e9 and I were wary about a low calorie version of french toast, but I decided to give it a try instead of doing without. Wow! Both of us were foolish for not have trying this sooner!\n\nWe did make some modifications to the original recipe, but we calculated it out to be about 72 calories per piece. Here are our substitutes:\n\n2 eggs\n2/3 cup light Silk soy milk vanilla\nNickles 35 calorie wheat bread\n\nPlease at least give this recipe a fair try if you're looking for a light option.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LdyG33k",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-24T08:41:37.793Z",
+            "reviewBody": "Delish!! I used whole grain bread. Will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "melissa",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

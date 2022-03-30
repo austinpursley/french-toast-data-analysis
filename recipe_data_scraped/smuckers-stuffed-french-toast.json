@@ -1,0 +1,413 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/65337/smuckers-stuffed-french-toast/",
+    "name": "SMUCKER'S&reg; Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F983669.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T11:41:26.000Z",
+    "description": "Thick French bread slices are stuffed with a fruity cream filling before being lightly battered and fried. A sweet glaze of orange juice and SMUCKER'S&reg; Apricot Preserves is drizzled over for the finishing touch.",
+    "prepTime": null,
+    "cookTime": null,
+    "totalTime": null,
+    "recipeYield": "10 to 12 slices",
+    "recipeIngredient": [
+        "1  serving Crisco\u00ae Original No-Stick Cooking Spray",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 tablespoons sugar",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd cup chopped walnuts or pecans",
+        "1 teaspoon vanilla extract",
+        "1 (1 pound) loaf French bread",
+        "4  large eggs large eggs, beaten",
+        "1 cup half-and-half",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd teaspoon nutmeg",
+        "1 cup Smucker's\u00ae Apricot Preserves",
+        "\u00bd cup orange juice",
+        "\u00bd teaspoon almond extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oven to 225 degrees F. Spray griddle with no-stick cooking spray.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Blend together filling ingredients in small bowl until light and fluffy. Set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut bread into 10 to 12 slices, approximately 1-1/2 inch thick. Cut a small slice along the top of each piece, creating a pocket in the middle. Fill with a heaping tablespoon of filling.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together the eggs, half-and-half, vanilla and nutmeg. Dip bread in egg mixture and cook on prepared griddle until both sides are golden brown, being careful to keep filling in bread pocket. Place cooked slices on baking sheet and place in oven to keep warm.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat preserves in small saucepan until melted. Stir in orange juice and almond extract. To serve, drizzle  over French toast.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 25,
+        "itemReviewed": "SMUCKER'S&reg; Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338.3 calories",
+        "carbohydrateContent": "43.9 g",
+        "cholesterolContent": "90 mg",
+        "fatContent": "14.5 g",
+        "fiberContent": "1.3 g",
+        "proteinContent": "9.3 g",
+        "saturatedFatContent": "6.6 g",
+        "servingSize": null,
+        "sodiumContent": "329.8 mg",
+        "sugarContent": "20.3 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-27T20:34:39.007Z",
+            "reviewBody": "I made a lot of changes to this recipe based on what I had in my kitchen, but I think I still stuck to its original intentions, and it turned out wonderful.  I used macadamia nuts instead of walnuts or pecans, two slices of white bread for each 2 inch slice of French bread, whipping cream, and Smucker's strawberry jam instead of apricot preserves and orange juice.  I had no trouble keeping the slices of bread together because the cream cheese mixture was sticky.  This turned out really delicious and really filling, and it took about 30 minutes to make.  I will definitely make this again.  Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AMPHORAS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-12-28T15:10:04.843Z",
+            "reviewBody": "My family loved this.  I left out the nuts because I knew they wouldnt like them.  Used strawberry jam also. Also used whole milk instead of the cream. (didn't have any on hand)\r\n\r\nAlso made a few using 2 slices of wholewheat bread and they stayed together just fine.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melinda Kemppainen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-30T10:05:44.453",
+            "reviewBody": "I stuck to the basic idea of this recipe.I sliced the french bread in half instead of stuffing it(made it much easier) cut out the nut's(i new my kid's wouldnt eat them)spread the cream cheese mixture on one side and used my strawberry jam i made this summer on the other,then made a \"sandwich\" out of both slices.Dipped in egg mixture.Topped it off with a small dollop of the cream cheese and drizzle with homade strawberry syrup.My kid's loved it i will be making this agin thnx :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tara",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-27T07:16:58.810Z",
+            "reviewBody": "This was so wonderful. I did take a shortcut and use leftover eggnog instead of making an egg dip. There were no leftovers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-25T03:48:14.900Z",
+            "reviewBody": "what a PAIN in the *&amp;% to prepair!! haha!! but it was DELICIOUS! I ended up being like most of the people here and just cut the french bread very thin and put the filling between it and then stuck it together. It was ok...but next time I think I'm going to try and \"over stuff\" it. \n\nLiving in Germany, we miss IHOPS \"Stuffed French Toast\" this is as close as we can get for now!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-09T14:58:22.703Z",
+            "reviewBody": "I also used 2 pieces of bread--great idea--because I have such trouble stuffing things (except my face:).  My advice is to use a firm/hearty bread and not squishy Wonderbread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-30T16:39:25.723Z",
+            "reviewBody": "This was ok, I didn't stuff the French toast, just cut 2 smaller slices which made it pretty easy. I think we might have enjoyed it more without the nuts, but it was a nice treat for Christmas breakfast.  Thanks!\n  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joseyrose55",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-02T06:17:54.367Z",
+            "reviewBody": "I guess for a treat once in a great while this would be alright. Don't bother slicing the bread. Just use two slices.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mermaid",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-10T07:13:33.777Z",
+            "reviewBody": "I made these for my wife's Mother's Day breakfast, she loved it. How ever I used Philly cream cheese-cheese cake filling for the stuffing. It was a perfect 10.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "James Cherish Danforth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-10T10:24:01.530Z",
+            "reviewBody": "I used mascarpone instead of cream cheese and omitted the nuts (my son doesn't like them), but otherwise followed the recipe.  This made a special breakfast seem almost decadent.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DITTYBEAR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-01T13:04:42.200Z",
+            "reviewBody": "I made it exactly according to the recipe, and it was just okay. I specifically disliked the filling, and I love cream cheese fillings. I won't make this again, but I might serve regular French toast with a dollop of another cream cheese filling and the same sauce. I think that would be great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Danielle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-26T07:09:56.830Z",
+            "reviewBody": "What a great breakfast to have in the morning. The walnuts in the whipped filling made it heavenly. My daughter and my mother loved it. Thank you will definitely make again....",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sean P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-05T09:16:48.037Z",
+            "reviewBody": "This was pretty good. I made it exactly as the recipe said to and my family was pleased with it. I may use a different jam topping next time or a flavored cream cheese for the filling, but as it is written it was pretty tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Charley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-03T12:23:54.030Z",
+            "reviewBody": "i made it without the nuts and instead of orange juice i used apple juice also i left out the almond extract and it was delicious! my husband loved it and i will be definitely making this again sometime soon",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "glossyblack",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-08T06:28:57.140Z",
+            "reviewBody": "I loved this recipe! I didn't have all of the ingredients that the recipe called for, but it turned out great! I think the filling is what made the recipe great. All I had was whole wheat bread, and I put the filling between 2 slices in the frying pan. I also used low-fat cream cheese, so I guess you could call my version healthier. Also, I just threw a blob of strawberry preserves into the frying pan right after I took the french toast off, and melted it, and it was great over the top of it!  VERY YUMMY!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "eLiSe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-08T18:50:17.950Z",
+            "reviewBody": "I liked the toast, but the glaze was not for me.  I would rather have maple syrup on mine.  :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ashley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-24T07:50:06.793Z",
+            "reviewBody": "Made this with my nieces and it was so good!!!!  Definitely a great recipe to have when you have kids over.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cindy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-06-19T11:39:52.150Z",
+            "reviewBody": "There was a little work involved for a morning project, but in the end, it was spectacular.  SUPER sweet and full of flavor and texture.  I make a batch of the glaze to keep on hand for \"normal\" French toast.  Even when I don't stuff the French toast, I use the batter recipe which has taken \"normal\" to another level.  Substitute almond extract for the vanilla for an added dimension.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MiCoAmazing",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-06-04T09:31:20.960Z",
+            "reviewBody": "I actually made it using strawberry jam and my stepdaughter loved it!! I plan to make it again tomorrow only adding PB to the cream cheese and making a pb&amp;j version! I loved cutting the bread and will definitely make it again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tina Phillips",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

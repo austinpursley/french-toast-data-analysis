@@ -1,0 +1,102 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/124140/cheddar-french-toast-with-dried-fruit-syrup/",
+    "name": "Cheddar French Toast with Dried Fruit Syrup",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F975797.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-02T11:44:30.000Z",
+    "description": "My family loves this warm French toast on cold mornings in the North Carolina mountains where we take our yearly vacation. Each year, I alter the recipe slightly by experimenting with different dried fruits.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H35M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1\u2009\u00bd cups maple syrup",
+        "1 (7 ounce) bag diced dried mixed fruit",
+        "\u00bc cup chopped walnuts",
+        "12 slices Italian or French bread (cut diagonally 1-inch thick)",
+        "1\u2009\u2153 cups shredded sharp Cheddar cheese",
+        "4  large eggs eggs",
+        "2 cups milk",
+        "\u00bc teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine syrup, fruit and walnuts; let stand overnight. Cut a slit in the crust of each slice of bread to form a pocket. Stuff each pocket with 2 tablespoons cheese. In a bowl, beat eggs, milk and salt; soak bread for 2 minutes per side. Cook on a greased hot griddle until golden brown on both sides. Serve with dried fruit syrup.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemReviewed": "Cheddar French Toast with Dried Fruit Syrup",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "637.8 calories",
+        "carbohydrateContent": "99.1 g",
+        "cholesterolContent": "162.7 mg",
+        "fatContent": "20 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "19.6 g",
+        "saturatedFatContent": "9.2 g",
+        "servingSize": null,
+        "sodiumContent": "598.1 mg",
+        "sugarContent": "51.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-27T08:01:49.540Z",
+            "reviewBody": "The bread I used was very soft, fresh bread and it was a little challenging to make pockets for the cheese. I would use day-old, or so, bread next time. I also used canned mixed fruit (chopped) instead of the dried fruit. Really filling and very good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heliftsmeup",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-26T09:48:11.417Z",
+            "reviewBody": "Easy to follow and make recipe, which was loved by my wife and I. The only thing I would say is that the bread MUST be an inch or more thick, and as another reviewer recommended, be a day old or so. Soft fresh bread, which we used, didn't hold up for the pockets. My other recommendation would be to strain the dried fruit from the syrup after sitting overnight, then apply the syrup and fruit to your liking. Good eats!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "geezumcrow",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

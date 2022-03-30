@@ -1,0 +1,1762 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/21053/haitian-french-toast/",
+    "name": "Haitian French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F77605.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2000-06-13T00:22:23.000Z",
+    "description": "A yummy and rich French toast perfect for a celebration brunch. I first served this for New Year's Day brunch with a mixed grill of meats and a bottle of good champagne.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H5M",
+    "totalTime": "P0DT4H20M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "1 French baguette",
+        "1 cup orange juice",
+        "\u00bd cup heavy whipping cream",
+        "2 eggs",
+        "1 teaspoon ground cinnamon",
+        "\u00bc cup white sugar",
+        "1 dash ground nutmeg",
+        "3 tablespoons butter",
+        "2 tablespoons confectioners' sugar for dusting"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cut loaf ends off and reserve for another use. Cut remaining loaf into 1 1/2 inch slices; let stand 4 hours or overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a 9x13 inch baking pan, combine orange juice, cream, eggs ground cinnamon and white sugar. Place bread slices in pan and turn until liquid is absorbed, about 5 minutes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large skillet, melt butter over medium heat. Add bread slices and cook until browned on both sides, about 5 minutes. Dust generously with confectioners' sugar and serve warm.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "DIEDRIE",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 176,
+        "itemReviewed": "Haitian French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "424.9 calories",
+        "carbohydrateContent": "59.1 g",
+        "cholesterolContent": "104.4 mg",
+        "fatContent": "16.3 g",
+        "fiberContent": "2.1 g",
+        "proteinContent": "11.8 g",
+        "saturatedFatContent": "9.2 g",
+        "servingSize": null,
+        "sodiumContent": "564.1 mg",
+        "sugarContent": "16.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-23T13:01:33.617Z",
+            "reviewBody": "My whole family loves this recipe. I do make it a little bit differently. First, I tear up 12 slices of cinnamon swirl bread instead of the French bread and put into the 13x9 pan then I pour the cream mixture over the bread and stir until the bread soaks it up. Then I bake it in a 350 degree oven for 30-40 minutes, or until it is crisp. It is sooo yummy!\nI often make up a few and keep them uncooked in the freezer. When I am ready to use one, I pull it out and let it thaw and bake as normal! We have it every Christmas morning.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Natalie Terrell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-06-03T17:31:35.530Z",
+            "reviewBody": "The french toast had a great flavor.  Next time I might add a little Grand Marnier too!\r\n \r\nI would definately suggest that you whisk the liquid mixture in a small bowl first, THEN put it in the 9x13 pan so the bread can soak it up.  I made a big mess trying to blend it in the shallow pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nici Roubo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-08-28T09:01:04.000Z",
+            "reviewBody": "dude this is the best stuff ever and it is my favorite breakfast ever. You should love this. try it!!!  its easy to make and it turns out great!!! \n\nps. im 12\n\n^_^",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shaz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-09T14:12:06.950Z",
+            "reviewBody": "This is awesome!!  Follow the directions and this will be the best french toast you will ever eat.  I mixed the liquid ingredients in a jelly roll pan and the sugar easily disolved with no mess.  I then put the bread, which I let sit out sliced overnight, right in the liquid mixture in my jelly roll pan.  Make sure you cut the bread in thick slices and let it soak for the full 5 minutes, if you don't the orange flavor doesn't infuse very well.  My kids, 4 &amp; 3, both ate THREE pieces of this french toast they loved it that much.  I was able to cook the whole loaf of bread on my electric griddle.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LEXI70",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-10-31T18:57:44.640Z",
+            "reviewBody": "I LOVED this recipe, it was delicious and my husband and toddlers loved it! Contrary to some of the other reviews, I would not change anything about this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-10-29T08:36:36.577Z",
+            "reviewBody": "This is The Most AMAZING French Toast on this planet! \r\n\r\nI tried it without orange juice (used milk instead) and it tasted Incredible!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MILADA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-04-30T10:35:59.857Z",
+            "reviewBody": "This french toast was awesome for a nice change from the ordinary!! My husband loved it as well as my 1 yr old (very picky) daughter!! I froze the few slices we had leftover and heated them in the microwave for my daughter to have for a quick breakfast during the week. Very Good--thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SARA FRECHETTE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-04-09T05:29:07.607Z",
+            "reviewBody": "This is a good french toast, but does not taste much different than my usual with the exception of orange.  The orange taste if very light and gives this a unique flavor.  I used maple syrup rather than the powdered sugar and did not let my bread \"soak\" in the mixture.  I dipped the bread in just enough to coat well and then fried it.  Thanks for sharing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JOSIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-07-03T07:41:36.513Z",
+            "reviewBody": "YUM! We loved this recipe! My 15 month old and picky 3 year old also ate it up! Will be making this again and again. Wonderful flavor!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Emma_Lou",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-10-06T13:43:16.763Z",
+            "reviewBody": "I liked it, but couldn't convince my family into it. They said it tasted too fruity... that's just what I liked about it, it was different.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LAUR B",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-23T16:24:36.683Z",
+            "reviewBody": "Husband and daughter loved this.  I kinda cheated and placed sliced french bread in oven at 200 degrees for 10 minutes instead of letting bread sit out for 4 hours, otherwise made as written.  Served with syrup on the side.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-04-07T13:26:54.750Z",
+            "reviewBody": "One of the most delicious meals I have made!  I will make this again and again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JESSICA1467",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-06T11:13:32.390Z",
+            "reviewBody": "This was wonderful though I made a couple of adjustments. I had no heavy cream so I used light cream. I also subbed 4 Tablespoons triple sec for part of the OJ to give it a sweeter citrus flavor. I used up leftover croissants instead of the baguette. This was delicious. Next time I will add maybe a teaspoon of fresh orange zest to the egg wash and maybe an extra egg. I served it with some sliced mango and bacon. Just a very lovely french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mauigirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-31T12:02:59.913Z",
+            "reviewBody": "This was quite good, and makes for a great morning \"signature dish\" for a bachelor.  I used freshly squeezed tangerine juice, which gave it a nice, light flavor.  The batter doesn't firm up much, so if you use another type of bread besides a baguette (I tried brioche), you may want to add an extra egg for structure.  A touch of vanilla extract rounded out the flavor nicely, too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TRIMEG",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-14T14:21:46.87",
+            "reviewBody": "This has really good flavor and is a nice deviation from our normal French toast.  I didn\u2019t want to deal with the soggy bread fearing that after sitting for several hours in an egg mixture it would just fall apart, therefore I made this into a casserole 8x8 pan, baking it at 350\u00ba for 40 - 45 minutes.  The only other change I did was to use challah bread (personal preference) and cubed the bread for easier serving.  We enjoyed this very much.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Deb C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-12T12:03:44.140Z",
+            "reviewBody": "This was sinful. OMG. I used fresh squeezed orange juice and added a bit of orange juice, probably about a tbsp. I served it with Homemade Pancake Syrup which is also from this site. My family and I were in french toast heaven. Wonderful recipe, just wonderful. This one's a keeper. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-12T16:16:44.530Z",
+            "reviewBody": "This is really good.  Used milk rather than heavy cream and left out the nutmeg.  I don't think I would want this every time over \"classic\" french toast but it's a nice treat every now and then!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JENNY-REDS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-19T06:06:19.387Z",
+            "reviewBody": "If you enjoy bread pudding, you'd probably enjoy this recipe.  I loved the flavor of the orange and cream (although I'd probably nix the sugar in recipe as it made it a tad too sweet for me) - but hated the consistency.  Husband loved the cream interior consistency, but didn't care for the orange flavor.  Can you guess which one of us doesn't care for bread pudding?",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Litegal1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-01T08:40:49.617Z",
+            "reviewBody": "Very good. Used items i had on hand. Omitted OJ-used a little bite of milk maybe 1/2Cup, and used eggnog flavored liquid creamer in place of heavy cream. Gave it a special holiday taste. My family really enjoyed this sprinkled with powdered sugar. Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kitkitty79",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-25T19:39:11.307Z",
+            "reviewBody": "I loved this french toast and I am not usually a fan of french toast. However I did make one small change, I left off the powdered sugar (don't really like it.) I thought that the orange flavor would be stronger so next time I think I will add a little fresh orange zest. I will be making this again. HAPPY EATING!!!!!!!!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mzlongleggz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-29T20:33:48.640Z",
+            "reviewBody": "My whole family loves this receipe.  Very good.  I followed the receipe exactly and they came out perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FASTCOOKIN44",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-25T08:50:02.450Z",
+            "reviewBody": "This was the best French toast I have had in a long time.  I didn't have any whipping cream on hand so I used two percent milk and Redi-Whip and it came out wonderful. I soaked the break for about 20 minutes, flipping it half-way though. I mixed all the ingredients in a 4 cup measuring cup and then poured over the bread in a 9x13 pan.  WONDERFUL!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "EJA219",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-11T16:57:55.297Z",
+            "reviewBody": "This is the only french toast I will ever make. Sweet bread with a subtle tangy orange flavor is enough to satisfy me any morning. When I make this for my fiance he goes crazy, its definitely a keeper! Thank you for sharing :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-17T07:49:48.400Z",
+            "reviewBody": "Awesome!  I made this for a pot luck and all my friends thought it was amazing.  I did however, cut the amount of orange juice by half so that it wouldn't be too fruity.  It turned out just right.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maureen77",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-20T13:34:37.413Z",
+            "reviewBody": "This was great french toast! My husband and kids loved it! The orange juice made a great new flavor for french toast. The only thing it was soggy, but probably cause I didnt let the bread sit out (unwrapped) long enough.... next time I will! Thanks love it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lisa Brunson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-25T16:49:58.100Z",
+            "reviewBody": "Very yummy!  I'm never going back to regular french toast again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "katevan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-26T09:44:36.287Z",
+            "reviewBody": "I want to thank you for your recipe. I used it as inspiration to develop a \"French Toast Casserole\" that earned rave reviews. I am sure your recipe is wonderful as written, I just wanted out of the kitchen to mingle with guests. Thanks for the idea! Basically, I cubed the bread, placed in a casserole and poured the egg mixture over the top. After allowing the bread to absorb liquid I baked at 375 for 30 minutes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ALLSKM",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-22T18:47:10.070Z",
+            "reviewBody": "Oh my delicious. Seriously could not stop eating it! We had it for a brunch and all the friends wanted to take the left overs. We added some fresh vanilla bean in for a little more \"cozy\" feeling.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Katie Mitchell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-19T15:38:07.053Z",
+            "reviewBody": "Absolutely delicious.  I found the orange flavor to be very distinct.  This is a sweet bread that is chewy around the edges and soft in the middle.  Really simple and guaranteed to impress for company or any holiday breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BocaBlonde",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-10-22T18:12:36.917Z",
+            "reviewBody": "A hit with the family every time!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ashkennedy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-10T23:21:42.670Z",
+            "reviewBody": "Loved this! As did the whole family. Didn't feel like cooking like regular french toast so I broke it up and put it in the oven as one reviewer suggested. It was excellent. Maybe next time I'll add some dried fruit to it, like cranberries or raisins, anything really. Felt it was a little healthier baked since my daughter isn't into fried foods. I used a good cinnamon bread too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TESSATOUT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-07T21:25:15.850Z",
+            "reviewBody": "The taste of this was great, however it turned into a soggy mess for me. I followed the recipe exactly- leaving the cut bread overnight. I didn't let the bread sit in the egg mixture nearly as long- maybe just about 30 seconds a side, but when I fried them up, they were really soggy. I found I fried them for nearly 10 minutes per side, trying to get them less mushy, but to no avail. My husband said maybe had I cut the bread much thinner perhaps it would have worked better. I might have to play with the recipe, because I really did like the  taste, but no one in our family could eat theirs because they  were so raw they practically liquified in the middle. sorry :(",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ONEHIPMOMMY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-05-01T20:52:16.153Z",
+            "reviewBody": "This is absolutely delicious!  Easy, too. I had many requests for the recipe and we'll make this again and again.  I agree, if I could give it more stars I would!  Thanks!  I don't know how my previous review got so few stars!!  I intended to give it 5.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HAPPYCOOKER03",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-05T18:23:00.577Z",
+            "reviewBody": "I didn't let the bread stand overnight but lightly toasted them in the toaster and they were fine. I used challah bread but ommitted the confectioner's sugar, but otherwise followed the recipe exactly. There was a nice hint of OJ and the were delicious and moist without any maple syrup! If I happen to have whipping cream I'll definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ricodelicious",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-07T09:10:40.667Z",
+            "reviewBody": "Delicious! I had some stale croissants I had to use up so I used those. The only real difference was I used honey instead of the white sugar. Will def make again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GINGERLY88",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-23T09:14:22.043Z",
+            "reviewBody": "2 stars because the taste of the batter was not bad BUT DO NOT LET YOUR BREAD SOAK into the mixture. The bread gets fried soggy regardless if it is fully cooked in the pan. Did not enjoy it because of that. I've had better french toast. My suggestion would be to only dip it so that it is just battered enough to be fried on the pan. I'm still looking for a good recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bean89",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-04-05T09:47:14.373Z",
+            "reviewBody": "I love this recipe! My fiance and I both went on and on about it after I made it. Best of all, it was quick and easy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Megan Shoemaker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-10T15:08:49.980Z",
+            "reviewBody": "This was soooo good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dixiebelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-06T11:46:06.133Z",
+            "reviewBody": "My family didn't like the orange taste.  I made it with regular bread. I put the mixture into a mixing bowl and soaked the bread in there.  I thought doing that would be easier than whisking the egg &amp; spices in a 13x9 pan, which it was. I could have used milk instead of heavy whipping cream, would have been less calories.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Miss Nicki D",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-16T08:32:29.900Z",
+            "reviewBody": "this rocks! nice bright flavor for a cold winter morning. i made 1.5x the recipe because it didn't look like it would be enough for my 1-lb. pugliese loaf, but there was enough custard for that loaf plus a .5-lb. whole grain loaf with still some left over (i'm thinking it will turn into bread pudding!) i did add about a tbsp. of triple sec, but that was the only change i made.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "3MCMRMOM",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-15T17:06:59.960Z",
+            "reviewBody": "Not really worth the heavy calories for a French toast recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brian Curtain",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-12T08:22:21.233Z",
+            "reviewBody": "very good meal :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jerdine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-25T12:44:05.547Z",
+            "reviewBody": "We loved the hint of orange - delicious! We didn't have french bread so we used thick cut bread and it turned out fine. Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JENIP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-25T12:55:02.953Z",
+            "reviewBody": "Made this for my son's 3rd birthday breakfast and got rave reviews!!!  I had 9 people over for breakfast and so I used a Challah loaf (that I made from a recipe from this site) and I also used a half a loaf of store bought french bread and sliced both the night before.  Everyone agreed that the Challah loaf made the better french toast.  I also zested a half an orange.  Yummy!  Will definately do again!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Basia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-27T17:21:27.703Z",
+            "reviewBody": "I'm Haitian. This is a good recipe, but doesn't completely capture the essence of it's origin.   Alternatively, I appreciate the measurements, as i'm not an intuitive cook like the rest of the matriarchs in my family who just eyeball everything .  \n\n1st   You have to actually whisk the batter completely in a mixing bowl before soaking the bread in it.  How else will you marry the flavors.  you can also make the mixture a day ahead of time and refrigerate it.\n\n2nd  we only use fresh ingredients:  i.e..  we don't use ground spices unless we have to.  therefore we grate a cinnamon stick and nutmeg berry.  also we squeeze fresh oranges into the mixture and zest orange peel into it.  about a tablespoon.\n\n3rd  A quality maple syrup will bring out the orange flavor.   it's supposed to be a pleasant surprise.  Also if made properly, the heavy cream is worth the calories.\n\nalso if you are watching calories, french toast is not for you...lol.  enjoy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "itzsg",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-13T09:42:29.483Z",
+            "reviewBody": "I made this with half and half and baking Splenda.  Also, used plain white bread b/c it was what I had on hand.  Delicious!  Didn't even need confectioner's sugar or syrup.  I will make this again and again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Foxy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-04T09:36:57.873Z",
+            "reviewBody": "I think I may have found my new french toast recipe!  The orange flavor was just enough.  We used home-made cinnamon raisin bread fresh from the breadmaker.  Thanks for a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "79CARRIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-14T11:10:03.200Z",
+            "reviewBody": "I would give this 10 stars if I could.  It is the best French Toast I have ever tasted.  We used Smuckers Raspberry Syrup on the side to dip.  It was HEAVENLY!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TERRIS911",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-25T15:36:00.140Z",
+            "reviewBody": "Didn't like the orange juice flavor.  Underwhelming, I'll stick to regular french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "horsephoto",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-16T06:03:47.377Z",
+            "reviewBody": "I am not Haitian, but my boyfriend is completely, actually 2nd generation here in the states. I made these for him as a surprise before he went to a really important morning meeting at work. I made it *just* as directed in the recipe, added some strawberries on top, put it into a plastic box with silverware and sent him out the door.  Before the meeting was even over, he as texting me with demands to know where the recipe comes from!! He LOVED it! And he is NOT a sweets person. This is a recipe I will use for a LONG time! Graci! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nyree Mereus",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-15T15:35:48.880Z",
+            "reviewBody": "it tasted really good to me &amp; my mom but the rest of the family was not thrilled with the not-to-subtle orange flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peaches",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-09T10:42:21.773Z",
+            "reviewBody": "The flavor was nice but mine came out super soggy!  It is probably my fault because I used pre-packaged thick sliced french bread from the supermarket which was quite soft from the start.  Next time I will try real french bread or just dip it instead of soaking it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "miss mynx",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-04T12:02:48.590Z",
+            "reviewBody": "great recipe. Except,  with using thick whole grain bread- I would still opt to putting the mixture in a bowl and dipping the bread vs. soaking it. The bread was a little too soggy for my family liking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kittykat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-25T07:32:18.430Z",
+            "reviewBody": "The cup of orange juice adds a sweet and tangy taste surprise to this wonderful variation on basic french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Norm Dwyer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-11-25T10:04:00.970Z",
+            "reviewBody": "I don't eat french toast, but my daughter does and she enjoyed this. After the toasts were done, I added some butter and apricot preserves to the skillet to make a sauce. Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-07T12:03:31.957Z",
+            "reviewBody": "This came out very good - hubby loved it.  I had to alter it based on what I had. Plus I ALWAYS add vanilla to french toast recipes.\nHere is what I did differently:--------------\n-5 pcs. Texas Toast bread (from Smart &amp; Final)\n-used 1/2 C. 1/2 &amp; 1/2 instead of heavy cream\n-some juice from fresh squeezed oranges about 1/4 c. (maybe less)\n- a bit more cinnamon &amp; nutmeg (be careful with the nutmeg, of course)\n-2 tsp. vanilla\n------------------------------------\nWith whisk, beat all ingredients in bowl(except butter &amp; powdered sugar). Then place in 9 x 13 inch pan.  Add the bread - turn it over - make sure evenly soaked - all liquid will soak up. and NOT be too soggy.\n\nEverything else was the same as original recipe.\nI look forward to trying it as it is supposed to be because it got such great reviews but seriously, I am very happy with the version I ended up with as well!  Yumyum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BakerBee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-14T18:25:36.810Z",
+            "reviewBody": "Delicious! Thick Bread is a MUST.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "keyisme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-11T21:04:38.297Z",
+            "reviewBody": "This was good, but I couldn't tell much difference between it and regular French toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cafe Martin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-12T03:37:09.567Z",
+            "reviewBody": "My 14 year old son made this for me for Mother's Day...super easy and great flavors...he even impressed himself!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "karen1960",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-21T09:41:49.467Z",
+            "reviewBody": "I took a bunch of short cuts and the taste was still great!  I will definitely try again when I have all the proper ingredients.  I substituted skim milk for the cream, and still got a great tasting french toast.  However, I used sliced sandwich bread and my \"toast\" came out rather soggy, so I would definitely recommend real bread if you have it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LIGHT10",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-25T08:11:38.863Z",
+            "reviewBody": "This recipe was very good. I added a little more cinnamon to it. My kids enjoyed it a lot. This will be the recipe I use from now on. I even made some to freeze for another day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Camille P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-07-07T02:50:38.623Z",
+            "reviewBody": "My husband and brothers loved the taste of this french toast. Used a thick butter bread, brown sugar, sunny delight to the mix. It was great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MNN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-31T09:00:40.410Z",
+            "reviewBody": "My family loved this recipe! I followed the recipe exactly, except for one thing. I didn't have heavy cream, so I used whole milk instead. I pre-mixed the eggs/milk/OJ/cinnamon/sugar/nutmeg the night before, and stuck it in the refrigerator to save time in the morning.  It worked great! No problems with soggy bread here. It fried up nicely. I will definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JenV",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-09-22T16:02:01.080Z",
+            "reviewBody": "To die for! So good!!! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "STACEYFEINDT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-03-12T16:00:39.403Z",
+            "reviewBody": "I wish I could give this more than five stars. Absolutely delicious! I had a really stale baquette and just sliced it up and placed in the mixture. I love the idea of toasted coconut, will do that next time. This is going on an upcoming brunch I am planning with a Caribbean theme.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JDVMD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-08T08:59:27.453Z",
+            "reviewBody": "I didn't take the advice of others and I opted for sliced wheat bread - the french toast mixture was too much for the bread and it easily fell apart.  It was still delicious, but next time I'm going to use baguette bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AJ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-21T15:32:03.063Z",
+            "reviewBody": "Wow! My husband and I have been looking for a good French Toast recipe, and we really like this one. We use make a half-recipe on Saturday and a half-recipe on Sunday, so one baguette makes breakfast for a whole weekend. I don't leave the bread out overnight, and it still turns out really well. Using the baguette bread keeps the toast from getting soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SoBlessed",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-07-16T04:44:56.617Z",
+            "reviewBody": "it tasted really good but it doesn't really say HOW to combine all the ingredients in the pan, and also never uses the nutmeg. it's easy enough to figure out of course, but that doesn't excuse bad directions. i used cinnamon swirl bread, and orange liqueur instead of juice, so i didn't use as much and replaced the rest with milk. tasted awesome.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "marzipancakes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-01T07:46:02.513Z",
+            "reviewBody": "I thought that it needed vanilla",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jordan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-13T11:38:16.830Z",
+            "reviewBody": "I just soaked for a few seconds.  My boyfriend likes french toast \"crispy\".  This way came out great.  Next time, when hes not around, I will soak as recomended.  The OJ gave wonderful flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BEBE548",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-08-19T16:06:55.217Z",
+            "reviewBody": "So easy and delish.  The orange juice was absolutely the secret ingredient.my kids loved it.  I did use an extra egg and also didn't have cream on hand so I used milk instead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bootai",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-12T19:18:57.57",
+            "reviewBody": "I loved the flavor of this, but I wasn't so crazy about the texture of the middle of the bread. It was almost custard-like. I did let the sliced bread sit out for about 9 hours. I might try this again with thinner slices of bread and the addition of some vanilla because I really did love the orange flavor. Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CookinBug",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-03-07T10:08:31.140Z",
+            "reviewBody": "we served it with toasted coconut and a pineapple syrup- delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brynn Hanson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-09-07T15:47:34.683Z",
+            "reviewBody": "THE BEST FRENCH TOAST EVER",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "vhanessian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-12T11:00:05.207Z",
+            "reviewBody": "Delicious!  Nice change from the traditional \"french\" toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MsRebeccaZ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-06T08:00:19.487Z",
+            "reviewBody": "This best French Toast recipe that I've ever had in my life. The OJ and cream mixture is truly a gift from God. Yea it's that good IMO.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "hincr803",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-02T21:36:17.220Z",
+            "reviewBody": "This is a family favorite. Even gets the teens out of bed on the weekends! I made this without the cinnamon and nutmeg and added orange extract.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-02T20:06:01.947Z",
+            "reviewBody": "This is the best French toast I have ever had.  My family agrees and said that it was better than any French toast served in even the best restaurants.  I will definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathryn Zaengle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-26T20:44:16.53",
+            "reviewBody": "This is really good.  It was actually better than I thought it would be!  I didn't have quite enough cream, so I reduced the OJ by a little too, but kept the eggs and spices the same.  I used a whole-grain artisian loaf and it looked really beautiful.  I put just a touch of pure maple syrup on mine, but it would be good plain too.  Served with thick-cut bacon and fresh peaches.  Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Ramey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-06-21T13:19:03.307Z",
+            "reviewBody": "Being hatian and seeing this made me think of home !",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "maya",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-05-04T16:58:17.570Z",
+            "reviewBody": "I made this and it came out great! I used bread from Jimmy John's and it worked out fantastic.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rustedchainsaw",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-10-20T10:03:20.713Z",
+            "reviewBody": "Loved it, but I used light brown sugar instead of white, simply orange orange pineapple juice, Grand marnier, regular butter bread &amp; skipped out on the whipping cream. It was a hit in my house! My hubby didn't even use syrup",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KRAES",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-10-06T01:36:26.697Z",
+            "reviewBody": "Good flavor, just a hint of orange. I made the mistake of using regular thick cut bread instead of crusty baguettes, so mine turned out to be a sloppy disaster that wouldn\u2019t cook. Don\u2019t make my mistake. Use crusty bread or you\u2019ll end up with inedible mush. I can\u2019t wait to make it right though!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lisa Marie Hendricks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-10-10T07:22:05.570Z",
+            "reviewBody": "We made this for breakfast and it was delicious! The orange flavor wasn't too strong. It was just enough. We topped the toast with cinnamon powdered sugar and a drizzle of honey.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "smarsh",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-08-19T17:02:33.453Z",
+            "reviewBody": "Amazing",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Connor S",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-10T23:33:00.550Z",
+            "reviewBody": "I prepared this the evening prior and baked it in a casserole dish. The family loved it. Just the right amount of OJ.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cade Brenchley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-08T08:22:59.670Z",
+            "reviewBody": "This is DEVINE!  Followed the recipe exactly and got rave reviews from the rest of the family.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "June Williams",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-03-16T15:51:19.400Z",
+            "reviewBody": "I make this all the time. It's perfect when I have bread that's going bad or is stale. In fact, there was a spot of mold on a loaf of sourdough that I had this morning, I picked it off and soaked the hard bread for a few minutes and it was fantastic. Sometimes I add more sugar or use mango juice.  I've made this about 20 times so far. Each time I can vary it or stick to the exact recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristin Ekstrom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-27T02:02:49.790Z",
+            "reviewBody": "Taste good when hot. After cooled, orange juice takes over and is too strong. Will not make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cbr11xx",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-16T19:23:16.060Z",
+            "reviewBody": "great taste!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eve",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-21T08:04:08.353Z",
+            "reviewBody": "Took out the sugar and reduced the cream and only let it soak for 15 mins. Turned out great. Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mike",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-09-15T15:16:32.110Z",
+            "reviewBody": "simple, quick, and delicious",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cameron Rodriguez",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-08-15T11:17:06.003Z",
+            "reviewBody": "I'm giving this 5 stars because the adults thought it was really good. My kids on the other hand were not fans. This tastes NOTHING like French toast. So if you're wanting French toast, don't make this. It's MUCH sweeter. It tastes totally different than what I expected, but it was really good. My husband loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sasha Mae Buhr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-14T00:26:35.690Z",
+            "reviewBody": "Amazing recipe! I substituted the bread with Challah bread. It was my first time making it and I had my teen son assist! The family loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bianca Mejia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-03T16:22:10.470Z",
+            "reviewBody": "Ok, so I  messed it up trying to use brioche bread &amp; not drying it first.  So the flavor was AMAZING,  BUT the bread was soggy DRY THE BREAD, that way you get the awesome flavor &amp; still get fluffy bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lacy Ambrose",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-21T15:28:08.430Z",
+            "reviewBody": "Best French Toast Recipe Ever!!!  And i Don't Think \"Best\" is a Strong Enough Word  :)))P.......",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Celtic Bad Boy Poet Chef 7",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-24T18:42:50.580Z",
+            "reviewBody": "Other than cutting the recipe in half, I followed it to the letter. And let me tell you, I will never touch another slice of plain old French Toast again! This was amazing!!!! I'm already trying to think of ways to adapt it into a fun shareable treat.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenna",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-06-28T16:34:13.157Z",
+            "reviewBody": "My family loved this, they came out perfect.\nI added orange zest \nI totally recommend it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alison",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-28T12:31:41.030Z",
+            "reviewBody": "I was surprised that the orange flavor shone through, but it did. An easy and yummy recipe. Halved the recipe for 2 people. Will be making this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "billeh",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

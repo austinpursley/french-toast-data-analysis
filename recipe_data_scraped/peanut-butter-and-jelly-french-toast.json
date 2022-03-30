@@ -1,0 +1,178 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/41276/peanut-butter-and-jelly-french-toast/",
+    "name": "Peanut Butter And Jelly French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "Peanut Butter And Jelly French Toast"
+    },
+    "datePublished": "2021-08-03T02:26:24.000Z",
+    "description": "This hearty breakfast is very easy to make - let the kids help!",
+    "prepTime": null,
+    "cookTime": null,
+    "totalTime": null,
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "12 slices bread",
+        "\u00be cup peanut butter",
+        "6 tablespoons jelly or jam",
+        "3  large eggs eggs",
+        "\u00be cup milk",
+        "\u00bc teaspoon salt",
+        "2 tablespoons butter or margarine"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Spread peanut butter on six slices of bread; spread jelly on other six slices of bread. Put one slice of each together to form sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In mixing bowl, lightly beat eggs; add milk and salt and mix together.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet over medium heat. Dip sandwiches in egg mixture, coating well. Place in skillet and brown both sides. Serve immediately.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 8,
+        "itemReviewed": "Peanut Butter And Jelly French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "462.7 calories",
+        "carbohydrateContent": "46.9 g",
+        "cholesterolContent": "105.6 mg",
+        "fatContent": "24.8 g",
+        "fiberContent": "3.4 g",
+        "proteinContent": "16.2 g",
+        "saturatedFatContent": "7.3 g",
+        "servingSize": null,
+        "sodiumContent": "650.7 mg",
+        "sugarContent": "16.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2003-02-15T07:12:17.437Z",
+            "reviewBody": "I really didn't care for this.  It was probably my fault since I didn't use the peanut butter...I just used strawberry jelly.  I think I'll just stick with regular PB&amp;J sandwiches, but might give this a try with my youngins.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JOSIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-27T12:03:49.140Z",
+            "reviewBody": "I just made this for my post-longrun breakfast and it was delicious!  I used natural peanut buter and wholewheat read (like I always do) and Smucker's blackberry preserves-- I think preserves work really ell here, because they're s thick and rich.  I scaled the recipe to make one servng, but I ended uphaving to use twicethe eggsand milk thattherecipe called for-- otherwis there wasn't enough to saturate the bread,so you may want to increase the amount there.  Also,a little cooking spray eliminates the need for butter-- trust me you won't miss it, the peanut butter makes this plenty rich as it is!\r\nI loved it and plan to play around wit it-- maybe peanut butter an marshmallows-- or chocolate!!!\r\n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DEVINT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-05-05T20:33:54.437Z",
+            "reviewBody": "Really good once you get past the taste of warm peanut butter.  As a peanut butter freak, this will easily become a favorite of mine.  I added a splash of vanilla.  Next time I think I'll add some cinnamon too!  Good stuff :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aviva Jorstad",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-02T09:41:41.967Z",
+            "reviewBody": "I really don't like french toast, however, peanut butter can make anything taste fantastic!! I added a little vanilla to the egg mixture and used raspberry jam. Try this with cream cheese and jelly too! Loved it!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-09-24T06:02:11.960Z",
+            "reviewBody": "Super fun for the whole family to make and VERY yummy! I also added a splash of vanilla to the egg mixture (I use Suttons Bay double strength clear vanilla).  This will probably become a Saturday-morning-must-have-breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-02-13T07:59:48.433Z",
+            "reviewBody": "My whole family enjoyed this recipe for breakfast!  To make the batter more of a french toast flavor, add 2 tsp. of vanilla and 1 tsp. of ground cinnamon.  Top with syrup!  Good Stuff!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

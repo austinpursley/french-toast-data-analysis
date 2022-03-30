@@ -1,0 +1,421 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/140855/wife-saver-french-toast/",
+    "name": "Wife Saver French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F840342.jpg",
+        "width": 3264,
+        "height": 2448
+    },
+    "datePublished": "2020-06-19T03:29:53.000Z",
+    "description": "A great breakfast or brunch dish if you have company overnight. Ooey, gooey and tasty!",
+    "prepTime": "P0DT0H25M",
+    "cookTime": "P0DT0H50M",
+    "totalTime": "P0DT9H15M",
+    "recipeYield": "1 - 9x13 inch baking dish",
+    "recipeIngredient": [
+        "1 cup light brown sugar",
+        "\u00bd cup light corn syrup",
+        "\u00bc cup butter",
+        "10 slices French bread",
+        "2 eggs",
+        "2\u2009\u00bd cups 1% low-fat milk",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon all-purpose flour",
+        "1 pinch salt",
+        "2 tablespoons white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Grease a 9x13 inch baking dish. Stir the brown sugar, corn syrup, and butter together in a saucepan over medium-high heat until bubbly. Pour into the prepared baking dish, then arrange the sliced French bread evenly over the syrup. Whisk together the eggs, milk, vanilla extract, flour, and salt until smooth. Pour over the French bread. Cover, and refrigerate overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Stir together the white sugar and ground cinnamon; sprinkle over the french toast.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven until golden brown on top, about 50 minutes.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "jowolf2",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/1872290"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 22,
+        "itemReviewed": "Wife Saver French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "297.7 calories",
+        "carbohydrateContent": "54.7 g",
+        "cholesterolContent": "51.9 mg",
+        "fatContent": "6.7 g",
+        "fiberContent": "0.7 g",
+        "proteinContent": "6.5 g",
+        "saturatedFatContent": "3.7 g",
+        "servingSize": null,
+        "sodiumContent": "257.7 mg",
+        "sugarContent": "29 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-25T08:53:11.59",
+            "reviewBody": "Besides cutting down a bit on the sugar I followed the directions exactly.  However I could only fit 6 slices of bread in the pan, they were pretty big slices and I had to squeeze them to fit.  That being said, I felt there was way too much milk.  The bread was really wet after baking.  It had really great flavor and the house smelled wonderful while baking.  I may try again using less milk and maybe more egg.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FoodFan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-29T06:12:40.653",
+            "reviewBody": "This was a delicious and easy to prepare recipe.  I love being able to put breakfast together the night before and just pop it in the oven in the morning.  I had to tweak the recipe a little because I only had a demi loaf of day old French bread.  I was able to get 8 small 1 inch slices out of the loaf.  I was going to halve the recipe but ended up just tweaking it a little.  Here are the changes I made: 1/2 c brown sugar, 1/4 c light corn syrup, 8 slices of french bread, 1 3/4 c 2% milk.  Everything else I left the same.  I baked it in an 8x8 glass baking dish.  I mixed together the cinnamon and sugar mixture but ended up only using a little over half because that seems like enough.  I baked 50 mins and it came out of the oven perfect!  My husband loved it, so I will be making this again in the future!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Stacy P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-17T08:57:37.29",
+            "reviewBody": "My son loves french toast and asked for it today for breakfast.  I had a small loaf of day old french bread. I halved the recipe, but used 2 eggs. I did NOT refrigerate overnight, just prepared and let sit for 15 minutes to soak. I also mixed the cinnamon in the egg mixture. Skipped the sprinkle of sugar before baking. Served with blueberry and spice sauce recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GodivaGirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-03T08:31:00.217Z",
+            "reviewBody": "The overall flavor of this french toast was delicious and a big hit with my family when I made it for our New Year's Day brunch  but in the future, I will make a few slight modifications to the recipe.  First, I will just let it sit for maybe a couple of hours before I plan to bake it, next I will use parchment paper on the bottom of the pan and instead of pouring the brown sugar abd corn syrup mixture in the bottom of the pan, I think it's best to pour it on top of the bread.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kia mckinney",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-19T07:08:13.253",
+            "reviewBody": "I made the recipe as is, and feel it is only 4 stars.  The flavor is good, but the texture is MUSH.  If I were to make it again, I would cut the milk by nearly half.  It is also very sweet, I would be tempted to cut back on the corn syrup.  The caramel side of each piece was the best part.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Auntie D in MN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-31T15:31:24.990Z",
+            "reviewBody": "This was great. I tried it for Saturday brunch with the ladies from my church. Because of the reviews that it may be a little too sweet, I didn't use the syrup.\nThis was a hit. I will use it again,it's a time saver.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chris2008",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-29T10:40:41.407Z",
+            "reviewBody": "This was so yummy.  I don't like when people change a recipe aropund and they rate it, but here I go.  I didn't have time to let it set over night becuase my kids were hungry now,of course! But I really wanted to try this one.  I followed the recipe and cooked the brown sugar, etc.  Instead of pouring the egg mixture over the bread, I continued to make regular french toast on the stove.  I tol some of the brown sugar mixture and spread it in a skillet, dunked the bread into the egg mixture and put it in the skillet and cooked as usual.  It still turned out wonderful!  I can't wait to plan ahead and make it in the over to see the difference.  Thanks for sharing this recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mlewis3jm",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-26T13:25:25.230Z",
+            "reviewBody": "Great! I used 12 pcs. of 1\" thick bread so I increased the eggs to 3 and kept the milk quantity as stated.  It was not soggy at all.  In error I mixed the white sugar and cinnamon into the egg mixture before hand instead of just prior to baking - this worked out fine.  Very easy and very tasty recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RAISIN1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-27T08:26:56.300Z",
+            "reviewBody": "I tried this recipe this past weekend on my husband's family and it was a big hit!  The directions were easy to follow and the end results were wonderful!   ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cindy g",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-16T17:59:55.090Z",
+            "reviewBody": "General consensus of the fam?  They really liked it.  DH: \"This is up there with the best!\"  The lad:  \"Yummy! It tastes like shin-min (cinnamon) rolls.\"  Even the girl ate this... But, me?  I thought this was unpleasant to say the least.  Had the consistency of a loose dough! Way too wet, mushy and weird.  Had it crisped up - even a little bit, I bet I would have loved it. Only change: Adding in a splash of Almond Extract. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sumchelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-22T11:41:49.617Z",
+            "reviewBody": "My family RAVED over this!I used maple syrup in place of the corn syrup and only used 1/4 cup of dark brown sugar.  This is a definite keeper!  Thanks for sharing",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "graciegirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-09T18:44:57.423Z",
+            "reviewBody": "Pretty tasty, used two layers of raisin bread to soak up the liquid instead of thick bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Stacey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-29T06:47:59.573Z",
+            "reviewBody": "I think this needs more eggs (6-8) and less milk (1 cup).  Otherwise, it was very good.  It's so easy to make for overnight guests.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Laura Bloomer Hoerth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-08T12:17:27.143Z",
+            "reviewBody": "This was easy and yummy.  I added another egg and about 3/4 cup more milk.  I like my French Toast a bit moist.  The 'sugar' turned to a gooey concoction that stuck to our teeth as it cooled.  Great dish for a morning special breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzanne Horn Nelson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-16T09:55:08.693Z",
+            "reviewBody": "I only gave it 2 stars for the simple reason that the light corn syrup made it so hard to eat. It was so sticky that it stuck to your teeth and very hard to cut up because it stuck to the plate as well. I didnt use the 1/2 cup it called for just about a quarter cup. It did have a great flavor, just not easy to eat. Maybe next time will leave it out altogether. Also took some others advice and cut back on the milk. Cut it in half (1 1/4 cup) and stiil was just a tad to mushy. Need to cut it back alittle more. It has a great flavor and all but need to figure out the corn syrup ratio so it isnt so gummy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mike",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-23T10:00:42.740Z",
+            "reviewBody": "Soggy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "becky",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-20T07:00:31.220Z",
+            "reviewBody": "We generally liked it but it was too sweet!  I even cut the sugar and used natural sugars (combination of coconut sugar, Eurythratol and maple syrup for the bottom).  I also used sprouted grain bread instead and it tasted fine.  Next time I would cut the sugar in half.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daisy4",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-07T23:32:34.170Z",
+            "reviewBody": "This is the best French toast recipe ever! My family requests this every thanksgiving morning and Christmas morning. This past Weekend we vacationed at a PA state park cabin and this was the breakfast requested. Thank you for such a wonderful and simple dish.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cecile Crowley Zurawa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-08T16:27:46.293Z",
+            "reviewBody": "I tripled the recipe for a big crowd.  It tasted delicious, but was as others have said, a little mushy. I will for sure make it again but cut back on the milk.  I even drained the pans before cooking. I also lowered the temp to 325* and cooked for longer hoping it would crisp it up better.   So for the mushy aspect I had to give it 4 stars. \nAlso, I cooked it in 2 glass pans and one foil pan, the foil pan was the least sticking of the batches.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "motherbear",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-04T10:08:54.597Z",
+            "reviewBody": "It is very sweet, but the problem was some parts were chewy while other parts were soggy.  It didn't cook evenly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "momncrew6",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

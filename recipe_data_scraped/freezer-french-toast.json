@@ -1,0 +1,135 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/124102/freezer-french-toast/",
+    "name": "Freezer French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F307459.jpg",
+        "width": 2856,
+        "height": 2142
+    },
+    "datePublished": "2021-08-02T11:39:27.000Z",
+    "description": "I don't care for prepackaged frozen French toast, but I rarely have time in the mornings to prepare it from scratch. Then my friend gave me this wonderful recipe. I keep a freezer full of these slices and simply pop them into the oven for a homemade breakfast in no time.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "4  large eggs eggs",
+        "1 cup milk",
+        "2 tablespoons sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon ground nutmeg",
+        "10 (3/4 inch thick) slices day-old French bread",
+        "1 tablespoon butter or stick margarine, melted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, beat eggs, milk, sugar, vanilla and nutmeg. Place bread in a well-greased 13-in. x 9-in. x 2-in. baking dish. Pour egg mixture over bread. Let soak for several minutes, turning once to coat. Freeze until firm. Package in airtight containers. To bake, place bread on a well-greased baking sheet. Dot with butter. Bake at 450 degrees F for 7 minutes; turn and bake 10-12 minutes longer or until golden brown.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 5,
+        "itemReviewed": "Freezer French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "257.3 calories",
+        "carbohydrateContent": "29.7 g",
+        "cholesterolContent": "198.5 mg",
+        "fatContent": "9.7 g",
+        "fiberContent": "0.9 g",
+        "proteinContent": "12.5 g",
+        "saturatedFatContent": "4.3 g",
+        "servingSize": null,
+        "sodiumContent": "346.3 mg",
+        "sugarContent": "10.5 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-15T16:28:38.600Z",
+            "reviewBody": "Very easy way to make breakfast, with little preparation needed in the morning. I found best results cooking with a lightly greased pizza tray",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sugarspice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-03T07:06:06.940Z",
+            "reviewBody": "These are excellent!  We make them every christmas and of course always make extra to leave in the freezer for another day.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cheri",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-21T14:10:02.740Z",
+            "reviewBody": "This is fabulous!  I've made it twice in one week (had grandkids in town to eat it!).  The second time I sliced the bread 1/2-inch thick and liked it even better.  Also added a dash of cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stitchinmimi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-05T06:27:38.970",
+            "reviewBody": "Not bad.  I like that you can prepare this ahead of time . . . such a timesaver for busy people!  Plus, I'm not at my best in the morning so making things from scratch isn't the easiest thing for me.  I am not a huge fan of french toast, but this is nice.  It's crispy and still soft and gooey.  I made with Carrot Raisin Bread, which was a good match for the recipe.  Thanks for sharing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pomplemousse",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

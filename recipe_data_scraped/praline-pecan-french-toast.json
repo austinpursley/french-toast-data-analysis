@@ -1,0 +1,682 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/230244/praline-pecan-french-toast/",
+    "name": "Praline Pecan French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F02%2F18%2F230244-praline-pecan-french-toast-mfs-44.jpg",
+        "width": 2000,
+        "height": 1334
+    },
+    "datePublished": "2020-03-05T05:09:56.000Z",
+    "description": "A wonderful baked French toast prepared the night before and baked the next morning. This makes an excellent holiday breakfast! Serve with maple syrup or as is.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H35M",
+    "totalTime": "P0DT8H50M",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+        "6 eggs",
+        "1\u2009\u00bd cups half-and-half",
+        "1 tablespoon brown sugar",
+        "2 teaspoons vanilla extract",
+        "1 (12 ounce) loaf French bread, sliced 1-inch thick",
+        "1 tablespoon butter",
+        "\u00be cup firmly packed brown sugar",
+        "\u00bd cup maple syrup",
+        "\u00be cup chopped toasted pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Grease a 9x13-inch baking dish.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs, half-and-half, 1 tablespoon brown sugar, and vanilla extract in a bowl until mixture is smooth and brown sugar has dissolved. Pour 1 cup egg mixture into prepared baking dish. Arrange slices of French bread into baking dish and pour remaining egg mixture evenly over bread. Cover and refrigerate overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C).\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a saucepan over medium heat; mix 3/4 cup brown sugar and maple syrup into butter, stirring until smooth. Bring syrup to a boil, reduce heat to low, and simmer for 1 minute, stirring constantly. Stir pecans into syrup. Spoon pecan praline syrup evenly over French toast casserole.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake casserole in the preheated oven until set and golden brown, about 30 minutes.\n"
+        }
+    ],
+    "recipeCategory": [
+        "Breakfast Eggs"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "SACHABEAR",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/849797"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 42,
+        "itemReviewed": "Praline Pecan French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "464.7 calories",
+        "carbohydrateContent": "63 g",
+        "cholesterolContent": "160.1 mg",
+        "fatContent": "19.2 g",
+        "fiberContent": "2.1 g",
+        "proteinContent": "12.1 g",
+        "saturatedFatContent": "6.2 g",
+        "servingSize": null,
+        "sodiumContent": "365.9 mg",
+        "sugarContent": "35.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-08T13:12:42.313Z",
+            "reviewBody": "I loved this.  It was so tasty and great becuase you can make it ahead of time and the next day it takes no time at all to prep.  Perfect for christmas day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nannette",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-31T06:42:24.373Z",
+            "reviewBody": "Made it this morning.  Wonderful!  Will make it again.  Not overly sweet and we love the pecans.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tlkclong",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-07T07:39:31.743Z",
+            "reviewBody": "Yummy, Yummy, Yummy!  Very easy to make and great to take to a brunch.  You may have to downsize to a smaller pan; when I laid the bread down, it didn't make enough for a 9\" x 13\" baker.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lisa C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-15T05:41:45.207Z",
+            "reviewBody": "So yummy! Followed the recipe exactly except I used gluten free bread. Made it for my dad and my husband.... My dad didn't even know it was gluten free because it was so freaken amazing! Couldn't be easier and the toasted nuts give it a bit of saltiness. Yum yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "hprinz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-25T08:58:27.667Z",
+            "reviewBody": "This tasted ok. Some of the batter didn't absorb into some of the bread. So we had some dry toasty parts and some soggy parts. Maybe I'll try it again, and dip the bread into the batter before putting in the pan. That way each price would be evenly covered.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wendy Reimer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-20T16:20:44.033Z",
+            "reviewBody": "OMG!  Delicious.  A big hit with both adults and kids.  I increased topping recipe a bit and, based on other comments, cooked it about 10 min. longer.  Served with Cool Whip.  \n\nI stole an idea from another recipe and added 1/2 tsp. orange zest.  Can't really swear it made a difference, but it was soooo good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MacL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-07T03:46:01.520Z",
+            "reviewBody": "Sounded good, but it looked awful, and bread was soggy.  It never turned golden brown for me. Also if you are trying this recipe use a throw away pan, I'm still trying to clean my pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rita",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-11-05T15:32:44.210Z",
+            "reviewBody": "I followed the recipe exactly but it never set or turned golden brown so I baked this for additional 5 minutes, never turned golden and was very soggy.  Any suggestions?",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carol",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T14:05:29.277Z",
+            "reviewBody": "This was good although I thought it was a little sweet.  I think the syrup in the sauce was a little much.  If I make it again I will maybe add a little milk instead of the syrup to make more of a caramel type sauce but allow the individuals to put on their own syrup as needed. Nice change from the usual though, thanks for sharing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jadedgurl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-03-01T15:27:10.203Z",
+            "reviewBody": "It was good but too sweet",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mrsswift73",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T07:33:11.657Z",
+            "reviewBody": "Very easy and delicious. I made it this morning for Christmas breakfast and everyone loved it. At first I didn't think it would have been enough sauce, but it was perfect and plenty sweet!! Nice change from the usual Christmas morning monkey bread. Also, I had to cook it a little longer than suggested, but could just be differences in ovens.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tami Hodges Choate",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-07-22T10:08:21.440Z",
+            "reviewBody": "Sweet and scrumptious! My son requested this for his birthday brunch and it certainly delivered. I used some half and half but mostly 2% milk. My loaf was a bit small so I did have some eggy corners. Also ran out of time so I did not toast the pecans. All in all very good for a special morning, thanks for sharing the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ONIOND",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-26T05:03:14.817Z",
+            "reviewBody": "Made this recipe for a brunch and everyone loved it. I will surely make it again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gail E",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-24T11:01:46.473Z",
+            "reviewBody": "DELIGHTFUL! I will 110% be making this dish again.  It was wonderful and completely satisfying.  I'm actually eating the leftovers (with a brunch egg bake) for lunch right now, and it's even better than it was last night.  I made the French toast exactly as is the night before I served it, warmed up the pralines syrup mixture, spooned on top of the bread, and baked it.  It was grand. I cannot say enough good things about this recipe.  My family raved about it for ten minutes; they could not stop talking about how good it was.  I paired this dish with the brunch egg bake that I also found on this site.  It was a wonderful brinner to put the two together!  I'm so, so glad I tried this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DaAshPash",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-02-08T08:18:10.570Z",
+            "reviewBody": "OMG, this is awesome! With that being said it is extremely rich. What a treat. I followed the directions exactly except I cubed the bread, mixed it into the egg mixture then poured it into the prepared pan. Thank you for this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mud Mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-02T15:32:02.597Z",
+            "reviewBody": "Always a huge hit at brunch!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shorac",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-31T18:00:03.533Z",
+            "reviewBody": "Use french toast bread. Butter bottom of pan. Sprinkle pecans evenly on bread, then pour br.sugar/butter mixture over that. (didn't toast pecans) Put tray underneath pan - it might overflow)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-20T11:59:16.513Z",
+            "reviewBody": "Made this on Saturday nite for a quick fix for Sunday morning, before church. Well we ate most of it on Saturday nite (we didnt let it sit, just mixed &amp; cooked) it was great &amp; so easy to assemble. I will definately add this to my favorites.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Teejay823",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-19T10:34:20.910Z",
+            "reviewBody": "Love this! I used mixed chopped nuts instead of pecans and it's been asked for by my kids every weekend!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "heather",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-03-07T12:39:48.767Z",
+            "reviewBody": "good taste,  had to bake an additional 15 min.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lyo1984",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-10-13T15:18:25.317Z",
+            "reviewBody": "Have made this several times for holiday potlucks, have never brought any home for leftover's!  Love it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "deb in ohio",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-07T20:42:40.203Z",
+            "reviewBody": "Little bit soggy but excellent",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Frostyrunner",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-10-12T16:55:26.730Z",
+            "reviewBody": "Excellent, easy recipe. I make this the night before and then cook the sauce in the morning. It is our Sunday morning treat that helps get the kids going before church.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "famliymcd",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-06-26T13:39:32.333Z",
+            "reviewBody": "Easy to make and very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Denise Nichols",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-27T23:26:03.050Z",
+            "reviewBody": "This was totally amazing!  I used a vanilla caramel coffee creamer instead of the half-n-half, and cut the vanilla in half--and everyone loved it!  No syrup needed for this French toast--it was perfection!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Debra Hornung Zachrich",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-05-11T05:02:08.560Z",
+            "reviewBody": "My family loved this!! I made it for Mother's day brunch and everyone raved.  The loaf of bread I bought was 16 ounces so I increased increased the recipe accordingly and baked a little longer but I still used a 9x13 dish.  It was light and creamy and the praline topping added just the right sweetness. This will definitely be my go to breakfast casserole.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stjchurchcook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-29T03:51:48.170Z",
+            "reviewBody": "I had my kids and their families over for dinner and we had this for our dinner! It was a BIG hit they all loved it??",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leita Child Farnsworth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-26T17:00:23.043Z",
+            "reviewBody": "was good, Dalen really liked. Todd did not. It was just good, nothing fantastic",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "actov",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-28T18:53:42.547Z",
+            "reviewBody": "My Mom made this for us over the summer while on vacation. It was so good! I decided to make it for Thanksgiving breakfast and it did not disappoint. I left the pralines off because I have two picky eaters. Will definitely be a breakfast special in our house.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lexi Brewer-Ballew",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-31T11:14:31.770Z",
+            "reviewBody": "delicious!  I used egg beaters and fat free half and half and it turned out great.  added cinnamon and dried cherries.  would make it again anytime!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mihaela Charlier",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2022-03-14T22:34:08.349Z",
+            "reviewBody": "Disaster!  The center was completely soggy, although the edges and top appeared done.  I followed the recipe and am an experienced cook.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeanne Flowers",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-18T19:53:53.467Z",
+            "reviewBody": "I\u2019ve made this every Christmas for years now. Make the night before and stick in the oven the morning of. I double the recipe and layer challah bread in a 9x13 pan. It puffs up nicely. My favorite breakfast dish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachel Courtemanche",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-24T18:08:17.623Z",
+            "reviewBody": "We make this every year for Christmas morning! Absolutely love it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mary Salentine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-01T17:17:09.277Z",
+            "reviewBody": "I made this for Easter brunch. It was a huge hit. Everyone loved it. I had syrup out, but nobody used it. I will definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pamalynn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-25T22:40:50.743Z",
+            "reviewBody": "Delicious and rich.  Made this for two celebratory brunches during the holiday. My son loved it so much, he asked his wife to make it for Christmas morning.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "codenamejag",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

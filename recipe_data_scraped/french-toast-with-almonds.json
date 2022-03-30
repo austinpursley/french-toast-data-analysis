@@ -1,0 +1,78 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/82532/french-toast-with-almonds/",
+    "name": "French Toast with Almonds",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "French Toast with Almonds"
+    },
+    "datePublished": "2021-08-02T23:22:37.000Z",
+    "description": "Toasted almonds make a delectable coating for tasty French toast made with SARA LEE&reg; Soft & Smooth&trade; Whole Grain White Bread!",
+    "prepTime": "P0DT0H30M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT1H50M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 cup slivered almonds",
+        "\u00bd cup liquid egg substitute",
+        "1 cup fat-free milk",
+        "3 tablespoons all-purpose flour",
+        "\u00bc teaspoon salt",
+        "\u00bd teaspoon baking powder",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon almond extract",
+        "12 slices SARA LEE\u00ae Soft & Smooth\u2122 Whole Grain White Bread",
+        "3 tablespoons canola oil",
+        "3 tablespoons butter",
+        "3 tablespoons confectioners' sugar for dusting"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place almonds in a small saucepan over low heat. Tossing frequently, toast until lightly browned, 5 to 10 minutes. Remove from heat, and set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, whisk together egg substitute, milk, flour, salt, baking powder, and vanilla and almond extracts. Soak bread slices in the mixture until saturated. Place slices in a shallow pan. Refrigerate slices approximately 1 hour.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat canola oil and butter in a large skillet over medium heat. One at a time, press one side of soaked bread slices in the almonds to coat. Fry bread slices on both sides until golden brown. Dust with confectioner's sugar before serving.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "French Toast with Almonds",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "462.9 calories",
+        "carbohydrateContent": "41.7 g",
+        "cholesterolContent": "16.3 mg",
+        "fatContent": "27.5 g",
+        "fiberContent": "5.9 g",
+        "proteinContent": "15.4 g",
+        "saturatedFatContent": "6.2 g",
+        "servingSize": null,
+        "sodiumContent": "472.4 mg",
+        "sugarContent": "12 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

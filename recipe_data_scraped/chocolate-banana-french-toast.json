@@ -1,0 +1,228 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/229846/chocolate-banana-french-toast/",
+    "name": "Chocolate Banana French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F989232.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-04T16:24:31.000Z",
+    "description": "Using chocolate milk and bananas to flavour their French toast is the way Joe and Connie Van Aert like to make this family favourite.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H3M",
+    "totalTime": "P0DT0H8M",
+    "recipeYield": "10 servings",
+    "recipeIngredient": [
+        "5  large eggs eggs",
+        "\u2154 cup chocolate milk",
+        "2 each ripe bananas, well mashed",
+        "10 slices bread",
+        "1 tablespoon Butter or cooking oil",
+        "1 slice Sliced bananas and strawberries",
+        "4 tablespoons Maple syrup, chocolate syrup, and/or jam"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs in a large bowl until well blended. Whisk in chocolate milk and bananas.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip bread slices into egg mixture; let soak briefly to coat both sides. Remove bread, letting excess egg mixture drip back into bowl, and place in a large lightly buttered or oiled frying pan over medium heat. Cook bread for a few minutes on both sides until golden brown.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve topped with bananas and strawberries, if desired, and drizzled with syrup. Or, spread with jam.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 10,
+        "itemReviewed": "Chocolate Banana French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "168.1 calories",
+        "carbohydrateContent": "25.9 g",
+        "cholesterolContent": "97.4 mg",
+        "fatContent": "4.9 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "5.8 g",
+        "saturatedFatContent": "1.9 g",
+        "servingSize": null,
+        "sodiumContent": "225.4 mg",
+        "sugarContent": "10.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-15T11:45:28.900Z",
+            "reviewBody": "Delicious! This was a proved to be a nice spin on an old favorite. I love french toast and this was a very tasty new way to prepare it especially with a combination of chocolate and banana. I cut the recipe in half to give it a try and am glad I did. I used thick cut Texas toast and all I added was a cinnamon and vanilla extract to the egg mixture. When these were nice and crispy I dusted them with powdered sugar, a dollup of butter, sliced bananas and drizzled some real maple syrup over top - a really nice treat for breakfast with a glass of OJ!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-29T03:52:49.820Z",
+            "reviewBody": "I stuck the eggs, milk and some really chocolate-y milk in the blender and let it blend until uniform and frothy as to really get the bananas infused into the other ingredients. I fried each piece in a little butter in my cast iron skillet. I did not try this myself but the husband and kids liked it. They must have, they ate every single piece.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-05T14:12:35.250Z",
+            "reviewBody": "This recipe is perfect for a fun family breakfast. It is easy to make and a hit with the kids. Also we used cinammon spiced apples to add a twist.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chef_Cheryl-Lynne",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-01T08:49:25.233Z",
+            "reviewBody": "Adjusted the recipe for 4 servings, did not like it very much.  Could not taste the chocolate flavor and crushing the bananas into the egg mixture caused the banana batter to burn when cooking.  May try again  but will  slice the bananas  on top.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sandy Ehler",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-05-22T06:55:04.510Z",
+            "reviewBody": "This is fantastic! What a great idea, I can't believe I never thought about making this! I have a three year old and I'm always looking for new breakfast ideas. She isn't big on banana so it was a great way to introduce the flavor to her. Instead of adding sliced strawberry on top I just made a sauce out of them and added crushed walnuts on top. She loved it and actually asked for a second helping, that never happens!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "shartman5787",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-05T07:25:38.223Z",
+            "reviewBody": "The taste was nice but not very chocolatey. The banana sort of blocked out it out. Was good anyway and will probably make again",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "coleebear",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-01T13:18:12.237Z",
+            "reviewBody": "This was yum and a nice twist on a favourite.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Honour Musuku",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-30T12:48:08.530",
+            "reviewBody": "I used the immersion blender to pulverize the mashed bananas into the eggs and milk.  For the chocolate milk, I just mixed some light chocolate syrup that I had in the fridge into skim milk.  I had a loaf of unsliced bread and sliced it thick, like Texas toast.  Definitely could taste both the banana and chocolate flavors, enhanced by the sliced bananas when serving.  The only negative for me is the color.  The chocolate makes the bread really dark (almost looking burned), so it's not so appealing to the eye.   But we love french toast, enjoyed this version, and we will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lutzflcat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-05T13:58:11.337Z",
+            "reviewBody": "Amazing!  You cannot start a Saturday off better than that!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kuscobar",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

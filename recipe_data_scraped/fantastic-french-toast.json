@@ -1,0 +1,166 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/76784/fantastic-french-toast/",
+    "name": "Fantastic French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F983671.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T15:28:00.000Z",
+    "description": "Treat your family to this peanutty twist on a breakfast classic.",
+    "prepTime": null,
+    "cookTime": null,
+    "totalTime": null,
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "4  large eggs eggs",
+        "\u00bc cup milk",
+        "1 teaspoon vanilla",
+        "1 pinch Dash salt",
+        "1 tablespoon butter or margarine",
+        "4 slices bread",
+        "\u00bc cup chopped peanuts",
+        "\u00be cup maple-flavored syrup ",
+        "\u00bd cup JIF\u00ae Creamy Peanut Butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine eggs, milk, vanilla and salt. Beat slightly with a fork until blended.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium sized skillet, melt butter or margarine.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip bread slices into egg mixture, coating both sides of each. Fry bread until golden brown on one side; turn and fry second side. Top each toast slice with some chopped peanuts.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a small saucepan, blend maple syrup and JIF&reg;. Heat and stir until warm and pour over the French toast.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 5,
+        "itemReviewed": "Fantastic French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "586.1 calories",
+        "carbohydrateContent": "64.7 g",
+        "cholesterolContent": "147.4 mg",
+        "fatContent": "30.7 g",
+        "fiberContent": "3.3 g",
+        "proteinContent": "18.1 g",
+        "saturatedFatContent": "7.7 g",
+        "servingSize": null,
+        "sodiumContent": "456.1 mg",
+        "sugarContent": "31 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-27T03:17:36.150Z",
+            "reviewBody": "Huge hit with the kiddos (and with me as well as I could use up a little of a day-old loaf of bread I had). The kids flipped for the \"syrup\" as peanut butter and syrup is one of their favorite pancake toppings. I did add a little more milk only because I had to make a couple extra pieces of french toast because the kids were really hungry this morning and I used my own homemade maple-vanilla pancake syrup. This recipe was the hit of the morning. NOTE: I did not want the syrup to be too thick for the kids, so I cut back a little on the peanut butter.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-16T08:45:42.697Z",
+            "reviewBody": "Good idea!! However, the sauce is really thick and must be eaten quickly otherwise it becomes and extremely heavy dish and makes you want to take a nap. Use Vanilla soy milk instead of have two additional ingredients.  Its just the same but makes the dish a lot lighter and easier on the system.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JHensley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-04T17:15:11.490Z",
+            "reviewBody": "I knew this would be awesome...our family ALWAYS has peanut butter with waffles, pancakes, and french toast! We just usually mix the pb up with the syrup on our plates, but melting the pb with the syrup on the stove (or microwave) does add a nice warming touch.  Yummmmmmmy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ghostfox",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-03T08:32:52.777Z",
+            "reviewBody": "Tried this one morning for a change.  It was delicious!  I used sourdough bread and I only used half of the peanut butter it called for.  I tried to cut back on the calories a bit by using light syrup and natural peanut butter.  The peanut butter/syrup mixture reminded me of a glaze you would see on a donut! It was sinful!  I will make this again on special occasions!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jillshannan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-16T15:50:56.190Z",
+            "reviewBody": "French toast part was good.  Peanut butter part was a bit over the top.  One of my kids was scraping it off, and the other one only wanted the syrup, not the french toast.  Not a real successful meal for this family.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mary Frese",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

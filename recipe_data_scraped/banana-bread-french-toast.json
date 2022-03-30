@@ -1,0 +1,786 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/56689/banana-bread-french-toast/",
+    "name": "Banana Bread French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F597395.jpg",
+        "width": 3648,
+        "height": 2736
+    },
+    "datePublished": "2018-03-21T16:31:49.000Z",
+    "description": "This decadent breakfast treat is great way to start the day. It's so delicious you'll wish you could eat it every morning.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "3 eggs",
+        "3 tablespoons sweetened condensed milk",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons butter",
+        "1 loaf banana bread",
+        "1 tablespoon confectioners' sugar for dusting"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow bowl, whisk together the eggs, sweetened condensed milk and vanilla with a fork. Set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet over medium heat. Slice banana bread into 4 thick slices. Dip each slice into the egg mixture, then place in the hot pan. Cook on each side until golden brown. Dust with confectioners' sugar just before serving, if desired.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "LBR8",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/674277"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 58,
+        "itemReviewed": "Banana Bread French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "544.3 calories",
+        "carbohydrateContent": "72.6 g",
+        "cholesterolContent": "208.4 mg",
+        "fatContent": "24.1 g",
+        "fiberContent": "1.6 g",
+        "proteinContent": "10.8 g",
+        "saturatedFatContent": "9 g",
+        "servingSize": null,
+        "sodiumContent": "336.4 mg",
+        "sugarContent": "49.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2003-05-15T19:32:01.450Z",
+            "reviewBody": "I made this for my mother on Mother's Day. She loved it. If you like Banana Bread then this is a great recipe. It puts a kick on French Toast. The condensed milk made it taste Great. I added a few walnuts on top along with the powdered sugar. I suggest not putting as much powdered sugar as you would on regular French toast...It might be too sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-12-26T14:39:19.077Z",
+            "reviewBody": "I made this recipe on Christmas morning because I needed to use up a partial can of sweetened condensed milk.  Delicious -- what a treat!  I used a homemade loaf of sour cream banana bread and cut it into about 3/4\" slices rather than quarters.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mama Cass",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-17T18:22:10.140Z",
+            "reviewBody": "I wanted to test this so that if we have some banana bread around that's getting a little old, we have some way to use it. :) What I did: I didn't want to open a can of sweetened condensed milk for a couple tablespoons (I did a 2/3 size batch), so I used milk plus some sugar instead. I whisked the milk, sugar, eggs, and vanilla together, then stuck the bowl in the fridge for a bit while eating dinner. I cut two slices about 3/4 to 1-inch thick, dipped, fried, ate. Yum! I put a little Country Crock on the end product, the icing sugar was unnecessary (already very sweet). Thanks for a great snack idea!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Duckball",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-10T07:38:11.060Z",
+            "reviewBody": "We had seen this at IHOP and thought we'd try it at home since we had a loaf of banana bread to use. I used regular milk and diluted the eggs more than the recipe called for based on personal preference (my husband isn't a big fan of eggs!!) :) I added a little cinnamon to the batter as well. It only needed a little confectioners sugar, and was very good! Rich, and very tasty. I added a little fresh banana slices to top them off.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rebekah Rose Hills",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-02T06:00:08.857Z",
+            "reviewBody": "This recipe is wonderful! Like another reviewer, I used milk and sugar instead of condensed milk. This is going to become a weekend staple in our home.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DITTYBEAR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-14T05:43:12.577Z",
+            "reviewBody": "What an inventive idea! LBR8, you rock! This has become a family stable in our house, my 7yo loves this! (In pictured photo, I used banana bread baked in coffee cans, that is why it is round). I don't use the Eagle Brand, either, I use reg. milk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tanaquil",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-14T13:29:31.397Z",
+            "reviewBody": "I love banana bread and french toast, so it was only natural that I try this recipe. The condensed milk really made the recipe - the batter stuck on really well. This dish is also great cold with fresh sliced strawberries on top. The only advice I have is to not slice the bread too thick, as the batter cooks up fairly quickly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-07-20T18:20:25.763Z",
+            "reviewBody": "I admit I was skeptical when I found this recipe - I didn't think that banana bread would make good french toast. WOW. It is really good! I had a loaf of banana bread that was a little heavy and dry - this is the perfect way to use it up! Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachel Maneval Rode",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-28T10:54:53.847Z",
+            "reviewBody": "Yummmm.  So good.  I had condensed milk in my pantry, but did not want to open a can for just a few TBLS.  I had fat free half and half in fridge, so I used that with 2 TBLS sugar in place of the condensed.  I also added 1 tsp. cinnamon to the mixture.  This was good.  My family liked it and I would not hesitate to serve to guests for breakfast .",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "C J",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-30T09:49:43.837Z",
+            "reviewBody": "OMG this recipe was SO GOOD!  I used the banana bread I recipe from this site and it was just amazing! Didn't change a thing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SUSAN201",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-27T06:11:06.867Z",
+            "reviewBody": "This is a wonderful and very different take on French Toast!  We serve it to guests and it's always a big hit!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CJ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-28T09:12:32.207Z",
+            "reviewBody": "I love french toast bakes for convenience when having company so I made this the night before and backed in the oven; it worked out well.  I also didn't have any condenced milk but I usually use what ever flavored Coffeemate or Int'l Delight I have in the fridge and the flavors were fantastic!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jumpingjack",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-11T19:49:17.247",
+            "reviewBody": "Recently while dining at IHOP, my husband saw banana bread french toast on the menu.  I told him not to order it - I could make that at home.  Great recipe.  We all loved it.  Topped with maple syrup, whipped cream and walnuts.  Although I made a fresh loaf of banana bread to make this, I think this would be a good way to use up bread that no one was eating.  Would also work great with pumpkin bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mominml",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-08T06:47:52.467Z",
+            "reviewBody": "Made this for a breakfast special at our restaurant...sold out the first day and had to make 4 more loaves the next!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "milaminute",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-26T11:37:04.480Z",
+            "reviewBody": "Made this recipe on Christmas Eve morning and it was a hit  - I made the Banana Bread I recipe and used that bread for the French Toast and put rasins on it as well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CHERIERAFLA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-20T21:57:15.103Z",
+            "reviewBody": "Total winner! Didn't want to open sweetened condensed milk - just used regular with a tbsp of sugar. Fried bacon in a pan and then cooked it in the bacon fat and it was to dies for! A great father's day treat.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Honey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-27T00:10:07.170Z",
+            "reviewBody": "This recipe was delicious. I used store bought banana bread. Everyone at our brunch loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kinderteacher",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-03-08T11:09:22.483Z",
+            "reviewBody": "I can't say it was bad, I guess I like regular french toast better.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Nicholls",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-27T11:17:36.947Z",
+            "reviewBody": "I made this for the first time this morning.  My husband is not a big fan of banana bread, but I love it, as does my daughter.  I made banana muffin mix and poured it into a loaf pan, and cooked it for about 14 minutes.  Took it out to cool, then proceeded with the french toast preparation.  I liked it a lot!  Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rhonda H",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-24T06:23:41.197Z",
+            "reviewBody": "I made this today for the kids and they really enjoyed it. Mind you my 3 year old didn't touch it but he won't eat anything I make him anyways. Very good!! Yields more than 4 serving though, need to save the other for tomorrow!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "robyn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-12T12:10:57.823Z",
+            "reviewBody": "What a fun alternative to traditional french toast.  We loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "khargrave",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-02-12T21:11:45.847Z",
+            "reviewBody": "I made this for a group of college kids tonight and they loved it. I made banana bread from a mix last night and wrapped it in foil. I unwrapped it this morning and cut the loaf of bread in 1/2\" slices and then down the middle to have enough pieces for the group. I left it out all day to dry out a bit. I doubled the recipe and made it exactly as written, except I didn't have confectioner's sugar. I will definitely make this again. Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daizy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-08T14:48:19.600Z",
+            "reviewBody": "Wish I could agree with most everyone else, but I didn't care for this at all.  It just seemed like a mushy piece of bread, no matter what heat I cooked it at.  I'll just go back to toasting my banana bread when it starts to get dry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "porkchop",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-11T06:14:35.047Z",
+            "reviewBody": "This turned out awful. I did just as the recipe specified and all I ended up with was a gooey mass in the frying pan. I'm upset that I wasted these ingredients.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-10T09:40:33.497Z",
+            "reviewBody": "Excellent idea and a great recipe. It has a sweet enough taste that no syrup is required.  A two thumbs up family favorite.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BECCA1011",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-03-18T17:23:58.467Z",
+            "reviewBody": "Couldn't get enough! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ajvondey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-06T15:05:02.203Z",
+            "reviewBody": "This was absolutely delicious. I used the Banana Banana Bread recipe on this site... added some crushed walnuts on top and whipped topping &amp; yummm-oh!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Teriann Whisner",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-02T13:33:08.640Z",
+            "reviewBody": "Fantastic",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Krista",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-05T12:43:17.720Z",
+            "reviewBody": "While I really liked this, some others I served this to were not as crazy for it. I think it was the sweetness factor. Some people really feel the need for lots of syrup on their French toast and this recipe is pretty sweet on it's own. I did add a touch of pure maple syrup to mine and enjoyed it very much.***Well, I made it again and one person said it was the best thing he ever put in his mouth!***",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christy Cooks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-15T17:25:31.110Z",
+            "reviewBody": "I had some homemade banana bread I needed to use up, so I decided to make this. It was a great treat, but very sweet - not something you would want everyday for breakfast. I added some cinnamon, but otherwise made as written. I served it with fresh berries. Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bobbi123",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-31T07:55:48.953Z",
+            "reviewBody": "Oh My!  This was YUMMY!!   Everyone devoured it at breakfast  Definitely a keeper!  Thank you for sharing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yvonne Skinner Reitemeyer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-21T05:19:53.440Z",
+            "reviewBody": "Really good! I used Aunt Mary's Banana Chocolate Chip Bread from this site.  It was ridiculously rich, but still worth the effort.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jbooshey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-28T16:10:57.177Z",
+            "reviewBody": "my guests loved it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sandy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-31T11:17:04.853Z",
+            "reviewBody": "Not bad.  Quick and easy.  Will have to try again with homemade banana bread rather than store bought.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DRUNKENUNICORN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-16T04:12:14.120Z",
+            "reviewBody": "My son attempted this for Mothers Day but they didn't have banana bread so he bought thick Italian Sweet bread.  What a huge hit this was.  It was easy easy to make and we had small bowl of blueberries, strawberries, bananas so u could top with what you want. This batter is thick so no sogginess you get from using regular milk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "S Wille",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-28T16:35:25.280Z",
+            "reviewBody": "It's was very good and easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wisper Nuyttens",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-04-28T03:45:07.063Z",
+            "reviewBody": "Decadent and super easy.  Our family loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kimberly Horning",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-01-16T23:21:27.620Z",
+            "reviewBody": "What a great way to use up banana bread, or really any kind of breakfast bread! I will definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Fabry",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-26T16:15:17.417Z",
+            "reviewBody": "Everyone loved it. Next time I'm considering cutting the banana bread into sticks and making banana bread French toast sticks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "marchok",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-09-05T16:20:56.750Z",
+            "reviewBody": "I made a large batch of banana bread last week and had one loaf leftover this morning. found this recipe while looking for french toast. 11/10 would recommend.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GingerDanni",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-11-10T00:10:15.300Z",
+            "reviewBody": "Soooo good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allison",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-03-26T15:16:09.837Z",
+            "reviewBody": "Easy to follow &amp; tasted great.\nLiked being able to adjust the number of people cooking for.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DScott",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

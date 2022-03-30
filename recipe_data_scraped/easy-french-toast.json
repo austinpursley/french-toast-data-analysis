@@ -1,0 +1,1759 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/20901/easy-french-toast/",
+    "name": "Easy French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5589137.jpg",
+        "width": 3024,
+        "height": 3025
+    },
+    "datePublished": "2000-07-24T21:40:07.000Z",
+    "description": "A real treat for Sunday brunch! We garnish the toast with a light sprinkle of confectioners' sugar and serve it with maple syrup. For a special treat you can substitute Amaretto for the vanilla.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "2 servings",
+    "recipeIngredient": [
+        "1 egg",
+        "\u00be cup milk",
+        "1 tablespoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 pinch salt",
+        "2 slices bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Beat together egg, milk, cinnamon, vanilla and salt.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a lightly oiled skillet or griddle over medium heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Soak bread slices in egg mixture for 20 second on each side, or until thoroughly coated. Cook bread until both sides are lightly browned and crisp. Serve hot.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Brian",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/bbabiuk@home.com/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 2.5,
+        "ratingCount": 227,
+        "itemReviewed": "Easy French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "162.8 calories",
+        "carbohydrateContent": "20.2 g",
+        "cholesterolContent": "100.3 mg",
+        "fatContent": "5.2 g",
+        "fiberContent": "2.4 g",
+        "proteinContent": "8.2 g",
+        "saturatedFatContent": "2.1 g",
+        "servingSize": null,
+        "sodiumContent": "243.3 mg",
+        "sugarContent": "5.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2005-08-12T05:53:25.263Z",
+            "reviewBody": "If your french toast is soggy, your not cooking it all the way. Its pretty much impossible to cook it all the way on the stove top. Use 1 cup of milk and 3 large egg, add whatever else you like. dip each side of the bread in for 30 seconds, let it sit for 1 minute, then cook 3-4 minutes on each side. remove from pan, and cook in 350 degree oven for 5 minutes. \r\n\r\nThe milk/egg mixture is just like a cuzstard. You have to cook it completly so its not a soggy mess!\r\n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kim",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-07-07T07:37:09.030Z",
+            "reviewBody": "This is a great, simple recipe that will work for anyone who chooses to actually read the reviews before trying it.  I have to laugh at everyone who experienced too much cinammon, or too soggy results.  You all should have read the reviews FIRST.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leah",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-03-19T10:05:07.670Z",
+            "reviewBody": "This recipe STINKS! It does not work at all. There is way too much milk and an outragous amount of cinnamon. Was this recipe some kind of joke or what? Whatever   you do don't EVER use this recipe. You will regret it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-01-09T10:24:05.467Z",
+            "reviewBody": "This recipe is not worth making as it is written.  The cinnamon should certainly be a TEASPOON not Tablespoon.  Perhaps if you use a heavier type of bread 20 seconds in the egg mixuture might be OK.  2 thumbs down.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-07-01T10:31:53.467Z",
+            "reviewBody": "This recipe was horrible. It was so soggy and was so gross. I was looking for an easy french toast recipe. It wasted my time trying to make it. It didn't cook good at all because of the great amounts of milk. I wouldn't recommend this recipe to anyone.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Morgan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-07-30T13:40:35.357Z",
+            "reviewBody": "Definetely too much milk and needs more egg. Another review was right... the first slice got WAY too much cinnamon compared to the rest. I made 3 slices, easily with the recommended amounts. TOO SOGGY!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LIZCARTER35",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-29T09:40:36.450Z",
+            "reviewBody": "Terrible!  Way too much milk and cinnamon.  Don't waste your time on this recipe.  Try French Toast I.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NINA_BINA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-08-23T18:12:15.763Z",
+            "reviewBody": "It was quick and easy to make and it was delicious!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-02-10T09:45:11.280Z",
+            "reviewBody": "Need to decrease the milk or increase the egg.  Also, I just dipped the bread to coat and didn't let soak.  Finally, I only used a teaspoon of cinnamon.  It was okay, but nothing to rave about.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Navy_Mommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-04T16:32:15.523Z",
+            "reviewBody": "First off, French Toast is something that really doesn't require  recipe. All you are doing is dipping very stale bread (although fresh is fine) in an egg milk mixture which should be more egg than milk. Some folks like their French Toast heavy on the cinnamon side, and others like it a little dry. I prefer my to have the texture of a custard which works even more if you use hallf and half, or light cream. I also recommend using butter in your skillet as opposed to oil.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "James Anthony Butler",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-23T10:04:30.183Z",
+            "reviewBody": "This was an OK easy recipe with some glitches.  If you are using regular thin sliced bread, DO NOT soak.  Simply dip each side.  Reduce cinnamon to 1/2 Tsp per slice of bread but you might need to add more as the bread slices soak up the cinnamon floating on top.  Reduce milk to 1/4 cup per 2 slices of bread.  Fully cook on lower heat setting if it is burning on the outside and soggy on the inside.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sf_keri",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-07-14T14:11:22.920Z",
+            "reviewBody": "It was very yummy!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-02-14T05:47:08.030Z",
+            "reviewBody": "Easiest recipe ever for such an awesome taste.  I don't have much time for thngs in the morning and but I love French Toast and this was prefect!!  Thanks Brian!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-10T08:56:27.497Z",
+            "reviewBody": "No need to soak for 20 seconds each side, they get very soggy. I'd suggest just brushing the mixture on to lightly coat. Otherwise tasted good (according to my husband)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MEGSCOOKIN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-28T16:30:58.327Z",
+            "reviewBody": "Way too soggy, no matter how long i dipped. Sprinkle sugar on each side before grilling, adds flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-02T13:09:28.803Z",
+            "reviewBody": "Both my wife enjoyed this simple recipe.  Granted the bread is initially soggy however I just cooked it on a lower temperature and let it brown up slowly and had no problems.  If you don't enjoy a strong cinnamon taste, I would suggest cutting back on the required amount.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sbinlv",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-07T10:07:52.880Z",
+            "reviewBody": "Too much milk to egg ratio!  When I make French toast I use 4 eggs to about a 1/2 cream or half and half.  A teaspoon of vanilla and a 1/2 to 1 teaspoon of cinnamon.  Use a good heavy bread like French, Italian, Challah or croissants.  Dip bread in mixture about 10-15 seconds, then I press it against the bowl to press out some of the liquid.  Fry it in a skillet with canola oil or oil and butter mixture.\n\nMine gets nice and crisp without putting it in the oven.\n\nIf you only have white sandwich bread, cut it into 3 strips, and then dip it quickly, and put in hot pan.  Otherwise you will have a sloppy mess.  Cook them til they start to puff up and then turn.  You need more oil to cook them than other breads.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TamaraDLMerritt",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-20T20:42:23.687Z",
+            "reviewBody": "Very quick and easy.  This is the basis for french toast and I have made it this way for years.  I do not let my bread soak, I just dip and fry.  My son asks for this all the time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JOSIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-08-19T07:14:29.403Z",
+            "reviewBody": "Very easy and basic way to make F.T. I use less milk, but I definitely use all of the cinnamon!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-17T15:20:46.570Z",
+            "reviewBody": "I did not care for this recipe. I've made this twice with the exact same results: it ends up caked in cinnamon, soggy on the inside. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Erika",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-02-16T13:14:35.780Z",
+            "reviewBody": "Okay, I SHOULD have read the reviews -- the one time I don't.  Flavor was good, but it definately needs more egg and less milk, or your toast WILL BE SOGGY.  Using thicker bread is also a good tip.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "marilk",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-12-10T13:08:48.450Z",
+            "reviewBody": "Less milk, and add one egg.I also tried(1 tps, depending on how many you are making) of cooking wine or white wine.Next time will try rainsin bread instead.Dont let the bread soak for too long or it will get soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CMAR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-12-13T16:37:28.670Z",
+            "reviewBody": "I made it for my husband as he was bored from everyday's breakfast, he had just one and wasn't at all impressed. The result is really bland and not worth the hype. I doubt that this is the way french toast is meant to be.. Not recommended.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SUFFY_78",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-04-22T23:01:54.420Z",
+            "reviewBody": "Rather hard to get fully crisp because it's on the soggier side, but it tasted really good. You really have to beat the liquid well before putting each piece of bread in to make sure the cinnamon is well mixed, otherwise it separates out. Next time, I'll probably try more egg and less milk, to see if it makes it less soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-02-10T10:20:55.937Z",
+            "reviewBody": "very good &amp; easy 2 make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-10-13T09:09:18.013Z",
+            "reviewBody": "This is great French Toast.\r\nBut, I used 1 teaspoon of cinnamon, and 1 tablespoon of vanilla. ( because I love the vanilla. )",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-05T22:28:46.597Z",
+            "reviewBody": "blahh!!!! :(",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SANITYONVACATION",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-23T09:27:12.983Z",
+            "reviewBody": "This is definately good if you read and follow the first review insead of the recipe...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "seximinic",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-01-01T17:46:50.217Z",
+            "reviewBody": "I'm wondering if the \"20 seconds\" was a typo and it actually was supposed to be \"2 seconds\".  The inside was very soggy, so matter how long I cooked it.  I would suggest just dipping each side of the bread really quick, and using very THICK bread!  I used plain sandwich bread (like I usually do) and it did not turn out good at all.  I'll probably give it another whirl with my own  suggestions.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SQUEEZIECAKE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-02-10T08:31:24.140Z",
+            "reviewBody": "after reading the other reviews i decided to make a few adjustments.. i added another egg and cut milk to 1/2 cup. i mixed in the cinammon but it didnt mix very well. so after i placed it on the griddle i sprinkled some cinammon/sugar mixer on one side and it made it crisper and gave it alot more flavor.. my 3 yr old loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-11-10T10:58:28.000Z",
+            "reviewBody": "I tried this recipe and there is way too much milk and not enough eggs. My toast came out all gooey when it was done. If there was less milk it would probably come out ok but otherwise it was the worst french toast I've ever had!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Larissa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-07-12T08:28:40.687Z",
+            "reviewBody": "I doubled the recipe and it made 9 pieces of toast.  So, the recipe deffiniely makes more than 2 slices.  Great taste!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MERR2D2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-03-08T09:18:23.687Z",
+            "reviewBody": "I put the bread in the toaster first, used less cinnamon and did not soak it for 20 min. and still did not turn out well.  Will not make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-17T11:07:03.730Z",
+            "reviewBody": "This was my first atempt at making french toast so I thought I did something wrong when my toast turned out soggy, but after now reading the reviews I know it wasn't my fault.  I will probably not make french toast by this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-02T18:38:21.140Z",
+            "reviewBody": "The title should be changed to French toast. I have made this very recipe several times for my family before ever seeing this recipe on here. I have made it with milk before and it cancels out the vanilla flavoring and neutralizes the cinnamon. Then all you taste is bread and egg. You don't want that. Take out the milk and you have a very delicious French toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BBrown620",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-05T10:09:51.890Z",
+            "reviewBody": "It was very yummy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bekah Lang",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-09-23T13:40:39.827Z",
+            "reviewBody": "Easy and relly good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-03-22T08:58:04.133Z",
+            "reviewBody": "THIS WAS REPULISVE... WAY TO SOGGY AS YOU CAN SEE FROM THE REST OF THE POSTS... I TRIED THE  SECOND TIME TO LET IT COOK LONGER AND IT ENDED UP BURNT AND THE MIDDLE STILL SOGGY..? YA HOPEFULLY I DONT GET SICK FROM THE EGG THAT DIDNT COOK ALL THE WAY!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TMACK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-05-26T10:46:07.337Z",
+            "reviewBody": "There's 2 much cinnamon and milk in this recipe. The first 2 breads came out soggy that they fell apart (soaking 20 seconds) so I soaked for 2 seconds on each side.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Berenice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-17T09:17:42.870Z",
+            "reviewBody": "OK, but the only thing is that it says to let the bread soak for 20 sec.  That's WAY to long, and it didn't cook that well and turned out soggy when I let it sit that long.  Other than that, the others that I did not let sit for long turned out good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NancyH",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-02T10:21:32.403Z",
+            "reviewBody": "far too much milk.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TETHRA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-30T07:46:21.440Z",
+            "reviewBody": "Good flavor, but way too soggy as many others have suggested.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tommy H",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-13T08:19:12.577Z",
+            "reviewBody": "To much cinnamon...i mixed and mixed it in and still didn't get it all mixed right.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-05T11:27:21.783Z",
+            "reviewBody": "Great, Quick and easy! loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pappy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-20T20:30:37.453Z",
+            "reviewBody": "quick and easy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SUN1SHINE1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-03T07:23:55.663Z",
+            "reviewBody": "I thought it was great and easy, which is exactly what I needed. NO need to tweak anything.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Butterfly130",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2000-12-29T15:08:28.530Z",
+            "reviewBody": "Recipie is good although leaving bread to soak for 20 seconds is NOT a good idea! It leaves it soggy. So just dip the bread on each side and it will be really easy french toast! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-31T15:13:51.980Z",
+            "reviewBody": "I made the mistake of not reading reviews before making this.  Like a lot of people said, it was soggy, and even with a oiled pan, still tended to stick.  I would reduce the milk to about half a cup or so, and wouldn't soak it for more than 10 - 15 seconds.\n\nHowever: the bread I used was partly stale, and the mixture actually did very well!  I suggest using staler bread and it would work much better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maelivia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-12-13T09:21:13.543Z",
+            "reviewBody": "I cut back on the milk, and it was just okay.  Needs more flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-07-08T07:58:45.560Z",
+            "reviewBody": "Very little flavor, soggy.  Maybe add sugar and just dip the bread instead of soak.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wilemon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-03-10T06:56:39.307Z",
+            "reviewBody": "Thank you for the first time it's actually easy to find a recipe with out going all over God's creation, and this can be done and you can be eating with in a half hour.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-05-24T07:03:32.560Z",
+            "reviewBody": "Quick and easy!  The cinnamon gives it lots of flavour!  My boyfriend really liked them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diana",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-30T11:50:23.237Z",
+            "reviewBody": "I agree with one of the reviews in here. Take the Cinnamon down to 1Tsp, and when you put the bread in, do NOT leave it in for 20 seconds, that is WAY too long. Only put it in long enough to coat it. Depending on the size of the container you use, you should be able to coat the bread fully without having to flip it, and risking breaking the bread.   Recap: 1 TEASPOON of Cinnamon        Only leave the bread in for 5 seconds TOPS. Just long enough to coat the bread. Bon A'petite ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PrestonO",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-29T10:02:39.353Z",
+            "reviewBody": "Partially my fault for disregarding this recipe's rating, but I just had a terrible time making french toast. I've never made it before, and one of these days I really just need to copy all of my mom's recipes. I just wanted a simple, straightforward french toast. This looked like the one.\n\nWhat's wrong with this recipe? The batter is way too thin. Soak even the stalest bread in this mix for 20 seconds on each side, and you will have a pulpy mess. I even used brown eggs and whole milk, so I imagine I had the thickest version of the batter. If you dare try this, make sure you have the heartiest bread you can get your hands on. Even a nice, thick 7-grain will fall apart if soaked more than a few seconds.\n\nCan I give it half a star? I want to give it half a star.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MobiusJedi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-07-26T16:01:17.890Z",
+            "reviewBody": "Overall, I didn't like this recipe. I'm not sure if that was the correct amount of cinnamon, but two tablespoons of was too much for the recipe. No matter how long I cooked them, my toast stayed soggy. They were also very bland. I would not recommend this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JWONG",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-26T07:39:00.277Z",
+            "reviewBody": "I used 1/8 cup milk instead of 3/4 cup and only soaked the bread for 10 seconds.  I was worried it wouldn't be to good with potato bread, but it was fine.  It was soooo good with agave nectar.  I will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lovefood",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-19T11:43:29.930Z",
+            "reviewBody": "When I used it with one of the adjustments, it was pretty good; would make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melissa Wiebe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-18T18:13:46.787Z",
+            "reviewBody": "Was not impressed. I even followed the edits in notes and would not recommend this recipe because of lack of flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Madeline Isaeff",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-16T18:34:33.657Z",
+            "reviewBody": "too much milk",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "thughes406",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-11-27T13:53:25.357Z",
+            "reviewBody": "I agree with all here. This was way to soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "QUASINAUGHT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-11-05T09:31:37.980Z",
+            "reviewBody": "This recipe is not good. soggy French toast was a disappointment for the kids before school. Too much milk. Too much cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sheila Jenkinson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-10-31T07:59:01.547Z",
+            "reviewBody": "Maybe I made it wrong, but just seemed like too much cinnamon.  Never got all the cinnamon to be absorbed by the milk.  First slice of bread had too much cinnamon on it.  By the third or fourth slice it wasn't too bad....",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MANFRED33",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-01T14:17:28.473Z",
+            "reviewBody": "People should understand by a glance at this recipie that it was made for people on the go. This is easy to make when I'm still sleepy =) I just made ajustments to the cinnamon and added some more toast. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ameliannaschoonmaker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-13T03:14:44.303Z",
+            "reviewBody": "I found this recipe great.  I just used 2 eggs instead of 1 and I was able to cook about 6 slices of bread. If you tend to not like much cinnamon then don't use as much.  My husband really loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Twila Harp Francis",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-21T11:25:12.943Z",
+            "reviewBody": "Just like everyone else already said, this did not turn out.  Way too much milk and cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ksparks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-14T13:16:01.460Z",
+            "reviewBody": "Yep, too much milk; too much cinnamon.  However, with a little more vanilla, a few more slices of brown bread and a recipe for blueberry sauce, it was great.  Don't hold the bread in for too long.  Count to 10 for each side:  that should do it.  I also used marg instead of oil.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Loafer Patent",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-12-20T06:32:21.687Z",
+            "reviewBody": "I was so confused when my french toast was so soggy it wouldn't cook. I went back to the website to make sure I added the correct amount of ingredients. I thought to myself, someone really set out to ruin people's breakfast. So then i read the reviews. I guess that's kind of backwards but anyway...good thing i stopped after the first two slices.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-12T09:53:16.350Z",
+            "reviewBody": "TOO MUCH MILK OH GOD.  toast should not be SOUPY. eww.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "shadymaxwell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-01T06:29:52.557Z",
+            "reviewBody": "It gets a star for being easy.. but the end product is not good!! The bread is super soggy and there is far too much cinnamon. I was hungry and in a hurry and didn't take the time to read all the ratings, I wish I had.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "awog03",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-15T10:41:46.193Z",
+            "reviewBody": "This is great. Follow the directions carefully or else it will turn out soggy or overdone. Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tricia D",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-17T18:02:31.857Z",
+            "reviewBody": "Really Soggy! Trust me, unless you are a total risktaker and likes untasty things, dont make it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robert W",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-30T05:35:01.997Z",
+            "reviewBody": "Not great.  I agree with other comments of not enough egg and way too much cinnamon. I used Texas Toast and it still didn't turn out great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HORSEZ001",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-28T11:55:46.567Z",
+            "reviewBody": "I agree with many other reviewers that there was way too much milk and cinnamon.  Too soggy of bread is impossible to cook.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachael B",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-08T10:32:43.690Z",
+            "reviewBody": "I did not care for this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "miketronic",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-04-13T19:27:21.123Z",
+            "reviewBody": "This was not good at all.\nProbably my fault for not knowing how to make french toast and looking on google for it. The amount of milk the recepie calls for must be a mistake, it's way too much.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-10-29T10:19:39.130Z",
+            "reviewBody": "Way too much Cinnamon!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tiggerser",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-28T21:33:56.990Z",
+            "reviewBody": "WAYYYYY! too much milk and too much cinnamon. Will definitely NOT make again. I had to make a second batch using the \"French Toast I\" recipe on this site.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "beyourownsaviour",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-09-01T15:04:23.603Z",
+            "reviewBody": "I actually laughed when I read the quantity of each ingredient. I was even surprised that sugar was not an ingredient. Because I was making a lot anyway, I just used the same milk amount and did 5 eggs instead of 1. I also decreased the cinnamon to 1 tsp. You really need to use a mixer to get the cinnamon blended well. I added 1 tbsp of organic sugar, and I omitted the salt. I also like to dip mine in a little flour to get them crispy in the skillet! Sprinkle with a little powdered sugar, and YUM! I am surprised this recipe is even posted on this site. I have never had a bad recipe yet. Reading the reviews is what I always do first. It allows me to \"play\" with the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Juls",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-10T05:55:55.300Z",
+            "reviewBody": "This recipe is much better if you add one more egg. I would also suggest to just dip the bread in the mixture, not to soak it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "eriffner",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-05T09:39:24.333Z",
+            "reviewBody": "way too much milk, completely soggy. Cinnamon made it bitter tasting. Definitely won't try it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AnnieD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-08-08T08:33:32.010Z",
+            "reviewBody": "Very good. Quick and easy for those who work in the mornings. Even better with strawberries, bananas, and sunny d =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andrea",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-02-22T15:13:38.543Z",
+            "reviewBody": "The recipe worked really well for me, but there was too much cinnamon... it just would not blend thuroughly",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SYKORA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-20T08:00:23.763Z",
+            "reviewBody": "Too much milk.  Do not grill... or else your bread will be much too soggy.  Added more eggs (I normally do 2 cups of milk for 20 eggs...)\n\nMy Husband used the recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cosmorockstar",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-09T09:32:55.140Z",
+            "reviewBody": "Quite possibly the best french toast I've had!  I used more bread than it called for, and it was moist and yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Casey Dax Silverstein",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T09:40:15.1",
+            "reviewBody": "i used this basic recipe and added my own twist besides only using vanilla i added a couple drops of ameretto and kahlua to make a tspn of flavor also eyeball the milk. 20 seconds is tOoO long to dip the bread for, just coat it on both sides thats all u need!! i enjoyed my breakfast! top'd it w/chocolate, maple syrup, powdered sugar and blue berries but make it ur own!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Estefy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-08-15T14:03:52.250Z",
+            "reviewBody": "It had good flavor, and was easy to make, however there was not enough egg, and it came out soggy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LILAC_LOVE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-27T16:23:51.950Z",
+            "reviewBody": "I used 2 eggs, 1/2 cup of milk (I used evaporated milk and it is great).  I added nutmeg. I will the next time. I was pleased.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-27T09:41:21.990Z",
+            "reviewBody": "following this recipie my toast stuck to the pan and was too soggy to flip",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hab",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-10T09:15:49.377Z",
+            "reviewBody": "This is a very good traditional french toast without all the unnecessary additives. It turned out great and was exactly what I was looking for!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jbertsch",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2000-11-10T08:07:31.943Z",
+            "reviewBody": "This recipe is HEAVY on the cinnamon!!! When scaled to 10 servings, it called for 1/4 cup plus 1 tablespoon of the spice - horrible.  One tablespoon would have sufficed.  Use caution.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MSDOUGHERTY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-12T13:17:05.997Z",
+            "reviewBody": "WAY too soggy! It needs less milk and another egg.  I will not make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-02-18T07:42:17.617Z",
+            "reviewBody": "This recipe was the worst french toast recipe I have ever used.  It was WAY too much cinnamon and soaking it for 20 seconds on each side made the bread too soggy.  Reduce the cinnamon by about 3/4 and only soak for 2 seconds and the recipe will be much better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "aroza",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-23T08:00:10.613Z",
+            "reviewBody": "Way too much milk not enough egg!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Echo Jane Howard",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-07T20:27:16.647Z",
+            "reviewBody": "way to much milk even after i added an extra egg to the mix...and not enough cinnamon so for sure add more to the recipe.  Will never use this recipe again",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ashley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-28T08:15:40.883Z",
+            "reviewBody": "Today I wanted to make my Pop breakfast &amp; this recipe came up. I wanted something easy &amp; this really was a easy recipe. For me I used honey flavored bread &amp; fat free milk to reduce the calories but they came out prefect &amp; my Pop loved it.!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gaarafangirl54",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-15T08:01:38.280Z",
+            "reviewBody": "Too soggy, If I were to let it cook all the way through, the outside would have been so burnt! Next time I will do 2 eggs and 1/2 cup of milk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeni Marshall Johnson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-14T09:59:33.297Z",
+            "reviewBody": "The french toast was soggy and way 2 much cinnamon. and it stuck to pan!! \ni will never make it again!!\ni didn't read the reviews until i finished that sause stuff that u dip the french toast in\n i leared my lesson, always read the reviews first!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "slovekgirl7",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-16T12:31:17.943Z",
+            "reviewBody": "Its amazing I made it for me &amp; my fience  and he loved it :-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "April Russell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-09T06:56:45.267Z",
+            "reviewBody": "This was Very Hard to make and not good for school mornings.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "doggylove",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

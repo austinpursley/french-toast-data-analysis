@@ -1,8 +1,138 @@
+# 2022-04-19
+(late night)
+TODAY:
+- finished clean-up????
+- - - - big thing was removing baked variants
+- - - - - - - ended up scraping allrecipes myself to get instructions data
+- -- - - - -- then used that to help find baked variants
+- created bar charts plot where they're in a row (as opposed to column like first attempt).
+
+NEXT TIME:
+- write website post for "part 1: data collection and clean-up"
+- - - - start with outline
+- CONSIDER: starting post / outline for analysis, BEFORE moving on to more anlaysis.
+
+#2022-03-18
+my commitment to quality is too damn high.
+
+because I commited to culling "no baked variants", I realized I would need to actually check each recipe to determine if this is true.
+however, this is difficult task to do manually. i already did is for ~35 recipes and it wasn't fun.
+
+so I've looked for new solutions.
+turns out, it's pretty easy to do. if I knew more about internet, HTTP requests, etc. I might have realized it sooner.
+hell, it's easy enough that I wish I had known it from the start. might of been able to do web scraping myself...
+
+that's pretty much what I've done. it's easy because I already have titles for each french toast recipes, that are used for URLs to request allrecipes.com. 
+and then have to parse output you get back with some BeatifulSoup and json parsing magic. bada bing bada boom.
+
+#2022-03-13
+TODAY REVIEW:
+- for bread/milk/egg charts, dealt with casese where more than one type / recipe
+- more clean up. particurarily, focused on excluded more variants. 
+- - - specially those that are baked... because by definition and my opinion, french toast should be fried /sautted. 
+- - - only issue is that 1/3 of recipes are baked. would of saved me a lot of time if I had cut those before! going to be heavy focus for next time, ~40 recipes to go through that don't call for fat and may not be baked
+- - - then of course there's ther worry that recipe (1) doesn't have baked in title and (2) does call for a fat (butter, etc.) ingredient, but (3) is actually baked.
+- - - - - - - prob NOT going to check for this though. maybe for cooking oil cases, but check all 90+ recipes that call for butter would take too long (unless I solved problem of checking many links efficiently, script that too lmao)
+
+NEXT TIME:
+- see "clean5", where I'm checking fats. "ft_no_fat_titles", need to comb through ~40 recipes that don't call for a fat and see if they are baked or not
+- - - - prob not going to do the inverse i.e. use "ft_fat_titles" to check recipes that do call for fat and make sure they are not actually baked
+- - - - - - - altough you could check cooking spray... that may be decent indication 
+- confectioner's sugar
+- fix "1/4 cup milk, ground black pepper to taste"
+- research french toast opinions / thoughts / hot takes
+- draft part 1 "clean-up" post. or start one
+- edit/update your "analysis plan"
+- could check see if we have the recipe instructions data to go along with the ingredients. i can't even remember
+- may want read up on pandas documentation some more too, make sure doing things efficiently
+
+removing recipes that (1) call for cubing the bread,  and (2) those that are baked (instead of pan fried).
+- but I don't have instructions for all recipes so I can't be sure I've removed all such variants
+- - - and this is true for all variants I am trying to cut.
+- - - - for example, if we want to exclude variants that are not pan fried, that's probably a pain in the ass. some clues looking at ingredients (does it have oil etc?)
+
+
+to help with analysis, it I may have to do some more 'research' into french toast opinions / thoughts / hot takes.
+e.g. this reddit thread is about how much milk to add to french toast, among other things:
+- - - - https://old.reddit.com/r/Cooking/comments/ofhf32/have_i_been_making_french_toast_wrong_my_entire/
+
+might want to check out this pandas guide on groupby:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html
+- (in general, realize I should dig deeper into docs so that I know I'm not doing thing inefficiently)
+
+could create a html webpage with simple statistics, recipe table, and links to recipes
+
+I regret not going through recipes variants checks more carefully at the start.
+
+DEFINITIONS OF FRENCH TOAST:
+webster dict: "bread dipped in a mixture of egg and milk and sautéed"
+dictionary.com: "bread dipped in a batter of egg and milk and sautéed until brown, usually served with syrup or sprinkled with sugar and cinnamon."
+cambrdige: "bread that has been covered in egg and fried"
+wikipedia: "French toast is a dish made of sliced bread soaked in beaten eggs and typically milk, then pan fried."
+
+make a note that data cleaning is an iterative process. try your best you can do at start, hopefully utilizing lessons learned in the past. but going to clean-up/cut data as you go along with analysis.
+
+#2022-03-12
+where I left off:
+- doing bar charts. issue glossed over is recipes that have multiple egg and milk types.
+- - - - I'm going to combine them so that it's reflective in the bar charts. e.g. 3 recipes call for mix of eggs and egg whites.
+- - - - either a manual or automatic way of doing that. might be manual look up allrecipe instructions to determine if different types are used same way (all eggs you figure would be in custard, but multiple milk/cream types may not be)
+- there's a similiar issue with duplicate ingredients in each recipe. need an ingredient in one step, then same ingrdient in other (and ingredient lists them seperated, in "chronological" order)
+
+next time:
+- finish data QA / clean up
+- - - cases where mix of different eggs or milk/cream 
+- - - duplicate ingredients
+- - - - - - combine them?
+- - - confections' sugar
+- - - fix "1/4 cup milk, ground black pepper to taste"
+- re-run scripts for pie, bar charts
+- move on to another analysis task
+
+
+log for today:
+- fixed pie chart colors
+- bar charts, more or less done
+- more clean-up / QA of data.
+- - - - bread, milk/cream, and eggs should be pretty solid. other ingredeints havn't been as thoroughly checked. should check them as needed for analysis tasks
+
+I should say that my cleaning process isn't so consistent.
+- in "or" cases, e.g. "white or whole bread", I tried to choose first option presented. however, I think in some cases (that I havn't caught yet), I simply the choose into something generic (e.g. "bread" from "white or whole bread")
+- - - I did data checks with "or"s ingredients. still might not have caught all cases
+
+fun fact: there are technical defintions for milks types according to the US gov:
+https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.62
+- difference between nonfat, low fat, and reduced fat
+- - - - skim or nonfat is ~0%
+- - - - low fat is ~1%
+- - - - reduced fat is ~2%
+
+
+
+little things I'm catching (havn't fixed yet, will prob delete when I do):
+confections' sugar, quite a few seperate from other ingr
+
+
+major clean-up procedures so far:
+- check value counts. 
+- - - - easy overview to review unique values, nulls. 
+- - - - helps to do one category at a time where applicable
+- double checking ingredients match original ingredients
+- "detangling" cases where multiple ingredients in one row
+- check for duplicates
+- check cases with "and", "or", commas
+- check ingredients with "mods", verbs like "sliced", "cubed", etc.
+
+url for allrecipes is pretty simple:
+- https://www.allrecipes.com/recipe/french-toast-title-here
+
+
 #2022-03-06 03:05 PM 
 finished pie charts.
 pie charts are difficult to do right. but trying to get them in a way that I like taught me a lot of matplotlib and other python tools
 
 next:
+- adjust pie charts colors... especially don't like red gradient for bread others. dark mode?
 - take a break from analysis
 - finish up final clean up / qa
 - publish "part 1" to website

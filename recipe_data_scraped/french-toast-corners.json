@@ -1,0 +1,1759 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/23635/french-toast-corners/",
+    "name": "French Toast Corners",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F818781.jpg",
+        "width": 1280,
+        "height": 960
+    },
+    "datePublished": "2018-03-21T16:16:22.000Z",
+    "description": "This is a fun way to serve your French toast! Serve with whipped cream, maple syrup, or any of your favorite toppings.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "6 slices white bread",
+        "2 eggs",
+        ".666 cup milk",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon ground cinnamon",
+        "1 tablespoon butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cut each slice of bread twice diagonally to make each slice into 4 triangles.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat together eggs, milk, vanilla and cinnamon. Dip the bread slices into egg mixture.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat butter over medium-high heat in a frying pan or skillet. Cook bread until golden brown. Serve warm with your favorite topping.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Jen",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/NewJurzJ@aol.com/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 165,
+        "itemReviewed": "French Toast Corners",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "123.4 calories",
+        "carbohydrateContent": "14.3 g",
+        "cholesterolContent": "69.3 mg",
+        "fatContent": "4.9 g",
+        "fiberContent": "0.7 g",
+        "proteinContent": "4.9 g",
+        "saturatedFatContent": "2.3 g",
+        "servingSize": null,
+        "sodiumContent": "218.4 mg",
+        "sugarContent": "2.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-24T08:02:46.340Z",
+            "reviewBody": "I like to make this using Texas toast, a thicker piece of white bread. Up the vanilla just a tad and sprinkled some sugar in the mix before dipping the bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JDVMD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-21T04:32:19.327Z",
+            "reviewBody": "Simple easy recipe.  The flavor is nothing out of the ordinary, but it gets an extra star because the small size is great for little ones as well as fun and easy.  I didn't really make any changes to the recipe other than to use wheat bread rather than white.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Navy_Mommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-02-18T03:19:21.403Z",
+            "reviewBody": "I haven't had French toast since I was a kid and I'd never thought of having it sweet. This was really nice - not too sweet or rich. I made it with bacon and maple syrup on top for a Valentine's breakfast and my boyfriend loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-10T10:00:58.443Z",
+            "reviewBody": "Great recipe that's fun to do with kids!  I used a pizza cutter to cut the bread and added some sugar to the egg/milk mixture along with a little nutmeg for good measure.  Once they were done I topped them off with some confectioners' sugar and real maple syrup.  There's nothing like really good french toast and orange juice to start your morning.....",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-09-19T06:19:31.950Z",
+            "reviewBody": "YUM. I love french toast. This recipe was very good, I love the concept of french toast \"corners\". I won't ever make it differently. No children in our household but the adults liked it too! I found that the batter wasn't enough for 6 pieces of the bread I used. I added another egg and some milk towards the end because I ran out. However it could have been the excessively large pieces of bread I was using. Also I didn't use white bread. I used a 7 grain bread. We don't eat white bread in our family, but it was fabulous. Served it up with a side of bacon. w00",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Principessa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-28T14:24:54.857Z",
+            "reviewBody": "Ever since my trip to Jamaica, I've wanted French Toast.  This recipe is the closest to what I had there with one exception - I use the thick cut bread like they do in Jamaica.  The bread gets less soggy and is easier to handle. This recipe is perfect in that there is no sugar added and only uses a few ingredients.  I through everything in the blender and use a shallow dish for the bread.  I've even mastered flipping the toast so I don't need any utensils.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TREKBABY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-29T23:55:36.030Z",
+            "reviewBody": "Made this for my husband and it was a hit! I cut the french toast after cooking it in diagonals using a pizza a cutter.  Very quick &amp; easy recipe that I'll use again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MsSunflwr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-02-26T16:06:26.733Z",
+            "reviewBody": "Loved the taste, was a bit \"fiddly\" Next time would probably just cut in half instead of quarters.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "goldenwookie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-10T17:13:20.183Z",
+            "reviewBody": "This is such a good idea! Since seeing this recipe several years ago I cut my kids' toast into 4ths. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tanaquil",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-16T15:35:31.310Z",
+            "reviewBody": "We really like this recipe; however, I sprinkle cinamon directly on the bread after it has been dipped.  When you mix it in with everything else, it doesn't mix well and all of it goes on the first piece of bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-04T13:22:15.230Z",
+            "reviewBody": "I just made this for my husband and followed the directions.  You really can use any bread you like, just remember to use a hot non-stick skillet with a tablespoon of butter.  Mine did not come out soggy at all.  I did heat 100% maple syrup in the microwave and did sprinkle the french toast with powdered sugar.  My husband loved this.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TALCOTT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-06T08:21:18.303Z",
+            "reviewBody": "I have made this a bunch of times; it's definitely become my standard French toast recipe.  However, I did discover the first time I made it that mixing the cinnamon in with the wet ingredients does not allow it to really be distributed very well, so I just sprinkle it on after dipping.  Also, I've lately been making this with croissants instead of bread, and that's excellent too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stitchinthyme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-03-10T08:22:58.237Z",
+            "reviewBody": "really cute. almost the same recipe as french toast I, which has almost 5 stars and over 200 reviews.  so the french toast is really good, but this is an even cuter idea! thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachelle Vernon Jones",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-17T15:56:59.020Z",
+            "reviewBody": "very simple and delicious!! I added powdered sugar and syrup and honey mmmm!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maribel Flores",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-14T06:12:41.407Z",
+            "reviewBody": "My kids seem to be on a French Toast kick lately. I took JDVMB's suggestion and used texas toast, as I've been told by my kids that's really the only way french toast should be made. The egg wash was spot on. This was just enough for my boys--they ate every bite of this. I served this with extra butter and homemade maple-vanilla syrup for \"dipping\".",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-05T20:18:12.883Z",
+            "reviewBody": "My family and I LOVED this recipe!!!! In the past I have always been disappointed in soggy in the middle french toast. This recipe prevents that AND it's delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Darlene",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-16T11:57:36.793Z",
+            "reviewBody": "Can you say DELICIOUS? Wow, this dish was so good &amp; delicious. My 5-year old daughter helped me make breakfast this morning--I think it's great for the kids to help out in the kitchen because it's such a simple recipe. I will definitely make this again &amp; again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mona Jones",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-03T19:44:57.240Z",
+            "reviewBody": "Pretty generic french toast but hit the spot!  I'd use a little less vanilla extract.  I actually made it the super healthy way with egg beaters, skim milk, multigrain bread and splenda and it tasted great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PsycheDelicMD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-05-24T09:44:56.730Z",
+            "reviewBody": "Kids loved these for breakfast. I doubled the recipe and threw some in the freezer for quick weekday breakfasts. Such a cute idea the kids dipped them in syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ladybuggs5224",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-27T06:08:02.260Z",
+            "reviewBody": "Great flavor but the middles were complete mush. Maybe too much milk? I don't know. Texas toast would probably be a better choice, I just used reg white bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lisa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-17T08:58:30.333Z",
+            "reviewBody": "Classic. I substituted ginger for the vanilla and it gave it quite an extra zing! Good way to wake up in the morning.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "abiabiabi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-29T07:47:19.897Z",
+            "reviewBody": "Very good-the whole family liked it-I made some with Texas toast and some with cinnamon raisin bread-both were delish. I only did about 1/2 tsp of vanilla extract.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BEAKIEBEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-15T09:57:42.867Z",
+            "reviewBody": "My grandkids just loved these. They said it was YUMMY! Easy to make also. It is a KEEPER!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Janet Shum",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-28T14:28:43.847Z",
+            "reviewBody": "Simple, Easy and TASTY recipe! Added 2 tsp sugar to the mix before frying. I'll definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sofia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-12T09:19:03.027Z",
+            "reviewBody": "So simple! Soooo good!:)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elvira Silva",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-08T16:56:21.037Z",
+            "reviewBody": "This was wonderful, made it exactly as the recipe says.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pumpkins45",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-05-30T18:56:56.450Z",
+            "reviewBody": "This was a great and fast receipe...I made it for my boyfriend as a special birthday breakfast and he loved it.  It was bursting with taste and very quick and easy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Donna R Jones",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-11T01:12:26.013Z",
+            "reviewBody": "I liked the recipe very much. Just done eating my French Toast after a sudden craving and wanted it fast and easy. I cut the slices thicker than storecut bread so it didn't get to soggy and it tasted sooo good. Mine came out perfect.   Didn't use cinnamon of personal preferences other than that I did not change a thing and am very satisfied. Defently a keeper !!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hebbie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-25T08:54:28.010Z",
+            "reviewBody": "kids &amp; hubby love it so its a keeper. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lupita ramirez D",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-14T06:58:35.490Z",
+            "reviewBody": "OMG! This recipie looks so easy! It looks so yummy too! I haven't made it yet,but I bet everyone will be begging me to m,ake more!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pinkie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-23T12:49:13.170Z",
+            "reviewBody": "These are perfect for toddlers and little kids-they loved them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lola87",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-18T12:44:29.240Z",
+            "reviewBody": "I really enjoy this, it was nice and simple. I can taste the eggs and it was good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-10T09:30:36.720Z",
+            "reviewBody": "Nice breakfast! This is a little more work than cutting them up after cooking, which I was tempted to do, but they turned out so pretty and all the ends were battered and I liked the end result so it was worth the extra little effort. I used quite a bit more butter than called for.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TxCinILove2Ck",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-27T15:20:02.310Z",
+            "reviewBody": "I used just a little bit more vanilla, but these were great and the perfect amount of egg mixture of all 6 slices of bread!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Meganruss",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-31T12:15:53.347Z",
+            "reviewBody": "very easy and quick to make! Perfect for a weekend breakfast without the hassle. I used normal white bread (like wonder bread) and had no problems. I don't think it's worth using a thicker bread unless you happen to have it on hand (meaning, I wouldn't run to the store to get it).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-29T21:13:34.140Z",
+            "reviewBody": "recipe was good but do you people actually cut the bread in 4 pieces and then dip it and cook it or are some of you smart enough to cook it like normal and then serve it cut fancy, you can even make tiny squares like I do after its cooked already.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lola650",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-03-06T17:38:52.293Z",
+            "reviewBody": "Very good!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "QUASINAUGHT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-24T18:53:21.303Z",
+            "reviewBody": "Yum, yum, yum!!  All I can say.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cheoah",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-16T08:51:58.503Z",
+            "reviewBody": "I used Texas Toast and followed recipe exactly and it was great. Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jackie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-18T11:17:26.627Z",
+            "reviewBody": "i personally found it bland but my picky 2 yr old loved them. Thats all that matters lol. Maybe next time i'll try adding a bit of sugar to mix.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CupcakePolly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-14T21:26:36.523Z",
+            "reviewBody": "This was very good, but it could've used more flavoring.  I would increase the vanilla and sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Canon_Lily",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-17T08:48:57.733Z",
+            "reviewBody": "Use thick bread, it will keep it from getting to soggy and tasting like mush.  I added an extra 1/4 tsp of cinnamon for our taste, 1/2 teaspon of nutmeg (great addition) and 1 1/2 tablespoons of brown sugar. Make sure u only cut bread in half, when cut in quarters was way to soggy. I melted some peach and strawberry perserves in a pan with butter and poured over the top, tasted wonderful...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PUNKERS7881",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-18T07:53:43.080Z",
+            "reviewBody": "this was great! a fun way to serve breakfast to the kids! I put slices of bananas on top and strawberry banana yogurt on the side! the kids loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cherylea1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-23T00:16:28.510Z",
+            "reviewBody": "Love this recipe! Exactly the same as my mother's. So easy to make!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "shaq31",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-12T19:48:46.033",
+            "reviewBody": "I used frozen Texas Toast for the bread in this recipe.   I just stacked the bread to cut the triangles.  I also cooked from the frozen state on the griddle.  After eating all that we could I laid the leftovers on a waxed paper covered cookie sheet and froze.  Once froze I just put them back in the bread sack.  \nFor a quick breakfast, pop in the toasted or reheat in the microwave.  Delicious breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Molly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-24T06:59:06.250Z",
+            "reviewBody": "This was perfect for the occasion. Two seven year old girls wanting breakfast. They had these dry sharing a side of syrup to dip these in. It was quick and painless.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cheeseburgerspleen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-24T08:56:55.000Z",
+            "reviewBody": "Great!  For one person, I halved it and still had leftovers.  Make sure to press down a little during cooking, otherwise it burns before it ever cooks thoroughly.  Good and tasty!  Triangles are perfect for kids or small hands (like mine).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TheCook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-22T08:51:48.753Z",
+            "reviewBody": "VERY CUTE RECIPE! My 3 year old loved them! It was a good early morning activity for us. Next time I will probably add just a tad more cinnamon though.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ANDEEY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-08T08:57:50.823Z",
+            "reviewBody": "The is a great and easy to prepare for a Sunday morning breakfast. I added powdwered sugar over the toast w/ strawberries and strawberries styrup and whip cream topping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeff",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-09T07:13:53.090Z",
+            "reviewBody": "Kids loved it!  Mom loved it!  I used vanilla almond milk and added the sugar (per the other suggestions) and it was yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachael Woodall",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-09T19:50:46.427Z",
+            "reviewBody": "I knew how I was making French toast before was pretty bland, and this was the first recipe that seemed perfect! My vanilla must have disappeared though, so I made do with almond extract. It still gave the batter a great, sweet flavor! This will be the recipe I follow from now on!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "turquoise",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-02T13:27:58.110Z",
+            "reviewBody": "This is the simple recipe I was looking for to make quick french toast. Even better i never thought of cutting it up before hand as I don't like to get sticky. I did add a bit of triple sec orange liqueur but the end result was the same.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "manda the pirate",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-01T19:15:53.003Z",
+            "reviewBody": "I just made this today. I made it with Texas toast and followed the recipe exactly. for toppings I used syrup and powdered sugar and it was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joy Ward",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-01T06:51:20.550Z",
+            "reviewBody": "This wasn't bad, but wasn't great either. I added some almond extract and used cinnamon/raisin bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sunny",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-27T07:07:55.530Z",
+            "reviewBody": "Perfect ratio of egg to milk. I always use this recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristens",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-17T08:20:09.707Z",
+            "reviewBody": "This is one of the best French Toast recipes I have found.  Instead of making \"corners\", just use regular bread, and I doubled the recipe.  If anyone bakes homemade bread that makes the BEST French Toast ever.  Sourdough bread also has great flavor. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suann Andes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-13T21:43:26.570Z",
+            "reviewBody": "I use raisin-cinnamon bread, and sometimes put cream cheese between two slices.  I mix pancake syrup with pecans and pour on top (after fried) and add a fancy swirl of whipped topping.   Mmmmm!!! A little goes a long way because it's very rich.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lucy G",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-03T11:16:12.500Z",
+            "reviewBody": "Great flavor!  Cutting into corners gives lots of room for creativity when decorating the plate.  I used a melon scoop for butter, smothered them in syrup and sprinkled powdered sugar and cinnamon on top.  Perfect for breakfast in bed....with tray of course :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie and Jacky",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-08T08:38:35.250Z",
+            "reviewBody": "Taste was great. My technique needs some work. Thanks for sharing. I will be trying this again this weekend. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tiffscookin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-20T17:50:54.433Z",
+            "reviewBody": "This is my kids favorite french toast recipe.  I use whole wheat bread.  They love it!!!  I like it too :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JoEllen Johnson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-11T07:54:06.067Z",
+            "reviewBody": "I needed 3 eggs for 6 pieces of toast and that was a stretch.  Making toast points was a nice twist on French toast though.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon Simonelli Fujs",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-07-12T17:41:44.153Z",
+            "reviewBody": "I made this for my toddler for breakfast. She liked it, and it was easy for her to pick the 4 pieces up off the tray to eat. I didn't even put a topping on it, they're good just plain! I'll make this again! Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CARLYNSMOMMY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-02T13:27:38.233Z",
+            "reviewBody": "It was great! Only thing was it didn't cook  all the way through, but I think that was because I sliced the bread too thick.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JENIGOODWIN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-02-17T13:06:56.370Z",
+            "reviewBody": "Very quick and simple to make. I actually just cut it in half since regular white bread is so thin. And I increased the amount of cinnamon. Great with powdered sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "nancy325",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-28T16:20:05.760Z",
+            "reviewBody": "Well...I've made French Toast before and this IS a pretty basic recipe BUT I've never thought to cut the bread into triangles before frying.  It makes coating the individual pieces easier and is just kind of a fun idea!  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gapch1026",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-09T06:52:19.960Z",
+            "reviewBody": "This was delicious! I used honey wheat bread and half-and-half instead of milk. Also, I used kitchen shears to cut the bread into triangles (easier than a knife). My mom said that 'this should be how we make French toast for the rest of our lives!' I think since you soak the corners in the egg mixture, it coats better - making each bite super tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CookinginFL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-30T09:53:17.847Z",
+            "reviewBody": "I also added some sugar and an extra egg and turned out yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dstapleton",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-08T12:00:51.467Z",
+            "reviewBody": "Excellent recipe! This makes a great morning meal. I would like to suggest adding more milk and eggs to the mixture, depending on how much mixture goes on each corner",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "go_dbacks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-02-18T19:20:45.450Z",
+            "reviewBody": "This was great!  My two boys (6 and 3) couldn't get enough.  They loved the small size - perfect for dipping.  I did add a little more cinnamon than the 1/2 teaspoon.  Will definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "allycatzoo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-10T08:09:01.830Z",
+            "reviewBody": "Quick easy French Toast. . My family really enjoyed it. . ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rhonda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-15T09:47:47.580Z",
+            "reviewBody": "I didn't try this but I made it for my hubby and he loved it!  He wanted it with French bread but that was the only thing I changed, he ate a ton!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Victoria68",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-20T09:37:46.913Z",
+            "reviewBody": "This was really tasty. We liked it way better than resaurants. It is pretty lite with delicate flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alyssa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-10T02:47:03.873Z",
+            "reviewBody": "My family absolutely loves it. Love the fact that it is so simple yet so delicious. I have no problem making it for breakfast even thought I have a busy day ahead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aleksandra",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-08-15T15:38:21.617Z",
+            "reviewBody": "This was an easy FT recipe. Mine would have been better had I not tried to put so many in the pan at once! :) Still yummy though. Instead of maple syrup, I recreated a lemon curd recipe that I had at a B&amp;B and used that as the topping. I will be fixing this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dpacker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-13T11:09:50.173Z",
+            "reviewBody": "I used a whole grain cinnamon raisin bread and egg beaters to make it more healthy and we LOVED it. Topped with sugar free syrup and turkey sausage on the side it is one of my favorite low cal breakfasts! Or use the fully loaded ingredients for a real treat! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luv2BakeGirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-20T06:18:09.890Z",
+            "reviewBody": "Today is my son's third birthday, so we made breakfast together.  We decided to make this, and it was very good.  I love how you cut the bread first.  I am only giving it 4 stars because I cut the recipe in half, and didn't have enough egg batter to dip 3 pieces of bread.  I was better off keeping the batter as is, and just cutting down on the bread.  Thank you for sharing, the flavor was great and Mikey loved helping his Mommy make his birthday breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mandy L",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-27T10:26:18.020Z",
+            "reviewBody": "I made these this morning and the hubby loved it.\n\nCutting them into little triangles was a great idea because I put all the ingredients in one of those glass Pyrex measuring cups and the pieces fit right in for dipping and right onto the griddle.  There was no awkwardness I used to have with the one piece of sliced bread and all the dripping.  Why didn't I think of that?\n\nI served them with a little powdered sugar sprinkled on top.\n\nNext time I will try to remember to get fatter bread for even better French toast!\n\nThanks for the idea!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fuud",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-24T08:39:39.937Z",
+            "reviewBody": "it really depends on the size of the bread and absorbency in which you are using. 2 eggs is definitely not enough, didn't taste so great either.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "canefan94",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-06T06:40:52.943Z",
+            "reviewBody": "I chose this french toast because I had limited supplies in my kitchen, but I continue to use it because it's delicious. I love the subtle vanilla and cinnamon taste and it's so easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tatiana",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-02T06:35:58.510Z",
+            "reviewBody": "This was awesome!!  Made it for my husband for breakfast before he had to leave for work.  He loved it and asked me to make a few more cause he was giving a coworker a ride to work.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RONIMOM5",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-24T08:52:33.720Z",
+            "reviewBody": "AWESOME!! Quick and easy and extremely delicious! I made a few adjustments to the standard recipe and I highly recommend them to anyone who may want that extra little \"bam\". To the standard recipe, I added a little squeeze of honey to the egg mixture, and a bit of nutmeg (eyeball measure). I also highly recommend using \"texas toast\" (each slice cut in halves only- not quarters as suggested in the original recipe). Thick slices of bread holds together better and doesn't fall apart like regular bread will. Right before serving, drizzle a bit more honey (pancake syrup is an excellent choice also) across the bread, along with some powdered sugar and (optional) your favorite topping (chopped pecans, dates, preserves, sliced bananas, or anything else your imagination can think of. Guaranteed to have everyone screaming for more!! Bon Appetit!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Noodles",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-13T07:31:04.080Z",
+            "reviewBody": "This is really good! It doesnt add much of a flavor at first but if you bump up the cinnamon or vanilla, you can taste it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "April",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-13T17:45:49.987Z",
+            "reviewBody": "I made this recipe exactly as written, and we absolutely LOVE IT!!! It is a new weekend staple in my house!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KatieFl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-23T08:33:29.433Z",
+            "reviewBody": "This is easy to follow and anyone can do it..It tastes great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-10T17:29:31.877Z",
+            "reviewBody": "I had never made french toast before and this was really easy to make. I think next time I will add some more spices. It was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brett Sutherland",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-04T18:03:13.280Z",
+            "reviewBody": "I tried this recipe as is for my family on two occasions, and they loved it both times. I think it would be a little better with thicker bread, but it is not a neccessity.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SymphonicChef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-29T16:22:20.657Z",
+            "reviewBody": "Tasted great.  Took alot of self control to not make more.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heatherisfree",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-03T14:59:18.363Z",
+            "reviewBody": "it was good",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Laura Zublin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-11T07:36:51.310Z",
+            "reviewBody": "We weren't really crazy about this. First, the butter ended up burning my pan by the end of the batch, we probably should have used pam from the start. And the taste was just average, nothing special. I added some sugar to the mix, but still was kind of bland in my opinion. I don't like a lot of syrup, but to give these taste I had to load it on. I'll try something else next time, sorry!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KatieFinch4",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-13T20:35:45.280Z",
+            "reviewBody": "This was a very easy recipe, my kids loved it for breakfast. I would suggest adding powdered sugar, and to use texas bread if you are going to cut them into far, normal bread will be very small servings.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "twinkie19842000",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-13T02:09:41.267Z",
+            "reviewBody": "Perfect :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bnrich",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-27T18:24:07.930Z",
+            "reviewBody": "I used a wheat nut bread and it was awesome! However, the liquid only made enough for 4 pieces of bread. Goes well with turkey sausage. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RACHYJO",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-30T07:19:02.570Z",
+            "reviewBody": "Very good recipe.  I like the little triangles.  It visually looks like a lot!  Very tasty too.  I added powdered sugar and strawberries.  The vanilla extract was a must too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Little Me TG",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-28T07:18:21.240Z",
+            "reviewBody": "Pretty good French toast. Simple to make, and thought it came out pretty good. I did use wheat bread instead of white. Taste great with maple breakfast sausage. I will be making this again, but next time I will be sure to put powdered sugar and maybe some fresh cut strawberries.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mom23",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-07T04:31:06.967",
+            "reviewBody": "The first time I made french toast I followed another recipe and they were soggy and I didn't like them. With this recipe however they turned out perfect, will definitely keep this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "A Apolskis",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-20T12:01:19.683Z",
+            "reviewBody": "Good recipe.  The little triangles are a great concept, although make it way too easy to eat more than your share!  I added a dash of powdered sugar to them as they cooled on the plate and it gave it just the extra needed taste.  Also, the amounts provided worked for only four pieces of bread.  Definitely worth trying again. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jpchristian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-08-13T15:36:31.893Z",
+            "reviewBody": "THIS WAS SOOOOOOOOOOO GOOOOOOD!!!!!!!!!!!!!! I did add a lot more cinnamon and vanilla and  added some powdered sugar to the batter,  for flavor but other than that....... AWESOME!!!!!!!!!!!!!!!!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Thanksnpraises",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-24T08:44:38.557Z",
+            "reviewBody": "This was very tasty, simple to make and includes ingredients that you're sure to have on hand. Although, I was missing extract and cinnamon--I substituted apple pie spice and just left out the extract. All I had on hand was whole wheat, but it worked. Next time I'll try some real THICK sourdough!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "reeses30135",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-08T07:59:10.687Z",
+            "reviewBody": "Pretty good, but I think next time I would add more cinnamon.  I made this with Rum Raisin Bread from this site.  There was only enough egg mixture for 4 slices, but bread machine slices are larger.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LADYSLEW",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,603 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/124696/sues-overnight-french-toast/",
+    "name": "Sue's Overnight French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F979957.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-02T11:50:25.000Z",
+    "description": "I discovered this dish last year while hosting a family reunion here in the Pocono Mountains. My niece brought it and shared the recipe. It's a great dish to make ahead of time and freeze; then you'll have a fancy but easy-to-prepare breakfast whenever you host overnight guests.",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H40M",
+    "recipeYield": "10 servings",
+    "recipeIngredient": [
+        "9  large eggs eggs",
+        "3 cups light cream",
+        "\u2153 cup sugar",
+        "1\u2009\u00bd teaspoons rum flavored extract",
+        "1\u2009\u00bd teaspoons vanilla extract",
+        "\u00bd teaspoon ground nutmeg",
+        "24 (3/4 inch thick) slices French bread",
+        "1\u2009\u00bd cups packed brown sugar",
+        "\u00bd cup light corn syrup",
+        "\u00bd cup water",
+        "\u00bd cup chopped pecans, toasted",
+        "2 tablespoons butter or margarine"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, lightly beat eggs. Mix in cream, sugar, rum extract if desired, vanilla and nutmeg. Place the bread in a single layer in two well-greased 15-in. x 10-in. x 1-in. baking pans. Pour the egg mixture over bread in each pan. Turn bread over to coat both sides. Cover and refrigerate overnight. Bake, uncovered, at 400 degrees F for 20-22 minutes or until golden.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, for syrup, bring brown sugar, corn syrup and water to a boil in a saucepan. Reduce heat and simmer for 3 minutes. Add pecans and butter; simmer 2 minutes longer. Serve with the French toast.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 35,
+        "itemReviewed": "Sue's Overnight French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "565.7 calories",
+        "carbohydrateContent": "74.8 g",
+        "cholesterolContent": "221 mg",
+        "fatContent": "25.6 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "12.2 g",
+        "saturatedFatContent": "12 g",
+        "servingSize": null,
+        "sodiumContent": "349.5 mg",
+        "sugarContent": "44.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-27T13:33:17.720Z",
+            "reviewBody": "I prepared this dish on Christmas Eve and popped it into the oven on Christmas morning.  So delicious and easy!  Instead of french bread I used challah bread, and I added a little cinnamon to both the batter and the sauce.  I will definitely be mking this again! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annette",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-28T07:59:22.127Z",
+            "reviewBody": "Made this for a wedding brunch I catered recently. It was a huge hit with everyone and is extremely easy to put together. Depending on the size bread you use, however, you may need more than the number of pans indicated. I doubled the recipe and ended up using about 6 pans. I was worried the bread would not be coated enough but it baked up light and fluffy and every piece tasted fantastic. The syrup is VERY sweet. A little goes a long way! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HeatherInGR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-22T06:16:51.280Z",
+            "reviewBody": "I didn't \"marinate\" it overnight (missed that part) but I put the bread in the pan, poured the mixture over it, and immediately turned the bread to coat.  I then left it for 15 minutes, then turned again.  After another 15 minutes, I turned the bread once more and then baked.  Got rave reviews from my family.  Will definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MichelleJP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-25T08:19:54.500Z",
+            "reviewBody": "I have made this recipe for years as a tradition for Christmas morning brunch. I found it several years ago in a cookbook from Charleston, SC - Gracious Goodness. A wonderful cookbook if you ever have the chance to see it. My family loves this French Toast.  It's quite a treat.  I always set out powdered sugar in a sifter on a plate, and the kids love sprinkling their sugar on top.  Then comes the praline syrup - not to be missed! It's quick, easy, and different...special for a special day like Christmas morning!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MRSPEABODY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-20T07:47:24.917Z",
+            "reviewBody": "I made this recipe because it only took 20 minutes in the oven.  I had to provide a 7am breakfast for the swim team that was quick, and easy to transport.  It was a hit, and I did not use preleans (too sweet for my taste)or rum flavoring, used skim milk and sprinkled cinammon on top.  The kids came back for 2nds and 3rds.  They are asking me to make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "swim mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-25T12:21:02.447Z",
+            "reviewBody": "Cut recipe in half and used one loaf french bread.\nSoaked bread for only an hour or two and then fried it in a pan to cook. Replaced rum extract with 1/4 cup Captain Morgan.\nYummy and a crowd-pleaser.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny G",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-03-22T09:37:14.800Z",
+            "reviewBody": "Recipe was very easy and quick to prepare.  I was worried that my bread was too stale...pretty hard around the outside, but it worked great.  The toast was some of the best I've ever had...but as you can see from the igredients, a little heavy.  If calories aren't a priority then this is a 5 star.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chowhound",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-28T05:28:38.620Z",
+            "reviewBody": "This was a huge hit at my Memorial Day brunch and my family has requested it again for our next get together.  I used half and half and replaced the syrup with store-bought pecan syrup but followed the recipe on everything else.  THANKS!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jen G",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-23T06:59:42.200",
+            "reviewBody": "Yum! First, I halved the recipe (using Five eggs), and made some changes due to what I had on hand.  Half &amp; Half.  Light wheat sandwich bread.  And, reluctantly omitted the nuts (DH isn't a fan - but man, that would've added the extra \"Ooomph!\").  Added cinnamon.   After 20 minutes in oven, I poured the sauce over and baked for an additional five minutes.  It felt weird not using my usual Almond extract, but the Rum was a welcomed change!  Will make again, but am going to try with super-stale Italian bread.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sumchelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-26T08:12:19.707Z",
+            "reviewBody": "I made this yesterday, on Christmas morning for breakfast!  It was a hit!  Delicious and easy.  The only change I made was that I used only 2 cups of light cream.  3 seemed to be too much.  I also made the praline sauce.  I usually do NOT like syrup but this was so good.   Definitely making this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-27T17:22:36.780Z",
+            "reviewBody": "I love this recipe and have two tips: It's two loaves of bread and which fit nicely on two jelly roll pans. If you like your french toast cooked through, bake it at 350 for 30 minutes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kendra M",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-07T13:59:28.437Z",
+            "reviewBody": "Made this recipe on New Year's Eve. Super easy to prepare in the morning. Everyone enjoyed this New Year's Day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RosieCooks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-25T10:54:12.260Z",
+            "reviewBody": "Excellent!  I used day-old french bread (discounted at Au Beau Pain) and also used real rum in place of the rum flavoring. The taste was quite subtle; next time, I'll add just a little more. I also might try adding additional toasted pecans to the casserole right before baking (make sure they're below the surface so they don't burn.)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marti K",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-27T08:06:51.043Z",
+            "reviewBody": "This is a great recipe.  I did exactly as stated the first time I made them and they turned out well.  I will try with just plain low fat milk next time.  I think the trick to not getting gooey in the middle toast is to use bread that is not overly thick and maybe cook a little longer.  I froze several pyrex dishes full and this is a super, quick easy breakfast for those hectic mornings.  I've cooked them from frozen and thawed.  Both work but should probably thaw first to avoid cracking the pyrex glass.  I was lucky.  I haven't had time to try the praline syrup.  We use real Canadian Maple Syrup on all of our pancakes and french toasts.  I like just yogurt or salsa sauce on mine which my family  thinks  is just weird!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "freezermama",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-03T06:33:43.190Z",
+            "reviewBody": "I made this for family that stayed overnight. Everybody loved it. My brothers kids are picky eaters and they raved about it. They want their dad to have the recipe! I used a loaf of texas toast, cut each piece diagnally, coated each piece and kind of stacked them by rows in the pan. Next time I'll use another pan. I also sprinkled cinnamon on the toast before baking it. I didn't make the syrup, just used maple syrup that I had on hand. I also used half and half, decided that heavy cream would be to much. Will be sharing this recipe with friends!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Firefly04",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-17T04:30:25.367Z",
+            "reviewBody": "This is actually the exact same recipe as Paula Dean's Baked French Toast Casserole. The difference is her recipe calls for baking the praline topping on the french toast:\nThe next day, preheat oven to 350 degrees F. \n\nSpread Praline Topping evenly over the bread and bake for 40 minutes, until puffed and lightly golden. Serve with maple syrup",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angie Smith Moore",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-14T14:27:37.237Z",
+            "reviewBody": "Excellent breakfast dish.  My guests raved about it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bonnie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-17T07:19:26.560Z",
+            "reviewBody": "This was good but too gooey in the middle for me and my family.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KATANDR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-20T17:04:49.153Z",
+            "reviewBody": "the absolute best french toast ever!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "leelee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-25T10:45:13.397Z",
+            "reviewBody": "Made this for the first time for Christmas breakfast today. It was a HUGE hit! Instead of French Bread, I used a 7 grain loaf, cut into thick (1-inch) slices. Also, couldn't find light cream, so used whipping cream. It was FANTASTIC! The only problem is that there are NO LEFTOVERS!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen Hopler Boyer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-04T17:49:09.500Z",
+            "reviewBody": "I was looking for a new breakfast recipe for our Sunday morning breakfast. This was GREAT! Easy and very, very good. I did not change a thing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "labluver",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-10-19T16:30:18.713Z",
+            "reviewBody": "Absolute lifesaver sometimes.  If we are attending an event the night before I always use this recipe (been in my family for years!), and along with the oven fried bacon...my Saturday/Sunday mornings are that much less intense.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maia Marie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-08T16:54:40.853Z",
+            "reviewBody": "This was so good! I only had fresh soft Italian bread and it still came out great. I did add a little cinnamon to it and served it with powdered sugar and pancake syrup. Next time I'll be sure to use thicker bread that is a little stale.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Scanich",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-25T18:16:22.373Z",
+            "reviewBody": "Really good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JLB1003",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-29T20:37:31.200Z",
+            "reviewBody": "I used leftover homemade rolls sliced.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "acawthon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-22T16:02:38.213Z",
+            "reviewBody": "not so much. Look for a new receipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jill ross",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-15T19:12:04.620Z",
+            "reviewBody": "I thought it was pretty good, but my kids hated the consistency.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "momofmany",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-28T10:20:31.293Z",
+            "reviewBody": "I made this for Thanksgiving breakfast and it was absolutely wonderful!  It was light and fluffy, and perfectly browned; our entire family loved it, and I'll definitely be making this again.  I served with the praline syrup and offered fresh whipped cream.  I used French bread, but also did some slices in 100% whole wheat.  Next time, I'll use a much lighter wheat loaf, since the 100% whole wheat is a little strong for a sweat bread recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Shaul Ott",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-08T07:29:33.040Z",
+            "reviewBody": "Easy recipe!  We did not care for the rum flavoring though.  I would try this again using only vanilla or possibly almond.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mud Mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-27T21:36:20.703Z",
+            "reviewBody": "My husband was thrilled with this recipe. I followed the recipe exactly. I used cheap 89 cent white sandwich bread and it worked well. You should use common sense when baking it, keep it in the oven as long as it takes for it to be crispy. I agree with the other reviewer who said it was high in calories due to the heavy cream. I'm making it again using half + half but next time I might try some skim milk along with the creamer. The syrup is so yummy! I used the extra syrup on a ham and it was sooo good on that as well. Going to make another batch in the morning! Shhh don't tell my hubby it's a surprise!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-17T16:56:17.980",
+            "reviewBody": "My husband was thrilled with this recipe. I followed the recipe exactly. I used cheap 89 cent white sandwich bread and it worked well. You should use common sense when baking it, keep it in the oven as long as it takes for it to be crispy. I agree with the other reviewer who said it was high in calories due to the heavy cream. I'm making it again using half + half but next time I might try some skim milk along with the creamer. The syrup is so yummy! I used the extra syrup on a ham and it was sooo good on that as well. Going to make another batch in the morning! Shhh don't tell my hubby it's a surprise!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SaveRoom4Pie",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/214599/cinnamon-raisin-stuffed-french-toast/",
+    "name": "Cinnamon Raisin Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F506854.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2020-06-19T03:42:32.000Z",
+    "description": "This is quick and easy, and sure to please!",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "4 ounces cream cheese, softened",
+        "1 tablespoon white sugar",
+        "\u215b teaspoon ground cinnamon",
+        "8 slices raisin cinnamon bread (such as Pepperidge Farm\u00ae)",
+        "2 eggs",
+        "3 tablespoons milk",
+        "\u215b teaspoon ground cinnamon",
+        "1 teaspoon butter, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a small bowl, mix together the cream cheese, sugar, and 1/8 teaspoon of cinnamon until thoroughly combined. Spread cream cheese mixture onto 4 slices of raisin bread. Top each spread slice with another slice of raisin bread to make 4 sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow bowl, beat the eggs with milk and 1/8 teaspoon of cinnamon. Dip each sandwich into the egg mixture on both sides.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grease a skillet with butter, and place over medium heat. Brown the sandwiches in the skillet for about 2 minutes per side.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Kat",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/2735628"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 30,
+        "itemReviewed": "Cinnamon Raisin Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "321.8 calories",
+        "carbohydrateContent": "32.7 g",
+        "cholesterolContent": "127.8 mg",
+        "fatContent": "16.6 g",
+        "fiberContent": "2.1 g",
+        "proteinContent": "11.7 g",
+        "saturatedFatContent": "7.8 g",
+        "servingSize": null,
+        "sodiumContent": "340.8 mg",
+        "sugarContent": "15.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-28T05:15:48.883Z",
+            "reviewBody": "We have been making and enjoying this recipe for years! It's quick and tasty and very comforting breakfast/brunch food. You can change up the bread for new choices of taste. Excellent!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peggy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-15T10:40:24.777Z",
+            "reviewBody": "Got this recipe from Good Housekeeping years ago.  The whole family loves it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vicki Adams",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-03T10:17:57.630Z",
+            "reviewBody": "Quick and easy delicious recipe!  Hubby and I made this for breakfast and we both loved it.  We didn't have any cinnamon raisin bread on hand, only whole wheat bread, but it still turned out great.  This one's a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "joeyswifey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-30T13:30:23.147Z",
+            "reviewBody": "this was super easy but the cream cheese filling wasn't very different tasting then just plain old cream cheese, next time i'll try honey, like someone suggested above.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maggie Lipham",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-13T09:45:25.750Z",
+            "reviewBody": "This was very yummy. I didn't have any cinnamon raisin bread, just wheat, so I added raisins in with the cream cheese mixture.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jenelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-13T10:26:07.550Z",
+            "reviewBody": "I used low-fat cream cheese, honey instead of sugar and I added vanilla extract to the egg wash. The kids thought this was great. Next time, I think I'd like to try this with sliced apples or pears in the \"sandwich\".",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-10T17:11:08.043Z",
+            "reviewBody": "Great recipes, served for brunch this christmas, everyone loved it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ashleyp",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-19T22:55:55.030Z",
+            "reviewBody": "Yummy, quick and easy! I followed the recipe exactly and it came out great. I served it with a blueberry sauce recipe I found on this site. They were great together.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lynnie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-18T11:27:14.183Z",
+            "reviewBody": "My kids really liked this. I did make some changes tho. I used the cinnamon bread and the crm. cheese mixture but for the egg mixture i used another recipe.   Mix together: 1/4 cup all-purpose flour 1 cup milk 1 pinch salt 3 eggs 1/2 teaspoon ground cinnamon 1 teaspoon vanilla extract 1 tablespoon white sugar  I had leftover egg mixture so i just cooked it up like a blintz and spread some crm. cheese mixture on it and rolled it up. (It wasn't too bad).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kat4kittens2002",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-07T19:41:33.340Z",
+            "reviewBody": "Dissapointing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LuAnn S Di Paglia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T13:51:37.073Z",
+            "reviewBody": "Goodbye diet!  This is a delicious treat and much better than the baked french toast versions I've tried.  What a delicious treat to serve!  Loved it!  Will make this again and again and again!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melissa Swarr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-09T07:59:53.510Z",
+            "reviewBody": "Delicious and so easy to make!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-26T09:03:14.787Z",
+            "reviewBody": "I liked this recipe, but my husband said it was just ok. The only change I made was to add a little cinnamon, nutmeg, and orange peel to the filling and cinnamon, nutmeg, and vanilla to the egg mixture. I would give this recipe 4 1/2 stars if I could.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "apos159",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-23T07:29:40.270Z",
+            "reviewBody": "I used a loaf of bread I had made a few days ago and the rest I made as called for. Of course the bread I used was plain and still it was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cook101",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-03T15:06:11.050Z",
+            "reviewBody": "Great recipe, will use instead of normal french toast recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CookinInStyle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-30T08:37:08.347Z",
+            "reviewBody": "This is amazing as written, even better with a bit more cinnamon and a little nutmeg, but man... I made this with some homemade sweet vanilla challah and it was out of this world! For the vanilla challah, I also added some vanilla extract to the cream cheese mix and the egg mix. Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BNMacKenzie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-19T09:25:34.980Z",
+            "reviewBody": "I would use half the cream cheese mixture next time, but it was a hit!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "longan2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-10-05T05:26:30.297Z",
+            "reviewBody": "I made this for friends and they loved it. I was surprised with how simple it was yet awesome.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Iffer2377",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-04T20:03:10.900Z",
+            "reviewBody": "I loved it, but my family did not.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathi Bolin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-11-20T17:56:45.710Z",
+            "reviewBody": "This recipe is a good start, but can be better.  With some changes, including cooking technique.\n\nFor the custard I used 3 eggs and 3-ish tbsp heavy cream. To that I added vanilla bean, cinnamon and nutmeg. For the filing I used cream cheese, powered sugar and cinnamon. \n\nI soaked the cinnamon raisin bread really well in the custard mixture, poking holes in it with a fork to make sure it was worked well into the bread. I put two slices in the pan to cook over medium. When the bottoms were brown and the custard beginning to set, I flipped them and spooned and spread the stuffing on one slice then put the other slice cooked side down on top of the stuffed part. \n\nAfter it cooked through on the bottom I flipped it and finished cooking the top. I pulled it out of the pan and topped it with some homemade cranberry compote and a dash of the powered sugar.\n\nCranberry compote was fresh cranberries, clementine juice, coconut sugar, pure cane sugar and water boiled down until it turns into a delicious syrupy compote.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aimee Charbeneau",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-10T08:16:27.860Z",
+            "reviewBody": "This recipe turned out great!  It was so easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jmlarsen95",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-16T20:09:26.137Z",
+            "reviewBody": "I think adding the honey will cut some of the cream cheese after taste. Other than that, my family really enjoyed it. It's a great Sunday morning treat.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joe P",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-15T10:12:22.187Z",
+            "reviewBody": "I make this often. Great recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fateen J. Bullock, Esq.",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-01-01T15:04:54.263Z",
+            "reviewBody": "Turned out ok. It just tastes like cream cheese between two pieces of bread. I will double the sugar and cinnamon in the cream cheese next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Muhammad Madkour",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

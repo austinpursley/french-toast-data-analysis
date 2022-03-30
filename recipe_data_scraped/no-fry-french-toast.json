@@ -1,0 +1,102 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/41051/no-fry-french-toast/",
+    "name": "No-Fry French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F978010.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T02:15:21.000Z",
+    "description": "Once you try this oven-baked French toast, you'll never make it the old way again. On a griddle or in a skillet, French toast must be made in batches. Baking allows you to make eight slices at one time.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H11M",
+    "totalTime": "P0DT0H26M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "nonstick cooking spray",
+        "1 slightly beaten egg",
+        "1 slightly beaten egg white",
+        "\u00be cup fat free milk",
+        "1 teaspoon vanilla extract",
+        "\u215b teaspoon ground cinnamon",
+        "8 (1 inch thick) slices firm-textured French bread",
+        "\u00bc teaspoon finely shredded orange peel",
+        "\u00bd cup orange juice",
+        "1 tablespoon honey",
+        "1 teaspoon cornstarch",
+        "\u215b teaspoon ground cinnamon",
+        "1 tablespoon powdered sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Coat a large baking sheet with nonstick cooking spray. In a pie plate combine egg, egg white, milk, vanilla, and 1/8 teaspoon cinnamon. Soak bread slices in egg mixture for about 1 minute per side. Place on prepared baking sheet.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in a 450 degree F oven about 6 minutes or until bread is lightly browned. Turn bread over and bake 5 to 8 minutes more or until golden brown.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, for orange syrup, in a small saucepan stir together orange peel, orange juice, honey, cornstarch, and 1/8 teaspoon cinnamon. Cook and stir until thickened and bubbly. Cook and stir 2 minutes more.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "If desired, sift powdered sugar over toast. Serve with warm orange syrup.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1,
+        "itemReviewed": "No-Fry French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "373 calories",
+        "carbohydrateContent": "69.4 g",
+        "cholesterolContent": "47.4 mg",
+        "fatContent": "3.3 g",
+        "fiberContent": "2.6 g",
+        "proteinContent": "16.3 g",
+        "saturatedFatContent": "1 g",
+        "servingSize": null,
+        "sodiumContent": "709.3 mg",
+        "sugarContent": "13.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2001-10-27T15:29:50.280Z",
+            "reviewBody": "wow!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MARA1423",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

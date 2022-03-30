@@ -1,0 +1,505 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/73322/fabulous-frosted-french-toast/",
+    "name": "Fabulous Frosted French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F405932.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2020-06-19T03:10:56.000Z",
+    "description": "Warm French toast topped with a cream cheese frosting. This is a reduced-fat version of what my sister serves for breakfast whenever they have company.  It is incredible!",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H35M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "6 eggs",
+        "1\u2009\u00bd cups skim milk",
+        "2 tablespoons white sugar",
+        "2 teaspoons ground cinnamon",
+        "1 (1 pound) loaf French bread, cut into 3/4 inch slices",
+        "\u00bc cup butter",
+        "1 (8 ounce) package fat-free cream cheese, softened",
+        "2 tablespoons white sugar",
+        "2 tablespoons fat-free sour cream",
+        "2 tablespoons frozen whipped topping, thawed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, whisk together the eggs, milk, 2 tablespoons of sugar, and cinnamon. Melt one tablespoon of butter in a large skillet over medium heat. Dip a few bread slices into the egg mixture just to coat. Place in the hot skillet, and cook until golden on each side, about 4 minutes per side. Repeat with remaining slices of bread. Melt 1 tablespoon of butter in the skillet before frying each batch of toast.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the toast is cooking, mix cream cheese, 2 tablespoons of sugar, sour cream, and whipped topping using an electric mixer or blender until smooth, yet firm.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place servings of warm French toast onto plates, and top with a generous dollop of the frosting.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "IIJUAN12",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/914715"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 37,
+        "itemReviewed": "Fabulous Frosted French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "454.3 calories",
+        "carbohydrateContent": "57.7 g",
+        "cholesterolContent": "211.4 mg",
+        "fatContent": "14.9 g",
+        "fiberContent": "2.2 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "7.4 g",
+        "servingSize": null,
+        "sodiumContent": "847.7 mg",
+        "sugarContent": "14.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-22T23:07:34.647",
+            "reviewBody": "Very good! I made this as directed except I used full-on-fat versions of everthing - and powdered sugar in the frosting because it made sense to me. I found these perfectly sweet - not too much so. I used 8 1-inch slices of Como bread and had quite a bit of egg mixture left, so I'm thinking this recipe can stretch almost double without making more batter, FYI. We had ours with fresh raspberries and blackberries and it was delicious. Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SunnyByrd",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-16T12:06:26.623Z",
+            "reviewBody": "The French Toast was Awesome!  My family loved it!  It is really easy to make, and is a wonderful twist to regular French Toast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-01T10:31:47.100Z",
+            "reviewBody": "Mmmmmm....delicious!  It's great even without the cream cheese topping - my husband just used butter &amp; powdered sugar, I had a bite of his and it was great! Best French Toast Ever!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-18T13:34:36.563Z",
+            "reviewBody": "Didn't use the frosting but the toast was good. I halved the recipe for less servings and it worked great. In the future I will sprinkle the cinnamon over the bread while cooking through, it clumped up in the cool egg and milk mixture instead of mixing thoroughly even with a whisk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lisa Naivar",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-27T01:44:46.640Z",
+            "reviewBody": "This was a nice twist to regular french toast. However, I felt that having the toast and the frosting be so sweet was somewhat overpowering. I am going to try making the frosting for potato pancakes and crepes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cooking in WA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-30T06:08:36.067Z",
+            "reviewBody": "This was ok.  I didn't have french bread, so I used regular bread.  I also added vanilla, because that is just what I am used to.  I am glad I did, because it wasn't very sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mrscarter23",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-18T20:58:51.190Z",
+            "reviewBody": "I thought it was too sweet with the frosting, but the french toast itself was really good. My 5 year old loved it of course! :P",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "momof3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-02T01:47:15.207Z",
+            "reviewBody": "delicious my bf loved. he said that was the most delicious thing he'd ever tasted",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "alizay425",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-28T09:17:08.387Z",
+            "reviewBody": "Good one",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "yoohoo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-31T07:21:46.513Z",
+            "reviewBody": "Perfect.  used sliced bread as I did not have french and added strawberries",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "IDYDELL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-23T12:30:14.637Z",
+            "reviewBody": "Super easy, and the 'frosting' was SO yummy! We had friends over for breakfast and made these, they raved about the cream cheese topping. So good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chalece",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-13T08:44:27.343Z",
+            "reviewBody": "My family loved this recipe! And very easy to make!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenni Sipe Victor",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-13T12:00:27.743Z",
+            "reviewBody": "Whenever I make french toast I leave the bread out overnight otherwise it comes out too \"mushy.\" Also it's great with just powdered sugar over the top no syrup.. yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Margie Kale Pearson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-14T10:47:09.537Z",
+            "reviewBody": "Great recipe to add into my weekend breakfast repertoire. I made this recipe exactly as written but used the full fat version of all ingredients. We then topped it multiple different ways to see which ways we liked it served. My personal favorite was the simplest version- with powdered sugar sifted on top the french toast. The flavor of the cinnamon french toast is superb alone and the powdered sugar compliments it beautifully by adding just a touch of sweetness. My husband preferred his with both the cream/sour cream topping and powdered sugar sifted on top. We both disliked the version of adding pure maple syrup which was turned out way too sweet. Also our version adding fresh strawberries (or any fruit in season) was also a welcome twist on the flavor. Thanks for a great recipe. I can't wait to try this recipe on guests.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TSandy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-05-28T02:51:07.760Z",
+            "reviewBody": "I just used regular sandwich bread and it was amazing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Liza Overton",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-13T11:48:08.753Z",
+            "reviewBody": "I made this with Cinnamon raisin bread. Used full fat sour cream &amp; cream cheese, omitted the whipped topping and 2% milk. My boyfriend LOVED it!!! Soooo delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maiadia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-09-07T13:55:54.917",
+            "reviewBody": "I had never made French toast before and needed a basic recipe.  I modified this by using cinnamon raisin toast.  I also only used 1 teaspoon of sugar in the wash.  I served it with fresh raspberries on top.  It was delicious!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela Essenmacher",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-02T15:54:39.817Z",
+            "reviewBody": "This was amazing!!! I did not make the frosting but the French toast was very good! I cut everything in half and it still turned out very good. I couldn't find French toast so I used brownberry Dutch county butter split top bread. I made 4 actual pieces and I had some of the batter still left over. Prob enough left over for 2 more pieces...yay breakfast for tomorrow:)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ercarpee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-10T13:50:40.327Z",
+            "reviewBody": "great recipe! one of our families go to recipes for the weekend.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Roger LeBlanc",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-07T00:24:36.627Z",
+            "reviewBody": "I loved it! It made the bread nice and sweet. I only put syrup on top not big on powdered sugar :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Miyla PrettyFace Porter",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-01-21T15:08:37.903Z",
+            "reviewBody": "I made this because my kids like French toast although I have never really cared for it. Well, this was very easy and we all loved it! I'll definitely make this again. I sprinkled the cinnamon on while cooking instead of mixing it in the batter but otherwise followed the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "drjulie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-16T22:03:00.760Z",
+            "reviewBody": "Too much sugar for our taste. My family prefer the French Toasts with dill instead sugar, a kick of carry also works good. With the topping made from harring roe and some butter such toasts can be even a main dish.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Veta_D",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-24T23:58:30.9",
+            "reviewBody": "I cannot rate this high enough!! I used homemade blueberry sauce and plenty of the icing because I was only making four pieces of the French toast. But this is probably the best breakfast I have ever made. Boyfriend approved!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BakeIt",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-07T19:42:09.647Z",
+            "reviewBody": "My hubby loved it!!! Delicious. I used full fat cream and brown sugars as it\u2019s what I had  and it still tasted great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ev",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-20T19:03:40.543Z",
+            "reviewBody": "This is a great recipe. High fat/sugar but very good comfort food!  Will definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kel Bell",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,542 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/239673/amazing-slow-cooker-french-toast/",
+    "name": "Amazing Slow Cooker French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1845434.jpg",
+        "width": 3475,
+        "height": 2302
+    },
+    "datePublished": "2020-03-05T05:12:31.000Z",
+    "description": "I came up with this recipe when I was looking for a recipe for French toast that I could make in the slow cooker. Some people will say this is more of a bread pudding, but say what you will. This is delicious!",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT2H0M",
+    "totalTime": "P0DT2H15M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 apple, cut into bite-size pieces",
+        "\u2153 cup brown sugar",
+        "6 tablespoons butter, thinly sliced",
+        "6 eggs",
+        "1 cup milk",
+        "1 teaspoon vanilla extract, or to taste",
+        "1 teaspoon ground allspice, or to taste",
+        "\u00bd cup raisins",
+        "1 (16 ounce) loaf cinnamon-raisin bread, torn into chunks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Grease the inside of a slow cooker.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place apple pieces in the prepared slow cooker. Sprinkle brown sugar over apples and top with butter slices.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat eggs, milk, vanilla extract, and allspice together in a bowl with a whisk until smooth; add raisins. Mix bread pieces into egg mixture until bread is saturated. Pour bread-egg mixture into the slow cooker.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook on High for 2 hours.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "groucho",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/6717911"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 30,
+        "itemReviewed": "Amazing Slow Cooker French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "512.1 calories",
+        "carbohydrateContent": "66.5 g",
+        "cholesterolContent": "219.8 mg",
+        "fatContent": "21.5 g",
+        "fiberContent": "3.8 g",
+        "proteinContent": "16.4 g",
+        "saturatedFatContent": "9.4 g",
+        "servingSize": null,
+        "sodiumContent": "457.4 mg",
+        "sugarContent": "41 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-21T17:03:22.083",
+            "reviewBody": "This was quick and easy.  I could not find a decent loaf of cinnamon raisin bread so I substituted 3 french toast bagels.  I also substituted a dash of freshly grated nutmeg in place of the allspice.  The recipe took much longer than what was directed.  Mine took about 4 hours on high.  6 T. butter is unnecessary, I downsized it to 5 T. and butter was seeping out the edges of the casserole. I will lower it to 4 T. next time.  Otherwise, the taste was very good and I will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Abbey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-26T19:07:34.743Z",
+            "reviewBody": "This was super easy and super yummy! I made it as is...but I would say that unless you get a bite with apples or raisins, it isn't as sweet as you might expect. I didn't mind that, but maybe some would like to drizzle honey or syrup over it? Will definitely make again!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "busymama",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-26T11:20:34.297Z",
+            "reviewBody": "Excellent easy recipe. I needed something simple for a Christmas Eve Brunch and this fit the bill. I did not use raisins since I don't like them cooked, but followed the recipe otherwise. My sister took the small bit of leftovers home for Christmas breakfast. I cut up one loaf of Pepperidge Farm cinnamon swirl bread instead of tearing it into chunks (huge time saver!). This will go on the menu for my next brunch!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angie Homeschool Mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-04-05T09:19:04.770Z",
+            "reviewBody": "I used 5 cin/raisin bagels instead of the bread. I increased the apple to two, the eggs to 7 and the milk to 1 1/2 cups. I also added walnuts. It was ready in about 2 1/2 hours. I will def make it again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MeganP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-14T10:58:09.747Z",
+            "reviewBody": "We added blackberries, used regular bread, and doubled the recipe due to guests. It was good, but turned out more like bread pudding. Next time we will put the fruit in the middle and on top rather than on the bottom, to add more flavor to the bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mother_of_Three",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-15T11:41:55.287Z",
+            "reviewBody": "I tried this yesterday but did not use the apple or allspice.  It was very tasty but I didn't like the consistency when I tested it after 2 hours so I cooked it longer and then it got a bit hard.  I will try again though. Thanks for sharing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tulip",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-02-17T01:44:40.227Z",
+            "reviewBody": "This was sooo delicious! It was my first slow cooker French Toast so I wasn't sure what to expect but it was great. I used Ezekiel cinnamon raisin bread and almond milk in place of regular.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Reister",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-01-07T12:52:26.793Z",
+            "reviewBody": "Made this multiple times for brunches, and it\u2019s always a big hit. Have to make it the night before, letting it soak up overnight. I do two apples to fully cover the bottom of the crockpot.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie Corbett",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-11T21:25:48.287Z",
+            "reviewBody": "I was looking for a crock pot French Toast recipe when I found this. It's probably more of a bread pudding, but it tasted great. I used three day old French bread, skipped the raisins, added a teaspoom of cinnamon, and used two Honeycrisp apples. After two hours on high, I put it on low for an additional 10-15 minutes. Delicious, and my family enjoyed it too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HB",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-14T11:16:58.620Z",
+            "reviewBody": "Find it faster to make it in a skillet",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ranjini Pillai",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-10-10T23:15:42.247Z",
+            "reviewBody": "I made it (almost) exactly as instructed and it turned out delicious! It was a bit hit with my family and I got asked for the recipe.\n\nThe only change I made was I added cinnamon to the egg, milk mixture. Otherwise exactly as described.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leslie Blondahl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-16T00:09:27.263Z",
+            "reviewBody": "Definitely a weekend favorite.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leyla",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-02-04T15:55:29.930Z",
+            "reviewBody": "I made a few changes out of necessity and we still liked it. I even used healthier bread from Costco and me and my son really liked it. Give it a shot when you have a couple hours to kill before chow down time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bestchampeva",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-20T15:53:43.390Z",
+            "reviewBody": "This was good, I increased the apples and we ate with ice cream, more like a bread pudding.  Easy to toss in crock pot before making  dinner and then have dessert ready.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Margaret Tyson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-10-13T21:16:20.587Z",
+            "reviewBody": "This was great. I served with maple syrup because I let it cook for 3 hours instead of 2 so it was a little dry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "abbyz2000",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-16T00:21:55.627Z",
+            "reviewBody": "Made for a Christmas brunch and work...HUGE hit!!!!   Will make again and passing recipe on",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melrod72",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-16T01:02:57.310Z",
+            "reviewBody": "I cut 3 apples to cover the bottom of the crockpot and I added 1/2 tsp cinnamon To the brown sugar I used cinnamon loaf omitted the raisins cooked for 2 hrs 15 min. Turned out great everyone liked it I will definitely make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "marlene barr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-18T13:45:44.547Z",
+            "reviewBody": "I doubled the apples and reduced butter a little.  Was a huge hid.  So good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jill",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-01-04T23:38:55.130Z",
+            "reviewBody": "We added ice cream to the top of ours. Yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle James Suman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-05-20T18:25:11.777Z",
+            "reviewBody": "Not awful, but not a favorite",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "wvjamyers",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-10T20:32:07.893Z",
+            "reviewBody": "This was easy and delicious.  I halved the recipe but, I kept the whole apple.  I put 3/4 of the apple on the bottom and the rest on top.  Came our great.  With a drop of whipped cream you can not beat it.  Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sariah Griffin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-17T02:08:57.720Z",
+            "reviewBody": "Easy recipe but needs more flavor. Double the cinnamon? I did add another apple inthe middle. Moisture was perfect, center soft and edges firm and crunchy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kim Rosen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-17T03:22:12.580Z",
+            "reviewBody": "Made this tonight, was delicious with just a bit of maple syrup drizzled on top.  I used two apples, one Braeburn, one Macintosh, and it was wonderful.  I will definitely make this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NurseMominMidwest",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-07-01T01:45:35.903Z",
+            "reviewBody": "I made a double batch for my church breakfast.    They loved it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Perry Hicks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-04-08T11:15:09.267Z",
+            "reviewBody": "Made this French toast twice and everyone loved it. There was never any left overs. I did add dried cranberries instead of raisins and more cinnamon instead of allspice.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cathy Green",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-02-11T15:25:13.117Z",
+            "reviewBody": "I made it a second time with crumbled cinnamon-raisin bagels, and I added cooked and crumbled bacon to the top. My grandson, who normally has a small breakfast, ate a big second helping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jay Braun",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-16T18:22:59.143Z",
+            "reviewBody": "Whole family liked it!  Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mrfatboy",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

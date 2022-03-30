@@ -1,0 +1,1757 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/213009/pumpkin-pie-french-toast/",
+    "name": "Pumpkin Pie French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F494904.jpg",
+        "width": 4288,
+        "height": 2848
+    },
+    "datePublished": "2017-10-10T13:01:14.000Z",
+    "description": "A delicious holiday breakfast.  It's a wonderful spin on traditional french toast that measures up for any pumpkin pie lover. Serve warm with warmed maple syrup!",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H35M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "3 large eggs",
+        "\u00bd cup half-and-half cream",
+        "\u00bc cup canned pumpkin puree",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon pumpkin pie spice",
+        "\u00bc cup finely chopped walnuts",
+        "8 slices day-old bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat a lightly oiled skillet over medium heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs, half and half, pumpkin, cinnamon, vanilla extract, pumpkin pie spice, and walnuts together in a bowl. Soak one slice of bread at a time in the pumpkin mixture, then place in the prepared skilled. Repeat with the remaining slices of bread. Stir the pumpkin mixture between dips to keep the walnuts from settling. Cook the bread until golden brown, about 3 minutes on each side.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Andrea Cushman",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/2133417"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 131,
+        "itemReviewed": "Pumpkin Pie French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "283.9 calories",
+        "carbohydrateContent": "29.8 g",
+        "cholesterolContent": "150.7 mg",
+        "fatContent": "13.7 g",
+        "fiberContent": "2.5 g",
+        "proteinContent": "10.7 g",
+        "saturatedFatContent": "4.2 g",
+        "servingSize": null,
+        "sodiumContent": "442.7 mg",
+        "sugarContent": "3.3 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-23T14:50:26.537",
+            "reviewBody": "I have made other pumpkin french toast recipes, and none compare to this one. I think what sets this one apart must be the cream, the pumpkin pie spice and vanilla extract. I could taste the pumpkin in this recipe and the flavor overall was great. I used whole grain bread as I wanted to make this as a healthy breakfast for my family however, if I was making this simply to indulge tastebuds, I would go for slices of french bread and top it all off with generous dollops of spiced whipped cream, or a scoop of vanilla ice cream and a good drizzle of maple syrup, as suggested. The whole family loved this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alberta Rose",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-21T07:43:22.947Z",
+            "reviewBody": "Very good.  I used Carnation evaporated milk.  This woorks great with the flavored Coffeemate liquid creamers too. French Vanilla or the holiday flavor you like best.  Thanks Andrea. Pumpkin worked into any recipe is so good for you.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BBQ1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-26T06:21:58.243Z",
+            "reviewBody": "I used organic eggs, fat free half-n-half, Trader Joe's pumpkin puree and I actually used all pumpkin pie spice which was 1 1/4. My kids really enjoyed this. I made a homemade maple-vanilla syrup to drizzle over the top and I'll tell you...they ate all but one piece. I tried a bit and thought it was pretty good, though I might like to increase the pumpkin to a half cup and maybe cut the half-n-half to a quarter cup next time to REALLY taste the pumpkin. Using the maple-vanilla syrup with it was a good idea.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-24T19:24:00.310Z",
+            "reviewBody": "These were great! One addition that I did, was to add 1 ts of brown sugar. Other wise everyone loved them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Didi03",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-21T08:39:15.170Z",
+            "reviewBody": "I didn't happen to have any cream or walnuts on hand and I needed to cut the recipe in half, but I figured I would try this recipe anyway. I used 2 eggs, about a 1/4 cup of milk, 1/4 cup of canned pumpkin, 1/2 teaspoon cinnamon, 1/2 teaspoon vanilla, and 1/8 teaspoon of ground ginger and ground cloves. It still turned out phenomenal! This definitely feels like you're dipping the bread into pumpkin pie mix and it's absolutely delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KevinBerry7406",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-26T18:10:39.863Z",
+            "reviewBody": "Delicious and easy.  I used fat free milk instead of half &amp; half because that's what I had on hand.  It tasted great and made the recipe healthier.  I also sprinkled the walnuts on top after it was done rather than putting it in the mix.  I served them with the \"Cinnamon Syrup\" recipe on here.  Will definitely make these again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PrincessM7",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-10T07:54:35.513Z",
+            "reviewBody": "I like anything pumpkin flavored. These definitely made a delicious breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amanda Leinonen Evans",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-07T22:23:39.860Z",
+            "reviewBody": "A nice change of pace from traditional French toast. Even though I stirred the batter though between bread dippings, the walnuts tended to slide to the bottom of the batter, so that the first pieces of toast had few nuts and the last ones had the bulk of them. To compensate next time, I will use a serrated spoon and scoop up some walnut pieces from the batter to sprinkle on the tops of breads as they are lowered onto the griddle. I tried this out toward the end and it worked well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gadgetgal",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-15T18:20:12.343Z",
+            "reviewBody": "Great recipe! It completely tasted like pumpkin pie. It was a great blend though. Because you could really taste the pumpkin pie flavor in the midst of the traditional french toast. I used another recipe with this called Cinnamon Syrup and the combination was fabulous! I absolutely recommend this dish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TheMabes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-23T08:56:26.967Z",
+            "reviewBody": "This was wonderful! I used plain half and half, but it I am going to try it again with Gingerbread flvaored creamer. The pumpkin mixture absorbed nicely into the bread. Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Laynah",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-17T18:44:37.623Z",
+            "reviewBody": "I was unimpressed with this recipe.  Even after adding additional pumpkin to the \"batter\", the french toast, just tasted like french toast. And the pumpkin made it heavy, and not like and fluffy like other french toast recipes I've tried in the past.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pepesme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-03T08:08:48.210Z",
+            "reviewBody": "WONDERFUL !!!! The only changes I made was in the cream and changed the nuts to dried cranberries due to nut allergies.Thank you.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lerie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-19T06:10:07.510Z",
+            "reviewBody": "We couldn't taste the pumpkin even though we doubled the pumpkin pur\u00e9e. It just tasted like cinnamon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Catherine Downing",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-05T14:10:25.287Z",
+            "reviewBody": "I used this recipe more for the idea than anything.  I subbed skim milk for and made my own pumpkin pie spice (dashes of cinnamon, ginger, allspice, nutmeg).  Can't really speak to the quality of the recipes proportions as I eyeballed it, but it made for a wonderful variation on regular french toast and was a great use for extra pumpkin puree (without having to make a second pie!).  Thanks for the idea :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "S Quinn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-24T21:59:01.467Z",
+            "reviewBody": "I didn't even use the puree and this were still great, tasted like pumpkin pie indeed!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amanda Nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-19T10:23:59.703Z",
+            "reviewBody": "Wow this was a party in my mouth! So good! I didnt have pumpkin pie spice so I used ginger,freshly grated nutmeg,cloves and allspice. I also didn't have any walnuts. I made it as written and loved it,but wanted alittle more intense pumpkin flavor so I added alittle more into the batter,about 1/4 cup...Bingo was pefection! Thanks for such a wonderful recipe! So easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Naomi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-27T06:05:37.833Z",
+            "reviewBody": "has potential but needs to be tweaked. next time i'll double the topping, adding 1/2 in with pumpkin mix. i'll also add milk as i found it to be dry and i like soggy french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jesspup",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-18T20:23:06.577Z",
+            "reviewBody": "Seriously delicious! I used Pumpkin Yeast Bread from this site to make this. It's definitely worth the extra effort. I left out the walnuts. Yummy! Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-25T11:39:32.017",
+            "reviewBody": "Used milk instead of cream and added the walnuts on each plate because my kids don't all like them.  My daughter said that this was the best french toast ever, but that it didn't really taste like pumpkin.  She loves cinnamon, so I think that is what she enjoyed so much.  This makes a great dipping batter and the bread cooked up beautifully. Plus, it smelled soooooo good cooking this morning.  Served with fresh whipped cream and syrup - this is a great breakfast for the fall months.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mominml",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-11T19:31:58.577Z",
+            "reviewBody": "This did not turn out well for me at all.  I even melted the peanut butter a bit like suggested by other reviewers, but it simply did not mix in well with the rest of the ingredients.  You could not really taste the peanut butter, and the batter had this weird taste that I was not expecting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lizbear",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-12T14:59:06.860Z",
+            "reviewBody": "Family did not like this.  It was heavy/bland and the walnuts ended up sticking to the skillet and not on the French toast, even with following the directions about 'stirring between dips'.  Very disappointed because my family loves pumpkin. I will not be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Linda G",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-06T09:50:16.580Z",
+            "reviewBody": "MMMMMM!!! this was SOOOOOOO good!!! I made it on a cold, fall morning and it was DELICIOUS!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "baker lover Kelly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-15T17:54:51.810Z",
+            "reviewBody": "This was good, but I didn't taste the pumpkin pie flavor... it was missing something...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "COOLCINDERS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-03-31T06:53:23.303Z",
+            "reviewBody": "YUM!!!  I used skim milk instead of half &amp; half...so good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "flahardy5",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-30T16:52:14.037Z",
+            "reviewBody": "very nice.... my 1 year old doesnt eat french toast usually but he finished his plate when I gave this to him.... very good",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steph",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-04T07:16:17.460Z",
+            "reviewBody": "This was very good and a nice change from regular French Toast.  My family only rated it a 4, though.  I thought it had a nice \"pumpkin pie\" taste although I only used 1 t. pumpkin pie spice.  I will add either 1/2 tsp. cinnamon or another 1/2 tsp. pumpkin pie spice next time.  I used evaporated milk and no walnuts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ZAKKIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-07T17:57:24.843Z",
+            "reviewBody": "Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Your Yin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-09T23:03:52.317Z",
+            "reviewBody": "I had fresh cooked pumpkin left over from the holidays that I used. I was surprised that the flavor was not as strong as I had hoped. My kids loved it though, and the nuts were a nice touch.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "crittendenfam",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-20T13:15:40.287Z",
+            "reviewBody": "My boys loved this!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Becky",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-09T08:32:08.037Z",
+            "reviewBody": "This is a very delicious and sweet breakfast treat! I made this for my husband and I this morning and he LOVED it! It was a bit sweet, but that's probably because I put too much syrup on it. :) I used pumpkin butter instead of pumpkin puree for a little extra spice, and didn't have any half-and-half so I used 1/2 whipping cream and 1/2 skim milk. This is a great fall/winter breakfast, and I'm sure little ones would love it too. Thank you for sharing-this is so creative!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "makehistory",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-11T11:25:34.977Z",
+            "reviewBody": "It was really good one! REALLY YUM!\n\nMy husband made these today in the morning. He changed some ingredients according to what we had at home:\n1. Replaced half-and-half with 2% milk and  doubled the amount of milk for my personal preferences (I like it a bit more soggy, so do not double if you like it on the drier side).\n2. Used separate spices instead of pumpkin spice (cinnamon, ginger, allspice, nutmeg). There are a couple of easy recipes on this site. \n3. The best part of all - he used cinnamon swirl bread!!!  My favorite for ANY french toast :)\n\nEnjoy - really nice holiday recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nastia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-06T09:31:47.097Z",
+            "reviewBody": "We've made several times &amp; it is tasty.  You can add more pumpkin if desired.  A keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PPK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-06T10:03:00.443Z",
+            "reviewBody": "Would be good for the holidays, but I really couldn't tell much difference between this and regular french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KYLA8199",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-09T09:33:04.150Z",
+            "reviewBody": "Very good!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "IMJEN2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-03-02T07:36:27.163Z",
+            "reviewBody": "Yummy French Toast. I had some left over pumpkin from the holidays so I was happy to find this recipe. I used almond milk in place of half &amp; half.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "M Reid-Brady",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-31T00:27:30.16",
+            "reviewBody": "I used International Delight Pumpkin Pie Spice Coffee Creamer in place of the half and half and I omitted the walnuts. I enjoyed this and next time I will add a bit more pumpkin spice.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yoly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-20T18:29:55.587Z",
+            "reviewBody": "Loved this recipe! I used Texas toast that was going stale, and I upped it to 4 eggs and 3/4 cup cream. I also left the walnuts out of the batter and sprinkled them on top, much easier.\nI took this a step further and mixed up some pumpkin cream and sandwiched it between two pieces of the French toast before topping with syrup, powdered sugar, and walnuts. SO GOOD!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RainbowJewels",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-10-21T13:05:01.163Z",
+            "reviewBody": "while this made some yummy french toast, the pumpkin flavor was pretty underwhelming.  the kids couldn't even tell i'd added pumpkin to the batter, after declaring they were not eating breakfast today because i was planning on doing it.  i also ran out of batter.  maybe my bread really soaked it up but i only got 6 slices.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BECCAP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-11-16T21:19:22.220Z",
+            "reviewBody": "I'm going to make this for my daughter Megan",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tammy Travers-Hurley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-02-14T07:19:03.667",
+            "reviewBody": "Our family of four all really liked this!  I don't have pumpkin pie spice so I just uped the amount of cinnmon.  I also added a pinch of salt and 2T icing sugar into the batter.  This is a great way to change up the usual french toast and I know I'll be making this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "5Foot3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T18:02:35.990Z",
+            "reviewBody": "Everyone enjoyed this but it didn't have any flavors that stuck out to me so it seemed a bit boring. The only change I made was that I made it with condensed milk as another reviewer suggested because I was out of regular milk. I would make it again but I would step up the spices a bit.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cathy Whitaker Marshall",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-20T17:12:49.677Z",
+            "reviewBody": "A keeper! Fantastic french toast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tracey Standley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-20T17:15:19.573Z",
+            "reviewBody": "Excellent. one of the best French toast recipes. Thick sliced Texas toast style bread works great for this.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "I M Knotacook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-26T08:14:39.740Z",
+            "reviewBody": "This was super we all loved it even the kids (and their pickie). The only slight change i made was adding a splash of milk casuse the batter was to think it made all the diffrence in the world id give this 6 stars if I could!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pixie_25_jacksonyahoocom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-08-19T13:59:41.540Z",
+            "reviewBody": "I replaced the half and half with Thai coconut milk. Plan on making it again. It is a time saver when you don't have time to make pumpkin pancakes!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rose Ladd",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-19T03:35:01.390Z",
+            "reviewBody": "I would make this again. The pumpkin flavor blended with the other flavors and was not overwhelming.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "klangford55",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-16T08:32:17.077Z",
+            "reviewBody": "Delicious. I left out the walnuts because it's too much of a pain to get it to stick to the bread. Also added a little bit more pur\u00e9e and pumpkin pie spice to really make it pumpkin-y. Great recipie!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cheri",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-23T15:31:48.940Z",
+            "reviewBody": "Will probably make it again :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DanielleLShelton",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-17T03:26:14.880Z",
+            "reviewBody": "Made as is and we all loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dana King",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-10-31T11:34:24.903Z",
+            "reviewBody": "I followed the recipe and was disappointed. It was very bland, with nothing \"pumpkiny\" about it. I wouldn't make this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Riley Florence",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T03:56:41.083Z",
+            "reviewBody": "So yummy. Will make it again and again. You can always omit the walnuts or change it up for pecans",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christine Garland",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-01-01T16:32:44.710Z",
+            "reviewBody": "The pumpkin flavor did not come through with these. Tasted a little bland.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sherry",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-10T23:32:51.963Z",
+            "reviewBody": "Looks Very Delicious A Whole Lot To",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melanie Allred",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-13T13:01:33.030Z",
+            "reviewBody": "It\u2019s okay but not great. Don\u2019t taste pumpkin. Won\u2019t make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Teresa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-23T18:51:49.013Z",
+            "reviewBody": "Absolutely delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wayne Savage",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-11T17:29:36.093Z",
+            "reviewBody": "I loved it!  Used vanilla almond milk instead of half and half, and ran out of cinnamon.  Still really enjoyed, would be great with some pepperidge farm cinnamon bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Corey Miller",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-04T16:42:48.857Z",
+            "reviewBody": "The whole family loved this,  added ginger and nutmeg for pumpkin spice.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lovebug",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-25T03:28:57.960Z",
+            "reviewBody": "I made this for Thanksgiving breakfast and the only thing right is add more pumpkin spice/cinnamon, perhaps a bit more pumpkin.\nWe loved it and what we had leftover, I bagged and froze.\nEasy to put in toaster and yum.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-08T21:46:36.900Z",
+            "reviewBody": "I would suggest a little sugar to sweeten up pumpkin mix. Use whip cream for topping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eric Metzger",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-09-23T00:57:09.560Z",
+            "reviewBody": "Withheld the walnuts.\nSprinkled with crushed pecans and drizzled with caramel sauce.\nWas Soo good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vivion Hall",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T22:30:20.580Z",
+            "reviewBody": "Can't have nuts so I didn't use the walnuts. I love pumpkin and will use a bit more Pumpkin Pie Spice next time. Very good and just right for Pumpkin lovers to start the day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathy Anderson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-17T01:25:14.237Z",
+            "reviewBody": "We doubled the spices and used day old French bread. sliced the bread one inch thick and coated, AWESOME!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "northseeker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-07-15T00:38:55.503Z",
+            "reviewBody": "Easy to make and very tasty. Great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "canadiangirl_eh",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-15T22:35:30.310Z",
+            "reviewBody": "no just followed the recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bob Thompson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-21T01:20:29.240Z",
+            "reviewBody": "Easy &amp; delicious! My husband loved it. He said it is so ice to have something different once in a while. Differently will be serving this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sandra Walters",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-22T15:53:45.203",
+            "reviewBody": "It is amazing! I froze leftovers and take them to work...everyone is jealous! Guess I'll have to make some for an office breakfast",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Passionatebaker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-22T17:30:18.327Z",
+            "reviewBody": "I found the mixture so thick it was hard to get a clean sear on the toast. I tried it several times in different pans and heat levels. I just couldn\u2019t get on board with this. My family says the taste is \u201cfine\u201d. Fine is not a compliment to me when cooking",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Misty Putnam Exley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T02:43:11.290Z",
+            "reviewBody": "Very good!! I would recomend adding additional pumpkin if you really want the pumpkin flavor to come through. I will definitely be doing this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kirian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-29T01:44:51.580Z",
+            "reviewBody": "Great tasting recipe. I made it exactly the way the recipe says and it was liked by all!\nI will be making it again this weekend.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barb",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-19T05:40:32.370Z",
+            "reviewBody": "I made as it minus the pumpkin pie seasoning, I really think that would have been too much spice and taken away from the pumpkin flavor. Definitely will be making these again!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melinda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-08T13:14:25.900Z",
+            "reviewBody": "I used about 10 slices of Sara Lee honey wheat bread that I left out of the bag for four hours, or so. I used evaporated milk instead of 1/2 and 1/2, and a few shakes of flax seeds instead of walnuts because of an unfortunate allergy. Yummy! My two and five year olds agree.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HB",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-18T03:07:19.423Z",
+            "reviewBody": "This was a hit!  Shared this with some neighbors and they loved it too!  5 stars from me",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lorna McLeod",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-16T23:34:54.510Z",
+            "reviewBody": "I just used day old white bread.  It would have been better with thicker bread\u2014 maybe Texas toast. I would also top with cinnamon and pumpkin pie spiced whipped cream to add to the pumpkin flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dee Goosby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-14T22:44:10.070Z",
+            "reviewBody": "This is pretty much how I would make French Toast anyway, with the exception of pumpkin.  I did not use walnuts, however.  Who puts walnuts in pumpkin pie? Yech...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael Pananos",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-05T09:09:14.233Z",
+            "reviewBody": "It was delicious!  We found out that if  you prefer a crispier french toast ...you can press the toast down as it cooks in your skillet.  This is definitely a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-09-27T06:48:40.680Z",
+            "reviewBody": "So delicious!  The only thing I changed is I used whole milk because I didn't have half and half.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allison Morgan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-02-19T16:41:46.653Z",
+            "reviewBody": "Great flavor, this was a great way to start my day. This French toast recipe was simple and delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sky B",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T13:00:14.100Z",
+            "reviewBody": "This is a delicious recipe! Even my very picky eater enjoyed a slice. I used heavy cream and pumpkin pie spice with extra cinnamon. I cooked it in a buttered skillet and sprinkled with a ginger flavoured powdered sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sheri Shingler",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T15:26:22.163Z",
+            "reviewBody": "Not very pumpin pie-ee. I would double the pumpkin and double the pumpkin pie spice. May need a little more cream to thin it out but I didn't add any and it seemed fine. Perfect amount of mix for 8 slices of bread though.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andrew Welter RidetheGlass6",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-16T22:37:55.857Z",
+            "reviewBody": "This was really good and so easy!  Will definitely make again. I think what really made it was the Pumpkin Pie Spice!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lorie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-28T17:16:25.187Z",
+            "reviewBody": "Tripled the ingredients, added one additional egg (3), 15oz can of pumpkin, extra vanilla.  Used Texas toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bowk5150",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-09-11T16:11:02.743",
+            "reviewBody": "Thought this was great! Only had two eggs, so reduced recipe, and substited pumpkin spice with all spice, since that's what we had on hand. Added powdered sugar and fresh bananas on top.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fisch",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T04:47:55.197Z",
+            "reviewBody": "I use unsweetened vanilla  almond milk instead of half and half to cut down on fat and calories!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Binky2012",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-01-01T17:52:41.183Z",
+            "reviewBody": "This was wonderful with sour dough bread!  Served with bacon!  Lots of bacon!  I also used almond milk to make it non dairy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RubyRoo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-27T02:41:51.290Z",
+            "reviewBody": "Wonderful with real maple syrup!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue Hudack McMullen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-12T04:57:48.610Z",
+            "reviewBody": "This is so good. Husband kids and dog approved. A breakfast must. Thank you for the recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jakie022003",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-24T05:55:05.233Z",
+            "reviewBody": "Did not make any changes, by far the best french toast ever!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "melissa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T18:01:42.707Z",
+            "reviewBody": "Nuts were good something new for breakfast used milk and it worked",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joanna Harding",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-24T14:22:34.353Z",
+            "reviewBody": "supplement to my original review.. maybe use pumpkin bread....that would surely give a full pumpkin flavor..good luck",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "redstorm_",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-17T14:39:49.050Z",
+            "reviewBody": "Amazing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny Robish",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T19:07:27.477Z",
+            "reviewBody": "Would make again.  Added 3/4 tsp pumpkin spice.  1/2 didnt seem to be enough and was washed out by an entire teaspoon of cinnamon.   Might cut back on cinnamon.  Personal preference really, but there is also a balance to consider.  Turthfully if pumpkin  is your goal, you'll want a bit more pumpkin spice.  Also start with a well warmed pan but not scorching hot.  Scorched egg is an awful flavour.  Good luck Turtles??",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Iama Turtle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-04-20T02:55:05.290Z",
+            "reviewBody": "did not taste anything like pumpkin. I bought extra ingredients for nothing because it tasted like regular french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lnh726",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-06T15:52:32.303Z",
+            "reviewBody": "Yes, very good!  I just used a heaping teaspoon of pumpkin pie spice rather than cinnamon.  I didn't put nuts in the batter but rather topped the french toast with pecans before serving.  You could definitely taste the pumpkin pie spice, but not really the pumpkin puree.  It was still a nice, rich treat though!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather Pulley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-11-16T14:32:44.117Z",
+            "reviewBody": "Yummy!  And very easy!  Didn't have cream so used milk.  So very good!  Will certainly make again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carol Shorter Hicks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-27T17:12:17.897Z",
+            "reviewBody": "My son and I made it as stated, however, we will omit the nuts next time.  This is definitely a go to recipe.  Thanks for sharing it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Monkey c",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-25T19:06:55.377Z",
+            "reviewBody": "Love! Pumpkin spice heaven",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "steele2721",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-10-15T17:23:45.630Z",
+            "reviewBody": "First time making French toast in a flavour other than plain, and I'll definitely make it again. Very delicious! Served with butter and maple syrup as suggested. I didn't add the walnuts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jody",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-16T22:37:30.983Z",
+            "reviewBody": "Awesome recipe, I added a half cup of pumpkin to the recipe because I wanted more pumpkin flavor. It was so good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gail Crowther",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-26T08:14:39.740Z",
+            "reviewBody": "This was super we all loved it even the kids (and their pickie). The only slight change i made was adding a splash of milk casuse the batter was to think it made all the diffrence in the world id give this 6 stars if I could!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/190378/apres-ski-french-toast/",
+    "name": "Apres Ski French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F635136.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2020-06-19T03:39:06.000Z",
+    "description": "This French toast is a great way to celebrate winter. The orange flavor stimulates the senses and adds comfort and warmth after a great morning of skiing. Serve with freshly squeezed or high calcium orange juice to get that extra boost, and top with pure maple syrup or a sprinkle of icing sugar.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H25M",
+    "recipeYield": "2 servings",
+    "recipeIngredient": [
+        "4 slices multigrain bread",
+        "2 eggs",
+        "\u00be cup milk",
+        "1 teaspoon orange juice",
+        "2 teaspoons grated orange zest",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon white sugar",
+        "\u00bc teaspoon salt",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bc tablespoon ground nutmeg",
+        "2 teaspoons light butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place bread in a flat bottomed dish. Whisk together the eggs, milk, orange juice, orange zest, vanilla, sugar, salt, cinnamon, and nutmeg in a mixing bowl.  Pour egg mixture over bread, and refrigerate until bread absorbs the liquid, about 10 minutes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large non-stick skillet over medium heat.  Place bread into skillet.  Cook until golden, about 3 minutes per side.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Paula Bee",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/3525383"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 37,
+        "itemReviewed": "Apres Ski French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "322.9 calories",
+        "carbohydrateContent": "31.7 g",
+        "cholesterolContent": "212.8 mg",
+        "fatContent": "14.1 g",
+        "fiberContent": "4.6 g",
+        "proteinContent": "16.9 g",
+        "saturatedFatContent": "5.2 g",
+        "servingSize": null,
+        "sodiumContent": "682.3 mg",
+        "sugarContent": "10.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-08T20:25:22.270Z",
+            "reviewBody": "wow was this ever good,  I didn't use multigrain bread as I am not a fan of it.  Instead I used an Italian round bread and wow it was awesome. I did use and extra egg as the bread was quiet thick.  My niece came over after and literaly wolfed the remaining down she liked it that much",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gilly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-28T10:04:09.640Z",
+            "reviewBody": "This was awesome french toast. I didn't have multigrain bread, I used Sara Lee's whole wheat bread. (Sale at Grocery Outlet. I stock up and freeze them.) I doubled this for all four of us. This went so fast there were none to take pictures of! Next time, I'll triple this as the fam was disappointed there were no more for seconds. ;) This one's a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-03T21:07:20.890Z",
+            "reviewBody": "This was a good, \"healthy\" tasting french toast recipe.  But then again, we are used to french toast being made with thick pieces of french bread, not multigrain bread.  The orange flavor was just slightly noticeable after cooking.  But with a little powerdered sugar and homemade syrup, this made for a little healthier french toast breakfast that we did enjoy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mominml",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-18T12:18:05.150Z",
+            "reviewBody": "Because I live in a city, I am fortunate and have the ingredients available to make my own multigrain bread.  I do this because I can sneak nutrients into my children's diet without them knowing.\n\nI let some bread remain in a semi-open container overnight and used this because it was a little \"old\".  I also cut the bread thick since my kids like it better that way.  One thing I did change is I used maple sugar which is something I get when I'm up in Canada.  It adds a lovely nuance to this dish, I believe.\n\nA definite make again. Maybe New Years morning when we have a crowd of people staying over.  Thank you, super dish!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jayeno",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-08T12:00:23.250Z",
+            "reviewBody": "The flavor is superb!  However it was a bit eggy for our liking.  Next time I will be sure to use older bread and cut the slices thinner.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robyn58",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-18T10:39:25.220Z",
+            "reviewBody": "Really good.  Try it using thick orange/cranberry bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sam",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-19T07:16:28.660Z",
+            "reviewBody": "This was great! I only used 1/2 cup of milk because 3/4 cup seemed a bit much. I also omitted the sugar. I made it using homemade bread. The slices are much more substantial than bread from the store so the egg mixture was about right for two pieces. \n\nI really enjoyed the taste of these, they were quite different from my usual french toast! The spiced orange flavor came through very nicely, and with some butter and maple syrup made for a very enjoyable breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jubilee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-19T17:21:21.583Z",
+            "reviewBody": "This recipe was AWESOME!!  There is not one thing I would change!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jjallen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-30T09:57:49.840Z",
+            "reviewBody": "Great flavor! Used regular sliced white bread. I think I will use a thicker sliced white bread or an egg bread next time.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dewdrop",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-18T11:46:35.003Z",
+            "reviewBody": "Outstanding",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carol Lewicke",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-19T08:24:47.463Z",
+            "reviewBody": "DELICIOUS!!! very tasty and indeed perfect with a glass of orange juice or orange flavor tea.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "delacassa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-26T11:39:53.950Z",
+            "reviewBody": "We just had these for breakfast and I was very impressed.  The orange adds a nice touch and we all loved them.  I also did not use multigrain bread but white French bread.  I can see making these again and again.\nThanks for sharing the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lori",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-06T01:41:04.883Z",
+            "reviewBody": "I have been cooking French toast for ages, it's been a tradition in my family for weekend breakfasts. This one was the best ever to imagine! Also dashed with confectioners sugar before serving, though probably white sugar would have made it better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "IGumanoid",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-03T16:24:14.390Z",
+            "reviewBody": "Used a home-made brioche bread, was amazing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "saanmg",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-20T08:10:32.787Z",
+            "reviewBody": "It was Ok, not as good as I expected.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dettonlisas",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-19T07:11:22.003Z",
+            "reviewBody": "try using a teaspoon of orange rum in place of the oj...yummy...also, not a fan of soggy so i dry out the toast in the oven before dipping in the mixture......",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "athena1002",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-22T05:58:41.060Z",
+            "reviewBody": "Excellent will definitely make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LA Ranger",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-29T07:27:34.113Z",
+            "reviewBody": "It was a tad on the orangy side for us, but still quite tasty. I think next time (because I will make it again) I will dial back the orange zest to 1 tsp. I used french bread slices, too. Otherwise this was delicious and enjoyable for breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jazzncatz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-12T09:29:17.890Z",
+            "reviewBody": "This was tasty french toast.  I probably needed to cook it a little slower and longer because it was a little mushy in the center, probably because of the large amount of milk to egg ratio.  I felt good feeding this to our family because it was low fat &amp; whole grain.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chalene",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-07-07T10:57:56.243Z",
+            "reviewBody": "This is very good. I didn't have a fresh orange for zest so substituted that and the sugar for 1 T orange marmalade. I also reduced the milk to 1/2 cup as it just seemed too much. \nA keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CarolTyson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-19T09:25:43.413Z",
+            "reviewBody": "Yum......doubled the good stuff and soaked lots more than 8 slices..i always freeze the ends off loaves and use those for \"French toast\".  This time had white, multi-grain and cinnamon raisin..whole family loved",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rwarnberg",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-31T12:13:13.283Z",
+            "reviewBody": "Perfect french toast! Depending on the flavours you enjoy this is an easily adjusted recipe but I love it as is. I like whole wheat french bread with it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather Joy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-29T08:19:46.057Z",
+            "reviewBody": "There was a seasoning in here that we both really did not like.  Left an after taste for hours after eating.  I think that it must have been the nutmet, although the only change that I made in the recipe was to cut the nutmeg in half (and to use Italian bread slices rather than multigrain because that's what I had).  We won't be making this again.  Sorry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KONWAL",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

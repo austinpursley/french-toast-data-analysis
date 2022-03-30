@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/154546/cutters-french-toast/",
+    "name": "Cutter's French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "Cutter's French Toast"
+    },
+    "datePublished": "2021-08-04T05:11:10.000Z",
+    "description": "Make this together with the kids for a fun family breakfast.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H5M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "10 servings",
+    "recipeIngredient": [
+        "\u00bc cup egg substitute",
+        "1 cup 1% fat milk",
+        "\u00bc cup SPLENDA\u00ae No Calorie Sweetener, Granulated",
+        "2 tablespoons ground cinnamon",
+        "10 slices whole wheat bread",
+        "\u00bc teaspoon Sugar free maple syrup"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix together egg substitute, milk, SPLENDA&reg; Granulated Sweetener and cinnamon in a medium mixing bowl.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip bread slices, one at a time into the egg mixture.  Place on preheated skillet and cook for about 2 minutes on each side or until golden brown. If desired, serve with warmed sugar free maple syrup.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "Cutter's French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "89.3 calories",
+        "carbohydrateContent": "14.1 g",
+        "cholesterolContent": "1 mg",
+        "fatContent": "1.4 g",
+        "fiberContent": "2.7 g",
+        "proteinContent": "5.3 g",
+        "saturatedFatContent": "0.4 g",
+        "servingSize": null,
+        "sodiumContent": "158.4 mg",
+        "sugarContent": "1.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

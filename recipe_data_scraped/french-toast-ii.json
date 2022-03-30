@@ -1,0 +1,1759 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/16719/french-toast-ii/",
+    "name": "French Toast II",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F171673.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2000-03-17T21:38:59.000Z",
+    "description": "A simple French toast recipe that anyone can make. Use your favorite type of bread and serve with your favorite syrup.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H25M",
+    "totalTime": "P0DT0H35M",
+    "recipeYield": "12 slices",
+    "recipeIngredient": [
+        "4 eggs",
+        "\u00be cup milk",
+        "3 tablespoons brown sugar",
+        "1 teaspoon ground nutmeg",
+        "12 slices white bread",
+        "1 tablespoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl, beat the eggs. Add the milk, brown sugar and nutmeg; stir well to combine.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Soak bread slices in the egg mixture until saturated.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Brown slices on both sides, sprinkle with cinnamon and serve hot.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Robert Johnson",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/BOSSILAINE@HOTMAIL.COM/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 543,
+        "itemReviewed": "French Toast II",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "340.7 calories",
+        "carbohydrateContent": "52.2 g",
+        "cholesterolContent": "189.7 mg",
+        "fatContent": "8.6 g",
+        "fiberContent": "2.9 g",
+        "proteinContent": "13.7 g",
+        "saturatedFatContent": "2.9 g",
+        "servingSize": null,
+        "sodiumContent": "602.6 mg",
+        "sugarContent": "15.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-08T07:26:50.200Z",
+            "reviewBody": "My husband, who has very little cooking experience, wanted to make french toast for us and so I looked up this recipe for him. This turned out so well that it is now our very favorite recipe for french toast...and I have tried dozens of different recipes for french toast. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-09-11T11:47:09.030Z",
+            "reviewBody": "This was a good recipe.  I used Texas toast instead also I cut out the nutmeg plus used some vanilla. We enjoyed it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SONIA30",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-09-08T09:16:29.043Z",
+            "reviewBody": "I loved this recipe.  I did modify it instead of milk I used heavy cream, and for the bread I used Pepperidge farms french vanilla bread! Yummy! Be sure not to let your bread too long, I usually just coat one side, then the other and onto the hot skillet! Yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-06T06:57:48.140Z",
+            "reviewBody": "I really enjoyed this French Toast. I was only making 2 slices for me, and when I reduced the servings to 2 it said to use 2/3 eggs, but I was having problems with that so I just used 1 egg. And because of several reviews I cut the nutmeg portion about in half. You could still taste it, but it tasted good. I dipped this in maple syrup and cinnamin. It was great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CANDYCORN1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-27T16:04:29.810Z",
+            "reviewBody": "I WAS NOT THRILLED WITH THIS AT ALL. SOAKING THE BREAD TILL IT WAS SATURATED MADE THE BREAD WAY TOO SOGGY. MY FIRST BATCH WAS RUINED. ON THE SECOND BATCH I QUICKLY DIPPED THE BREAD IN THE EGG MIXTURE AND THAT WORKED BETTER. IM ONLY GIVING THIS THREE STARS BECAUSE MY HUSBAND SAID IT WAS OKAY.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-27T12:35:27.097Z",
+            "reviewBody": "People like to complicate French Toast for some reason. They like to add extracts and peel and liqueurs, soak Brioche in the custard over night... and on and on and on. They fiddle and fuss and screw around and somehow- somehow- it's never as good as the stuff they get at that little place down the street. \n\nWell. Having worked for a succession of little places down the street? This is the sort of recipe they use. Simple, made fresh and a la moment. \n\nIn fact, with the addition of a splash of orange extract and a coating of Panko crumbs before frying, this is so close to the recipe for which I used to get raves- and which travelled with me through three kitchens- as to be indistinquishable. Good stuff- brown and crunchy on the outside, rich and custardy inside.\n\nI would suggest using French bread- supermarket variety is fine- and using any left overs to make a first class grilled ham and cheese for lunch. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kendall Gray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-10-08T13:41:17.437Z",
+            "reviewBody": "Made this for oldest son this morning. This is the kid that inhales food like he has never eaten. He had about 4 bites total out of 2 slices and wouldn't eat any more :-(  He didn't like the nutmeg taste and thought it was too soggy. When his brother came down for breakfast and saw his brother's plate he refused to even try it. Thanks anyway.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Butterfly Flutterby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-08-20T12:23:28.997Z",
+            "reviewBody": "Pretty good.  I sprinkled brown sugar on top because I didn't have any syrup.  It provided just the right amount of sweetness.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "VUCN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-02-26T09:46:16.077Z",
+            "reviewBody": "I cut the recipe to 8 servings; ignored the egg count, and used 4; and used only 4 slices of challah bread.  It was the perfect amount of egg mixture for the long, 1-inch thick slices of bread.  I was leery of the nutmeg (I don't even like egg nog), but used the full amount anyway and was not disappointed!  My husband and kids approve.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Murray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-06-19T09:23:03.200Z",
+            "reviewBody": "i was skeptical when i first pulled these out of the pan but actually very tasty.  my family loved them with some real maple syrup for father's day.  i liked the added sugar which just lightly sweetened the toast.  i left out the nutmeg because i thought it might be to much of a pungent flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BEAUANDLILYSMOM",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-05-27T09:03:06.047Z",
+            "reviewBody": "Yummy and simple french toast!  My husband and I really enjoyed this one, Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "EllieElle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-03T10:22:08.733Z",
+            "reviewBody": "Very simple and very good! I cut the recipe in half, added some nutmeg and vanilla - excellent topped with butter and real maple syrup!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-10-25T15:33:22.453Z",
+            "reviewBody": "My husband never really cared for french toast, but loves this recipe!  Everyone tells me it's the best they've ever had.  :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-06T14:38:23.163Z",
+            "reviewBody": "This is a good basic French Toast recipe.  The nutmeg taste is strong, so if you don't like nutmeg I would suggest you try something else.  I followed the directions exactly and my french toast turned out perfectly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Navy_Mommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-04-21T11:14:26.093Z",
+            "reviewBody": "Thanks for sharing this great recipe. We enjoyed it. The only thing for us was that we didn't get as much out of it as it said. \r\n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gloria",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-16T04:10:56.663Z",
+            "reviewBody": "I made this all by myself. I put in a teaspoon of vanilla. The sugar burned it a little, but we LOVED it. It made 11 pieces for us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "2coolbray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-04-20T09:39:46.950Z",
+            "reviewBody": "I think you have to use thick sliced bread, as it didn't work well at all with regular bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kendra Bergen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-02-16T07:42:01.623Z",
+            "reviewBody": "I have made this recipe about four times and my family loves it.  I use Italian bread and it holds up well.  It is extremely simple to make and delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TINAKIDD",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-16T07:59:50.783Z",
+            "reviewBody": "This was great!!  I scaled it to three servings so I only used one egg, and the ingredients proportions were perfect.  I never used brown sugar and nutmeg in my french toast before, but this will now be a staple.  I do suggest mixing the brown sugar, nutmeg and cinnamon with the egg first so when the milk is added the cinnamon and nutmeg don't separate and float.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jackie C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2000-09-03T15:33:51.607Z",
+            "reviewBody": "Yum-Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-26T06:15:58.320Z",
+            "reviewBody": "Needed a quick and easy french toast recipe for Christmas brunch when I found out I was having more guests than expected.  This not only fit the bill, but it was so delicious - possibly the best french toast we have ever had.  My husband was raving about it.  I think the addition of the brown sugar is genius.  Thanks for our new staple french toast recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MomSavedbyGrace",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2000-11-26T09:49:05.280Z",
+            "reviewBody": "Good, easy quick french toast!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "APPLEBERRY5",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-11-26T19:25:38.310Z",
+            "reviewBody": "this was really good!!! It was kinda hard to make, but i enjoyed it, and its not overly fattning!! i will probably make it again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JANINE123",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-14T14:02:14.457Z",
+            "reviewBody": "I think this was a good, basic french toast recipe.   I only wanted to do 10 slices of bread, which was good because I had no mixture left at all after the 10th slice.  To combat the sogginess of the toast, I dried the bread out in the over on 200 degrees for about 10 or 15 minutes, flipping them periodically.  I could have left them out overnight to achieve the same results if I had planned ahead.  I added a teaspoon of vanilla to the mixture, and sprinkled the finished product with powered sugar and cinnamon.  I found I didn't need much maple syrup because the toast has good flavor all on its own.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hezzer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-26T09:55:40.483Z",
+            "reviewBody": "This was awesome. I cut it down to 6 servings and it was just enough. Delicious! Will definitely make again and again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mztorie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-23T11:28:42.543Z",
+            "reviewBody": "Next time try using 1/4 tsp of nutmeg and 1 Tbs of cinnamon. Not as much milk either. Will turn out better for you.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "msmoemoe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-11-28T09:55:22.300Z",
+            "reviewBody": "YUMMY! this is my new french toast recipe, I have always made it the way my mother showed me as a child, I always thought it was way to eggy I made this twice so far first with white bread that was great but then I  made it with Hawian sweet bread (that was all I had it was grocery day) the hawian bread was excellent with this recipe you should try it! it was like heaven in my mouth.My family devoured it!! I will definetly be making this again (with the hawian bread :)  )",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Adreana A Barnes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-04T17:18:22.763Z",
+            "reviewBody": "If you are having trouble getting your french toast to cook all the way through: If you are making a large batch turn your oven to 350 and put them on a foil lined baking sheet AFTER you have cooked them in the pan/griddle. By the time you are ready to start serving you will have fully cooked french toast. If you are making a small batch (i.e for one or two); you can always pop these into the toaster (after they have been cooked through in a pan/griddle) if you think they need to be cooked a little more. On a side note: these freeze and reheat well in the toaster and leave your kitchen smelling wonderful. Also if you know you don't like nutmeg, or you are cooking for a \"picky eater\" cut back on the nutmeg! .....I add vanilla to this recipe because well I put vanilla in just about everything. Overall a great recipe easy to customize after you make it the first time. (i've always mixed the cinnamon in with the egg even though it gets a little clumpy but if you mix well and swirl it before you dip the bread it makes a lovely dark swirl on the bread). -Happy baking!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tasteisparamount",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-05T19:46:48.527Z",
+            "reviewBody": "Good basic recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leah Arnold",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-09-10T09:00:01.920Z",
+            "reviewBody": "very very good french toast, this was my first time ever making it too!!\n\na couple things i changed was i halfed the recipe since it was only my boyfriend and i eating it, so i used 2 eggs, 1/4 cup milk, 1 1/2 tablespoons brown sugar, no nutmeg, dash of cinnamon and splash of vanilla in the batter.\n\ni turned the heat down to medium because they were burning before getting done on the inside...but they tasted wonderful, we gobbled them up in minutes!\nthanks!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy 'Sally Stitches' Hendricks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-08T17:30:54.110Z",
+            "reviewBody": "This was my first time making french toast and it turned out great! I used texas toast and left out the nutmeg because we were out. I sprinkled powdered sugar on it and cut it into french toast sticks for my 2 year old. She loved dipping it in syrup. I will definitely be making this recipe again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-08T18:20:17.673Z",
+            "reviewBody": "My partner and I both wanted to give this a three and a half star, but we couldn't bring it up to four. We made it exactly to recipe and felt it was a little bland. The nutmeg was lovely. We couldn't tell that it was made with brown sugar. We used a very dense home-made white loaf and it worked very well. With the denser bread the slices we soaked for longer were creamier and more flavourful. We fried some slices in butter and felt the added salt and richness made it tastier. If I made it again I would add butter and perhaps vanilla to the batter, and if it were still bland add syrup. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Xzigalia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-11T07:17:10.587Z",
+            "reviewBody": "I CAN IMAGINE THAT THIS FRENCH TOAST IS VERY TASTY HOWEVER IN THE PROCESS OF MAKING IT MY ENTIRE TRAILER FILLED WITH SMOKE.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "B24L",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-22T16:07:41.663Z",
+            "reviewBody": "Perfect standard recipe.  I used cream because I had it on hand as well as butter in the pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "caramelmomma",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-20T14:51:23.720Z",
+            "reviewBody": "Great recipe!  I was out of milk so I used half and half cream instead.  Also omitted the nutmeg.  Tasted delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jenn86",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-28T06:20:37.477Z",
+            "reviewBody": "very good basic french toast recipe!  I had some eggnog left over from Christmas and I used that in place of the milk - and it was great!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NMR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-11T09:58:47.823Z",
+            "reviewBody": "Add 1/2 tsp vanilla. Let bread soak for 10 min; 5 min per side.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angie Clark",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-24T09:49:14.977Z",
+            "reviewBody": "Probably very good if I had  regular milk but i didn't....I make french toast pretty often and thought adding brown sugar would be a good idea... I usually add a little regular milk, (but not too much, as my husband doesn't KNOW I do it... )Today, I didnt have any milk and used french vanilla coffee creamer and the brown sugar.. The cook time seemed longer, and I wasnt sure it was cooked through, and as i turned up the heat, the sugar caused my french toast to start to burn... Mind you, my husband likes his french toast JUST SO, so i was VERY light on the sugar!!! I cooked 8 pieces of french toast (needed 6 eggs for this) and while we both scarfed most of it down, I prefer the old way-- the brown sugar didnt add anything in my opinion, and if you are usually maple syrup anyhow, the flavor is in there, without having to burn it while cooking... We DID eat it, and coffeemate may have attributed to the burning, but I thought I would mention this anyway..",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Axt",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-19T18:23:48.427Z",
+            "reviewBody": "The perfect ratio of ingredients!  Nothing is too overpowering (which is always my fear with nutmeg)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ademers1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-05T06:25:20.177Z",
+            "reviewBody": "Excellent - we topped with fresh strawberries, whipped cream and a sprinkle of cinnamon - yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KerriJ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-03-20T03:29:44.403Z",
+            "reviewBody": "Great!!! Added a drip of Vanilla and made it with Banana bread. Very yummy. Thanks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sheila Breckon Churchill",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-28T14:42:48.790Z",
+            "reviewBody": "This is great! My kids love it. I cut it into sticks so they can dip them. I also don't soak them. I flip it a few times in the batter and that is it.   You can also cut these into sticks, put them on a baking sheet and put in the freezer for a few hours. Then put in zip lock baggies. Then you can have them ready to eat whenever! Great for kids breakfasts :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "June Hedger",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-01T06:52:59.370Z",
+            "reviewBody": "I'm not usually a french toast fan but thought I'd try this anyway- so glad I did it's delicious!  I omitted the nutmeg due to personal taste and added vanilla- amaaazing!!  Thank you Robert =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "eileen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-28T08:36:02.730Z",
+            "reviewBody": "If you aren't a nutmeg fan, this Recipe isn't for you.  I wanted to try something different than our usual Recipe when I tried this recipe.  By the time my family was done, they were asking me not to make it again.  The nutmeg flavor was strong and but I liked the brown sugar addition.  My biggest complaint was that it made the bread really soggy.  I even tried turning up/down the heat but I couldn't dry the pieces out.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeff Hough",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-01T06:34:45.360Z",
+            "reviewBody": "it was a very easy simple recipe.  We ended up not having enough nutmeg (we had maybe 1/2 tsp)......and my husband let one of the pieces soak for too long and it fell apart (rookie mistake!)  All in all, we will make it again...very good.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "PURPLEGIRAFFE69",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-27T10:38:26.540Z",
+            "reviewBody": "This is a great recipe! I added a few drops of Vanillla Extract. Tasty!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristi Hogan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-23T21:35:49.527Z",
+            "reviewBody": "This was quite tasty! I've used cinnamon with French Toast but never nutmeg. It gave it a nice extra dimension to the flavour. :) I did leave out the brown sugar as maple syrup makes things plenty sweet for me. One important thing: don't saturate these, that's asking for a soggy mess! Make these like you would any other French toast - quickly dip each side in the mix and cook.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hazel Maple",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-12T08:34:23.707Z",
+            "reviewBody": "Simple and fast. A perfect week day treat.  I used left over day old French bread sliced quite thick. It was delicious! My 2 year old loved it cut into strips for dipping. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela Christensen Baker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-03-10T09:34:57.227Z",
+            "reviewBody": "I thought this was a great and simple recipe. It took no time to make. Mine did not turn out soggy at all. I cut the yolk out of my egg (I only eat egg whites), used fat free milk, and whole wheat bread. Instead of using brown sugar in the recipe, I spinkled the tops of them with powdered sugar when they were done cooking. I cooked them at a med-high temp. on a skillet. They turned out great! Dont forget the syrup!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "emichalk",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-22T08:49:10.187Z",
+            "reviewBody": "I made half the recipe and it turned out perfect.  I wouldn't change a thing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sdasilva76",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-29T08:55:31.987Z",
+            "reviewBody": "I made this for breakfast this morning, and the family liked it a lot! we had one picky eater who didn't finish his, but overall it was a winner. I changed a couple of things to this recipe. First i used real french bread, and took many other reviewers advice and only dipped the bread slices in the batter instead of letting it soak. In the batter i added slightly more cinnamon and nutmeg than the recipe called for, and like some other reviewers, i added some vanilla. I also added some unsweetened shedded coconut. It was a nice, quick breakfast. It's super tasty served with freshly cut strawberries and bananas, and mapple syrup :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cookiecutter128",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-14T11:49:47.497Z",
+            "reviewBody": "My family loved it!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ktbbyj25",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-07T08:55:22.083Z",
+            "reviewBody": "This is a pretty good recipe. Simple and basic.  I found this recipe when I realized I didn't have any breakfast food in the house. I cut the serving in half and it was more then enough for 2 adults.  I followed the instructions, but added a little bit of vanilla extract and just a shake of nutmeg since my feeling is that it can be too overpowering.  You could really spruce this recipe up with french bread or top with berries.  I'd definitely make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mcckath",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-12T06:46:30.723Z",
+            "reviewBody": "Excellent French Toast!  One of the best I've ever had...good job!  I'd like to add that any leftover egg mixture also makes very light and fluffy scrambled eggs.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kimberly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-06-01T08:17:47.567Z",
+            "reviewBody": "Great",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patrick's Kitchen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-15T06:03:33.497Z",
+            "reviewBody": "Very good and easy traditional french toast. It works excellent when using homemade sliced bread (even your quickbreads for a sweeter french toast). Excellent!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-16T06:52:03.333Z",
+            "reviewBody": "Very good recipe.  I had some left over white bread in the fridge that I wanted to use up, and my husband really liked it.  May try with a thicker bread next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KChristy927",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-24T12:02:43.163Z",
+            "reviewBody": "This was wonderful!  My kids loved it, but I didn't think it needed any cinammon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angelina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-21T00:39:47.270Z",
+            "reviewBody": "Mmmmmm! I used some whole wheat bread and it was tastey. I never added nutmeg to my french toast before. It gave it a little extra kick. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kylie's mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-11T16:38:11.657Z",
+            "reviewBody": "Loved it. So easy and the fam ate it up. I did omit the nutmeg not a big fan but it turned out great",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny Regenold",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-18T06:38:06.877Z",
+            "reviewBody": "This was the best French Toast i have made.  YOU MUST USE THICK STALE BREAD! That is the trick, as it's not too soggy and tastes perfect.  The bread will definitely make or break this french toast\r\nWill definitely make again and again",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "breezy1104",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-23T11:00:25.767Z",
+            "reviewBody": "I eliminated the nutmeg all together and added about 1 1/4 tsp. vanilla. Best French toast ever!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny Clements Nemiroff",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-12-01T10:42:34.513Z",
+            "reviewBody": "This is a great simple recipe.  It's exactly the kind of French Toast I was looking for.  We are not fans of the mushy baked french toast recipes, so this was perfect.  I used thick sliced white bread and was able to make 6 slices.  Would have been 7, but I accidentally left a slice in the mixture too long and when I picked it up, it broke all to pieces.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-31T07:55:56.483Z",
+            "reviewBody": "Turned out great. revision: do not soak the bread in the mixture. I just made sure both sides of the bread was covered then placed on the pan on medium heat.  Used wheat bread because that's what I had, &amp; it was still very good! Thanks for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "andreax101",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-02T05:53:51.160Z",
+            "reviewBody": "Only made this for one so I changed the recipe yield to 3 so that I only used 1 egg. I didnt have brown sugar so I used regular sugar instead. Also couldn't find my nutmeg. I added a tad bit of vanilla and decided I wanted something extra and added just enough chocolate syrup to give it that light chocolate milk color. Had exactly enough for 2 slices of bread which was what I wanted to begin with. Turned out really well and the little bit of chocolate gave it the perfect taste. Looks like I need to hit the store for brown sugar and nutmeg though- can't live without my staples. Overall a great base recipe- I just don't follow recipes well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BugabooChef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-27T07:54:06.190Z",
+            "reviewBody": "Very Good! Since I used large whole grain bread slices I had to double the mixture to coat both sides. Yummuy!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MHARBAJAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-01T19:59:31.830Z",
+            "reviewBody": "I rather like this recipe and have made it several times. The only things keeping this from getting five stars are: (1) Perhaps I am soaking my bread too long, but there is no way I could get 12 pieces of bread dipped with the the amount of batter the recipe makes. I usually only get about 6 slices. (2) The recipe doesn't specify how long to cook other than until brown. It was a trial and error process the first time I made these to get toast that wasn't soggy. I have found medium-low heat for about 4 minutes on each side produces perfect toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clarissa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-07T11:41:43.197Z",
+            "reviewBody": "I made this recipe with a few modifications.  I only used 3 eggs (all I had), a big splash of milk, a large pinch of nutmeg, 3 large pinches of brown sugar, a pinch of ground cinnamon in the egg mixture and I added a pinch of dried ground lemon peel (McCormick's) and I fried the bread in peanut oil (peanut oil never burns) and butter.  I finished off the french toast with a drizzle of melted butter and powder sugar and it was really easy and delicious!  I will be making this again when I am short on time and I want a crowd pleaser.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AHAMMER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-11-15T10:31:30.073Z",
+            "reviewBody": "Made this, for my husband, two sons and a friend. Came out to 9 slices of Texas Toast. Only thing I did different was add the cinnamon to the egg batter, cause I was lazy about sprinkling on finished toasts. The out come was delish!\n\nAm going to use my recipe of French Toast. Same ingredients, but I like to dip each slice of bread in flour, shake extra flour off, then dip in egg mix. Toast comes out, not soggy at all!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nancie Carole Brooker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-12T11:05:32.783Z",
+            "reviewBody": "It was ok, too much spice for my taste could have gone without the nutmeg.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lili Marlene Adams",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-26T06:58:39.743Z",
+            "reviewBody": "this recipe is fabulous! the brown sugar and nutmeg add a special touch. I tend to use just egg whites instead of whole eggs and it is delicious!  Thanks for a wonderful post!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paula's Plate",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-04-02T16:13:05.620Z",
+            "reviewBody": "I enjoyed these very much and so did my fiance.  I used almond milk instead of regular milk and they were delicious",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jessicarae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-16T06:26:16.860Z",
+            "reviewBody": "Quick and tastes great especially with real maple syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "daydream337",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-11T06:17:05.517Z",
+            "reviewBody": "My husband usually is the one to make French toast at our house, but when I made this for breakfast he declared it the best he'd ever tasted. I halved the recipe but made no other adjustments.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather Moyer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-20T10:33:26.903Z",
+            "reviewBody": "WOW!  This was AMAZING!  (And no mushy middle as SublimeMind82 reported.)  Not only is this exceedingly easy to make, and LOOKS fantastic (thank you, nutmeg), but the aroma that fills the kitchen and the house is incredible.  I will never go back to generic French Toast...this is our new standard. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mike",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-14T08:20:49.493Z",
+            "reviewBody": "Super good! I've had this same recipe but without the brown sugar, and the caramelized sugar really makes this one stand out. I cut the recipe in half for just me and my husband, though, and the liquid was gone before I could make 6 pieces of bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kendra Mesecar",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-03T12:49:02.673Z",
+            "reviewBody": "reduced the nutmeg and added vanilla....perfect!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Beaverton Baker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-09T06:59:34.053Z",
+            "reviewBody": "I've never made french toast using brown sugar before, and boy have I been missing something.  This recipe was delicious.  I did substitute a tsp of vanilla for the nutmeg (not a big fan of nutmeg), but the brown sugar is definitely the deal maker.  Thanks!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ben",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-03T19:46:53.013Z",
+            "reviewBody": "I used Shabbat Challah bread from this site and added 1/2 teaspoon of vanilla extract.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "inounvme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-06T11:31:56.907Z",
+            "reviewBody": "I have cooked very little in my life time and as my first time making french toast using this recipe turned out wonderful.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kera moondust",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-30T16:18:37.327Z",
+            "reviewBody": "Great recipe.  A little to eggy for me put that is probabley mostly personal tast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wanna Be A Cook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-08T06:14:00.180Z",
+            "reviewBody": "Very good recipe... doesn't seem to make quite as many pieces as stated. Doubled the recipe and still only got 8 slices.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RMT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-04-14T07:43:27.250Z",
+            "reviewBody": "Very flavorful with the huge amounts of cinnamon and nutmeg called for.  I also added a splash of vanilla.  I've never put brown sugar in my egg mixture - added sweetness, but no outside carmelization (as I'd hoped).  'Saturated' to me meant a quick flip to coat, and that seemed to worked.  A decent start.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LIZCANCOOK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-12T06:57:59.997Z",
+            "reviewBody": "Similar to my regular French toast method, but the nutmeg was a nice addition - used slightly less than called for. Made it with homemade French bread which I'd sliced a couple hours ahead to allow it to dry slightly. Added a dash of sea salt.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tom Long",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-25T10:24:20.697Z",
+            "reviewBody": "This was a very easy recipe to follow and for someone who had never made french toast before I was surprised at how simple it was. I didn't have any nutmeg on hand but it was fine just with the cinnamon. We'll definately have it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-19T15:07:17.803Z",
+            "reviewBody": "This french toast is really good.  It's very nutmeggy before sprinkling the toast with the cinnamon.  The cinnamon tones down the nutmeggy flavor and adds it's own breakfast-flavor.  We enjoyed this breakfast and I plan to make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-08T13:26:56.660Z",
+            "reviewBody": "This was good.  I used a french baguette and halfed the nutmeg.  I also added a little cinnamon and vanilla right to the dipping mixture. Will definitely make again - but will probably use even less nutmeg next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "_jennifer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-01T06:59:08.703Z",
+            "reviewBody": "I had a craving for French Toast, but had no vanilla in the house. I think the nutmeg was what did me in. It was just ok and if you like nutmeg, maybe you will really like this one!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "melisska",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-22T06:07:07.480Z",
+            "reviewBody": "This was sooooo good! The only thing I did differently was mix the cinnamon in with the egg mixture.  This french toast didn't even need syrup!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chasity",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-15T14:14:49.977Z",
+            "reviewBody": "The nutmeg was overpowering, and I couldn't even eat mine because it was so soggy. The flavors did not work well in french toast. Will not make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CariMel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-12T13:18:17.130Z",
+            "reviewBody": "I made this recipe for myself and my two brothers. I changed the amount of servings from 12 to 6 and followed the revised recipe. However I did change the amount of nutmeg to 1/4 tsp, and I didn't soak the bread to prevent it from being too soggy. The french toast turned out too nutmeg-y and it was also too dry. None of us like it. Won't be making it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "missteacher",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-27T22:33:54.627Z",
+            "reviewBody": "This was very good. I made it exactly as this recipe instructed. We do not eat white bread, but I forgot to make Challah the previous day...so I bought some basic white and dried it out on a plate for about 5 hours. The result reminded me of the simple french toast I grew up eating.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jessica McCabe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-11-11T10:38:17.397Z",
+            "reviewBody": "Better to dip both sides then to \"soak\" bread slices. And no french toast recipe is complete without vanilla. In mine, I use authentic Mexican vanilla. Otherwise, good basic recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "inuxvomica",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-23T06:44:57.597Z",
+            "reviewBody": "Great recipe.  I use white sugar instead of brown and I didn't add the nutmeg.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shalaine_1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-09-03T10:54:46.150Z",
+            "reviewBody": "Loved this recipe! Very easy and quick. I only made enough for 4 servings and added a 1/2 teaspoon of vanilla and a little extra brown sugar and cinnamon since I love it so much :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alisan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-09T05:49:07.270Z",
+            "reviewBody": "I have tried to make french toast before and failed miserably.  This is an easy recipe and very very good.  My 7 year old daughter enjoyed helping me make this, and we both agree it could use something extra.  Next time we make this, which we will make this again using this recipe, we are going to add a teaspoon of vanilla.  Very, very yummy.  The brown sugar is very ingenious!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Catherine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-09-07T10:26:23.440Z",
+            "reviewBody": "This was probably the best french toast I have ever made.  My husband truly enjoyed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Twnmm",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-25T07:21:56.587Z",
+            "reviewBody": "Perfect and easy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "domesticdiva22",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-02-14T10:35:03.667Z",
+            "reviewBody": "Was out of nutmeg so used allspice. Tasty but very soggy. Next time I'll dip but not saturate bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cindy2louwho",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

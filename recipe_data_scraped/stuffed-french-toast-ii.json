@@ -1,0 +1,1787 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/33092/stuffed-french-toast-ii/",
+    "name": "Stuffed French Toast II",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F495357.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2018-03-21T16:23:03.000Z",
+    "description": "This is a nice change from ordinary French toast. I make this more than the standard recipe.  Although this is my family's favorite version, it is very versatile. You can substitute peanut butter for the cream cheese, use different jams or preserves, different extracts or spices - the options are practically limitless! Serve with maple syrup and sprinkle with powdered sugar.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H25M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "8 slices oatnut bread",
+        "\u00bd (8 ounce) package cream cheese, softened",
+        "\u00bd cup seedless raspberry jam",
+        "5 eggs, beaten",
+        "\u00bc cup milk",
+        "1\u2009\u00bd teaspoons almond extract",
+        "1 tablespoon butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Spread 4 slices oatnut bread on one side with cream cheese. Spread remaining 4 slices on one side with raspberry jam. Press cream cheese slices together with jam slices, forming sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium, shallow bowl, beat together the eggs, milk and almond extract.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large, heavy skillet over medium high heat. Dip sandwiches in the egg mixture to coat. Place in the skillet, and cook on both sides until golden brown.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "ELISAW",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/256174"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 166,
+        "itemReviewed": "Stuffed French Toast II",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "530.7 calories",
+        "carbohydrateContent": "65.5 g",
+        "cholesterolContent": "272.2 mg",
+        "fatContent": "22.2 g",
+        "fiberContent": "2 g",
+        "proteinContent": "16.5 g",
+        "saturatedFatContent": "11.1 g",
+        "servingSize": null,
+        "sodiumContent": "577.1 mg",
+        "sugarContent": "34.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2006-09-09T14:08:23.000Z",
+            "reviewBody": "This recipe had a very fun flavor that my husband and I enjoyed very much.  I did change it a little, instead of making it like a sandwhich I used Texas Toast, sliced a pocket into it and filled it using a sandwhich baggie with the corner cut off.  Just perfect!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Megs",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-04-03T05:18:55.890Z",
+            "reviewBody": "Unfortunately, I only had white bread the morning I made this.  It was good, but I would rather have used oat nut or whole grain bread.  I also substituted strawberry jam for the raspberry jam.  Next time I would like to try substituting mascarpone for the cream cheese and trying different extracts, maybe adding a little more than called for.  Also, if you use fat free cream cheese, it will harden up a bit and almost seem curdled.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Danielle Parent Garcia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-08-18T05:56:51.233Z",
+            "reviewBody": "Oh Elisa.....how wonderful are these? I've never been a french toast fan, but when I saw this on the site, I just had to try it and we loved it. Reminds me of eating cream cheese and jelly sandwiches as a kid, but about a million times better. Total comfort food. Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-12-25T08:16:49.920Z",
+            "reviewBody": "This was a decent recipe and a great idea.  I made it this morning for Christmas breakfast for just my Husband and myself.  I used only three eggs insted of 5.  I made the usual adjustments to make it more nutritious and it came out very good.  We enjoyed it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Charlotte's Mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-08-22T11:02:59.803Z",
+            "reviewBody": "This recipe was a big hit!!  I used french bread and blackberry fruit spread.  I also topped them off with powered suger.  Yummy!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LILBUF76",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-01-29T15:45:18.873Z",
+            "reviewBody": "We loved it!  We added 2 Tbs. or so of white sugar to the cream cheese (whipped it up) then spread it on the bread slices.  We also used regular wheat bread and it was still good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Stephanie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-08-08T15:33:01.507Z",
+            "reviewBody": "All I can say is \"yummy\"!  My husband even liked it and I was afraid it would be too sweet for him.  I used Raspberry Simply Fruit and it was delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cathy snider",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-04-22T20:13:56.437Z",
+            "reviewBody": "Really Yummy! I had to try it with Hawiian sweet bread. Filling and wonderful. I will make this again and again. I might even try it will my other favorite fruit fillings!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "coffeenogrumpy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-16T08:15:48.030Z",
+            "reviewBody": "I enjoyed these a lot! I used Multi-grain bread, lowfat cream cheese and grape jelly.  Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jen E",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-06-25T16:21:18.217Z",
+            "reviewBody": "Made this for dinner one night for hubby and I.  Really enjoyed it.  Couldn't find oatnut bread at the store, so substituted oatmeal bread.  Very tasty..will make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "WINNIETHEPOOH83",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-07T08:28:02.600Z",
+            "reviewBody": "I thought there was too much almond extract! It gave me a strange aftertaste. I then used blueberry jam and added about 3 T. fresh lemon juice and about 1 tsp lemon zest to the cream cheese. Omitted the almond extract. It was amazing! The lemon offset the sweetness of the jam perfectly! I did need more egg/milk mixture!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maria Joy Schrock",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-24T17:38:13.107",
+            "reviewBody": "Very tasty! I'll definetly be making this again, although I think next time I'll mix the cream chesse and the jam together and add some sliced fruit. This was so rich it didn't need any syrup, I just served it with a dusting of powdered sugar and some fresh berries.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jog Dish",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-05T09:06:52.460Z",
+            "reviewBody": "This was so, so good!! I used thin slices of french bread instead of normal bread. The only thing I would do differently is use vanilla instead of almond extract since my 4 yr old didn't care for the smell.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lollylew",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-29T14:42:58.333Z",
+            "reviewBody": "I made a lot of changes to this.  First, I had white bread that needed to be used up so I used that instead.  Wheat would have been better but the white did the job.  I didn't measure anything (never do with french toast) and used fresh plum jam instead of raspberry.  It's what we had on hand.  I also always add a little salt, cinnamon and vanilla.  Also, I use oil instead of butter to cook french toast.  Dusted with powdered sugar and voila!  Very good!  Thank you for the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JFeld3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-20T18:02:14.363Z",
+            "reviewBody": "O.M.G.!! This was INCREDIBLE!!! i used honey buttter for the frying pan because i didnt have any regular butter, and it made the outside sweet and caramilly! It literally melted in my mouth!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "baker lover Kelly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-05-04T06:56:56.003",
+            "reviewBody": "Great treat. I used strawberry cream cheese with sliced bananas. Will be making this again..&amp;...again..&amp;...again..",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "wendy A",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-22T08:15:09.187",
+            "reviewBody": "I used real blueberries instead of jam and when they warm up in that cream cheese they are soo delicious!  Can't wait to try it with the raspberry and the strawberries.  MMMmmmm worth making again and again!  I did add some cinnamon and powdered sugar sprinkled on top.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mrs CJR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-09T16:20:26.247Z",
+            "reviewBody": "This was delicious!  I made a few changes to the recipe.  I used grape jelly (it's what we had), 3 eggs (I only used 6 slices of bread), potato bread (again, it's what we had and it worked GREAT), vanilla extract instead of almond, and also added 1/4 tsp cinnamon and 1/4 tsp nutmeg to the milk/egg mixture.  Oh and I used 2 Tbs butter.  I know I made a lot of changes, but this recipe gave me a great start and I loved how mine turned out!  The cinnamon and nutmeg were a GREAT addition.  My husband said it tasted like something you would get at a fancy Bed and Breakfast :-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ecmcg",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-10T07:59:46.790Z",
+            "reviewBody": "Rich and yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "abbeyroad",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-14T09:33:49.730Z",
+            "reviewBody": "Followed the recipe except used Texas toast. I thought this was okay but my husband seemed to like it very well. I thought the filling had a tart flavor that was a little overpowering for the toast. I would make this again with strawberry jam.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah J",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-29T09:39:20.530Z",
+            "reviewBody": "wonderful recipe! so many different ways to use it! It willnever be the same old french toast ever again! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julia Monroe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-22T09:32:41.663",
+            "reviewBody": "This was really great! Very simple to make but oh so good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elvish-Hillbilly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-30T15:48:06.493Z",
+            "reviewBody": "made exactly as instructed, came out great! Kids loved it! Also made it with strawberry preserves came out yummy as well! Sprinkled with powdered sugar and crushed walnuts very good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Zenthia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-22T07:51:01.183Z",
+            "reviewBody": "This was a delicious version of French Toast. I used Smuckers 100% All Fruit Blackberry. Also, I didn't have almond extract so I used vanilla. Topped it with a touch of maple syrup. I usually use the Overnight Blueberry French Toast recipe from this site, but wasn't looking forward to that much work after a 17 hour shift yeswterday. This was much easier, and I think better. Next time I will try PBJ for my PB lovin' DH. Thanks ElisaW!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MYHORSENUTMEG",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-14T07:03:54.570Z",
+            "reviewBody": "Delicious!  This was  just the recipe I was looking for.  I substituted the cream cheese with Mascarpone, an italian sweet cream cheese. and used homemade rhubarb jam and sprinkled it with confectioners sugar - yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TSpurr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-18T13:03:33.760Z",
+            "reviewBody": "I used leftover french bread to make this for the kids this morning.  They all ate it and said that it was good, but preferred just plain french toast.  The middle part, where the cream cheese is, was a little gooey, but had great flavor.  One of them topped it with peanut butter and said that it tasted like a PB&amp;J sandwich.  The others didn't even add syrup because they said it was sweet enough without.  Still really good, and more than likely, something I will try again with other flavors of jam.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mominml",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-22T15:30:30.240Z",
+            "reviewBody": "Had this for dinner tonight as our \"breakfast for dinner\" day. Was very easy to make and very yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ilikefrenchies",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-02T07:29:31.527Z",
+            "reviewBody": "Very good. I added powdered sugar to the cream cheese which gave it a smoother sweeter consistancy. These freeze well too so you can make a big batch all at once and not worry about wasting them.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jessica53214",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-02-21T13:55:13.470Z",
+            "reviewBody": "Pretty darn good...Mr. Picky and Picky Jr. loved it with my homemade raspberry jam.  Next time I'll add a bit of sugar to the cream cheese",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pam Lewis",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-09T20:00:42.963Z",
+            "reviewBody": "I made this as breakfast for dinner. I used whole wheat bread and grape jelly - that's the only kind i had on hand. I think it would be much better with a different kind of jelly. The kids only took one bite and wouldn't eat the rest. I enjoyed it. I used vanilla in place of the almond extract.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "amandak23k",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-17T13:29:15.107Z",
+            "reviewBody": "This was quite yummy and easy.  My family isn't big on raspberry so I had to use something else.  I tried peach and strawberry preserves.  Both were good, but I think the stronger flavor of strawberry (and I'm sure raspberry) worked better.  I would definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joy Dauterman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-25T08:44:38.443Z",
+            "reviewBody": "AMAZING! super easy and so good!  Next time I'll reduce the almond extract to 1tsp.  I only had plain old whole wheat sandwich bread, and it was still wonderful!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stolle3314",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-22T05:21:18.690Z",
+            "reviewBody": "My husband enjoyed this, said he wouldn't mind it once or twice a year - it's too sweet to have often.  If I make it again, I'll reduce both the cream cheese and the jam. It's quite a lot of goo. I also won't use almond extract again - I found it far too strong and that's after cutting the amount by a third as it was! I'll use vanilla if I use any flavoring.    having read the review, I tried banana in one of the sandwiches - it was good but I don't think I'll do it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jan Mowbray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-22T14:15:12.867Z",
+            "reviewBody": "I made this for Mothers Day breakfast in bed and my mom loved it! I mixed the cream cheese with seedless boysenberry jam instead of doing cream cheese on one slice and jam on the other. The result was amazing. I had a lot of mixture left over so in the future I will make a smaller batch. I cut the crust off before cooking it and added a little powdered sugar with a dollop of whip cream on top. My Mom said she felt like she was eating gourmet. I will probably add more jam next time for a more fruity flavor. Loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alyssa Joan Barnes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-05T13:36:49.797Z",
+            "reviewBody": "I made this for the first time on Easter Sunday for brunch at my grandma's house. We have a huge family I used a entire loaf of regular white bread because the store didn't have much else for some reason. I also used strawberry cream cheese just to make it a bit faster. I also put banana's on the inside of the sandwich of some of them. I put a bit of cinnamon in the egg mixture because that is how I always make french toast. This was the first thing gone and everyone loved it that got some. I was already asked to make it again. Thanks!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "erikagee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-26T06:36:34.287Z",
+            "reviewBody": "Pretty good! I will say that I used real diced strawberries with light cream cheese as the filling and it was delicious! Sprinkled with powdered sugar. Kids loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "k",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-06T18:07:08.190Z",
+            "reviewBody": "I followed the recipe exactly and it turned out great. \nI used to make regular french toast all the time but now I make this.\nIt's a really easy recipe and it turns out really well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mincemeat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-09-30T22:31:22.810Z",
+            "reviewBody": "YUM! I wasn't sure how it would taste with the cream cheese, but I was pleasantly surprised! I only had apple jelly, so that's what I used. It tasted like a combination of a strudel and apple pie!! I didn't follow the recipe exactly for the batter, I just did what I normally do which is 4 eggs, a splash of milk, and a dash each of cinnamon and vanilla extract. I also didn't have any bread sturdier than white, so I used that. I would recommend something a little heartier, just because the white bread didn't hold up very well during the spreading and dipping, but it was still the best french toast I've ever eaten!! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Skylara",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-14T08:29:22.547Z",
+            "reviewBody": "So good. I made it to the recipe, and it tasted a little like a cheesecake filling. The kids and the hubby loved it. Just a tip, serve with items that are not sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ari",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-25T15:14:25.007Z",
+            "reviewBody": "Very impressive recipe. My guests are always wowed! So easy to make too. I like to use fresh oat/grain bread from my local bakery. I let the sandwiches soak a minute or so in the egg mixture, otherwise they turn out too dry for my tastes if I do a quick dip. I'm not a big fan of sweet breakfasts, so this is right up my alley. Not very sweet at all! The almond extract is a nice touch! The last time I made this, I topped the french toast with strawberries that were macerated with a bit of brown sugar and amaretto. SO GOOD!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "France C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-08T08:44:59.570Z",
+            "reviewBody": "Excellent recipe. Real crowd pleaser. Children loved the recipe. Very filling.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nancy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-23T10:47:37.620Z",
+            "reviewBody": "I used cinnamon swirl toast for the bread and mixed softed cream cheese, sugar, cinnamon, and a little bit of vanilla extract together and smoothed it inside both sides.  Came out great!  Like a mini cheesecake french toast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mindblazzin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-06T15:11:50.180Z",
+            "reviewBody": "Easy delicious recipe! I will make this for years to come! Great job!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeanette Worth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-03T08:16:34.217Z",
+            "reviewBody": "I added a banana and about 1/2 c. crunchy peanut butter to the cream cheese.  My husband and son LOVED it.. they are peanut butter obsessed!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shortey0",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-13T08:16:19.757Z",
+            "reviewBody": "I'm not sure why some had trouble with fat free cream cheese.  If it's softened, it works exactly the same as regular for a recipe like this.  It spread &amp; cooked wonderfully -- I had no problems with it.  For a bit of \"fancy,\" I used a french baguette sliced into 1 inch pieces, rather than oatnut bread.  It cooked to a beautiful golden.  I added cinnamon to the egg mixture, &amp; had to use vanilla extract as I was out of almond -- this recipe is delicious but almond would add an even more scrumptious layer!  This was an easy way to impress house guests -- A KEEPER!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mommymeggy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-10T18:53:10.217Z",
+            "reviewBody": "So yummy!  I really like the almond flavor, it goes well with raspberry jam.  I used 100% whole fruit black raspberry jam and low-fat spradable cream cheese.  I just used regular whole-wheat bread too.  Very easy to make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Ramey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-07-02T03:34:13.093Z",
+            "reviewBody": "Fabulous stuffed french toast!  Used whole wheat bread, strawberry jam and cream cheese, then crab apple jelly and cream cheese.. yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-05-14T15:25:58.373Z",
+            "reviewBody": "I made this for my mom on mother's day.  It was delicious and not hard to make at all.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Katie318",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-08T12:05:02.433Z",
+            "reviewBody": "Okay but I think I will still keep looking for one I really love. The almond was a bit much.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LSBUI",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-09T10:19:39.673Z",
+            "reviewBody": "This was really good, really simple, and really fast - I loved it! I just used normal wheat bread from the store.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Katherine Muterspaugh",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-03T10:25:41.227Z",
+            "reviewBody": "This was very good. I made it for my family during a recent visit. Everyone liked it except my neice, who is 15. She tried it but in the end wanted her usual plain jane french toast. I did use mascarpone cheese instead of cream cheese, and it was very, very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SherylAnne",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-19T22:01:10.577Z",
+            "reviewBody": "This was excellent!!  Even my kids liked it and they are incredibly picky.  I didn't have almond extract, so I had to use vanilla instead, but it turned out great. Thank you so much for sharing this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sara Murcray",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-18T10:05:31.050Z",
+            "reviewBody": "Yum!  I can envision endless combinations.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rdonohue",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-12T07:40:21.417Z",
+            "reviewBody": "Spread Desired Amount Of Cream Cheese And Raspberry Jam after cooked. Only Beat 2 Eggs And 1/8 Cup Of Milk. Used Vanilla.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lina Hershberger",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-29T14:26:47.257Z",
+            "reviewBody": "Very good. I mixed the jam and cream cheese together, just made it a little easier. I put syrup and powdered sugar on top...very pretty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HOTNSPICY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-14T21:49:37.310Z",
+            "reviewBody": "Easy to fix, very sweet.  I used thick bread and cut pockets in the slices. Honey liked the recipe but one was enough due to the sweetness.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BINKY149",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-13T08:29:41.560Z",
+            "reviewBody": "Holy cow is this SWEET. But it's very good! I used the dip recipe for Fluffy French Toast and used some sliced Vienna Loaf for the bread. Very yummy. Very unhealthy, but very yummy ;)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "yippee5",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-22T10:20:34.343Z",
+            "reviewBody": "Not bad, the kids enjoyed it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JamieW",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-26T09:38:09.000Z",
+            "reviewBody": "So easy to make and really delicious! I didn't have the exact ingredients so I used whole wheat bread, an egg, vanilla extract, almond milk, regular cream cheese, and seedless strawberry jam for one serving. YUM!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-27T10:56:04.997Z",
+            "reviewBody": "I really liked the outcome. I love creamcheese, so this was a great breakfast for me.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lilola",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-18T13:51:40.620Z",
+            "reviewBody": "I bought Philadelphia's white chocolate cream cheese spread at the store yesterday, so when I saw this recipe I thought I'd try it with a switch.  I spread the wc cream cheese onto both slices of bread.  To keep from being to sweet, I used frozen raspberries I had on hand instead of the jam.  I then double-dipped into the egg batter; delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DeeCol32",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-10-23T02:04:15.150Z",
+            "reviewBody": "Yummy!  I made this tonight for dinner and my family liked it.  I used the same amount of cream cheese that this recipe calls for to make 10 servings.  I also used vanilla extract instead of almond.  This is a make-again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RAZMOM4",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-09T13:20:16.130Z",
+            "reviewBody": "Very good. Went together quickly and cooked easily. I served it for a special breakfast with bacon, scrambled eggs and pure maple syrup. Delicious! I used the strawberry jam as suggested. Loved the oat nut bread. Did not get soggy at all.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Moe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-13T09:01:49.837Z",
+            "reviewBody": "I used Texas Toast, light cream cheese and Simply Strawberry Jam.  Made the french toast and then put just a little of Smuckers Strawberry Syrup on top.  Perfect for Valentines Day.  It was simple and quick to put together (another plus)!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "THOMPSONCHEF",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-15T18:44:33.113Z",
+            "reviewBody": "very good this is going into my recipe book forever.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "matt",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-27T06:13:07.260Z",
+            "reviewBody": "Very delicious and easy to make. Definately a good sunday morning breakfast. I made this in July so I had some fresh raspberries on hand which I added to the perserves. I think Next time I may use a little less cream cheese. But I will definately be adding this to me breakfast rotation.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fozziesmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-01T07:21:05.917Z",
+            "reviewBody": "I used strawberry jam and strawberries. It was very good and easy. I used my regular everyday bread and it turned out just fine.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chrissymoo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-10-14T09:34:43.660Z",
+            "reviewBody": "Awesome base recipe, especially using the oatnut bread: perfect amount of crunch and substance for an otherwise decadent breakfast!  I substituted fatfree sour cream with lemon zest, cinnamon, stevia, and nutmeg for the filling and opted for fresh fruit on the side rather than the jam.  I also left out the almond extract, but only bc my husband isn't a fan.\nI've tried a few different toast \"stuffing\" techniques that all turned out kind of ugly and messy... this one is the SIMPLEST and most successful solution! SANDWICH! DUH! Why didn't I think of that?!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DevBrown",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-14T15:42:25.180Z",
+            "reviewBody": "love this recipe. super easy and very tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ilesina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-20T17:13:15.877Z",
+            "reviewBody": "WOW...so very yummy. I used Texas Toast and made both stuffed french toast and some plain slices of french toast. The stuffed was the first to go. If I could make one suggestion though....I did as the recipe said, spread cream cheese on one slice and the jam of your choice on the other. Next time I make this (which I was immediately informed would be in a couple days again) I will mix the jam &amp; cream cheese together first &amp; then spread in between the bread slices. I was blessed to have fresh strawberry jam from a friend so the flavor was delicious. I served it with the Absolute Best Pancake Syrup from this site. I've had this at a fancy breakfast cafe near our house and always have cravings for it but can't afford it very often. Now I can make it at home and have seconds without paying for a second plate. YES. It really is that good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "blessedbylove",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-07T06:39:07.847",
+            "reviewBody": "This was great, and so easy too! I didn't change anything but we didn't meaure the cream cheese/preserves in the sandwiches. Just put the amount that looked right. We put strawberry freezer jelly on top of ours and a dusting of powdered sugar, and I don't think a restaurant could beat it :) Prep goes very fast too if you can get someone else to help with the sandwich making part!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JARRIE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-31T09:45:43.007Z",
+            "reviewBody": "These are really good.  We like to use raisin cinnamon bread.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "5boys2cook4",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-04T09:16:18.813Z",
+            "reviewBody": "We didn't have raspberry jelly so we used pumpkin butter. It was great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ladiesia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-10-23T12:43:50.603Z",
+            "reviewBody": "Made this but did not have cream cheese. I got the bright idea to use ice-cream instead and I was surprised by how good it tasted and the fact that the ice-cream did not melt completely! Amazing, love, love, love it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NavyBrat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-30T10:23:10.223Z",
+            "reviewBody": "Very good. I really enjoyed this. I didn't have almond extract so for two servings, I used 3/4 tsp. vanilla extract and added 1/4 tsp. cinnamon for something extra =) Will definitely use again. Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Celene",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-16T07:07:57.513Z",
+            "reviewBody": "This was a huge hit. I followed the recipe exact, only using homemade strawberry freezer jam instead of raspberry. My husband and kids ate every bite. Great way for couponers to use cheap cream cheese and day old bread and excellent weekend breakfast treat. I made cheezy eggs and turkey bacon to go with.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-16T16:18:30.863Z",
+            "reviewBody": "I liked them! My boyfriend wasn't too crazy about them. I will probably use a little less cream cheese on his next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GoGoCyndi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-26T03:02:10.930Z",
+            "reviewBody": "A bit heavy on the almond taste, but not bad.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jlstrummer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-01T08:21:52.667Z",
+            "reviewBody": "This was so easy and delicious!  Both my hubby and I loved it!  I used what I had on hand - tuscan bread, strawberry preserves, and vanilla extract (instead of oatnut bread, raspberry preserves and almond extract), and it turned out great.  Can't wait to try other varieties!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KIWIK77",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T03:30:18.990Z",
+            "reviewBody": "I loved it!  I used thick slices of stone oven white bread, and I added a mixture of vanilla, cinnamon and sugar to the batter as well as the almond extract.  I used fresh raspberries in place of jam and drizzled them with golden syrup.  Super delicious, I am going to be trying this with lots of different flavor combinations.  I think I will try lingonberry jam with some grand marnier mixed into the cream cheese!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenna",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-02T06:40:44.733Z",
+            "reviewBody": "my husband and kids loved this recipes, but said 2 of these things was WAYYYYYYY to much for one person! Difinitely a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CARI",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-17T09:34:53.023Z",
+            "reviewBody": "This was delicious! I used peaches instead of raspberry jam and added some other yummy breakfast spices. That oatnut bread was PERFECT with the Almond extract! Will be making this again and again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "src8784",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-11T10:43:33.060Z",
+            "reviewBody": "I didn't have oatnut bread, raspberry jam, or almond extract. I did have white bread, vanilla extract, and strawberry jam so I improvised, it still turned out amazing. I also dipped the sandwich in some crushed corn flakes after the egg mixture(you could pretty much try any cereal). I let it get really brown and crunchy on both sides and served with whipped cream, sliced bananas, and fresh strawberries. Soooooo Gooood",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "yummyyummyyummo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-03T09:33:21.050Z",
+            "reviewBody": "My brother didn't enjoy this as much as I thought he would, but that's alright. This recipe was a nice change from regular French toast, but I wouldn't use it continuously. Thanks anyway =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "andy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-02-11T13:22:04.890Z",
+            "reviewBody": "i used what i had on hand, but this was great.   the only change was apricot preserves!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "njohn0127",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-09-24T15:29:45.240Z",
+            "reviewBody": "I wish I could give this more than five stars!!! It's fantastic! The second (and subsequent times) I made it, I mixed the cream cheese and jam together in a bowl with some sugar (to make it a sweeter cream cheesy taste) and spread that on the bread, then continued as normal. I've made this for guests and they absolutely loved it! It's one of my favorite meals!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "courtney",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-22T17:21:28.420Z",
+            "reviewBody": "It is rich and tastes like it is more complicated than it is.  I sprinkled mine with powdered sugar, it was like dessert for breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Meagan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-30T19:56:51.870Z",
+            "reviewBody": "easy &amp; tasty. use a bunch of creamcheese or make bevarian cream",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mama thor",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-11T11:46:23.030Z",
+            "reviewBody": "This was really good, and filling. I don't know why i never thoght of this. i will be making this over and over. Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cameo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-09T08:48:04.323Z",
+            "reviewBody": "Quick, easy, and DELICIOUS!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amanda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-06T07:52:04.133Z",
+            "reviewBody": "I have this all the time now, its my favorite thing to have for breakfast. I've used all sorts of jam and even pie filling. Its very easy to make. I love it, try it out!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KatrinaAlice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-20T19:12:04.730Z",
+            "reviewBody": "This was a simple, good recipe.  I used sour cherry jelly and it was awesome!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ty Justice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-08T14:31:42.673Z",
+            "reviewBody": "this was awesome, my husband doesn't like fruit so i just put honey nut cream cheese for him, and strawberry jelly for myself, they turned out amazing! i've been making it alot ever since!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tesadkhi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-28T13:39:59.277Z",
+            "reviewBody": "i used white bread (had on hand) but followed the recipe exactly.  this was sooo good and the bf said :pretty good: as well, wanted seconds and thirds! (=  thank you for a great sunday morning breakfast EDIT: the BF asks for this pretty much every weekend.  i try different jellys but we seem to like the blackberry the best, anything will work though!  you must try this if you havent! i rate this 10+ stars!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LilybeansMommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-12T14:55:28.640Z",
+            "reviewBody": "Much more moist than regular french toast. We loved it, and it was so easy to make!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mom23boysn1girl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-06-21T15:12:40.130Z",
+            "reviewBody": "Cinnamon sugar sprinkles over the  finished toast to add a  little more warmth and Mmmmm",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "howardtheold",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-16T17:28:53.393Z",
+            "reviewBody": "The only thing I changed was using Farmhouse Oatmeal bread, Neufchatel cream cheese, and homemade raspberry preserves (not seedless). Otherwise followed exactly and it was perfect. Proportions are excellent. This was a huge hit. I can't wait to experiment with different fillings and flavor combinations!!! This was also extremely easy to make, so my kids could make this without help.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "nocornsyrp",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-29T23:43:46.527Z",
+            "reviewBody": "I didn\u2019t follow the recipe to the T but it was so delicious! I done 2 tablespoons of vanilla extract and a little cinnamon and sugar.  I mixed the cream cheese with strawberry blackberry jam then spread it on the bread and put bananas on top of it. I melted down the jam also for syrup. A little tart at times but I found it super delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amber Nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-07-19T13:51:32.683",
+            "reviewBody": "I used Black raspberry preserves.  No almond syrup, so I used a combination of vanilla, blue agave, cinnamon, and nutmeg instead.   12 grain bread for mine and English muffin bread for the other two sandwiches. Tasted awesome!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rob Wills",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ],
+    "video": {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "name": "Stuffed French Toast II",
+        "description": "See how to make elegant stuffed French toast.",
+        "uploadDate": "2013-07-19T19:49:20.352Z",
+        "duration": "PT2M0.203S",
+        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F495357.jpg",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+            },
+            "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+            ]
+        },
+        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2555516243001"
+    }
+}

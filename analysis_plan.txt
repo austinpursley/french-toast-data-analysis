@@ -8,6 +8,10 @@ bread, milk/cream, eggs
 # color coded to tell you which type it is.
 
 viz for "other" ingredients
+- good / interesting summary and/or break-downs
+
+a tabular form of breads, eggs, bread
+- have to re-structure dataframe
 
 ratios e.g. egg to bread to milkcream
 

@@ -11,7 +11,8 @@ ft = pd.read_csv("french_toast_recipes.csv", index_col=False)
 # removing variants
 var = ["casserole", "sandwhich", "sandwich", "sandwhiches", "sandwiches", "stick", "sticks", 
              "fingers", "bites", "roll-ups", "banana-roll", "cookies", "wrapped-in-bacon",
-             "toast-bake", "kabobs"]
+             "toast-bake", "kabobs", "strata", "souffle", "soufle", "cobbler", "in-a-cup",
+             "baked", "bake", "cups", "slow-cooker", "no-fry", "overnight"]
 mask_var = ~(ft["Title"].str.contains(r'\b(?:{})\b'.format('|'.join(var))))
 ft[~mask_var].to_csv("0_cut_ft_recipes/french_toast_recipes_cut_variants.csv",index=False)
 
@@ -40,3 +41,6 @@ ft_clean = ft[mask]
 
 ft_non.to_csv("0_cut_ft_recipes/french_toast_recipes_cut_all.csv",index=False)
 ft_clean.to_csv("french_toast_recipes_0_post_cut.csv",index=False)
+
+# note: manually removed other elements as well. e.g. recipes where called out 
+#       breads to be cubed.

@@ -1,0 +1,77 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/134060/crunchy-stuffed-french-toast/",
+    "name": "Crunchy Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "Crunchy Stuffed French Toast"
+    },
+    "datePublished": "2021-08-04T01:53:14.000Z",
+    "description": "Crushed muesli cereal gives this French toast its crunch. Cream cheese and strawberry preserves fill it with flavor.",
+    "prepTime": "P0DT0H20M",
+    "cookTime": null,
+    "totalTime": "P0DT0H20M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "\u00bd cup milk",
+        "\u00bd teaspoon Archer Farms\u2122 cinnamon",
+        "6  large eggs eggs",
+        "2 cups Archer Farms\u2122 muesli cereal, crushed",
+        "8 slices Archer Farms\u2122 100% whole wheat bread",
+        "\u00bd cup cream cheese spread",
+        "\u00bd cup Archer Farms\u2122 Oregon strawberry preserves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together milk, cinnamon and eggs in 8x8-inch baking pan.  Place crushed cereal in another baking pan or plate; set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread 4 slices of bread with cream cheese and preserves; top with remaining bread.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip each sandwich in egg mixture, soaking each side.  Coat soaked sandwich in crushed cereal.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, spray nonstick skillet or griddle with cooking spray and heat until hot.  Cook each sandwich over medium heat 2 to 4 minutes on each side or until golden brown.  Cut diagonally in halves or quarters.  Serve with your favorite syrup, if you like.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "Crunchy Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "457.8 calories",
+        "carbohydrateContent": "61.9 g",
+        "cholesterolContent": "302.4 mg",
+        "fatContent": "17.9 g",
+        "fiberContent": "7 g",
+        "proteinContent": "21.7 g",
+        "saturatedFatContent": "6.4 g",
+        "servingSize": null,
+        "sodiumContent": "662.2 mg",
+        "sugarContent": "18.1 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

@@ -24,7 +24,7 @@ for fn in raw_data_list:
     df_temp["Type"] = [x[2] for x in m]
     df_temp["Ingredients"] = [x[4] for x in m]
     df = df.append(df_temp)
-    contents = re.sub(pattern, r"TITE: \1 \n TYPE: \3 \n INGREDIENT: \5", contents)
+    # contents = re.sub(pattern, r"TITE: \1 \n TYPE: \3 \n INGREDIENT: \5", contents)
     
 df.to_csv("all_recipes.csv", index=False)
 

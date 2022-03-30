@@ -1,0 +1,814 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/33098/kerrys-french-toast/",
+    "name": "Kerry's French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F20309.jpg",
+        "width": 1604,
+        "height": 1228
+    },
+    "datePublished": "2020-03-05T04:57:05.000Z",
+    "description": "A French toast sandwich with a cream cheese and brown sugar center.  My family loves this, and it can be cut into wedges and served at brunch. Can be served with syrup or jam, or eaten without either. Dust with powdered sugar for prettier presentation!",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H40M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "1 cup softened cream cheese",
+        "\u00bd cup brown sugar",
+        "\u00bc teaspoon ground allspice",
+        "\u00bd teaspoon ground nutmeg",
+        "\u00bd teaspoon ground cinnamon",
+        "8 (1/2 inch) slices egg bread",
+        "6 extra large eggs, beaten",
+        "\u00bc cup milk",
+        "\u00bc cup butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, blend the cream cheese with brown sugar, allspice, nutmeg and cinnamon\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread 4 slices bread with the cream cheese mixture, and top with remaining bread slices, creating sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix eggs and milk in a shallow bowl. Dip bread into the egg and milk to coat thoroughly.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a medium skillet over medium high heat. Cook coated bread slices 2 to 4 minutes on each side, or until golden brown.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Kerry Carpenter Lubecki",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 47,
+        "itemReviewed": "Kerry's French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "770.1 calories",
+        "carbohydrateContent": "68.7 g",
+        "cholesterolContent": "460 mg",
+        "fatContent": "45.6 g",
+        "fiberContent": "2.1 g",
+        "proteinContent": "23.6 g",
+        "saturatedFatContent": "24.3 g",
+        "servingSize": null,
+        "sodiumContent": "782.9 mg",
+        "sugarContent": "29.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-02T10:46:58.973Z",
+            "reviewBody": "This is really easy and really tasty.  I used the sourdough bread I had on hand with some mixed berry cream cheese.  It was still good.  Next time I go to the store I think I will get the stuff to try the recipe as printed.  My 20 month old loved it and my picky husband asked for seconds.  This was great, thanks Kerry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Navy_Mommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-06-07T11:38:18.390Z",
+            "reviewBody": "Very good french toast!! Other than reducing the nutmeg by half and adding a splash of vanilla to the egg mixture, I didn't change a thing. However, these make ALOT!! Perhaps I didn't \"spread\" enough mixture on the bread slices but we made 7 \"french toast sandwiches\" with plenty of cream cheese AND egg batter to spare. Next time, I half the recipe but I assure you, I will make this again. Thanks Kerry!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DREGINEK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-10-10T19:39:59.113Z",
+            "reviewBody": "This was so incredibly sweet that it gave me a headache.  I think next time I won't put any of the brown sugar in.  Also, there was way too much of the cream cheese mixture; like another reviewer mentioned, half would be plenty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LFAYE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-09-24T06:17:28.187Z",
+            "reviewBody": "I used wheat bread.  It worked.  My 18 month old loved it.  And her daddy.  Good recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mama2chix",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-05-08T06:19:36.733Z",
+            "reviewBody": "This recipe inspired a variation:  I spread strawberry cream cheese on a slice of bread, then sprinkled with a little cinnamon, then brown sugar, then spread another slice of bread with a little of the cream cheese and formed a sandwich.  Then I coated it in an egg/milk mixture and browned it in olive oil!  Deeeeeelicious!!!  \r\nThanks for the inspiration, Kerry!!! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LILSPINSTER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-03-15T08:44:36.200Z",
+            "reviewBody": "This is a tasty breakfast/brunch treat.  I added chopped walnuts to the cream cheese mixture for more texture--turned out great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mary K",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-03-30T11:33:02.607Z",
+            "reviewBody": "Really sweet and good. I made the mistake of topping it off with caramel sauce, which made it too sweet and rich for my taste. But the recipe is quite tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MOM2ZACHARY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-23T11:20:20.897",
+            "reviewBody": "I thought it was phenominal, my bride said 'very tasty' but she is not a huge allspice fan.  I cut the recipe in half and even cut down more on the allspice.  I had PLENTY for 3 sandwiches and could've made 4.  Served it with powdered sugar (see pic) and sliced strawberries.  The possibilities are endless.  I think we will next try the cream cheese mixed with peanut butter and mini chocolate chips.  Mabye then the kids will eat french toast.  This is a wonderful breakfast grilled cheese type sandwich and would be perfect at a brunch!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TRAILINDAWG",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-01T16:21:13.950Z",
+            "reviewBody": "Very filling, very rich.  Hubby loved it, kids were not impressed.  I would not make that often.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-06-30T20:23:10.287Z",
+            "reviewBody": "I didn't really care for this. I think it was to rich.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "QUASINAUGHT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-09-21T08:03:12.623Z",
+            "reviewBody": "Was looking for something different but not to complicated, this recipe was great. Like others I didn't have all the spices on hand but added my own variation and everyone loved it especially my little ones.\r\nThanks for sharing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LOVE2COOK2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-09T10:01:49.233Z",
+            "reviewBody": "I hate french toast, but my husband loves it, so I tried this recipe, and I loved it! Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "specialkay951",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-08-20T06:50:01.123Z",
+            "reviewBody": "We thought that this was a great stuffed french toast.  I made it just as stated.  Next time I may cut back on the sugar and add some maple syrup to the cream cheese.  And I will definately add some sliced strawberries inside it also....YUM!!  Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cookinme",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-10T09:11:30.173Z",
+            "reviewBody": "Delicious!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SassyMomOf4Boys",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-16T14:14:12.847Z",
+            "reviewBody": "This was amazing. I used the think french toast bread and it was the perfect amount of filing for such thick pieces of bread. The fresh strawberry and powdered sugar really pull it together and cut the sweetness for us. We all were VERY full after, but agreed it was well worth every bite.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kasey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-09T09:26:40.867Z",
+            "reviewBody": "This was a good variation of French Toast.  I decided to give it a try based on my friends Cookinme's and Scotdog98's reviews.  I did cut down the sugar just a bit and used freshly grated nutmeg.  I would love to try it with some fresh strawberries too.  Thanks for the recipe Kerry!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nandabear",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-19T12:27:07.883Z",
+            "reviewBody": "Been promising my other half a french toast breakfast for awhile now, so I came here for inspiration. I Love the recipe for the cream cheese stuffing, but I'm afraid that a simple (very simple) egg batter just isn't enough for me. Luckily, I used left over cinnamon bread to make these, otherwise  I know all I would have tasted was the filling and the egg. Next time I will use a heartier batter, and probably a thicker bread that I can actually stuff rather than sandwich. I will also use clarified butter rather than strait butter for the frying. Can't wait to try these again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sydney",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-28T07:36:49.783Z",
+            "reviewBody": "This is a good recipe very very sweet and rich, one piece is all you will need. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jsracer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-23T23:05:34.040Z",
+            "reviewBody": "Diabetic substitutions worked out perfectly! (That is not always the case with recipes, so that gives this recipe TEN stars in my book!)  Wow was this yummy!  For me, it tasted like a french toast cinnamon roll!  Yummy Yummy Yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy Celtic",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-18T13:44:23.723Z",
+            "reviewBody": "I was looking for a stuffed French toast recipe for Father's Day and wanted one that didn't use fruit (my one daughter won't eat it.)  After reading the reviews I chose this recipe and added only 1/2 of the the brown sugar it called for.  After tasting the cream cheese mixture, I added the remaining brown sugar, it didn't seem sweet enough with only 1/2 of what was called for.    I spread the cream cheese on the bread to what I thought looked like a \"good\" amount.  In the end I ended up with a total of six sandwiches instead of four.  I think by using less spread on each sandwich it balanced out the sweetness that other reviewers commented on.  The French toast came out really nice, definitely plenty of cream cheese in the middle, I think any more and it would have been a mess to try to cut through.  The spices give it a nice taste, especially the allspice.  If you're not a big fan of allspice you may want to cut back on it or omit it altogether as you will taste it.  The whole family enjoyed the recipe as is, with the exception of using less spread per sandwich.  There is plenty of egg mixture for 6 sandwiches too, and I even let them soak for awhile, so there is no need to make extra if you use a few extra slices of bread.  Will make again, thanks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "4my4girls",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-04T04:41:33.287Z",
+            "reviewBody": "This recipe was pretty good. It was not outstanding or anything but I will probably make again because my husband liked it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-06T07:40:08.540Z",
+            "reviewBody": "This recipe is really good. I made it for breakfast for my kids and they are so picky. I was surprised to see my son was scraping off the plate. Thank you. I will keep this recipe in my file.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "french8095",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-23T07:56:26.000Z",
+            "reviewBody": "Yum, yum!  I cut the cream cheese mixture in half and added blueberries to it.  I also put some vanilla in the egg/milk mixture.  It was very delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather Pulley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-01-04T14:34:38.403Z",
+            "reviewBody": "I will make this again with half as much cinnimon and allspice. Then it will be 5 stars! Really yummy. My husband and children enjoyed. One sandwich was very filling.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chrissy83",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-11T02:50:24.093Z",
+            "reviewBody": "This was a huge hit with my kids. I only made one change and that was using Texas Toast instead of egg bread because that was what I had. Oh, no....wait. I also used reduced fat cream cheese. And I added vanilla to the egg wash. I think I could probably cut the cream cheese part in half next time and still have it turn out just as good. In my opinion, I think the french toast to filling ratio was a little uneven. I might play with the recipe just a bit to get it to where I want it. But as is, the kids inhaled it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-05-14T10:35:23.513Z",
+            "reviewBody": "Really wonderful Mother's Day treat. I halved the brown sugar and used powdered ginger in place of cinnamon (I had run out of cinnamon somehow). Also used nice Challah bread from the bakery for these.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KARINTRACY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-12-31T10:47:17.717Z",
+            "reviewBody": "Pretty good.  I cut the brown sugar by half, and it was still a little too sweet in my opinion, and this is coming from a gal who sometimes eats brown sugar by the spoonful!  But it is easy and something a little different from the regular french toast.  I tried some of it with raisin bread and that was good too.  I think it would be a nice addition to a brunch with other non-sweet food, i.e. bacon, eggs, etc.  I had mine with strong, black coffee and that kind of helped with the sweetness.    Overall a good recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lemon Mama",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-06-07T11:38:18.390Z",
+            "reviewBody": "Very good french toast!! Other than reducing the nutmeg by half and adding a splash of vanilla to the egg mixture, I didn't change a thing. However, these make ALOT!! Perhaps I didn't \"spread\" enough mixture on the bread slices but we made 7 \"french toast sandwiches\" with plenty of cream cheese AND egg batter to spare. Next time, I half the recipe but I assure you, I will make this again. Thanks Kerry!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DREGINEK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-15T16:19:55.527Z",
+            "reviewBody": "This is a Sunday morning staple in our house. I also added vanilla, as I put it in everything. If you find the filling too sweet, simply put less between the slices of bread. You still get all the flavor that way. An awesome breakfast for a school snow day!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MommaBird3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-01-24T13:47:03.467Z",
+            "reviewBody": "What a fantastic base recipe!  You should make this one with love!  Eyeball sugar and spice amounts and adjust to your own taste.  I used Pepperidge Farm Brown Sugar and Cinnamon Swirl Bread.  It is a nice firm, tasty bread with just the right thickness for stuffing.  I used pumpkin pie spice, which was easier to toss around than each individual spice.  I also sprinkled Splenda on top instead of powdered sugar (that's all I had in the cupboard!) which had the same pretty effect.  Thanks for this idea, will make again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ralor",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-01-11T09:56:02.780Z",
+            "reviewBody": "ABSOLUTE YUMMINESS!!! This recipe is soooo good. I didnt have any brown sugar so I substituted it for white sugar. I also omitted the allspice since I didnt have that either. The end result was DELICIOUS! Thank you for the recipe!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MOLLE888",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-11-17T15:20:34.887Z",
+            "reviewBody": "This recipe is great and I have made this more times than I should actually admit for the family!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rage",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-07T06:09:05.210Z",
+            "reviewBody": "I really likes this recipe...I omitted the nutmeg and halved the allspice. It still tasted great. Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sacha Smith Melvin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-12T13:10:00.197Z",
+            "reviewBody": "I twas just ok for us.  I was really ready to have some gooood french toast and this just didn't hit the spot.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mindy Patrick",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-15T06:34:30.970Z",
+            "reviewBody": "The first few bites were really good, but I was sick of the flavor by the time I finished. Def can't eat more than one.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathleen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-02-20T19:36:01.170Z",
+            "reviewBody": "The only comment I have is that you don't need a lot of the cream cheese mixture on each \"sandwich\". Oops! My mistake! But, my husband and I loved this recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie Durfee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-03T06:22:19.177Z",
+            "reviewBody": "One of the best things I have tried in quite a while! I scaled it down to 1. Used about 1/2 T of dark brown sugar. Had leftover bread machine potato bread. Mann, this was a delicious breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Scotdog",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-03T08:45:14.670Z",
+            "reviewBody": "Good recipe, something different than the usual french toast - and that's what I was looking for. I used wheat bread, it was all I had, so I would use white bread or something else next time. I also thought there was too much cream cheese, so I would cut down next time to maybe half a cup.  Otherwise - tasty!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maia Lindsey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-26T11:03:50.41",
+            "reviewBody": "I love Kerry's French Toast!  The flavor of the cream cheese, spices, and sugar is perfect in the egg dipped bread.  And preparation is easy too since no pockets have to be cut and the bread stuffed.  I mixed some warm water with orange marmalade and drizzled it on top.  Mmmmmm.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gapch1026",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-05T17:59:16.023Z",
+            "reviewBody": "This was really good, very rich but good.  Will definitely use again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Missy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-08-24T16:43:01.150Z",
+            "reviewBody": "Was looking for a change to making French toast. Found it here.  Was cooking for one, so followed ingredients but not the measurements. Used brioche bread slices and added some chopped pecans to the cream cheese spread. No syrup needed. Enjoyed the change up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-10T15:52:20.857Z",
+            "reviewBody": "This was by far the best and easiest French toast I have ever made.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angie Occhino Doyle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-23T09:45:01.290Z",
+            "reviewBody": "Family loved it!  Simple to make and quite tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jelka Croucher",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

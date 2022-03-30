@@ -1,0 +1,1791 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/24571/caramelized-french-toast/",
+    "name": "Caramelized French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1029024.jpg",
+        "width": 2448,
+        "height": 2448
+    },
+    "datePublished": "2020-03-05T04:56:15.000Z",
+    "description": "My family loves it when I make this variation of French toast that my grandma once made for me. It's a GREAT substitute for sticky cinnamon rolls and a lot less hassle ... ENJOY!",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+        "4 tablespoons butter, divided",
+        "6 eggs",
+        "\u00bd cup milk",
+        "\u215b teaspoon salt",
+        "8 slices bread",
+        "1 cup brown sugar",
+        "\u00bd cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt two tablespoons of butter in a frying pan or skillet over medium high heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat together eggs, milk and salt. Dip bread one at a time into egg mixture and fry until light brown and egg is cooked.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After 4 slices of bread have been cooked, melt remaining 2 tablespoons butter. Cook remaining bread slices until light brown on both sides and egg is cooked.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After all bread slices have been cooked and removed from pan, add brown sugar to pan. Stir until melted and sticky. Add water and stir. Place French toast in caramel sauce. Turn to coat, then remove from pan. Serve.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "ANNEMORGANMU",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 256,
+        "itemReviewed": "Caramelized French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "247.5 calories",
+        "carbohydrateContent": "31.4 g",
+        "cholesterolContent": "156 mg",
+        "fatContent": "10.6 g",
+        "fiberContent": "0.6 g",
+        "proteinContent": "7.2 g",
+        "saturatedFatContent": "5.2 g",
+        "servingSize": null,
+        "sodiumContent": "311.8 mg",
+        "sugarContent": "19.7 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2006-04-30T14:16:49.687Z",
+            "reviewBody": "I boiled the water before adding it to the brown sugar and this was FANTASTIC!!! I halved the recipe because of the mixed reviews but there was nothing wrong with this recipe at all.  I didn't find it any sweeter than french toast with syrup.  I added 1/4 tsp of vanilla to the carmel sauce after it cooked and 1/2 tsp cinnamon to the egg mixture. Other than that, I didn't change anything and I ended up eating all four pieces myself ( I even ate one cold and it was GREAT!!!) If your brown sugar turns hard, if you add boiling water it will eventually disolve into a delicious carmel sauce.  Be patient and keep stirring...it's worth it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sherise Montie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-12-21T04:45:35.920Z",
+            "reviewBody": "I didn't read the reviews on this one before I made it, I just thought wow, that's not a bad idea and went to throw it together.  I suggest you read the reviews first.\n\nI've never actually made caramel before, so I just followd the directions exactly...\n     After I was done making the bread I put the brown sugar in the pan, over a medium heat.  It took quite a while to start melting, and before it reached the consistency I was waiting for it began to smell like it was burning.  When it was nearly all melted, I added the water (which was room temperature).  The sugar instantly hardenend (makes sense).  Obviously, there was no way to dip anything in this rock hard sheet of sugar that was floating in water, so I waited and stirred.  Pretty quickly, it began boiling and the sugar was slowly melting back into the water.  By now it definitely smelled funny.  I thought, maybe that's the way it's supposed to smell (remember, I've never made caramel before).  I continued cooking it until the sugar was basically all melted/combined with the water.  Then I dipped a piece of french toast in it and tasted it; It tasted funny, too.  \n   In the end, we had french toast the old fashioned way last night, with syrup.  I think I should have read the reviews first, but regardless, seems like a lot of extra work for something that (aside from the burned taste) was not that great a substitute for good old-fashioned syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Caliope",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-05-08T11:26:04.607Z",
+            "reviewBody": "[color=blue]An Excellent recipe[/color]:-DMy husband made it for me on mothers day and I was very impressed. Very sweet, would go great with ice cream for dessert!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LILBEAR81",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-17T11:00:11.010Z",
+            "reviewBody": "I found the best way to make the carmel sauce was after cooking all the french toast,add another tbsp of butter to pan then add the brown sugar stirring constantly.  When it starts to melt ( in about a minute over medium heat, no higher) SLOWLY add the boiling water to the pan a little bit at a time.  You can even try to add small amt of extra butter to thicken it a little.  i ended up not using all of the water and just added what I needed to get it to the consistency I wanted.  When all of the sugar is melted, you can gently boil it for another minute.  The key is to keep the flame no higher than medium and stir constantly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kath",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-22T10:27:57.280Z",
+            "reviewBody": "it was edible but nothing to write home about. the caramel sauce is very tricky and can burn in an instant. plus it is a sticky mess to clean off your pan. i will not make again..sorry",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TRISH603A",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-04-30T13:55:08.437Z",
+            "reviewBody": "Absolutely awesome!! My son LOVES this French toast. We just think it is great!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-02-05T08:10:00.687Z",
+            "reviewBody": "This was really good and very easy to clean up.  It only took a couple minutes to make (and eat)  I halfed the recipe.  I found no problem with making the caramel, unlike others that reviewed it.  It's a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-03-09T11:19:40.153Z",
+            "reviewBody": "Quick and easy to make.  Very sweet.  I will make this again with less sugar. If I had been diabetic, I'd be dead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "N1YVP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-07-28T11:07:11.480Z",
+            "reviewBody": "Good but messy! Be sure you make this in a non-stick pan!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BERNZOMATIC",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-10-01T08:26:36.013Z",
+            "reviewBody": "Loved it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JAZJT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-11-27T08:36:39.607Z",
+            "reviewBody": "Quite tasty. Not sure I did the carmel sauce right, it was kinda watery. But that's ok.. This was kinda of a lot of work (and pans) for breakfast. But that's not to say I won't make it again. Garnished with cool whip and cinnamon-sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CareyLee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-31T15:09:02.060Z",
+            "reviewBody": "This is the BEST french toast that I have ever had! My whole family loved it -even my picky husband! It didn't even need syrup! I will definatly be adding this one to our favorites!! Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BELONGS2TROY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-07T09:51:50.217Z",
+            "reviewBody": "Simple, easy, and very good too. I loved the built in syrup idea. It didn't really \"caramelize\" though which is good because I had a recipe last week that did and made the worst mess on my dishes and I literally had to scrape the caramel sugar off those. But back to this recipe, the sugar syrup needs to cook a little more though on a lower heat as mine was starting to get a toasted sugar smell and it wasn't all melted yet. I ended up using quite a bit more butter than called for. I really enjoyed this and preferred this over the traditional maple syrup on plain french toast. Thanks for a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TxCinILove2Ck",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-22T08:11:23.570Z",
+            "reviewBody": "Fantastic.  My family loved it.  I made stuffed french toast using strawberry flavored cream cheese between to slices of toast then caramelized it.  First time I had the pan too hot and the caramelizing didn't work so well.  I let the pan cool down a bit and it worked so much better.  Thank you for the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "HESSELMJ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-30T06:54:35.777Z",
+            "reviewBody": "Delicious!  What a great twist on french toast.  I was little worried that the recipe wasn't going to work for me with the caramel sauce, because the sugar wouldn't melt.  I had to add a little bit more butter (probably two tablespoons) to the pan and then the sugar started melting.  I did cook the sauce down for a few minutes before putting the french toast back in to thicken it up a bit.  And the only difference I did was to add less eggs, because we don't like our french toast so eggy.  This will be a definite keeper for Sunday breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kori Lavertue",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T14:03:30.160Z",
+            "reviewBody": "I love the idea of Caramelized French Toast, so first of all Kudos to he cook who came up with the idea. But to start, frying french toast in butter is not such a good thing unless you want really dark brown toast. High heat will turn your butter dark brown. I suggest a butter spray to \"cook\" the toast. Add your butter at the end when you add the brown sugar and then add only about a quarter cup of warm water, slowly! Your caramel topping will taste less burnt and more sweet and smooth. You could also add an eighth teaspoon of vanilla. Great winter recipe. Fast, easy to make, just use common sense.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cinemabon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-22T15:03:10.923Z",
+            "reviewBody": "they came out absolutely beautiful the caramelize-ing sauce tasted a bit bitter but a splash of honey did the trick :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nydia De Leon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-20T09:29:57.400Z",
+            "reviewBody": "Wonderful, and quick and easy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "wannaBbetty",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-13T07:17:07.467Z",
+            "reviewBody": "Very good! followed directions, and read the reviews. for the caramel, used boiling water. After adding water, boiled it down for a couple minutes, removed from heat and let cool slightly, about 1-2 minutes, then dipped the french toast..got a better coating with the cooler, thicker caramel sauce.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pamzie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-03-24T10:25:29.483Z",
+            "reviewBody": "This was very easy and fast.  I used boiling water to add to the brown sugar and it worked just fine.  It always pays to read the recipe reviews before trying a new recipe - it pays off.  My husband liked this a lot, we were out of syrup so this made his morning.  I dusted a little powdered sugar for garnish and he ate it up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AmandaB",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T08:36:57.633Z",
+            "reviewBody": "I really wish I had read reviews before I made this. The caramel sauce DID NOT WORK. Had I stopped before I added the water it would have been fine. But I didn't, I decided to follow the recipe to the end and add the water (even tho I had a perfect sauce for drizzling) and the water caused my caramel to seize. Bummer. Maybe the original author can amend the recipe?  A beginner baker/cook could really get confused by this.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cathy Chace",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T15:16:28.960Z",
+            "reviewBody": "I used cinnamon bread thickly sliced. I sliced some bananas &amp; sauteed them in the sauce. AWESOME!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susan Cook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-03T22:18:05.630Z",
+            "reviewBody": "i've tried doing a French toast this way since I was 12....but i wanted to add some cinnamon into the caramel because i think it's fancier and appealing to the taste buds. plus, cinnamon has a health benefit too!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "3cia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-07-06T08:32:19.560Z",
+            "reviewBody": "Wow. One of the things I love about this website is finding easy and unique recipes. This is one of them! I made this for breakfast this morning and had two pieces. I could've easily eaten two more! Other family members told me this was the best french toast they have ever had. Thanks to other reviewers suggestions I also added hot water to the brown sugar, and turned the heat down to low when I added the sugar. Make sure you stir constantly because the sugar will burn! Also, adding hot water to the pan as soon as you are done cooking really does make clean up a snap! Thanks for a recipe I will use again and again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "amydoll",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-05-28T20:06:43.293Z",
+            "reviewBody": "We had this for dinner tonight, along with scrambled eggs and bacon. We loved it. My husband proclaimed it \"excellent\". I cut 4 thick slices of a homemade loaf of white bread, and followed the recipe for making the french toast. \r\n\r\nI halved the recipe for the caramel sauce.\r\nTo make the sauce, I added about 1T of butter into the pan, let it melt down, then added 1/2c of brown sugar, and then 1/4c HOT water. After it had bubbled and thickened a bit, I added a little milk. It did not harden (it did not cook long enough to get to that stage) and it had the consistency of syrup. We poured some of the extra sauce over the french toast. Delicious! Thanks Anne!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MIKENDREA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-19T09:49:40.850Z",
+            "reviewBody": "I made this one morning for breakfast for my husband and my 5 year old daughter. Breakfast is our favorite meal and we love french toast. I was worried at first that this recipe may have been too sweet but it was DELICIOUS! I'm excited to make it again and my family LOVES it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bobbilovesben",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-18T19:35:55.197Z",
+            "reviewBody": "I just tried this recipe and it made a beautiful french toast but, I did not find it that flavorful. My first attempt at making the syrup was a miss; for the second attempt I remembered a technique of submerging the sugar in the suggested water amount and allowing it to boil in that fashion; I added Mexican cinnamon sticks during the boiling processes as well as a tsp. of vanilla. My family enjoyed more than I did.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elisandra Vzquez de Covarrubi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-03T13:51:12.483Z",
+            "reviewBody": "Actually, I have a baked French Toast Casserole recipe that is super easy and tastes just like this. I recommend doing it the easy way myself. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "madcat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T12:35:38.950Z",
+            "reviewBody": "Really good. Next time I will use only 1/2 c brown sugar because I had a lot of extra sauce. I dipped only one side of each piece and that was sweet enough for us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-27T17:57:40.230Z",
+            "reviewBody": "Good start with recipe, but it could use more detail.  Caution regarding the carmel; burns very quickly...decreasing heat from medium would be helpful in directions.  Also, seems the amount of carmel is extensive in directions with full coating...pic shows carmel drizzle which seems more appropriate.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Matt Jorgenson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-20T08:13:16.877Z",
+            "reviewBody": "this was very good even w/out the caramel sauce. I added vanilla and then followed the directions.Yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "misha11",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-11T09:29:43.043Z",
+            "reviewBody": "Easy to make for a quick breakfast.  My wife made some fresh homemade bread last night and this proved good use for one loaf.  This is very rich tasting.  I added a little more butter to help the brown sugar with melting, not sure I did it perfectly.  I was waiting for the caramel color...it just gets a dark brown when it is done.  The family loved this, and my kids are picky eaters when it comes to new meals.  It's a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BBQDUDE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-09-17T07:07:06.013Z",
+            "reviewBody": "This recipe is amazing! I do it a little different though, I also stuff it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-21T07:56:56.003Z",
+            "reviewBody": "awesome!! i followed some of the reviewers suggestions, I added some cinnamon to the egg mixture, and I boiled the water before adding the sugar, and when that was done I added a few drops of vanilla ( the recipe was halved ) and it turned out great! it wasn't too sweet like some people were saying. definitely making this again! :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "loudmouth1428",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-16T09:20:45.247Z",
+            "reviewBody": "Best french toast ever! Made it for family this morning and I think they love me a lil bit more! i found it easier to use a suace pan rather than a skillet i also added just a dash of cinnamon! thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cooker101",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T08:18:37.010Z",
+            "reviewBody": "I just made this it was a big hit came out fine. Very easy. The caramel sauce was not too bad to make. I used boiling water as per the reviews. I cut slices from some left-over Italian rolls I bought yesterday for sandwiches, instead of using regular bread. Oh and I added a 1/2 tablespoon of cinnamon to the egg mixture.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John Pursglove",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-15T15:28:17.123Z",
+            "reviewBody": "awesome recipe! just tried and it was so yum! i added a little vanilla into the egg n milk batter...all around yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cami407",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-05T05:53:57.740Z",
+            "reviewBody": "My caramel sauce was thin - but I think perhaps less water, more butter would help that. Kids loved it. Messy, but delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vicki Lanzendorf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-03-30T11:27:07.080Z",
+            "reviewBody": "This is one of the best french toast recipes I've used. I boiled the water before adding to the sugar as suggested by others. I also added a little cinnamon to the egg mixture.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MRSB927",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-03T03:00:54.863",
+            "reviewBody": "I loved this french toast, I thought it was delicious!  There should've been a bit more clarification in the directions about how to do the last step, but hey I worked it out and enjoyed it very much!! **UPDATE** I make this ALL the time now, I actually prefer this syrup over the normal store bought stuff.....and it's so easy to make, I can't be bothered getting the other syrup out of the cupboard!  Thanks soooo much for this new TNT recipe!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Passion4food",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-08T10:07:11.400Z",
+            "reviewBody": "REALLY, REALLY GOOD! Let me just say that I am not a big fan of French toast. I have tried several recipes, but have never really liked the taste. I tried this recipe today because my hubby was at work and I can experiment if it is only me eating :) Anyway, I followed the directions for the toast, adding a Tbsp. of cinnamon to the egg mixture. It tasted so good that I almost didn't make the sauce. - I did end up making it, but i think I messed it up a little. My brown sugar turned hard and then looked really dark brown after adding water. I don't know if that is the way it should look, but it tasted pretty good. I had to strain out the hard lumps of sugar to get the sauce, so that was kind of a hassle. I would ask that there be more specific directions to making the caramel sauce, but other than that, it is great. I will definitely make again (and perfect my sauce making). Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TRE8JSE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-15T18:53:20.660Z",
+            "reviewBody": "this recipe was amazing!!! i made it for my friend and I and he called it epically amazing!! i may have burned the caramel sauce a little but it still was amazing!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rebadawn90",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-21T13:44:08.483Z",
+            "reviewBody": "This is GREAT. HOWEVER i believe the writer should edit it and assist those who haven't had their coffee yet-since this is a breakfast dish ;P About the adding boiling water to the last stage-less of chance of burning mess. I did so with white sugar (didn't have brown) and it came out great!! I added a lil cinnamon to give it lil more flavor. This is a great way to have french toast if your missing maple syrup from you pantry-it's so delish and tasty you can go sans syrup. YUM.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "norcalang",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-04T07:19:08.810Z",
+            "reviewBody": "This is great! I didn't need syrup on my toast! Very tasty!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "canonsmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-21T07:36:23.113Z",
+            "reviewBody": "Everybody loved this, but I gave one less star for the weird step with the caramel.  Per other suggestions, I added boiling water soon after the brown sugar, but still ended up with little caramel rocks!  I boiled it for a while, though, and just dipped the bread in the pan, then sprinkled the toffee \"crisps\" over the top.  We, too, used almond instead of vanilla and topped it all with whipped cream.  Everyone had extra helpings!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "xezer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-11-21T13:24:23.170Z",
+            "reviewBody": "Yes, it is much less of a mess than caramel rolls. No, we will no longer be buying maple syrup. My only suggestion is to try using hot water to add to the melted sugar, it is less likely to harden the sugar and allows for a smoother syrup. Tastes great! Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mike Kratz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-05-08T16:47:53.013Z",
+            "reviewBody": "Hmm, not bad, but I like regular french toast with syrup better.  I took other reviewers' advice to use boiling water, but I still don't think the caramelization was right.  The sugar smelled (and tasted) kind of burnt before it even finished melting, and it still left hard pellets of sugar once I added the water.  I'm not sure how long you're supposed to cook it after adding the water...I went about 2 minutes and it still hadn't melted the pellets but I was getting worried about the burnt smell.  I cooked it over medium high heat (7) as the recipe recommended...maybe it needs a lower heat??  I thought it was ruined, but it still tasted ok so I guess it wasn't a total loss.  But it was a lot of work for something that was quite similar to (and not quite as good as) maple syrup.  Thanks anyway.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cardamum",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-28T09:48:33.573Z",
+            "reviewBody": "I read several reviews 1st &amp; then added both vanilla &amp; cinnamon to the egg/milk mix. I also didn't use as much butter, added no salt &amp; used egg whites only. It was a very sweet treat for breakfast. I also added the brown sugar to boiling water &amp; added walnuts while carmelizing &amp; just drizzled the nuts &amp; suace over the toast. Was a quick &amp; easy recipe. Definitely enjoyed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicholas Walker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-06-06T13:28:18.123Z",
+            "reviewBody": "This was a great variation!  I used my own batter recipe and then put the french toast in the brown sugar/h20 mixture.  Took the advice of others and added my water super hot.  Also - be sure you wait until it thinkens a bit - otherwise you'll just make your french toast soggy.  We all loved it, and if you immediately soak the plates and pan in hot water, clean up will be a breeze!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MEGGYSMAMA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-16T03:14:03.250Z",
+            "reviewBody": "Basically just french toast with caramel. I used half the amount of eggs and it turned out wonderfully! The caramel wasn't as easy as it sounded (mine turned out rather nicely but it had some gravel-like sugar left). I don't think the two go particularly well, but good effort.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chronic dissatisfaction",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-12T21:33:04.147Z",
+            "reviewBody": "These were fantastic! If you've never made caramel, you should read some notes because it's easy to mess up. I made mine in a separate pan, cooking slow and low, while I cooked the toast. These were scrumptious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alice Fernandez White-Fret",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-07-02T18:29:59.030Z",
+            "reviewBody": "While it sounded fairly simple this ultimately was more frustration than it was worth.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BeckyLovesLife",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-29T08:59:44.263Z",
+            "reviewBody": "Love it! We've had this french toast every sunday morning for a month. My husband begs me to make it! The people with the burned carmel might need to turn the heat down a little. I also add a little extra butter to the pan before adding the brown sugar....super yummy. Thanks for a great recipe that'll surly by a staple in our family for many years to come.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jaxxyd",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-17T09:21:44.767Z",
+            "reviewBody": "*******O U T S T A N D I N G *******  This recipe is such a keeper.  We actually got a compliments from every member of the family...even me.  Thank You Again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kelly Jo Telladira",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-02T08:01:48.343Z",
+            "reviewBody": "We were running low on syrup so I wanted to try this. My husband said he would just use up the last of the syrup because he didn't want to try it. I asked him to just try it and is he glad he did! He thought it was awesome! We will definitely make this again soon! I made the french toast on a griddle and made the \"syrup\" in a saucepan. I melted 2 tablespoons butter over low heat and stirred about 3/4 cup brown sugar into the melted butter. I boiled about 1/2 cup water in a ramekin in the microwave and added the boiling water until it reached the consistency that I wanted. I just whisked in the water a little at a time and it turned out perfect! I did keep the heat at medium low. I added about a teaspoon of cinnamon to the eggs and I was going to add vanilla and milk but we didn't have milk so I added french vanilla coffee creamer. We used potato bread. I also added chopped pecans and a sprinkle of powdered sugar. This was an amazing breakfast! Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "The Dahl House",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T12:08:40.49",
+            "reviewBody": "WOW! Made this for Sunday morning brunch. I used a whole loaf of Sourdough bread and we only had a piece and a half left(we have decided however not to get our blood sugar tested today!). Made the caramel sauce, I just added a bit of vanilla to mine, it came out beautifully. (You can over work the sugar and it will seize and be grainy so maybe that is what happened to the other reviewers) I also added some sliced bananas, YUMMY sounds everywhere! Thanks for a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bella",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-04T06:45:37.923Z",
+            "reviewBody": "this is ordinary french toast, but the caramel concoction failed miserably. myself, like other reviewers, could not make the caramel remotely edible . it gave off a wierd smell and tasted even wierder. maybe im just a dope ,but this was a flop.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "colleen2427",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-24T14:45:13.047Z",
+            "reviewBody": "I felt like French toast so I decided to try this new recipe for my fianc\u00e9. I added cinnamon to the egg mixture. I used less butter when frying the bread &amp; most of the 4tbs in the caramelization process. I'm glad I read the reviews because boiling water made more sense &amp; helped breakdown the sugar. You do have to watch the sugar because it can burn easy so I added the boiling water earlier leaving the sugar/butter on direct heat for only a short time. Overall a great meal, very filling, I used potato bread this time but next time may try a cinnamon swirl. My fianc\u00e9 said it was the best he\u2019d ever had because it was so different &amp; didn\u2019t need syrup although I did sprinkle w/ powdered sugar!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SNLfunny",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-10T13:32:14.997Z",
+            "reviewBody": "My kids loved this recipe! I did boil the water first like others had suggested, other than that I stuck to exactly what was written and I will definitely be pulling this recipe out for special breakfast occassions~ ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lolasmommy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-09T14:25:49.437Z",
+            "reviewBody": "Even my picking husband loved it, without adding anything extra.  I did embellish on mine though ... I squeezed an orange wedge over the toast, and added sliced bananas and chopped walnuts.  I didn't have any whipped topping tough.  These went great the apple-brown sugar/maple sausage links.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "t3cbutterfly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-11-27T09:50:03.997Z",
+            "reviewBody": "The recipe directions should be revised.  The carmelization did not happen as described.  It must work for some, accoeding to the reviews, but not as written.  In reading the reviews of others, I will try this recipe with hot water the next time.  Otherwise, it will not be in my resipe box.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-31T07:34:37.883Z",
+            "reviewBody": "This recipe is probably, hands down, the best I have made for french toast! It is easy to follow and included ingredients that I already had. I used Cinnamon Swirl bread and it was amazing. The caramel part was a little tricky. Just let the brown sugar heat up, but not clump. Boil the water and then mix it in with the sugar. I mixed it for about 5-7 min to get my chunks out.But chunks or no chunks, best recipe yet!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina Cooper",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-06-06T15:22:51.310Z",
+            "reviewBody": "When I made this, nothing I did could get the caramel right.  It kept coming out crunchy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KTMOM",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-11T18:55:30.610Z",
+            "reviewBody": "My husband and I loved this recipe!  We really like almond, so I added some almond extract and cinnamon to the egg mixture.  I didn't read the directions carefully and still ended up with a great caramel sauce :-) After cooking all the toast, I melted 2T butter, added the brown sugar and water at the same time, let it cook down for a few minutes, and it was great!  No problems with it burning, hardening, or anything :-)  Great recipe! ...even though I did it wrong :-P",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "katietasc",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-03-10T20:06:55.327Z",
+            "reviewBody": "I have been cooking for many many years and this is the worst thing I have ever made in my life.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SMILEJENNA",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-28T08:31:27.440Z",
+            "reviewBody": "Some of the best french toast I've ever had. I followed some of the other reviewers suggestions and added butter first and then the brown sugar followed by 1 cup of boiling water. Another suggestion I would make is to add more water than brown sugar, which is what I did and it came out to a perfect brown sugar glaze. Sprinkled with powdered sugar, fresh cut strawberries and bananas and it came out perfect. Thank you for the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Winnie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-10T14:31:42.500Z",
+            "reviewBody": "This is sooo much more of a hassle than cinammon rolls! I am a farely good cook and even my brown sugar burnt. I tried to boil the water like another rater suggested to save my brown sugar but it just turned into burnt brown sugar water that was pretty much black. I will definitely never make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "airbornewifey23",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-12-29T16:31:23.843Z",
+            "reviewBody": "The caramelization did not work for me. It turned hard &amp; tasted aweful. My 7 year old, who loves brown sugar, wouldn't even eat it. I will not make again. Sorry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TLC090",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-20T06:39:24.253Z",
+            "reviewBody": "Once I got this figured out, it was delicious. I burnt the caramel even though I used boiling water, like someone suggested. Once I did get it right, it was way too thin, even though I followed those directions too....I dipped the french toast in the thin mixture and then put it into another pan to heat &amp; make a bit thicker. I just thought it was too difficult that early in the morning.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-06-01T06:35:45.217Z",
+            "reviewBody": "way to sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "karlbarthel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-18T15:34:01.810Z",
+            "reviewBody": "we all loved this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jenw",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-04T12:00:58.447Z",
+            "reviewBody": "Tasted really eggy, but that could have just been how I made it. The carmel tasted great, but make sure you add the water before it hardens too much. I forgot it and it got super sticky. But after I put the water in it was tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "legacy24",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-04-26T12:20:19.590Z",
+            "reviewBody": "Carmelized french toast is very sweet and actually rather good.  However I personally feel it's a little to sugary for breakfast though it might be great for brunch.  I also found it a bit of a pain trying to get all the melted brown sugar off the frying pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robert",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-03T16:50:21.190Z",
+            "reviewBody": "i added some almond extraic with the milk and eggs ,i also sliced banana when i added the brown sugar and toasted them up and top off the toast with carmel",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cabowabo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2001-09-21T13:38:21.107Z",
+            "reviewBody": "i found this recipe when i had run out of maple syrup.  the french toast didn't even need syrup, they were sweet and my kids loved them.  i did need although more butter, after 2 slices the butter was gone in the skillet.  other than that, just remember to lower the heat when you add the brown sugar or else it starts to turn to candy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-14T09:44:02.707Z",
+            "reviewBody": "This is absolutely the best french toast. I didnt change anything and it is great. I made this today for my family and everyone had great reviews. My husband likes his french toast very sweet and this hit the spot. This is definately a keeper in our household. Thanks for the great recipe. Lovada in Seattle.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lovada",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-07T01:23:27.210Z",
+            "reviewBody": "This was very good.  Instead of regular sandwich bread, I chose to use french bread.  I also used a blend of creamer &amp; milk, and then I drizzled caramel sauce on top of the french bread.  YUMMY!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "thedailygourmet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-26T10:30:12.643Z",
+            "reviewBody": "this recipe was awesome. the whole family loved it so I will definitely be making this again...",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "zy_R_us",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-27T09:10:10.057Z",
+            "reviewBody": "These are awesome, but the recipe has a flaw--when making the carmel sauce DO NOT wait until the brown sugar is entirely melted or when you add the water it turns to stone! If you add the water shortly after adding the brown sugar it turns out great. I dipped them in when it was still pretty liquid-y and it harded up on the plate. It was especially amazing with cinnamon bread! Tasted like carmel rolls! Three stars only because of the flaw in the instructions, otherwise a 5 - I will keep and make again when we have company.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ashley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-08-02T08:28:17.827Z",
+            "reviewBody": "This was fantastic!!  The key is using whole milk (or evaporated milk) and using real, unsalted butter!!!  This one's a keeper!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Menwith Hill'er Back Home ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-20T13:08:49.120Z",
+            "reviewBody": "Really tasty!  I poured the caramel into a spouted cup and we poured it over the French Toast like syrup.  YUM!  I did follow a previous suggestion and cooked the brown sugar in 2 Tab. butter.  Just as it almost melted and looked like it wanted to burn, I poured in boiling water.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon Ford",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-30T06:55:52.780Z",
+            "reviewBody": "I dont eat french toast but all the kiddos really seemed to enjoy it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "michelle4boys",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-02-02T12:05:36.653",
+            "reviewBody": "Tasted good, but the caramel sauce was too sticky to eat!  Directions say cook until sticky, but I think when it starts to bubble up it's about done!.. I let it simmer a couple more minutes and it was sticking to our teeth.. I drizzled over top of french toast!..",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Traci-in-Cali",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-06T08:40:09.460Z",
+            "reviewBody": "Very good French Toast recipe.  I would change a few things next time. I would use less eggs 6 really is not necessary.  I would add cinnamon to the egg mixture.  I also added boiling water to the brown sugar mix (got this from a fellow reviewer). I did add cinnamon at this point.  Very good. My hubby told me to make sure I add this to the recipe box. I will make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andersonfam09",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-01T07:48:04.270Z",
+            "reviewBody": "extremely good!  for a little different flavour, I also add a little drop of almond flavouring.  Definately need to go for a VERY long walk after these to burn off that extra calorie or two!  :)\n\n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lorrie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-09-03T17:13:48.607Z",
+            "reviewBody": "This french toast is delicious! This is the sort of meal you pay top dollar for in a restaurant. I did however mistakenly brown the butter before adding the sugar and the caramel sauce tasted a little burnt, so I recommend watching the butter very closely to ensure it doesn't over heat.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-18T09:57:00.230Z",
+            "reviewBody": "It was ok.  With the brown sugar, it was too sweet.  Normally, we like to just use vanilla bean ice cream instead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jack Yuen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-05-02T16:51:17.41",
+            "reviewBody": "I really like this recipe and I am not a lover of french toast. I was looking for something different to feed the family for breakfast and came across this recipe. One thing I notice is for a serving of 8 I was supposed to use 6 eggs that is too much. We wound up with 12 french toast (which we still devoured). For the caramel, I added the brown sugar and not fulling reading the directions, added half the water a few seconds later. But it turned out good because mine didn't turn hard. We will be enjoying this again very soon!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Trinesha J",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-30T06:55:52.780Z",
+            "reviewBody": "I dont eat french toast but all the kiddos really seemed to enjoy it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "My4boys",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-03-13T09:24:18.810Z",
+            "reviewBody": "When I added the water I used cold water, so make sure you use hot water.  Even so I dipped the french toast into the carmel water and it still tasted great.  It was a great substitiute for syrup.  Even though my toast wasn't carmalized my fiance thought they were great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FLUTTERBYLOVE31",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-24T15:30:02.640Z",
+            "reviewBody": "Made this for a Saturdsy morning breakfast. It tasted just like caramel rolls! Very easy to make!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bkweerts",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-11-06T19:20:27.153Z",
+            "reviewBody": "I loved this recipe. I added vanilla to the egg mix and cinnamon to the brown sugar .It had a good flavor.My daughter really liked it;she is my critic;so I know it had to be good.Thanks",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patty Beene Barrett",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-16T09:07:49",
+            "reviewBody": "Very good. I used French bread and sliced them thick. Easy and quick to make. I did drizzle caramel sauce over the french toast instead of dipping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rae",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-15T06:54:46.020Z",
+            "reviewBody": "YUMMY YUMMU YUMMY :)This recipe is really easy to do i added cinnamon to the caramel and it was really good had to add a lil more brown sugar but it all worked out in the end",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "whitty32",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-17T16:51:18.603Z",
+            "reviewBody": "I made this for my husband for father's day and we loved it. The carmelizing was a little off for me too. You have to control the tempurature. Next time I make it I will take the other advice of boiling the water first. I should've read the reviews first.  I might want to add cinamon and vanilla next time. The Brown sugar takes the place of maple syrup and you can sprinkle with powdered sugar. Yum! Still a good recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pam gile",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-11T06:04:30.663Z",
+            "reviewBody": "Yummy! Sweeter than my regular breakfast preferences, but if I'm in the mood for a sweet start, this is perfect! I'm glad I read the other reviews before I made this because I think that boiling water is crucial to making the caramel sauce.  In fact, I was having trouble getting the brown sugar to melt so I added the hot water before it was melted, and I had the perfect caramel sauce in less than 5 minutes. Other than boiling the water for the sugar-sauce, I made 2 minor changes: (1) I halved the recipe and (2) I added cinnamon to the egg mixture. I think it's also important to use butter as the recipe calls for: it adds a perfect dimension to the caramel sauce which neither shortening nor margerine would provide.\n\nThis is delicious and quite sweet; and it would be great with fruit (the tartness would pair nicely with the sweet sauce) and whipped cream.  This would also be a great desert served with fruit or ice cream!  Wow, imagine this sticky French Toast as a base for a scoop of ice cream, nuts, and hot fudge!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "metalnoir",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-07-15T02:09:59.187Z",
+            "reviewBody": "Its was pretty good, I'm pretty sure I did it all correctly even though I was half asleep looking for this recipe and during the making of this. I really liked it though I'll add my own personal edits in it but I would defiantly eat this again thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TanER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-06-20T16:24:52.590Z",
+            "reviewBody": "My family LOVED this.  It was very easy to make and clean-up wasn't bad.  I used boiling water as others suggested and had no problems.  \r\n",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-03T17:04:59.587Z",
+            "reviewBody": "I am also not a french toast fan but this was nice. I was blessed to have read the reviews before attempting the recipe. And it help alot!!! My caramel sauce turn out perfect because of the tip to use boiling hot water and to control the heat by not having it up too high. My kids clean it out!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ctomli",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ],
+    "video": {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "name": "Caramelized French Toast",
+        "description": "See how to make crave-worthy French toast with a sweet, sticky sauce.",
+        "uploadDate": "2013-12-18T01:05:17.695Z",
+        "duration": "PT2M26.521S",
+        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1029024.jpg",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+            },
+            "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+            ]
+        },
+        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2944276671001"
+    }
+}

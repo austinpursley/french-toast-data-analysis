@@ -1,0 +1,1546 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/217954/overnight-eggnog-french-toast/",
+    "name": "Overnight Eggnog French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4369995.jpg",
+        "width": 2448,
+        "height": 3264
+    },
+    "datePublished": "2020-03-05T05:08:03.000Z",
+    "description": "Delicious and so easy, it'll become a Christmas morning tradition! Needs no syrup.  Whipped cream and sliced fruit like strawberries and bananas are great on top! Instead of eggnog, you can use whole milk and add a 1/2 teaspoon of cinnamon, 1/4 teaspoon of nutmeg, and a tablespoon of vanilla.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H40M",
+    "totalTime": "P0DT0H50M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 cup brown sugar",
+        "\u00bd cup butter",
+        "2 tablespoons light corn syrup",
+        "1 loaf French bread, cut into 1-inch slices",
+        "8 eggs",
+        "2 cups prepared eggnog"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Lightly grease a 9x13-inch baking dish.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the brown sugar, butter, and corn syrup in a small saucepan over medium heat. Cook and stir until the mixture begins to boil; remove the mixture from heat, and pour into the prepared baking dish. Place the bread slices atop the brown sugar mixture.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk the eggs and eggnog together in a large bowl; pour over the bread slices. Cover the baking dish with aluminum foil, and refrigerate 8 hours to overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 325 degrees F (165 degrees C). Remove the baking dish from the refrigerator.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 35 minutes. Increase heat to 375 degrees F (190 degrees C), remove the aluminum foil, and continue baking until the the top begins to brown, 5 to 7 minutes more.\n"
+        }
+    ],
+    "recipeCategory": [
+        "Breakfast Eggs"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Tillie'sHeadCook",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/3471065"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 97,
+        "itemReviewed": "Overnight Eggnog French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "722.6 calories",
+        "carbohydrateContent": "95.9 g",
+        "cholesterolContent": "338.6 mg",
+        "fatContent": "29.7 g",
+        "fiberContent": "1.8 g",
+        "proteinContent": "20.7 g",
+        "saturatedFatContent": "15.9 g",
+        "servingSize": null,
+        "sodiumContent": "754.4 mg",
+        "sugarContent": "47 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-18T19:13:05.020Z",
+            "reviewBody": "This was an easy recipe to prepare.  I used Texas Toast bread slices.  I used 10 slices this time but will probably reduce to 8 slices next time.  I cut the bread into large cubes.  I did also add extra cinnamon (1/4 tsp) and nutmeg (1/8 tsp) as I usually add more to the eggnog I buy at the store.  I liked being able to prep the night before and bake in the morning.  I was worried about the cooking time and did leave it in about 15 minutes longer.  Next time I will take it out closer to the recommended time though as it does continue to cook after removing from oven.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jessi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-25T05:59:50.093Z",
+            "reviewBody": "I made this according to instructions, took it out of the oven after 35 mins and it wasn't even close to being done. I set the oven to 350\u00b0 and put it in for another 35 mins. I put it back in to brown @375\u00b0 and after 7 mins it still wasn't browned. It was still a loose when we decided to eat it. Tasted okay but the crust on the bread was really tough. If I ever make this again I'll use Texas toast but I doubt I'll ever make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steve Anderson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-12T17:13:33.010Z",
+            "reviewBody": "This is the best french toast recipe!  I served it t a family brunch and people could not get enough!  May try using egg whites next time to lower the cholesterol but certainly delicious",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "saraB",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-26T12:38:33.553Z",
+            "reviewBody": "Was looking for a \"sure-hit\" recipe for christmas brunch and was initially worried that this only had 8 reviews but SO glad that I took the risk-easy and delish ! I will make this every Christmas! Husband who hates mushy french toast LOVED it and everyone wanted recipe! No syrup needed but a squirt of Reddi Whip and a sprinkle of fresh blueberries or strawberries makes this HEAVENLY! I prepared as written with a few minor adjustments: a did prepare night before &amp; sprinkled a little cinnamon on top, I also turned to broil for last 2 minutes of cooking to get a good brown on it and I lightly sprinkled with powered sugar after I took it out to make it look pretty! A must do!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CES",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-12T05:40:03.773",
+            "reviewBody": "Delicious and definitely a keeper recipe.  I made this as part of the All Star Ambassador Program.  So glad I tried it.  I couldn't find eggnog so I used the heavy cream and spices, but went a little heavier on the spices.  I also substituted 1 T of maple syrup and 1 T of honey in place of the 2 T of corn syrup.  I think that worked just fine.  Baked it a bit longer than was recommended.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MN Nice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-28T18:38:19.853Z",
+            "reviewBody": "LOVE this recipe! Would give this 10 stars if I could. Huge hit with the kids.  I loved the flavor and the ease of the recipe.  I did not have any issues with the bread being soggy.  Would not change a thing and I have already made it 3 times. Thanks!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jharris",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-28T08:58:54.577Z",
+            "reviewBody": "I used a slightly bigger pan.  Added more two day old french bread and a bit more eggnog.  As other reviewers stated they added additional spices, I did as well.  I cooked it for 40 minutes then removed the aluminum foil for 7 minutes.  Superb!  Great recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RMB",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-21T17:09:03.830Z",
+            "reviewBody": "This was the best over night french toast brunch dish I have made.  Made it for a company Christmas brunch and it was requested by many.  I made it exactly as the recipe states, except I baked it 40 minutes at 325 degrees, increased the temp to 375 degrees and left it in for about 10-12 minutes longer.  I made sure the oven temperature reached 375 before I started to time it with the foil off.  Perfect!  I sprinkled with powder sugar, but served with maple syrup for those that wanted it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BLIZLADY",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-04T11:05:31.527Z",
+            "reviewBody": "Delicious! Made it exactly as suggested for Christmas morning. Will make it again!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rene",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-20T10:03:33.943Z",
+            "reviewBody": "This is a very, VERY good recipe, but I did make some changes. Due to being gluten-free (no flour), I used 2 loaves of \"Three Baker's\" gluten-free bread. I know it seems a lot of bread, but the loaves/slices of bread are fairley small, and I wanted to fill the glass pan. This recipe makes a GREAT Christmas Day brekfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "April's Kitchen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-28T23:04:13.273Z",
+            "reviewBody": "This was a spectacular Christmas morning dish. I made it as written, except for the bread. I tried Trader Joe's cinnamon croissant bread, and it was super.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mittenhead",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-26T10:44:27.607Z",
+            "reviewBody": "This was delicious!  Used fat free prepared egg-nog, and soaked the bread for only 2 hours but it was fantastic and a hit with all our brunch guests.  Can only imagine how great it would be if it had soaked overnight.\n\nMultiplied the recipe by 1.5, but doubled the yummy sauce.  Baked covered for one hour in an 11*14 pan, and then browned.  Will definitely make again!  Mmmmmmmmmmmm.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gayle Gifford Rakowski",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T21:03:56.340Z",
+            "reviewBody": "Made this recipe for my Christmas Breakfast it was AMAZING!!!!!! My family truly loved it.  The only thing I changed was I used a loaf of Potato bread but followed the directions and came out perfect....Super moist and sweet I garnished with fresh berries and whip cream....mmmmm Delicious. This will be added to my holiday breakfast menu. Very easy to make",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brandi Anderson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-26T03:38:19.443Z",
+            "reviewBody": "The family loved this, and have requested it for every future holiday brunch. I made it with 8 or 10 slices of Texas toast, cubed. I added nutmeg and cinnamon. A trick I learned from another recipe is to put a second 9 x 13 pan on top of the saran wrapped dish before you put it in the fridge. The weight of the second pan makes sure everything is saturated in the morning. I baked it the first 35 minutes and then upped the temperature to 375 and baked it an additional 25. It was perfect. I let it set up for a bit and sliced into squares and served. Perfection!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shiloh Hand",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-05T01:58:25.143Z",
+            "reviewBody": "This was so fluffy and delicious. I followed recipe as written with one exception. I cubed my bread. This gave way to lovely crispy edges. Perfection!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cmjsons",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-25T14:24:40.393Z",
+            "reviewBody": "This was very heavy and a bit bland.  My family did not care for it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BGCOOK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-17T13:56:12.440Z",
+            "reviewBody": "Rave reviews at my holiday brunch.  Added nutmeg and triple sec to the eggnog mix.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "joelleberanek",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-25T16:50:31.007",
+            "reviewBody": "I have made this a few times, always to rave reviews.  I use good quality dense white bread rather than French bread as I find it has a nice consistency throughout rather than the thicker crust and airier inside of French bread. It is definitely  better if  it sits overnight as directed but can be done morning of if needed. One tip, grease the aluminum you put on top or it can stick to the top pretty badly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lealla",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-26T16:57:36.420Z",
+            "reviewBody": "I don't cook the brown sugar mixture until I am ready to assemble and put in the oven.  I couldn't grasp putting a hot sugar mixture in the casserole to be topped with the bread/egg mixture to sit in the fridge overnight.  Something about that just did not compute.  Secondly, I have a convection oven.  I baked this recipe as directed EXCEPT I did not use the foil on top at all.  The result was a beautiful golden color and crispy on top.  Will upload a photo.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "UNCgal",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-20T22:59:09.200Z",
+            "reviewBody": "Since I found this recipe three years ago I have made it every year for christmas morning breakfast and love it. I use croissant pieces for the bread but that is the only change I make.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shawna Thrower",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-26T07:58:38.950Z",
+            "reviewBody": "We LOVED this. Sprinkled the whole with pumpkin pie spice before chilling, because many reviewers said it needed spicing. Served it with whipped cream, and it vanished fast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KDSarge",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-31T17:03:18.757Z",
+            "reviewBody": "Excellent dish. Here is my issue with all these bread casserole recipes. When they say \u201cone loaf\u201d, the variability is huge (12 to 22 oz.). Why not state in terms of ounces? Some loaves will result in slop, others too dry. It is easy enough to estimate visually how much of a 20 oz loaf is 15 oz., for example, and will reduce the likelihood of a poor result from the recipe. The variability in the rater feedback is clearly a function of this.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Puako Sunset",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-24T09:59:33.780Z",
+            "reviewBody": "Great recipe! Needs a little salt in the egg mixture. I dried the bread out in the oven first to soak up the liquid. I increased the recipe to serve 8 - 10. Used 12 eggs, 3 cups egg nog, and a Large loaf of oatnut bread. I did not increase sugar but added a little more corn syrup and another 1/2 stick of butter. I baked it in a lasagna pan. I sprinkled fresh grated nutmeg on top. It needed to bake about 20 minutes longer at 375\u00b0",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BerryBlue",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-09T06:40:20.557Z",
+            "reviewBody": "I made this last year for our Christmas breakfast, and Wow! was it ever a hit!  My son wants it every Christmas morning...a new tradition for our family.  And he said to feel free to fix it at other times too! I used Texas Toast instead of French bread. I reheated the leftovers in aluminum foil in the oven.....still yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lisa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-28T09:55:25.543Z",
+            "reviewBody": "I thought the taste was right on.. good eggnog flavour.  A whole loaf of bread was too much bread and the mixture didn't soak through it all.  I would toss the bread strips in the mixture in a big bowl and then dump it all in the pan.  The butter/sugar mixture was delicious but would have liked more of it.  A good recipe and especially good for a quick easy breakfast but I don't think I'll make this again.  My family liked it though so 4 stars for them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Colleen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-01-03T15:56:47.673Z",
+            "reviewBody": "My kids ask for this for Christmas morning. We al love it. I add vanilla to the brown sugar &amp; butter and some grand marnier to the eggnog &amp; egg mixture - yummy!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annmarie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-22T06:11:59.847Z",
+            "reviewBody": "perfect dish after a party and a few guests spent the night. I should have cubed the bread instead of slices as people were confused and just peeled peices of bread out instead of digging down to get the brown sugar layer (tasty!). I cooked mine at 350 instead of 325, and then 375 at the end. I then ended up leaving it in the oven (had turned it off) to keep warm for about 10 minutes and the top peices of exposed bread went all nice and crusty and delicious. I too added nutmeg and cinnimon... some people added maple syrup, although it wasnt needed at all. def a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Missie Nickerson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T12:16:33.257Z",
+            "reviewBody": "I made this for Christmas morning.  Everybody loved it!  Thanks for sharing.  I did everything according to the recipe, except kept it in the oven until it was puffy and golden brown (about 1 hour).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paula",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-27T01:24:14.800Z",
+            "reviewBody": "I made this for my husband's birthday breakfast because I had some leftover eggnog I wanted to use up and he loves French Toast.  OH, MY GOODNESS. what a beautiful custard. The eggnog gave such a good flavor, but not really the taste of eggnog.  It just adds a terrific blend of flavor.  I served it along with some strips of bacon.  The dish was Excellent.  I made a few very simple changes but basically followed the recipes as written.  I used brioche bread and cut it into about 1-inch squares, soaked overnight in the custard.  In the morning when it was finished cooking I flipped the pan so that ooey-gooey topping was on top.  (That topping is hot, so be very careful flipping it)  WOW, knock out dish, I'm going to making quite a lot.  So easy, but oh so good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DebsFW",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-09T21:38:33.340Z",
+            "reviewBody": "I made this for breakfast Christmas morning. the whole family loved it. it needed syrup though IMO. I used Texas toast for ours.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rebecca",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-14T16:06:29.900Z",
+            "reviewBody": "HUGE hit!  Love this recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dencas",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-26T09:46:14.240Z",
+            "reviewBody": "This was amazing. I would advise not to put too much syrup to avoid it being to sweet. Will make this again for sure!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Toni",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-02T16:19:46.437Z",
+            "reviewBody": "I made this recipe for New Year's Day breakfast and everyone loved it!  I did make a few changes.  I used 8 slices of Texas toast instead of the french bread (as another reviewer had suggested) and I sprinkled cinnamon over the bread before pouring the egg and eggnog mixture on it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tiffany Esterline Boulais",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-25T19:21:00.767Z",
+            "reviewBody": "Family really liked this one. I probably won't use all the recommended eggs next time. Great Christmas morning recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bonnie Lutze",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-01T17:13:18.650Z",
+            "reviewBody": "This is a delicious recipe. Made it for New Years Day Brunch and it was a hit.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mich",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-06T14:35:36.117Z",
+            "reviewBody": "Fantastic .. the whole gang loved it!!!!!   I used half cinnamon swirl bread and half italian .. definate keeper ;)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzie Solman Bergman",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-25T21:11:06.587Z",
+            "reviewBody": "Ehhhhh, the bottom was completely separate from the top and a bit soggy even after I cooked it longer in the oven. No real flavor to it other than the almost Carmel bottom. I would really have to play with this recipe to make it a favorite. It wasn\u2019t bad just. . . . It could have been better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AshleyBrown",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-25T16:38:47.397Z",
+            "reviewBody": "I used 2 tbsp of honey since Corn Syrup is soooo bad for you!  Was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kimberly Peterson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-08T21:00:44.387Z",
+            "reviewBody": "I have the same experience as Steve A. - the  dish was not cooked after the time given in the recipe.  It required the standard hour for such a casserole.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jo Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-31T21:50:39.193Z",
+            "reviewBody": "This recipe was truly delicious and easy to make. I sliced a whole loaf of French bread and definitely had to cook for longer and waited until it wasn't so jiggly. Great flavor and will make again. Added pecans to sugar mixture and you do not need syrup for this casserole! perfectly sweet",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Virginia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-09T17:15:32.690Z",
+            "reviewBody": "I made no changes and received raves on Christmas morning. It was the easiest throw together breakfast dish! I wish egg nog was available all year so I could make it more often.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Khub",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-25T18:33:34.440Z",
+            "reviewBody": "This is really delicious. My family loved it. I did need to cook it longer then the recipe called for, an additional 25 minutes or so , which could have something to do with our elevation and oven. Just keep an eye on it.  Well worth it. I will make it again. No syrup or additional topping necessary.  Very sweet and creamy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jeannine Spencer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-25T19:26:33.373Z",
+            "reviewBody": "Made it exact as written.   Too much custard after done baking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathryn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-26T19:35:36.430Z",
+            "reviewBody": "Great concept, but too sweet for my family.   I used crusty french bread and so I think that kept it from kept it from being too soggy. I really wanted to like it. I  might do it again with cream instead of eggnog.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "skludwig",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-28T10:10:04.350Z",
+            "reviewBody": "We made this recipe just as it's written and it was fabulous! The egg nog flavor is very subtle, but aromatic and delicious. I will definitely make this again! We'll have to try it with spices and milk when egg not is no longer available.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Corinne Crawford",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-25T18:34:53.020Z",
+            "reviewBody": "We make this for Christmas morning.  I cut the receipt in half as there are only 4 of us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mom of 2",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-25T14:48:44.330Z",
+            "reviewBody": "I made this for Christmas morning and it is definitely a keeper. The only thing I did extra was sprinkle cinnamon on top before refrigerating. I was so excited to taste it, I forgot to take a picture. We added strawberries and whipped cream.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Valerie M",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-26T05:28:35.013",
+            "reviewBody": "Turned out perfectly! I made the milk variation instead of using egg nog to save calories. In the end maybe it didn\u2019t work because we used maple syrup on it and many reviewers said it didn\u2019t need syrup when made with egg nog. I followed ingredient directions exactly, but cooked 40 min at 325 then increased to 375 and then started timing for 10 min, then broiled for 1.5 min. the texture couldn\u2019t have been more perfect. Great for Christmas morning breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "audlyn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-25T06:55:40.190Z",
+            "reviewBody": "Made it EXACT and it wasn't mushy or soggy. Absolutely delicious. Cooked in exact time it said.  Added blueberries,  raspberries, bananas and whipped cream.  My treat buds are in heaven!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bing",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-25T17:37:57.970Z",
+            "reviewBody": "Made this exactly as written for our Christmas eve brunch and it was delicious! Huge hit, even with the family members who don't care for eggnog. Next time I might cut the French bread slices into smaller chunks to make it easier to serve smaller portions. Thank you!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy Marlin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-29T15:05:41.137Z",
+            "reviewBody": "Yummy.  I cubed the bread and did need to cook it longer than stated.  My family likes the top crunchy and not overly mushy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Theresa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-01T08:27:41.773Z",
+            "reviewBody": "I liked the carmelization of the sugar on the bottom but overall this was too sweet.  We put unsweetened applesauce on top which helped cut the sweetness a lot.  I used 6 dinner-sized challah rolls split in half for the bread which worked out nicely. I'm glad I tried this but unlikely I'd make it again",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Noeller67",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-26T23:17:56.507Z",
+            "reviewBody": "I didn't add the light corn syrup...wasn't sweet. I think it needed that!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "designergirljamestown",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-25T23:49:01.973Z",
+            "reviewBody": "I made this as a gluten free, dairy free dish for a group brunch and it was awesome! I used 2 loaves of Udi\u2019s gluten free French bread (prepared as directed and cut into cubes), margarine &amp; coconut eggnog milk instead of cows eggnog milk. I only used about 3/4 of the liquid mixture in a 7x11 deep pan (gluten free bread is smaller than regular bread). Next time I will use 3-4 loaves, pour in all the liquid mixture and use a 9x13 pan. I did brown it up a bit under the broiler for a couple minutes before serving. I also used lots of cinnamon and topped it with sprinkled icing sugar. If you let it sit for a bit before serving, it will thicken and continue to absorb liquid. Thanks so much....this is a keeper recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shannon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-25T15:28:30.597Z",
+            "reviewBody": "Why 3 stars?  The cooking time is way under estimated. I had to increase my cooking time by 30 mins to get this completely done. And even then it was a little \"wet\" in parts. Saying that, this tasted wonderful and was incredibly  rich.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marshall McCall",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-25T18:33:54.223Z",
+            "reviewBody": "Made this for Cmas morning. It was so amazingly delicious. I took it out of the fridge an hour or so before cooking it and we like things more on the well side so I cooked it 45-50 minutes. So yummy yummy yummy!  Can't wait for the leftovers tomorrow morning!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "alicat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-26T01:26:18.570Z",
+            "reviewBody": "I made this recipe for Christmas morning breakfast. I prepped and cooked  according to recipe. After the 35 minute cook time at 325 degrees, casserole was not cooked. Eggs were very runny. I turned up the temperature as called for in recipe and has to cook for at least another 25 or 35 minutes. \nThe dish itself tasted great. The cooking temperature and time need to be adjusted. That\u2019s the reason I am giving 2 stars. Recipe is not accurate. Dish is tasty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "emilyc",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-31T16:54:00.457",
+            "reviewBody": "I love the basic recipe but made a few changes. I used light eggnog instead and right before baking it, sprinkled the top with cinnamon sugar.  Most people were right to extend the baking time. I left mine (foil covered) in the oven for close to an hour then took the foil off and baked for the additional 7-10 minutes. It turned out to be the perfect blend of creamy custard and bread pudding, with that gorgeous buttery caramel at the bottom. There was no need to add anything to it. I will make this one Christmas morning next year too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "patapower",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-25T17:20:46.870Z",
+            "reviewBody": "I liked it and so did my son, but probably won't make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paul Cox",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-27T07:07:21.440Z",
+            "reviewBody": "Made it for Christmas morning. It was wonderful. I added cinnamin to the bread slices from other reviews. I used texas toast and cut into strips. I also used an extra cup of the eggnog so I was woried that it might turn out mushy- it was perfect. Love this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-31T01:45:32.180Z",
+            "reviewBody": "This is a keeper.  I used 7 extra large eggs and added a little milk along with a touch of pumpkin pie spice.  It was delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "The inspired chef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-26T08:51:22.293Z",
+            "reviewBody": "This is a great and easy recipe. I made sure to cut my bread up in pieces and leave out to get stale, that way it soaked up all the wet mix.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Stephanie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-01T06:05:28.513Z",
+            "reviewBody": "Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barbara",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-11-11T19:36:34.917Z",
+            "reviewBody": "Used soynog and margarine to make it dairy free- very good still.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bmoxie1212",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-31T23:05:43.290Z",
+            "reviewBody": "Way too sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clare",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-22T03:55:48.283Z",
+            "reviewBody": "Great French toast recipe.  I used Texas Toast and it turned out really good.  I will definitely make this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marci Banes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-30T17:13:17.600Z",
+            "reviewBody": "Very good but very sweet.  I think I would use milk with cinn and nutmeg instead of eggnog next time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Applegrower",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-25T07:28:19.270Z",
+            "reviewBody": "This breakfast casserole was really good!  I added a bit more nutmeg before baking.  Also, I baked it much longer than recipe called for -- at least an hour.  Browned it longer too.  Very nice -- thanks for  a delicious recipe for our Christmas breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FionaMcKay",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-01-05T11:15:15.920Z",
+            "reviewBody": "Flavors were great but too soggy. Tried to cook longer but didn't get the soggy out of the bottom syrup layer. No one ate it. As much as I wanted to love would not make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Williamsmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-25T15:17:41.090Z",
+            "reviewBody": "2nd year I made it for Christmas breakfast. Super easy, just needed to bake a lot longer!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elizabeth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-26T00:23:27.777Z",
+            "reviewBody": "Absolutely the best Christmas brunch meal ever!  We used both maple and agave syrup on the cooked french toast.  This one is a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JEANVIC1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-17T20:02:00.933Z",
+            "reviewBody": "This was a hit with the family.  I thought it was a bit soggy, but the flavor was great.  I used challah bread and perhaps that was too soft a bread for this dish.  It was ridiculously easy to make though!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Butler04",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-30T14:23:12.150Z",
+            "reviewBody": "flavor was delicious and certainly easy, but I'm thinking there was either to much liquid or not enough bread, as there was a pretty thick egg layer on the bottom.  Should have let the bread dry out before soaking maybe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ldavido",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-12-21T13:18:47.340Z",
+            "reviewBody": "I made this for a staff brunch potluck and it was a hit!  I cooked it for about 40 minutes under foil and then about 7 minutes without the foil and without increasing the heat (I didn't read the directions closely enough!) which wasn't enough. I bumped up the heat and cooked it for another 7 minutes or so and called it good. It was delicious the morning it was baked and I would definitely make it again... and again... and again. However, we did not feel it was as tasty as leftovers.  YUMMY when fresh, though! Thanks for a keeper!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "karebro",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-22T21:07:12.667Z",
+            "reviewBody": "I made this recipe for a work breakfast potluck and it was the star dish. I opted to use milk and eggs instead of eggnog and took other users tips to add more of the spices.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Farinah Kadir",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-25T07:42:08.550Z",
+            "reviewBody": "It tasted okay. Either the temperatures are too low, or the times are too short. I ran it an extra 5 minutes at 375, then I had to run it an extra 8 minutes at 400. You also have to be deliberate about placing the bread in the pan, any open spaces will lead to noggy scrambled eggs in the cracks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brian Hufe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-05T20:16:00.250Z",
+            "reviewBody": "I added additional nutmeg and cinnamon. The baking did take longer than in the directions as did the browning. However, this is delicious. Almost like a bead pudding in consistency. One of the guests said, \"I could eat this everyday until I die. \"Delicious.\"",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MAMMABELLE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-10T17:28:13.133Z",
+            "reviewBody": "It was easy and I received compliments on it when served during our annual Christmas brunch... but it didn't really do it for me. It didn't taste as custardy as I expected--just eggnog-y. If that's what you're looking for, you'll love it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cohendrickson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-17T17:30:02.327Z",
+            "reviewBody": "OMG!\nthe best french toast ever.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sassy746",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-25T22:23:19.670Z",
+            "reviewBody": "First time making a breakfast casserole and it was great.  Christmas brunch and let me tell you zero leftovers, only change I\u2019d make is change loaf to te as bread. The French loaf didn\u2019t make big pieces so I will try next time with Texas bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Slicksrants",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-09T17:16:36.867Z",
+            "reviewBody": "Super easy and so yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie Pederson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-28T04:08:02.797Z",
+            "reviewBody": "Everyone at my Christmas  brunch raved about this receipe.  It doesn't taste very much like eggnog, so even the people that don't like eggnog loved it.  It was super fast and easy to prepare.  This is my new go to breakfast food for holidays.  I would give it 10 stars if I could.   :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maria McDonough England",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-12-24T08:31:00.250Z",
+            "reviewBody": "Our oven bakes at a lower temp so I increased the temp to 350 for the first 35 mins and 375 for the final 5-7 minutes and it still wasn't done. I baked for an additional 10 mins and that helped(total cook time 52 mins). Still came out very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Frank Cogan",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-25T22:35:15.440Z",
+            "reviewBody": "I used low fat eggnog and served it with whip cream and strawberries.  It was delicious!  I added pumpkin pie spice to the recipe for additional flavor.  I would definitely make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kaysb",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-27T03:35:11.167Z",
+            "reviewBody": "yummy I added cinnamon. Definitely doesn't need maple syrup, sweet enough.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melissa Stark",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-12-27T14:19:39.563Z",
+            "reviewBody": "This is not French Toast, it is Bread Pudding.  It is pretty good bread pudding.  And it is very good for breakfast.  I left out corn syrup, it just doesn't need it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kelleyp",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

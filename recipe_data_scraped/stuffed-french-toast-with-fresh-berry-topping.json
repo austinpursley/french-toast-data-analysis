@@ -1,0 +1,135 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/39212/stuffed-french-toast-with-fresh-berry-topping/",
+    "name": "Stuffed French Toast With Fresh Berry Topping",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F978808.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-03T01:03:13.000Z",
+    "description": "Your favorite strawberry preserves mixed with creamy ricotta cheese comprise the filling in these French toast sandwiches.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H25M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "2 cups mixed fresh berries (strawberries, raspberries, blueberries and/or blackberries)",
+        "2 tablespoons granulated sugar",
+        "\u2154 cup low-fat ricotta cheese",
+        "\u00bc cup strawberry preserves",
+        "3  large eggs large eggs",
+        "\u2154 cup NESTLE\u00ae CARNATION\u00ae Evaporated Fat Free Milk",
+        "2 tablespoons packed brown sugar",
+        "2 teaspoons vanilla extract",
+        "12 slices (about 3/4-inch thick) French bread",
+        "vegetable oil",
+        "powdered sugar",
+        "maple syrup, heated"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "COMBINE berries and granulated sugar in small bowl.  Combine ricotta cheese and strawberry preserves in small bowl; mix well.  Combine eggs, evaporated milk, brown sugar and vanilla extract in pie plate or shallow bowl; mix well.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "SPREAD ricotta-preserve mixture evenly over 6 slices of bread.  Top with remaining slices of bread to form sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "HEAT small amount of vegetable oil in large, nonstick skillet or griddle over medium heat.  Dip sandwiches in egg mixture, coating both sides.  Cook on each side for about 2 minutes or until golden brown.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "SPRINKLE with powdered sugar; top with berries.  Serve with maple syrup.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.5,
+        "ratingCount": 4,
+        "itemReviewed": "Stuffed French Toast With Fresh Berry Topping",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "291.8 calories",
+        "carbohydrateContent": "53.6 g",
+        "cholesterolContent": "94.1 mg",
+        "fatContent": "3.6 g",
+        "fiberContent": "2.2 g",
+        "proteinContent": "11.5 g",
+        "saturatedFatContent": "1.1 g",
+        "servingSize": null,
+        "sodiumContent": "394.6 mg",
+        "sugarContent": "24.5 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2004-11-23T12:58:21.937Z",
+            "reviewBody": "This is so easy and fast.  I had my sister coming over and needed something special and fast.  We love Ricotta cheese and this recipe sounded great.  On such short notice I had to use regular bread, but it was fine. Had one leftover and my husband loved it the next day! I used blueberries I had in the freezer and garnished the dish - looked great! Maybe next time I will add a couple of tablespoons of Grand Marnier Liquor to the egg mix - Then it may deserve 5 stars!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "anchrista",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-01-12T17:46:45.420Z",
+            "reviewBody": "Awful.  Cheese filling was just plain bad.  I tasted it while making it and hoped for a miracle, but no miracle here.  It's a dud.  Go for a cream cheese based filling instead.  We had to throw it out-- and we never do that!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Simi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-02-20T11:20:03.793Z",
+            "reviewBody": "It may be that a good brand of ricotta is needed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rachel",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

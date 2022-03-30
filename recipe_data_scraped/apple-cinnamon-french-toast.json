@@ -1,0 +1,211 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/238935/apple-cinnamon-french-toast/",
+    "name": "Apple-Cinnamon French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1340977.jpg",
+        "width": 960,
+        "height": 960
+    },
+    "datePublished": "2021-08-04T18:40:09.000Z",
+    "description": "Tender cooked apples top this cinnamony French toast.",
+    "prepTime": null,
+    "cookTime": null,
+    "totalTime": "P0DT0H20M",
+    "recipeYield": "6 slices",
+    "recipeIngredient": [
+        "1  serving PAM\u00ae No-Stick Cooking Spray",
+        "3 medium apples, peeled, cored, and cut into 1/8-inch-thick slices",
+        "3 tablespoons maple flavored pancake syrup",
+        "\u00bd cup Egg Beaters\u00ae Original",
+        "\u00bc cup fat free milk",
+        "6 slices cinnamon swirl bread",
+        "\u00bd teaspoon Confectioners' sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Spray medium saucepan with cooking spray; heat over medium heat. Add apples; cook 5 minutes or until crisp-tender, stirring frequently. Stir in syrup; cook 1 minute more or until hot, stirring occasionally. Remove from heat; cover to keep warm.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together Egg Beaters and milk in shallow bowl or pie plate.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray large nonstick skillet with cooking spray; heat over medium heat. Dip 2 or 3 bread slices in Egg Beaters mixture, turning to coat both sides. Place in skillet; cook 2 to 3 minutes on each side or until golden brown. Repeat with remaining Egg Beaters mixture and bread. Top each serving evenly with apples. Sprinkle with sugar, if desired.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 9,
+        "itemReviewed": "Apple-Cinnamon French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "317 calories",
+        "carbohydrateContent": "62.5 g",
+        "cholesterolContent": "0.4 mg",
+        "fatContent": "3.3 g",
+        "fiberContent": "5.3 g",
+        "proteinContent": "11.6 g",
+        "saturatedFatContent": "0.1 g",
+        "servingSize": null,
+        "sodiumContent": "302.3 mg",
+        "sugarContent": "36 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-14T07:42:21.760Z",
+            "reviewBody": "My family loved this recipe, and asked me to put it in my recipe book. I did make a few changes. I used regular eggs, real maple syrup, and 2% milk since that's what I had on hand. I also added about 1 tsp. of vanilla extract. After plating, I drizzled just a little more maple syrup over it.\n\nIf using regular eggs, I would suggest 2 large eggs. I used 3, and ended up needing a little more milk. Make sure to use cooking apples. I used johnathan apples, but you can try with others. I soaked the apples in water and lemon as I was cutting them. Oh, and it took me 15-20 minutes to core, peel, and slice the apples. Don't forget to add that time in when you're making them, or prep the apples ahead of time and soak them in some water and lemon juice. \n\nThis recipe is a keeper in my family!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-05T09:19:31.613",
+            "reviewBody": "Delicious! I did add cinnamon to the apples - just couldn't resist. Highly recommend it too :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Life Tastes Good",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-13T14:27:35.497",
+            "reviewBody": "Yummy!!!!  I used some MacIntosh Apples I had on hand and they seemed to have fallen apart.  I also used regular eggs, since I don't eat egg beaters.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diana Mc",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-01T20:29:13.990",
+            "reviewBody": "I am a french toast junkie!  And with saute apples on top? HEAVENLY; ;))",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patty Cakes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-10-04T09:00:21.787",
+            "reviewBody": "I expected this dish to taste like apples, but not only apples. It was good, but it wasn't what I was after.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "duboo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-10-25T18:37:37.617",
+            "reviewBody": "This was a sweeter version of French Toast than I would normally make, but, it was perfect for a Fall weekend brunch.   I did add some cinnamon and a touch of sugar to the apples because mine were slightly tart.   I added some whipped cream for some extra decadence.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Happyschmoopies",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-03-26T09:53:39.700Z",
+            "reviewBody": "So delicious! The only thing I might add next time is stuffing it with a cinnamon sugar cream cheese apple compote and topping it with pecans or walnuts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "preciousmetals18",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-10-04T17:37:38.977",
+            "reviewBody": "This was delicious and easy to make.  I  added some extra cinnamon and my family loved this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sugarplum",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

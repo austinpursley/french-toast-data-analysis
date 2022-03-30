@@ -1,0 +1,358 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/123408/chocolate-french-toast/",
+    "name": "Chocolate French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F981108.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-02T14:32:18.000Z",
+    "description": "Try this yummy treat for a special breakfast or brunch. The layer of chocolate hidden inside makes a wonderful flavor combination that appeals to kids of all ages. You might even be tempted to serve this chocolate sandwich for dessert!                                                                --Pat Habiger                                                               Spearville, Kansas",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "3  large eggs eggs",
+        "1 cup milk",
+        "1 teaspoon sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon salt",
+        "12 slices day old bread, crusts removed",
+        "3 (1.55 ounce) bars milk chocolate candy bars*, halved",
+        "2 tablespoons butter or margarine",
+        "\u00bd cup confectioners' sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, beat eggs, milk, sugar, vanilla and salt. Pour half into an ungreased 13-in. x 9-in. x 2-in. baking dish. Arrange six slices of bread in a single layer over egg mixture. Place one piece of chocolate in the center of each piece of bread. Top with remaining bread; pour remaining egg mixture over all. Let stand for 5 minutes. In a large nonstick skillet, melt butter over medium heat. Fry sandwiches until golden brown on both sides.  Dust with confectioners' sugar. Cut sandwiches diagonally; serve warm.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 24,
+        "itemReviewed": "Chocolate French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "386.1 calories",
+        "carbohydrateContent": "51.7 g",
+        "cholesterolContent": "111.5 mg",
+        "fatContent": "15.3 g",
+        "fiberContent": "1.9 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "7.7 g",
+        "servingSize": null,
+        "sodiumContent": "518 mg",
+        "sugarContent": "26.6 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-05T07:34:33.557Z",
+            "reviewBody": "I tried this the other night when I had a sweet tooth. Used Nutella instead, its a hazlenut chocolatey spread instead of the chocolate bars since I had some laying around. yummy!! Im thinking I will incorporate some fruit into nutella in the future as well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lexy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-19T12:59:23.807Z",
+            "reviewBody": "Made this for Father's day. It took a lot longer than 10 minutes to cook on medium heat. Keep in mind that the more you make, the longer it is going to take (duh.) It took maybe 30 minutes of cook time for 4. After all the french toast was cooked, I actually put it in the microwave for 30 seconds which helped melt the chocolate a bit more and was perfect right before serving. We used a Hershey's chocolate bar broken up into small pieces. The pieces didn't melt all of the way, but my husband liked that there were bites that didn't' have chocolate in it.  The sky is the limit on what you can substitute for chocolate, depending on what you enjoy. I can see peanut butter, strawberry jam, etc. Will be making this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "nancy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-22T06:11:26.030Z",
+            "reviewBody": "Very good! Have made twice now, once using choco chips and added some toasted coconut and again using nutella and replacing the vanilla extract with almond. This is a Delicious breakfast treat!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jog Dish",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-12T06:50:53.380Z",
+            "reviewBody": "My boys loved this. I had a jar of dark chocolate peanut butter that had been waiting to be used, so I substituted that for the chocolate bars. They gobbled this up. I paired it with the Cream Cheese/Raspberry French Toast, half and half. Seemed to impress them. Great idea. I'll definetely do this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-14T09:32:12.257Z",
+            "reviewBody": "This is really good - my kids enjoyed it quite a bit. It's also not hard to make at all. Though it's probably obvious, I would suggest sifting the powdered sugar onto the toast so you don't end up with lumps of powdered sugar. It is also a bit rich, so this has the possibility of making more than you need depending on the size of your family. (We each didn't eat more than one, even though they were quite good.) I'd definitely recommend this as an occasional special breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LadyoftheIvy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-08T11:50:50.260Z",
+            "reviewBody": "i served with fresh strawberrys it was well recieved",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "nicole",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-08T17:41:36.577Z",
+            "reviewBody": "This can be eaten for dessert.  Yummy!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ANGCHICK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-16T21:32:58.277Z",
+            "reviewBody": "used chocolate chips, turned out okay.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elizabeth",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-04T05:06:20.967Z",
+            "reviewBody": "really good, my kids loved it!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lysa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-24T09:25:44.230Z",
+            "reviewBody": "WOW!  I had some left over chocolate ganache from making cupcakes, and some challah bread that I needed to use up, so I made this for my husband for a weekend breakfast treat.  It was the best breakfast I've had in a long time!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Emily Lantz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-06T18:28:22.570Z",
+            "reviewBody": "This is a GREAT idea!  I will definitely use this as a base recipe again - substituting anything I can think of for the chocolate!  My only complaint is that I thought this recipe calls for too much egg.  Next time, I'll reduce to just two eggs instead of three.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BuffaloSnow",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2006-11-04T10:15:28.877Z",
+            "reviewBody": "Awesome!  This dish was really tasty!  I used Ghiradelli chocolate =)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LizzyC",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-08T06:43:14.007Z",
+            "reviewBody": "Made this today for my wife's first Mother's Day breakfast in bed!  She loved it.  It was really easy to make and delicious.  I used a Hersey's milk chocolate bar and it came out amazing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dana",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-11-09T07:14:40.977Z",
+            "reviewBody": "I made this for my little brother for breakfast, and he LOVED IT! highly recommended!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "supern0vaa",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-12T20:37:56.107Z",
+            "reviewBody": "it was kinda good...I love chocolate &amp; french toast but not sure if I'd make iy again...different tho, glad I tried it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GINGERLY88",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-13T14:36:27.127Z",
+            "reviewBody": "My daughter made this for me for a Mother's Day breakfast.  It was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie E",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-01T15:36:59.560Z",
+            "reviewBody": "These were OK. I would definitely call for less butter- they were very greasy over-filling. If I ever make these again, I'll certainly modify the recipe... Not what I expected :(",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chris",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

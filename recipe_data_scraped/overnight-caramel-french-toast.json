@@ -1,0 +1,1148 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/124053/overnight-caramel-french-toast/",
+    "name": "Overnight Caramel French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F521239.jpg",
+        "width": 0,
+        "height": 0
+    },
+    "datePublished": "2021-08-02T11:32:44.000Z",
+    "description": "Because this recipe can be prepared the night before, it's perfect to serve overnight guests. So it gives you extra time to visit over morning coffee.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H30M",
+    "totalTime": "P0DT0H45M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 cup packed brown sugar",
+        "\u00bd cup butter",
+        "2 tablespoons light corn syrup",
+        "12 slices bread",
+        "\u00bc cup sugar",
+        "1 teaspoon ground cinnamon, divided",
+        "6  large eggs eggs",
+        "1\u2009\u00bd cups milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a small saucepan, bring the brown sugar, butter and corn syrup to a boil over medium heat, stirring constantly. Remove from the heat. Pour into a greased 13-in. x 9-in. x 2-in. baking dish. Top with six slices of bread. Combine sugar and 1/2 teaspoon cinnamon; sprinkle half over the bread. Place remaining bread on top. Sprinkle with remaining cinnamon-sugar; set aside.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, beat the eggs, milk, vanilla and remaining cinnamon. Pour over bread. Cover and refrigerate for  8 hours or overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the refrigerator 30 minutes before baking. Bake, uncovered, at 350 degrees F for 30-35 minutes.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 72,
+        "itemReviewed": "Overnight Caramel French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "564.6 calories",
+        "carbohydrateContent": "78.5 g",
+        "cholesterolContent": "231.6 mg",
+        "fatContent": "23.2 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "12.3 g",
+        "saturatedFatContent": "12.4 g",
+        "servingSize": null,
+        "sodiumContent": "559.1 mg",
+        "sugarContent": "51.2 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-24T07:29:57.403Z",
+            "reviewBody": "Excellent! I made this with thin cut cinnamon bread (Pepperidge Farm), and I inverted it on a serving plate for presentation and distribtion of the carmel, my husband gave it rave reviews, too!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CookingMom64",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-23T15:27:59.973Z",
+            "reviewBody": "Make sure to compare this recipe to  \"Oven-Baked Caramel French Toast\" - it is a much better option &amp; less sugar. The directions are also much more clear.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer Plourde",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-01T14:18:45.503Z",
+            "reviewBody": "Great recipe -- I made this for breakfast Christmas morning, and it was delicious.  The cinnamon sugar adds just the right touch to the fluffy baked french toast and caramel syrup.  My son loved it, and I plan to make it as part of a brunch for a family reunion.\nBecause it is quite sweet, I paired it with fried slices of turkey ham for contrast.  Next time around, I would add a fresh fruit salad as well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hammie's Mom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-07-14T19:40:37.390Z",
+            "reviewBody": "I used Texas toast instead of regular bread and it was not soggy at all. It was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ImaMes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-24T08:34:06.097Z",
+            "reviewBody": "I really liked this recipe, but I added another layer of bread and two more eggs to make it thicker. I also add 1/4t of nutmeg with the cinnamon/sugar mix.\nYou do need to cook it longer but it taste great.  We serve this dish once a month for a breakfast at work and people love it.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DRCMILLER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-21T21:59:10.427Z",
+            "reviewBody": "I'm so happy that this dish was recommended over another one I was considering. This was an amazingly delicious addition to my daughter's birthday brunch. This is not healthy but any means but it is awesome! Everyone at the party said after the first bite, \"This is great! Where can I get the recipe?\" I think this will definately be a repeated breakfast dish in our house now. Will probably turn up in the oven this Christmas!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Misi",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-13T21:01:42.410",
+            "reviewBody": "This is very good, thank you.  I did modify a few things bc I really don't like soggy french toast at all.  And I'm not a big sweets person.  I used thickly sliced beer bread that I made.  Since beer bread is generally dry, I figured it would keep the bread from being too soggy.  I did the caramel bottom but topped the layers with cinammon only and omitted the sugar.  I halved the recipe itself but halved the egg mixture again.  I don't think halving the egg mixture was necessary, although if I make it again I will eliminate the top layer of bread, and in that case halve the egg mixture.  It turned out a bit dry on the top layer, actually, bc of my modifications, so I don't think there is too much egg.  I'm just not a fan of having two layers of bread.  It turned out somewhat sweet but not too sweet for me, and I like the caramel layer a lot.  Thanks!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pomplemousse",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-03T12:05:47.227Z",
+            "reviewBody": "Very tasty!  I like to serve this with the bottom flipped up on top, because the bottom with all of the caramel looks so yummy!  This heats up well in the microwave also.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MalElaine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-21T04:34:11.917Z",
+            "reviewBody": "I made this exactly as directed and it was DELICIOUS!!  I used Thomas' Breafast Bread - the slices aren't as thick as texas toast (which the three grocery stores I went to for it didn't have) but they're thicker and heartier than regular white bread.  I put this in the fridge at about 8pm and didn't put it in the oven until about 10:30am the next morning.  It didn't turn out soggy, nor was the top \"toasty\" or dry.  It came out perfect!!  Moist and good with a lovely, yummy natural syrup.  You should note that when you pour the egg mixture over the toast the night before baking, it may seem like there's no way the bread can possibly absorb it all without turning out one big soggy mess.  I was worried!  When I took the foil off the top of the pan before putting it in the oven in the morning, however, I saw that all the egg mixture had been perfectly absorbed and the bread slices looked great (at which point I then worried it would turn out too be too dry!).  I went ahead and baked as directed. It turned out perfect - very moist but not soggy, dry on top, or too \"eggy\".  For those concerned about getting it out of the pan easily, I recommend lining the pan with Reynolds non-stick aluminum foil.  I did that and the servings slid out easily.  I then inverted them on serving plates, so that the brown sugar syrup was on top.  Awesome recipe that I'll be making for our family on Christmas and New Year's Day mornings!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RoxaneJCK",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-10-12T15:07:18.567Z",
+            "reviewBody": "This was really good.  I do have to mention that I didn't follow the recipe exactly. I cubed 1.5 loaves of stale Italian bread.  I tossed the cubes with the cinnamon/sugar.  I doubled the amt. of milk and eggs. (No time for it to soak in, so I added extra). It sat 1.5 hours and I baked it longer than stated. The inner cubes were more like a bread pudding, while the outer pieces were nice and crunchy. No butter or syrup necessary! I greased the pan well and no sticky mess.\n\nNext time, I'll omit the extra sugar.  I might swirl in some cream cheese whipped up with some cinnamon. Maybe even toss in some chunked or sliced cinnamon apples. Or both!! Excellent recipe. Perfect for a no muss, no fuss breakfast!!!\n\n**11/16/11** Again, I didn't measure the bread, just used what I had in the pantry. I did cube the bread. I did not use the extra cinnamon/sugar. It was in the fridge at least 6 hours. The longer time in the fridge allowed the milk/egg mixture soak in, so I didn't need to add extra of either. The center was still a little gooey when the timer went off, so I stirred the whole thing, mixing the caramel throughout, then baked it for another 10 minutes. Stirring the caramel allowed ALL the cubes to get the caramel coating :-D   Absolutely something to make when you want a easy and delicious breakfast! I really do recommend using cubed bread, and stirring it during the last few minutes of cooking to distribute the caramel. No butter, syrup or extra sugar needed!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Takes2long",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-20T09:40:36.750Z",
+            "reviewBody": "This was my husbands birthday breakfast and HE LOVED IT!! It was very easy to prepare and delicious he has already requested I make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fennbaby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-05T21:32:06.793Z",
+            "reviewBody": "Okay - not that I shouldn't have known from the ingredients... but this weas like eating a CANDY BAR for breakfast.  I only had one piece and I seriously feel the need to drink a lot of water to try to counteract all the SUGAR first thing in the morning.  I used regular bread since that's what I had on hand and it was soggy... eeeeewwwww!  So after baking it for 45 minutes I then put it in a pan and fried it (no more butter, just sprayed the pan) and it gave it a nice crispy kind of texture.  It was just not the greatest thing for breakfast... for sure the sugar on top is overkill - if you wanted to make this I would suggested leaving out the sprinkled sugar and just doing cinnamon.  And then just eat VEGETABLES the rest of the day.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Adrienne Belaire",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-02T13:34:20.940Z",
+            "reviewBody": "I made this the first time on Christmas morning thinking it would be a huge hit since my kids love French Toast.  It was too rich and \"fancy\" for them...but my parents, husband and friends love it.  The second time I made it I added 2 overripe bananas mashed and  blended with the egg mixture....veryyy yummy!   Love being able to throw this together the night before.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dianna Hamilton Hicks",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-08-13T15:35:30.460Z",
+            "reviewBody": "This recipe is absolutely delicious! However, when they say \"overnight,\" they MEAN OVERNIGHT! Also, make sure it's eaten fairly shortly after you get it out of the oven, or it will harden up. Otherwise, I love it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "shelbyjunebug",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-09-25T07:47:49.647Z",
+            "reviewBody": "This was a hit at our house--took it to our ladies church breakfast and they loved it also! I liked the idea of making it the night before. Excellent!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Janice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-28T22:42:30.613Z",
+            "reviewBody": "Family loved this!!!  I had a hard time getting it done enough in the center though so we ate the edge pieces and then put it back in the oven to get the center ones done.  Hubby raved about this and I will say the flavor was absolutely wonderful.  I will make this again but probably bake it longer, or maybe cut back just a little on egg/milk mixture.  Thank you for offering this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dshowell",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-21T07:31:16.887Z",
+            "reviewBody": "Made exactly as written, and Mine ended up soggy, too.  Will modify &amp; try again, though..because the flavor was great...like other reviewers I did flip the casserole dish on a platter so that the caramel was on top!  Next time, will add pecans to the caramel layer, and may cube the bread.  Will keep same number of eggs, but decrease milk!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Adrian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-18T10:26:38.357Z",
+            "reviewBody": "This recipe was ok. It was fairly easy to make, and I got compliments, but I wasn't entirely impressed. The caramel stuck to the pan rather than coming off with the french toast, leaving my pans a mess and a less than caramelized toast. I would be willing to try it again, and maybe mix things up a little!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Charvavar",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-19T14:50:23.000Z",
+            "reviewBody": "this is my first negative review.  This french toast was too sugary. We tried it and didn't eat it all.  Way too much sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vermonter",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-19T10:46:20.667Z",
+            "reviewBody": "This was really good, however I think it bears repeating to invert this after it's baked and plate it immediately.  It hardens pretty quickly and sticks while it's warm, so don't let it sit.  It tasted really great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vicky Gunkel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-02-19T10:31:39.050Z",
+            "reviewBody": "My family liked it, but it was a little on the soggy side and a little too sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MariaCP",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-19T16:55:27.833Z",
+            "reviewBody": "really yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aliesha Lacy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-16T08:46:06.600Z",
+            "reviewBody": "This really did have good flavor, but was too soggy. Good flavor, horrible texture. I will try it again, probably using a thick, dry bread, and maybe cooking it a tad longer to make sure it isn't so runny.  With a few changes, it could be a 5 star rating as the flavor was great, texture was off.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rhonda Koehler Hoyer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-25T10:29:02.043Z",
+            "reviewBody": "This is a fabulous recipe!  As written, it is a 4 star.  Do NOT use regular sandwich bread!  You MUST use a crusty french bread loaf, it makes all the difference.  Also, the additional 1/4 cup of white sugar is not needed.  \n\nThis is so easy to prepare, and can be made the night before, which I love!  I've made it for Christmas Day breakfast, and Easter Brunch!  Leftovers the next day are fabulous, too.  If you're cooking this for more than 4 people, double the recipe, you won't be sorry!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "busycook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-04T07:49:46.260Z",
+            "reviewBody": "Easy &amp; Yummy to make! I have made it and put it right into the oven and it still tastes great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ruth Ames Vanderstelt",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-12T10:03:26.187Z",
+            "reviewBody": "I used this recipe substituting croissants for the bread. I made it in the morning letting it sit for about 15 minutes before baking. Delicious",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Domestic Moongoddess",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-25T12:19:15.127Z",
+            "reviewBody": "FANTASTIC!!!!!! Took it to Ky for a family get together and every loved it. Had to give the recipe out to every one. I did add the extra eggs and did not have any soggy bread. THANK YOU!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cactusflower",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-27T14:41:54.400Z",
+            "reviewBody": "Excellent, invert on baking sheet after baking for best results.  Do not let sit, as it will harden up",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susanne",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-31T17:22:51.580Z",
+            "reviewBody": "Excellent &amp; easy!  I used a cinnamon swirl bread and 1/2 &amp; 1/2 instead of milk.  No syrup was needed; wasn't too sweet, but just right.  Love this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sherry",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-01T12:19:57.390Z",
+            "reviewBody": "We wanted caramel apple french toast, so I used this recipe and added a can of apple pie filling on top of the caramel sauce.  The caramel flavor was masked a bit by the apples.  It was enjoyed thoroughly by adults and slightly less by the children (ages 6 &amp; 9).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mom in Wisconsin",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-29T19:19:26.163Z",
+            "reviewBody": "Very sweet, but good.  The kids loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tilley190",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-12-08T19:35:06.683Z",
+            "reviewBody": "I made this for overnight guests and it was a hit.  I will definitely make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "iagalinaz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-25T23:00:39.537Z",
+            "reviewBody": "It tasted better with half a stick of butter. it was way too sweet for my taste. it tasted better cold as a leftover the next day I noticed though",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Garrison Bennet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-13T06:37:46.557Z",
+            "reviewBody": "Perfect...in so many ways!  It can be prepped way ahead of time (early in the morning for dinner or late at night for the next day's breakfast).  Super easy to make, ingredients I always have on hand and even the KIDS can prepare this dish!  IF IF IF you have leftovers, they are just as good (if not a bit better and gooier on the bottom) re-heated from the fridge!  OMG.....you absolutely MUST try this!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "banslug",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-11-02T06:29:27.230Z",
+            "reviewBody": "I thought this was an easy, great recipe!  I would use a thicker bread next time, but it was still delicious.  I topped mine with butter crunch cashews for a little crunch!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gina",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-08T17:09:16.880Z",
+            "reviewBody": "Delish!  Made just as written for Easter brunch.  Added some chopped up apples..yum.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "KJohn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-30T10:13:44.340Z",
+            "reviewBody": "This was so easy to prepare the night before and just popped it in the oven the next morning.  No muss, no fuss.  I did line my pan with aluminum foil and also sprayed it with Pam so the french toast didn't stick.  I did not try this recipe only because my husband and four kids ate it all!!  My step-son told me, \"I'm not a big fan of french toast, but I could eat this stuff all day, everyday!\"  Thanks for the easy and wonderful recipe!  Will definitely make again &amp; hopefully get to try a bite!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ajnos",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-05-12T08:52:14.517Z",
+            "reviewBody": "My daughter made it for me for mother's day and it was really soggy. She used Texas toast instead of normal bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kara Wescott",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-05T18:24:34.323Z",
+            "reviewBody": "Awesome!  We make this often!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pete and Lee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-19T10:45:29.537Z",
+            "reviewBody": "I made this Christmas morning for my family and they loved it!! This was so easy to prepare and very good. Now they want it all the time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Teresa Bostonian",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-01T23:44:36.223Z",
+            "reviewBody": "This was great though like other reviewers, yes it is a little on the soggy and sweet side. Still delicious and a great companion to coffee!Many thanks, E.C",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Emmanator101",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-10T10:28:42.470Z",
+            "reviewBody": "Love, love, love this recipe.  It tastes so decadant and delicious.  I followed the recipe to a tee.  Super easy to prepare also.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mwood",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-09-07T11:15:57.793Z",
+            "reviewBody": "This was ok. We really liked the flavor, but the bread was so soggy! Next time I will try some of the recomendations from the other reviewers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BarbieLou",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-31T19:14:19.990Z",
+            "reviewBody": "I make it with homemade whole wheat cinnamon raisin walnut bread. It is soooo good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "linda",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-25T08:35:21.950",
+            "reviewBody": "This was delicious.  I think the next time though, I will double the carmel syrup that goes in the bottom of the pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mrs Root",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-11T11:52:10.930Z",
+            "reviewBody": "too soggy for my taste",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Meganco",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-06-06T05:25:14.393Z",
+            "reviewBody": "I'm not sure if I used the wrong bread or what but mine came out super soggy and RIDICULOUSLY too sweet!!!! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "aly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-09T13:05:26.670Z",
+            "reviewBody": "Served this to a bunch of teenagers this morning.  NOTHING left!  Easy and delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Beverly Eckiss Bannister",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-12T10:35:52.200Z",
+            "reviewBody": "I have made this recipe on numerous occassions. With a group of friends, for my 40 patients and just for the family. The recipe is now in many of their homes.they simply loved it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzanne Blanchette",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-12T11:05:51.853Z",
+            "reviewBody": "Made it just like the recipe said.  Fabulous!  Very sweet, so no need for syrup.  I already have folks asking for the recipe.  Definitely a \"keeper.\"",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bgwinn3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-04-04T10:47:46.687Z",
+            "reviewBody": "This is very yummy and very easy.  I love making it the night before because everyone can eat it at the same time.  Its very sweet, and fyi, you can reheat it in the microwave for about 60 seconds if you have leftovers--its delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chenelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-26T10:27:33.943Z",
+            "reviewBody": "I'm not sure what went wrong here...but this was a terrible mess!  I made it Christmas Eve for Christmas day breakfast and let's just say it was not a merry morning!  I used sourdough bread based on others' reviews, but the bread was soggy and the syrup didn't have the right flavor.  ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "txteach26",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-10-17T19:23:34.573Z",
+            "reviewBody": "Perfect for any get together. I bring it with me, when we stay at my in-laws. Make it before we leave and bake it in the morning... Perfect!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sonia Eiber",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-09T12:50:40.837Z",
+            "reviewBody": "I have made this recipe a lot. The only thing i do different is sprinkle chopped pecans on top of the layer of caramel.  The type of bread is a personal preference. I use a 12 grain bread, but this works with what you prefer. This recipe is delicious. Everyone that has this always ask for the recipe. Thanks for sharing",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Schu4MU",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-06-16T13:46:12.293Z",
+            "reviewBody": "My suggestion for improvement is to use Texas Toast bread or homemade bread. Normal store bought or French bread gets soggy or \"over-egged.\"  I frequently have large breakfast events with a variety of people from kids, teens, college kids to adult groups. This has become \"legendary\" in my kitchen. If people know I'm making it, they will bring extra friends and the friends always come in saying how excited they are because they've heard how delicious it is! It's also one of my favorite recipes because the kitchen stays clean and available for preparation of other things the morning of the event.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nika",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-02-03T07:59:31.033Z",
+            "reviewBody": "The taste was perfect, and didn't change a thing (except using skim milk)!  A tad soggy, so will definitely go with the Texas Toast next time -- and there WILL be a next time.  Thanks for a great recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AJWDLW1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-12-27T17:30:40.367Z",
+            "reviewBody": "I made two batches for Christmas brunch last year and every bit of it was gone!! The entire family loved it! The only change i made was i used Texas Toast instead of regular sandwich bread because i tend to like my french toast thick and it turned out perfect!!!! ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "amy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-12-24T19:10:12.157Z",
+            "reviewBody": "I make this several times a year, for holidays &amp; special occasions. Everyone loves it! The only thing I do slightly different is to mix all of the cinnamon with the white sugar, as it never blends well with the egg mixture. Much easier!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MrsT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-05-12T05:10:18.967Z",
+            "reviewBody": "Great recipe the whole family loved it",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "alsbabe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-28T11:00:36.907Z",
+            "reviewBody": "This was my first attempt at any kind of overnight brunch dish &amp; it was fantastic.  So easy!  I used Texas Toast and it wasn't soggy.  Best when served while still hot.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Celine",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-25T14:55:02.050Z",
+            "reviewBody": "This recipe was delicious!!! I used Texas toast and it was a little soggy on the bottom, but still tasted great!  I would definitely make this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-05T13:57:38.177Z",
+            "reviewBody": "My family really enjoyed this. (In fact dh took leftovers to work for supper.) It was a little \"toasty\" on top and soggy on the bottom after baking. I inverted it to serve so the \"carmel\" was on top and dripped down to the toasty layer. Between that and cutting it up to eat, it wasn't too mushy. It's very easy to make and the ingredients are things I had on hand. I'll definitely make it again! (may add fruit next time too!)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ONETHRIFTYMOM",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-02-02T04:47:33.293Z",
+            "reviewBody": "We tried this and it came out mushy and soggy.  It had a bad taste to it as well.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rouschraecfan6",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

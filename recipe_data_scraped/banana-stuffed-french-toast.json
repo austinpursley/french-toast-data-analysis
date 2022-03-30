@@ -1,0 +1,556 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/37340/banana-stuffed-french-toast/",
+    "name": "Banana Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2400238.jpg",
+        "width": 1145,
+        "height": 1145
+    },
+    "datePublished": "2020-06-19T03:07:42.000Z",
+    "description": "Kids and adults alike love this, and it is easy to do, but something different. Serve with warmed maple syrup.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H15M",
+    "totalTime": "P0DT0H30M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+        "1 (1 pound) loaf French bread, cut into 1 inch slices",
+        "2 bananas, peeled and sliced",
+        "3 eggs, beaten",
+        "1 teaspoon water",
+        "1 tablespoon milk",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon orange liqueur ",
+        "1 teaspoon grated orange zest",
+        "\u00bc cup butter",
+        "confectioners' sugar for dusting"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Create a pocket about 2/3 of the way into each slice of bread by cutting along an edge. Fill pockets with 2 or 3 banana slices each.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, beat together eggs, water, milk, vanilla extract, orange liqueur and orange zest. Dip the bread slices in the mixture, allowing slices to become saturated.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a medium skillet over medium heat. Place a few slices at a time in the skillet, and cook, turning once, until both sides are golden brown. Dust with confectioners' sugar to serve.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Sherbg",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 38,
+        "itemReviewed": "Banana Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "366.3 calories",
+        "carbohydrateContent": "52.6 g",
+        "cholesterolContent": "113.5 mg",
+        "fatContent": "11.7 g",
+        "fiberContent": "2.8 g",
+        "proteinContent": "12.5 g",
+        "saturatedFatContent": "6.1 g",
+        "servingSize": null,
+        "sodiumContent": "576.5 mg",
+        "sugarContent": "8.1 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2005-06-07T09:38:07.390Z",
+            "reviewBody": "I didn't have any French bread so I just put the bananas between two pieces of regular bread. It worked fairly well but the French bread would work better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "COYOOOOOTE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-03-14T21:34:10.077Z",
+            "reviewBody": "These are sooo goooood. I did not follow the recipe exactly because I did not have all the ingredient on hand.  I skipped the zest and liquor.  I use evaporated milk and egg, dash of vanilla and cinnamon, lightly soak the banana stuffed french bread in the mixture (more like dip two side and let them sit for a few mins, coz I dont like soggy mushy french toast) ,cook them on butter, and sprinkle them with powder sugar. VERY YUMMY even with my not so professional version. Just imagine with EVERYTHING the ingredient call for!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "COOLGUTS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-04-27T11:41:47.090Z",
+            "reviewBody": "This recipe was great! I left out the orange zest and liquor and put cinnamon powder in there instead. It was wonderful!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2002-09-14T17:02:23.403Z",
+            "reviewBody": "My family loved this recipe!  I used almond liqueur instead of the orange (it was what I had)and left out the orange zest.  It was beautiful and got cheers all around!  Thanks :-)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2004-11-28T09:20:11.577Z",
+            "reviewBody": "My family requests this breakfast dish every Christmas.  Easy to make, smells so delicious cooking, and it is so rich and filling!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2005-01-20T10:53:46.107Z",
+            "reviewBody": "This was a great french toast recipe even without the bananas.  I made a few slices with the bananas and a few without and they both were excellent.  The banana filled slices were good but but I actually preferred the ones I made plain.  I just added a little nutmeg and cinnamon and excluded the orange liqueur and zest and it came out fantastic.  I will definitely make this recipe again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2003-01-15T19:49:12.403Z",
+            "reviewBody": "I've made this twice- once without zest and once with texas toast bread- both times it was fantastic!  My husband, son and I all love it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-08-18T17:57:11.257Z",
+            "reviewBody": "This recipe caught my eye as I was trying to come up with crowd pleasing recipes to make during our vacation. I didn't have the liqueur and subbed the orange with lemon zest. Along with the banana, I also stuffed the bread with cream cheese and added cinnamon to the egg mixture. Lots of smiling faces that morning Sher! Thanks so much!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-13T03:02:07.237Z",
+            "reviewBody": "Absolutely delicious!! We left out the liqueur, made the pieces of french bread about 1.5\" thick and stuffed extra bananas inside. We also left off the icing sugar and just served it with warmed maple syrup. We will definitely make this again and again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Smittenk",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-17T13:13:59.800Z",
+            "reviewBody": "This was very tasty.  Also easy to put together.  Made the perfect Father's Day Brunch.  Served with Praline Maple Syrup.  I will make it again.  Thanks for the post!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "njmom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-03T09:47:44.847Z",
+            "reviewBody": "I didn't care for this recipe. I will never make it again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JakeL",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-26T06:14:05.920Z",
+            "reviewBody": "We made this for Christmas brunch and was a HUGE HIT!!  We added cinnamon to the mixture and added cream cheese inside the pockets with bananas.  Served it with maple syrup.  DELISH!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-21T08:21:14.263Z",
+            "reviewBody": "I used Hawaiian Bread and substituted orange juice for the liqueur.  Added some cinnamon.  Didn't need to melt butter in pan on my teflon grill.  Great flavor and have made many times to good reviews.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Woodinvillechef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-20T16:22:36.31",
+            "reviewBody": "Had only \"regular\" bread and noted other reviews that said it was difficult to keep the sliced bananas between the pieces of bread while cooking.  So I soaked one piece of bread, placed it on a griddle, spread it with mashed banana, then soaked the other piece of bread and placed on top to cook.  Problem solved and the results were delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gapch1026",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-08-22T06:54:42.280Z",
+            "reviewBody": "wow. this was delish. left out the orange liquor and orange zest. Added a dash of chai spice, splash of almond extract and to the finished product cinnamon honey butter (3tbsp butter,   2 tbsp confectioner's sugar and 1 tbsp honey with a  dash of     cinnamon) will definitely be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NurseApril",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-04-03T09:46:21.630Z",
+            "reviewBody": "FABULOUS! I used orange juice concentrate in place of the orange liqueur, and it is just great! The sliced bananas give a wonderful depth and texture to this recipe. This will be a regular wih us. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robyn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-01-18T09:19:40.133Z",
+            "reviewBody": "I used an Italian bread loaf, and a few made with regular pieces of bread, and the Italian bread worked out so much better. I took up another reviewer's suggestion and added cream cheese in the middle. Perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kate T",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-06T09:08:49.520Z",
+            "reviewBody": "simple, easy and good.  However, neither my husband or I could taste the orange liqueur.  I added peanut butter to mine and served it with fruit syrup.  YUMMY",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clemintine100",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-17T09:50:56.640Z",
+            "reviewBody": "Wow!  This is a great recipe.  I actually ate it for dinner, very filling!  The butter on the pan was a very important ingredient; made the french toast cook up perfectly.  We will definitely have this again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "nonancolorado",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-06-03T09:22:41.007Z",
+            "reviewBody": "I used orange juice in replace of the orange liqueur, and skipped the orange zest as I had no oranges. I only had normal bread and I found trying to keep the bananas and two slices of bread together while cooking was difficult, and it fell apart my first try. Instead, I sprayed another pan on which I put the sliced bananas over low/medium heat, flipping them over after a bit. I did the toast separately. I put the bananas over the French toast, sprinkled some powdered sugar on top and it was very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leslie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-27T05:42:44.053Z",
+            "reviewBody": "I used normal white sliced bread as I did not have french bread. To stop the whole thing from falling apart, I used a sandwich griller. I just followed the procedure given and dipped the sandwich in the egg mix and then put the whole thing in a buttered/oiled sandwich griller. Great for my toddler's afternoon snack!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rhinusmita",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-06-28T12:59:58.617Z",
+            "reviewBody": "This recipe tasted good, but for all of the hassle, it would be easier to just slice bananas and place them on top.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Loves To Cook in AZ",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-01-12T14:43:47.913Z",
+            "reviewBody": "I LOVE this recipe!!!  I have used this recipe for almost 2 years now, and everyone that I serve it too, are just amazed as well.  I don't use the orange zest or the  liqueur but it still tastes delicious.  Thank you!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "anita",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-07T11:40:36.147Z",
+            "reviewBody": "A hit with our guests this morning!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hipchickrecords",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-05-22T09:14:07.797Z",
+            "reviewBody": "I didn't have all the ingredients so I skipped the liquor and orange zest, and used vanilla soy milk. \nUsed another person's idea to dip each side and let sit for a while so bread wouldn't get soggy. \nAlso I covered the pan to assure the middle of the french toast cooked well and it left the french toast nice and moist. :) \nGreat recipe!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rosalorenia",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-07-22T22:32:50.800Z",
+            "reviewBody": "I left out the orange liqueur and zest, I didn't have any on hand. Very rich, but delicious. I made a banana and caramel syrup to go with the French toast; which made it almost too rich but very delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-11-30T11:37:57.467Z",
+            "reviewBody": "Follwed the exact recipe.  This is just too bitter (probably due to the amount of orange liquer).  I will not be making this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mad Cook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-16T21:45:10.783Z",
+            "reviewBody": "I took this to a potluck and it was a huge hit.  I substituted orange marmalade for the orange liqueur.  I forgot the confectioners sugar, even though I intended to use some, but it was sweet enough without it. I ran out of batter, so I had to make more. If I make it again, I will add a little cinnamon and the confectioners sugar. If I make it for a potluck, I may use a thinner French baguette. I used a regular French bread loaf and the servings were really big.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "OneSpunCookie",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

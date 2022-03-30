@@ -1,0 +1,213 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/245487/gingerbread-french-toast/",
+    "name": "Gingerbread French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3155518.jpg",
+        "width": 2029,
+        "height": 2029
+    },
+    "datePublished": "2020-06-19T04:04:00.000Z",
+    "description": "An easy-to-make gingerbread-flavored French toast that gives you that warm, fuzzy holiday feeling. Serve with butter and syrup or brown sugar.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H6M",
+    "totalTime": "P0DT0H16M",
+    "recipeYield": "4 slices",
+    "recipeIngredient": [
+        "\u00bd cup milk",
+        "2 eggs",
+        "1 tablespoon white sugar",
+        "2 teaspoons rum extract",
+        "1 teaspoon salt",
+        "\u00bc teaspoon ground cinnamon",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc teaspoon ground cloves",
+        "\u215b teaspoon ground ginger",
+        "4 slices white bread",
+        "1 tablespoon butter, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk milk, eggs, sugar, rum extract, salt, cinnamon, nutmeg, cloves, and ginger together in a bowl. Dip each bread slice into the egg mixture, turning to coat both sides.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a non-stick skillet over medium heat. Add bread slices in a single layer and cook until golden brown, about 3 minutes per side.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "jessica",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/2855812"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 12,
+        "itemReviewed": "Gingerbread French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "162 calories",
+        "carbohydrateContent": "17.8 g",
+        "cholesterolContent": "103.1 mg",
+        "fatContent": "6.9 g",
+        "fiberContent": "0.8 g",
+        "proteinContent": "6.1 g",
+        "saturatedFatContent": "3.2 g",
+        "servingSize": null,
+        "sodiumContent": "820 mg",
+        "sugarContent": "5.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2016-11-19T03:38:54.193Z",
+            "reviewBody": "Easy and my family loved them. Didn't change anything to the recipe except just added a dash of salt instead of the amount it called for.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-08-04T17:00:39.693Z",
+            "reviewBody": "so yummy, I love this in the fall or on cold winter mornings,",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jared Gontz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-01-06T00:00:13.250Z",
+            "reviewBody": "Really good French Toast. I made some slight changes. I used 1 teaspoon vanilla extract and 1 teaspoon Rum Extract, only a dash of salt, brown sugar instead of white and also used wheat bread. Will make again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "evelynjane",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-25T19:33:45.040Z",
+            "reviewBody": "Made it for Christmas morning. My boyfriend and I both thought it was \u201cinteresting\u201d, it wasn\u2019t bad, but probably won\u2019t try this again. I think the rum extract was a little too much. Maybe cut it down to one teaspoon? I made it with wheat bread and it was fine",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "violetcraze",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-05-30T16:42:53.530Z",
+            "reviewBody": "Great recipe! Fun to make, smells and tastes incredible, and my family loved it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Evan Shaw-Mumford",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-03T11:58:25.96",
+            "reviewBody": "I loved this perfectly spiced french toast! My 19 month old liked it too.  I even  used ww bread and reduced the salt to 1/4 tsp (1tsp would have ruined it) and brown sugar instead of white. Thanks for sharing your recipe",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elvira Silva",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-12-24T22:18:50.663Z",
+            "reviewBody": "If it was only me sting this it would get 5 stars. My husband said it was a bit sweet and my son said it is not the regular. What do they know... I added whip cream to top it off and I loved every bite.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aleigha Hans",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-21T01:56:42.53",
+            "reviewBody": "Wow! This was very nice. Great for those winter mornings. Thank you for the recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Buckwheat Queen",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

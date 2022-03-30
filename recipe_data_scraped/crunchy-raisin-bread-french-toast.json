@@ -1,0 +1,81 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/126030/crunchy-raisin-bread-french-toast/",
+    "name": "Crunchy Raisin Bread French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F986988.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-04T00:42:17.000Z",
+    "description": "Cholesterol-free French toast? Here it is -- enjoy! A cereal coating adds a delightful crunch as well as whole-grain goodness, plus you'll jump-start your day with iron and vitamin B12 for healthy blood and nerve cells, and lots of fiber to fill you up.",
+    "prepTime": "P0DT0H5M",
+    "cookTime": "P0DT0H5M",
+    "totalTime": "P0DT0H10M",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+        "\u00be cup egg substitute",
+        "\u2153 cup skim milk",
+        "1 teaspoon vanilla",
+        "2 tablespoons powdered sugar",
+        "\u215b teaspoon ground nutmeg",
+        "2 cups whole grain wheat and barley cereal or coarsely crushed bran flakes ",
+        "8 slices Sun-Maid\u00ae Raisin Bread",
+        "1 tablespoon Powdered sugar for topping"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix egg substitute, milk, vanilla, powdered sugar and nutmeg in pie plate.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place cereal in another pie plate.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray 12-inch nonstick skillet generously with cooking spray. Heat over medium heat. Dip both sides of 4 slices of the bread in egg mixture, then in cereal.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook 2 to 3 minutes or until golden brown, turning once. Repeat with remaining bread, egg mixture and cereal, spraying skillet each time.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve topped with powdered sugar, if desired.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "Crunchy Raisin Bread French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "328.5 calories",
+        "carbohydrateContent": "55.6 g",
+        "cholesterolContent": "10.9 mg",
+        "fatContent": "5.1 g",
+        "fiberContent": "3.5 g",
+        "proteinContent": "13.8 g",
+        "saturatedFatContent": "1.4 g",
+        "servingSize": null,
+        "sodiumContent": "457 mg",
+        "sugarContent": "25.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

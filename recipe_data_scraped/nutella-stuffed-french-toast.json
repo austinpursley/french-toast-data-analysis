@@ -1,0 +1,719 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/239753/nutella-stuffed-french-toast/",
+    "name": "Nutella&reg;-Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1929966.jpg",
+        "width": 2346,
+        "height": 2346
+    },
+    "datePublished": "2017-05-24T01:55:46.000Z",
+    "description": "My daughter loves when I make this stuffed French toast. You could add some sliced fruit to the sandwich if you'd like; try bananas or strawberries. Dust with powered sugar and serve with pancake syrup.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H5M",
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "2 servings",
+    "recipeIngredient": [
+        "2 tablespoons chocolate-hazelnut spread (such as Nutella\u00ae), or more to taste",
+        "4 slices cinnamon bread (such as Pepperidge Farm\u00ae)",
+        "\u00bc cup milk",
+        "1 large egg, beaten",
+        "\u00bc teaspoon vanilla extract",
+        "cooking spray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Spread 1 tablespoon chocolate-hazelnut spread onto one side of each of 2 slices cinnamon bread; top each with another bread slice to make 2 sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat milk, egg, and vanilla extract together in a shallow bowl until smooth. Soak each sandwich in the milk mixture until the bread is moistened, about 15 seconds per side.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Prepare a nonstick pan with cooking spray and heat over medium-high heat.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook sandwiches in the hot pan until browned on the bottom, about 2 minutes. Flip sandwiches and continue cooking until other side is browned, about 1 minute more.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Anne Tomlinson",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/10109106"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 45,
+        "itemReviewed": "Nutella&reg;-Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "296 calories",
+        "carbohydrateContent": "39.6 g",
+        "cholesterolContent": "95.4 mg",
+        "fatContent": "12.8 g",
+        "fiberContent": "4.1 g",
+        "proteinContent": "11.2 g",
+        "saturatedFatContent": "2.7 g",
+        "servingSize": null,
+        "sodiumContent": "295.8 mg",
+        "sugarContent": "18.3 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-04T23:27:38.73",
+            "reviewBody": "It's like dessert, for breakfast! I love Nutella, and have a major sweet tooth, so this one was right up my alley! No need for syrup. Goes great with bananas and strawberries as well. Yummo!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kim's Cooking Now",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-01-10T06:54:38.277",
+            "reviewBody": "Perfectly rich, gooey, &amp; decadent!  I served with just a little powdered sugar and some clementines and it was a nice treat for brunch.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Happyschmoopies",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-10-16T15:21:08.060Z",
+            "reviewBody": "Awesome. Kid (and myself too) loved it very much. I stuffed in some banana pieces and sealed the edges by pressing with a fork. Then soaked in egg mixture and cooked per directions.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Renu",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-07-22T13:06:19.820Z",
+            "reviewBody": "so good!!! my boyfriend and i put nutella on both slices of bread so it was 2x the nutella and it was perfect!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jayda Smith",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-19T00:53:00.003Z",
+            "reviewBody": "I make french toast often.  After reading through this recipe &amp; watching the video I decided to offer it to my fussy eater.   It was simple and fast to make.  The taste was appealing to all senses!  My fussy eater had a second piece!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kitchen Gal",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-11T18:19:36.733",
+            "reviewBody": "This was good. I dusted with powdered sugar, and I didn't need to add any syrup. I used the cinnamon bread as suggested by the submitter. I think I would just use regular wheat bread next time and add just a little more Nutella in the sandwich. Thanks for the yummy idea for breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tammy Lynn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-01-11T11:15:22.457Z",
+            "reviewBody": "This recipe turned out great! I added raspberry jam to the toast, but I would highly recommend any type of fresh fruit such as strawberries or bananas. Adding some freshly grated orange zest would add a nice flavor as well!?",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rhl429",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-07-21T15:10:25.767",
+            "reviewBody": "this was great. i didn't have cinnamon bread so i put cinnamon in the batter and it was quite tasty. My 5yo wants this every morning now!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FearlessKnitter",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-12-01T18:45:55.813",
+            "reviewBody": "So amazing! I made mine with wheat bread and added cinnamon since it was a icy snowy day we didn\u2019t want to risk going out. We also added coconut homemade cool whip, strawberries, bananas, &amp; coconut flakes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yazz",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-04-29T15:02:45.897Z",
+            "reviewBody": "Sooo goooodd!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maggie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-12-16T04:36:29.320Z",
+            "reviewBody": "yummy! followed the recipe exactly and loveddd the outcome!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Thegalwithfreckles",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-02-09T14:26:11.667",
+            "reviewBody": "the kids loved it! so easy and quick to make!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Theresa Puckett",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-14T13:04:40.823",
+            "reviewBody": "mouth-watering :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rootbeer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-07-31T12:07:26.960Z",
+            "reviewBody": "This is such a good recipe,  with this one your kids could even help prepare.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mickey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-12-27T09:46:30.960Z",
+            "reviewBody": "I made it and it turns out too good and yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Arooshamkashif",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-06-23T19:38:27.910Z",
+            "reviewBody": "I really like Nutella. When making it, i added TOO much Nutella. It was too chocolaty for me. Other then that, everything came out good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Keoni Park",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-11-02T23:33:14.760Z",
+            "reviewBody": "Super easy!  Super yummy!  Really quick to make and was a huge hit with my family.  Didn't change a thing.  Added a side of fruit and a side of bacon, breakfast is done.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nick Morrison",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-09-30T22:32:36.280Z",
+            "reviewBody": "My boyfriend said he would pass. I didn\u2019t taste it though",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fancy B",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-10-06T15:03:49.160Z",
+            "reviewBody": "I regularly make this at the USO where I volunteer and put banana in.   The young marines love it.   One day we did not have sweet bread or eggs  in so I did it like a grilled cheese sandwich with regular white bread.   That went down great too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SueandBill Morris",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-10T23:23:14.087Z",
+            "reviewBody": "this meal turned out to be a big hit. I added sour cream at time of serving to kick it up a notch. I have two boys and a hubby who are rather picky, and I had no leftovers-which says a lot!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lisa1284",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-08-10T03:11:34.327Z",
+            "reviewBody": "A auick and tasty treat",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jason Melo Hall",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-13T17:42:45.290Z",
+            "reviewBody": "Toddler twins and husband loved it and it offered a unique spin on regular French toast! I use real butter instead of spray and it\u2019s even more decadent.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "daulface",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-03-13T16:21:26.193Z",
+            "reviewBody": "Made as is.  Kids love it for breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "seralet",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-01-21T16:45:45.613Z",
+            "reviewBody": "It looks beautiful",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennie Ballard",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-08-16T16:45:44.870Z",
+            "reviewBody": "This recipe is good. My family liked it. It was a little too sweet for me. I will make it again, but next time I think I\u2019ll use less Nutella and regular bread (instead of cinnamon bread).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Schutt15",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-27T04:36:23.327Z",
+            "reviewBody": "This is the best thing ever! I made it just how it is and its amazing, I did add some more Nutella on top at the end but only because i'm a Nutella  crazy person!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mady",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-03-27T12:21:09.977Z",
+            "reviewBody": "Granddaughter loved it!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mary",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-07-18T21:42:47.750Z",
+            "reviewBody": "My whole family loved this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny Armstrong",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-05-24T01:35:42.413Z",
+            "reviewBody": "Pretty good. You could probably just make regular french toast and put the nutella on it after and it would still taste the same.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "duckiegirl21",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-03-23T21:26:14.943Z",
+            "reviewBody": "Decided to find out what the fuss was with Nutella.  I think I will pass on this, but then again, I'm not big into overly sweet things, so I should have left it alone.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tukaussey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-01-12T15:23:23.927",
+            "reviewBody": "This was easy and delicious. My daughter definitely will ask for it again. I added crushed walnuts and banana slices in mine, but she preferred hers with just the powdered sugar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Debbie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-19T02:10:22.410Z",
+            "reviewBody": "My kids loved it. So easy and delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bkim",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-07-13T16:48:32.477Z",
+            "reviewBody": "Didn't have cinnamon bread so I added 1/4 teaspoon of cinnamon powder to the mix. Really love the results.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ester",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-05-31T13:34:37.680Z",
+            "reviewBody": "I put blueberries and black berries in side and then sprinkled powdered suger. and it was a big hit!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lilliana",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-06-21T00:52:29.830Z",
+            "reviewBody": "My teens enjoyed this very much!  As we had plenty of fresh blueberries on hand, we put blueberries inside with the Nutella, then sprinkled extra blueberries and a little powdered sugar on top.  Definitely a treat for the sweet tooth!  (We also tried a variation with fruited cream cheese, instead of Nutella, for those without such a sweet tooth.  This was excellent, and could be done with any combination of cream cheese &amp; fruit.)\n**The reason this recipe lost a star is that it recommends cooking on medium-high heat, which burns the outside quickly without heating the inside.  Just like grilled cheese, this thick French toast works best 'low &amp; slow'.....  a medium-low temp allowed the bread to reach a beautiful golden-brown color slowly enough that the insides were heated through, as well.**",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "heinzymom",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2020-09-22T13:14:07.03",
+            "reviewBody": "The children loved it. They love Nutella sandwiches already so putting a little twist on it like French toast made it even better. I didn\u2019t put syrup. It\u2019s sweet enough with Nutella.  Yummy",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brandy Coulibaly",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ],
+    "video": {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "name": "Nutella\u00ae-Stuffed French Toast",
+        "description": "Chocolate-stuffed French toast always wins brunch!",
+        "uploadDate": "2017-05-17T16:32:51.328Z",
+        "duration": "PT37.037S",
+        "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1929966.jpg",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+            },
+            "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+            ]
+        },
+        "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5437986345001"
+    }
+}

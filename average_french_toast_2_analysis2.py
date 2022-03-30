@@ -1,7 +1,7 @@
 # author: Austin Pursley
 # date: 2022-03-04
 # french toast recipe analysis
-# plots
+# pie plots
 
 import pandas as pd
 import numpy as np
@@ -10,20 +10,6 @@ import matplotlib.colors as mcolors
 import pprint
 
 ft_recipes = pd.read_csv("french_toast_recipes_cleaned_final.csv", index_col=False, na_filter = False) 
-
-
-bread = ft_recipes.loc[ft_recipes["category"] == "bread"]
-bread_cnt = bread["ingr"].value_counts()
-bread_prc = bread["ingr"].value_counts(normalize=True)*100
-
-
-eggs = ft_recipes.loc[ft_recipes["category"] == "eggs"]
-eggs_cnt = eggs["ingr"].value_counts()
-eggs_prc = eggs["ingr"].value_counts(normalize=True)*100
-
-milkcream = ft_recipes.loc[ft_recipes["category"] == "milkcream"]
-milkcream_cnt = milkcream["ingr"].value_counts()
-milkcream_prc = milkcream["ingr"].value_counts(normalize=True)*100
 
 ###############################################################################
 ###############################################################################
@@ -37,98 +23,110 @@ mid = (fig.subplotpars.right + fig.subplotpars.left)/2 + 0.03
 fig.suptitle("French Toast Recipes, Essential Ingredient Types", fontsize=32, x=mid)
 #############################################
 # Pie Chart Bread
-############################################# 
+#############################################
 pie_ax = axs[0]
-bread_pchart = bread_prc[0:11].reset_index()
-bread_pchart["legend"] = ""
-bread_other = bread_prc[11:24].reset_index()
-bread_other["legend"] = bread_other["index"].copy()
-bread_other["index"]  = ""
-bread_pchart = bread_pchart.append(bread_other)
-bread_pchart = bread_pchart.rename(columns = {'index':'labels'})
-bread_pchart = bread_pchart.set_index("labels")
-# combing cmaps
-c1 = plt.cm.get_cmap('tab20b', len(bread_pchart["legend"]))
-c2 = plt.cm.get_cmap('Reds', len(bread_pchart["legend"]))
-newcolors = c1(np.arange(1,12,1, dtype=int)) #note how use arange for discrete cmaps...
-newcolors2 = c2(np.linspace(0.2, 0.8, 13)) #.. and linspace for continuous ones
-newcolors = np.concatenate((newcolors, newcolors2))
-grays = mcolors.ListedColormap(newcolors2)
+bread = ft_recipes.loc[ft_recipes["category"] == "bread"]
+bread = bread.sort_values(by=['ingr'])
+bread_vc = bread[["title", "category"]].value_counts()
+bread_grp = bread.groupby(['title','category'])['ingr'].apply(' and '.join).reset_index()
+bread_cnt = bread_grp["ingr"].value_counts().reset_index()
+bread_prc = bread_grp["ingr"].value_counts(normalize=True)*100
+m = 12
+e = 24
+# set up labels and legend labels
+bread_prc = bread_prc.reset_index()
+bread_prc_str = bread_prc["ingr"].map(lambda x: '{0:.1f}'.format(x)) 
+bread_prc["labels"] = bread_prc_str + "% " + bread_prc["index"] 
+bread_prc["legend"] = bread_prc.loc[:, "labels"]
+bread_maj = bread_prc[0:m]
+bread_maj["legend"] = ""
+bread_other = bread_prc[m:e]
+bread_other["labels"]  = ""
+bread_pchart = bread_maj.append(bread_other)
+bread_pchart = bread_pchart.set_index("index")
+# colors
+c1 = plt.cm.get_cmap('tab20b', len(bread_maj["legend"]))
+# c2 = plt.cm.get_cmap('Reds_r', len(bread_pchart["legend"]))
+c3 = plt.cm.get_cmap('tab20', len(bread_other["legend"]))
+colors = c1.colors
+# colors2 = c2(np.linspace(0.2, 0.8, 13)) #.. and linspace for continuous ones
+colors3 = c3.colors
+newcolors = np.concatenate((colors[0:m], colors3[0:(e-m)]))
 newcmp = mcolors.ListedColormap(newcolors)
-
-bread_pchart.plot(x="labels", y="ingr", kind="pie", ax=pie_ax, 
-                                    labeldistance=1.1,
-                                    startangle=20, 
-                                    cmap=newcmp, 
-                                    ylabel='', legend=False,
-                                    wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
-                                                'edgecolor' : 'black'}) 
-pp = pprint.PrettyPrinter()
-# pp.pprint(pie_ax.__dict__)
+# pie chart
+pie_ax.pie(bread_pchart["ingr"], labels=bread_pchart["labels"], 
+            labeldistance=1.1, startangle=20, 
+            colors=newcolors,
+            wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
+                         'edgecolor' : 'black'})
+# legend
 wedges = pie_ax.patches
-# labels = [l.get_text() for l in pie_ax.texts]
 labels = list(bread_pchart["legend"])
-wedges = wedges[11:24]
-labels = labels[11:24]
-pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1.0, 0.97))
+wedges = wedges[m:e]
+labels = labels[m:e] 
+pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1.0, 0.85))
 
 #############################################
 # Pie Chart Milk/Cream
 ############################################# 
 pie_ax = axs[1]
-mlk_pchart = milkcream_prc[0:6].reset_index()
-mlk_pchart["legend"] = ""
-mlk_other = milkcream_prc[6:13].reset_index()
-mlk_other["legend"] = mlk_other["index"].copy()
-mlk_other["index"] = ""
-mlk_pchart = mlk_pchart.append(mlk_other)
-mlk_pchart = mlk_pchart.rename(columns = {'index':'labels'})
-mlk_pchart = mlk_pchart.set_index("labels")
-pie_chart_mlk = mlk_pchart.plot(x="labels", y="ingr", kind="pie", ax=pie_ax, 
-                                    labeldistance=1.075,
-                                    startangle=20, 
-                                    cmap='tab20b', 
-                                    ylabel='', legend=False,
-                                    wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
-                                                'edgecolor' : 'black'}) 
+mlk = ft_recipes.loc[ft_recipes["category"] == "milkcream"]
+mlk = mlk.sort_values(by=['ingr'])
+mlk_vc = mlk[["title", "category"]].value_counts()
+mlk_grp = mlk.groupby(['title','category'])['ingr'].apply(' and '.join).reset_index()
+mlk_cnt = mlk_grp["ingr"].value_counts().reset_index()
+mlk_prc = mlk_grp["ingr"].value_counts(normalize=True)*100
+m = 8
+e = 13
+# set up labels and legend labels
+mlk_prc = mlk_prc.reset_index()
+mlk_prc_str = mlk_prc["ingr"].map(lambda x: '{0:.1f}'.format(x)) 
+mlk_prc["labels"] = mlk_prc_str + "% " + mlk_prc["index"] 
+mlk_prc["legend"] = mlk_prc.loc[:, "labels"]
+mlk_maj = mlk_prc[0:m]
+mlk_maj["legend"] = ""
+mlk_other = mlk_prc[m:e]
+mlk_other["labels"]  = ""
+mlk_pchart = mlk_maj.append(mlk_other)
+mlk_pchart = mlk_pchart.set_index("index")
+# colors
+c1 = plt.cm.get_cmap('tab20b', len(mlk_prc["legend"]))
+colors = c1.colors
+# pie chart
+pie_ax.pie(mlk_pchart["ingr"], labels=mlk_pchart["labels"], 
+            labeldistance=1.1, startangle=20, 
+            colors=colors,
+            wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
+                         'edgecolor' : 'black'})
+# legend
 wedges = pie_ax.patches
-# labels = [l.get_text() for l in pie_ax.texts]
 labels = list(mlk_pchart["legend"])
-wedges = wedges[6:13]
-labels = labels[6:13]
-pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1, 0.9))
+wedges = wedges[m:e]
+labels = labels[m:e]
+pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1, 0.8))
 
 #############################################
 # Pie Chart Eggs
 ############################################# 
 pie_ax = axs[2]
-pie_chart_eggs = eggs_prc.plot(kind="pie", ax=pie_ax, 
-                                    labeldistance=1.075,
-                                    startangle=20, 
-                                    cmap='tab20b', 
-                                    ylabel='',
-                                    wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
-                                                'edgecolor' : 'black'}) 
-# pie_ax.legend(bbox_to_anchor=(1.15, 0.60))
+eggs = ft_recipes.loc[ft_recipes["category"] == "eggs"]
+eggs = eggs.sort_values(by=['ingr'])
+eggs_vc = eggs[["title", "category"]].value_counts()
+eggs_grp = eggs.groupby(['title','category'])['ingr'].apply(' and '.join).reset_index()
+eggs_cnt = eggs_grp["ingr"].value_counts().reset_index()
+eggs_prc = eggs_grp["ingr"].value_counts(normalize=True)*100
+# set up labels and legend labels
+eggs_prc = eggs_prc.reset_index()
+eggs_prc_str = eggs_prc["ingr"].map(lambda x: '{0:.1f}'.format(x)) 
+eggs_prc["labels"] = eggs_prc_str + "% " + eggs_prc["index"] 
+eggs_prc["legend"] = eggs_prc.loc[:, "labels"]
+# colors
+colors = c1(np.arange(0,15,3, dtype=int))
+# pie chart
+pie_ax.pie(eggs_prc["ingr"], labels=eggs_prc["labels"], 
+            labeldistance=1.1, startangle=20, 
+            colors=colors,
+            wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
+                         'edgecolor' : 'black'})
 
-# plt.show()
 plt.savefig('2_analysis/plot1_french_toast_recipes_essential_ingr_break_downs_pie_charts.png', dpi=300)
-
-# Be cool to visualize essential ingredients for all recipes in one chart
-# matrix. each row represents a recipe. 
-# first column is bread, second column is eggs, third is milk/cream
-# color coded to tell you which type it is.
-
-# bar charts for three essential ingredients
-
-# basic stats: number of recipes, etc.
-
-# charts for other ingredients
-
-# visualize all the types of ingredients
-
-# reatios e.g. egg to bread to milkcream ratios
-
-# "average" french toast recipe (if you dare)
-
-# top ingredients mentioned, etc.

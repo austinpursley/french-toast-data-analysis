@@ -1,0 +1,73 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/143681/pineapple-french-toast/",
+    "name": "Pineapple French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "Pineapple French Toast"
+    },
+    "datePublished": "2021-08-04T02:47:29.000Z",
+    "description": "No need for syrup! This French toast, baked with pineapple and brown sugar, makes it's own sauce.",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H40M",
+    "recipeYield": "10 slices",
+    "recipeIngredient": [
+        "\u00bd cup butter",
+        "\u2154 cup packed brown sugar",
+        "1 (15.25 ounce) can crushed pineapple (juice pack), drained",
+        "4  large eggs eggs, beaten",
+        "1 cup reduced fat milk",
+        "\u00bc teaspoon salt",
+        "10 (3/4 inch thick) slices French bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place butter in a 15x10x1-inch baking pan; heat in a 400 degree F oven until melted, about 3 minutes. Stir in brown sugar and crushed pineapple until sugar is dissolved.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow dish, beat together eggs, LACTAID&reg; Reduced Fat Milk, and salt. Dip bread into egg mixture, letting bread soak for about 10 seconds on each side. Arrange in a single layer atop pineapple mixture.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in a 400 degree F oven for 20 to 25 minutes or until golden brown. Arrange bread slices on serving plates, pineapple side up. Spoon any pineapple mixture remaining in pan atop the bread slices.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": "Pineapple French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "244.9 calories",
+        "carbohydrateContent": "30.5 g",
+        "cholesterolContent": "100.8 mg",
+        "fatContent": "12 g",
+        "fiberContent": "0.7 g",
+        "proteinContent": "5.3 g",
+        "saturatedFatContent": "6.8 g",
+        "servingSize": null,
+        "sodiumContent": "258.4 mg",
+        "sugarContent": "22.2 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": []
+}

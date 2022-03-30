@@ -1,0 +1,824 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/203240/blueberry-stuffed-french-toast/",
+    "name": "Blueberry Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F875543.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2020-06-19T03:39:49.000Z",
+    "description": "Rich and very filling, but oh so good! You'll be coming back for seconds and thirds!",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H30M",
+    "totalTime": "P0DT8H50M",
+    "recipeYield": "12 servings",
+    "recipeIngredient": [
+        "16 slices firm white bread",
+        "1 (8 ounce) package Neufchatel cheese, softened",
+        "1 cup blueberries",
+        "3 cups milk",
+        "3 eggs",
+        "\u2153 cup maple syrup",
+        "1 teaspoon vanilla extract",
+        "\u00bc cup white sugar",
+        "\u00bc teaspoon ground nutmeg",
+        "\u00bc cup white sugar",
+        "2 tablespoons cornstarch",
+        "1 cup water",
+        "1 cup white sugar",
+        "1 tablespoon butter",
+        "1 cup blueberries"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Grease a 9x13 inch baking dish with butter. Cut 10 slices of the bread into 3/4 inch cubes. Spread Neufchatel cheese over one side of the remaining 6 slices of bread. Arrange the bread, cheese side up, in the baking dish. Sprinkle with 1 cup of the blueberries, then top with the bread cubes.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together the milk, eggs, maple syrup, vanilla extract, and 1/4 cup of sugar in a bowl. Pour over the bread. Cover and refrigerate overnight.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C).\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together the nutmeg and 1/4 cup of sugar in a small bowl. Sprinkle over bread mixture. Cover with foil and bake in the preheated oven until a knife inserted into the center comes out clean, 20 to 30 minutes. Cool in the pan for 5 minutes before serving.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make compote: Heat cornstarch, water and remaining 1 cup of sugar over medium heat and bring to a simmer, cooking until thickened, about 3 minutes. Remove from heat and stir in butter and the remaining 1 cup of blueberries. Serve with the french toast.\n"
+        }
+    ],
+    "recipeCategory": [
+        "Breakfast Eggs"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "masons_mom",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/3793203"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 56,
+        "itemReviewed": "Blueberry Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "333.9 calories",
+        "carbohydrateContent": "56 g",
+        "cholesterolContent": "68.1 mg",
+        "fatContent": "9 g",
+        "fiberContent": "1.4 g",
+        "proteinContent": "8.2 g",
+        "saturatedFatContent": "4.8 g",
+        "servingSize": null,
+        "sodiumContent": "352.6 mg",
+        "sugarContent": "37.2 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-14T04:13:31.443Z",
+            "reviewBody": "I gets three stars for flavor. I give it 1 star for baking instructions. 350 for 20-30 minutes is no where near enough time. I'd say more like 400 degrees for 45 minutes. taking the foil off half way thru the cooking time. At 350, I baked for almost an hour and it's still very soggy on the bottom and barely cooked on top. Maybe the milk ratio should be looked at more closely. Unsure. Will try again and play with the cook times. I did add cinnamon to the sugared topping. I like that addition.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wendy Earwood",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-04T06:49:02.867Z",
+            "reviewBody": "I cube all of the bread. Place half of cubes in a greased pan.  Use 2 8oz. cream cheese cut in cubes. Place over bread. Add blueberries (I don't measure)\ncover with rest of cubes.\nBeat 6 eggs. add milk 1/2 cup maple syrup--no sugar, vanilla and cinnamon I warm the maple syrup and add the cinnamon and stir until disolved.\nPour over mixture, cover with foil and refrigerate over night. Take out 1/2 hour before baking. Bake  20 minutes with foil on. Remove foil and bake 20 minutes loner or until knife in middle comes out clean\nI add the blueberries to the cooking miture and continue cooking on alower heat about 5 minutes.. They burst and make for a more flaverable mixture. I also add a little cinnamon. Remove from heat and add butter.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carla B",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-17T10:18:27.937Z",
+            "reviewBody": "I cut the recipe in half, used whole wheat bread, and added a lot more blueberries than called for (it's high blueberry season!), and baked for 50 minutes - still turned out delicious! No time to make compote - we served with blueberry syrup we had on hand, and maple syrup, too, as an option, along with some whipped cream. yummy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristen Edelman-Weiner",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-04T15:06:33.267Z",
+            "reviewBody": "Good dish in need of some tweaking I think. First of all, this recipe screams for cinnamon. Add it to the whisked milk and egg mixture before pouring over bread. I used about a teaspoon, but use the amount that you and your family enjoy. Use whole wheat bread for a better texture, flavor and to make it healthier, making sure all the bread is saturated in the egg mixture before covering and refrigerating overnight. Add a bit more cinnamon to the sugar you sprinkle on top right before baking. I also double the blueberries in this recipe. It will be mostly bread if you don't. Nothing wrong with that, but I adore blueberries and can never have to many of them! The compote should also have double the blueberries, but I did cut back on the sugar to 3/4 cup. It would be just too cloyingly sweet to me using the full cup. And you can add the blueberries as soon as the sugar and cornstarch dissolve in the water. I like my blueberries cooked into the compote, not just warmed up in the sugar water. You will get a much nicer flavor and consistency this way. Also, add a teaspoon of lemon juice right before the blueberries - it will really make a nice difference to your compote. Bake approximately 40 minutes. With a few (okay, a lot!) of changes, this is a stellar dish! This would also work wonderfully with apple or peach slices sauted in some butter and cinnamon in place of the blueberries and compote. Yum!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-10-06T08:51:09.343Z",
+            "reviewBody": "Highly recommend!  Added cinnamon to the sugar topping.  Baked it for about 45 mins to get it good and cooked.  Took the cover off the last 10 min to let the top get a little crunchy.  The cream cheese gave it a creaminess. Everyone loved this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ranch Cook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-04T08:09:27.323Z",
+            "reviewBody": "The secret to this recipe is to push the bread down into the milk/egg mixture to make sure that everything is moist overnight.  By doing this, there will be no dried out pieces of bread on top.  I routinely make this recipe and it always gets rave reviews.  Cynda",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cynda Baker",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-09-20T06:27:11.71",
+            "reviewBody": "This recipe was absolutely delicious. I added a bit of cinnamon along with the sugar and nutmeg to the top. It's one of my new favorites!   It actually took almost 2 hours to bake, rather than the 30 minutes described, so time accordingly. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chrissy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-04T09:04:44.220Z",
+            "reviewBody": "3 cups of milk and only 3 eggs?????? This recipe took way longer than the designated time and was still runny.  Doesn't look at all appetizing for Easter brunch",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-12-20T13:02:18.573Z",
+            "reviewBody": "Extra special.  Delicious.  Use whole wheat bread for firmer consistency.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melody Brown Feist",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-02-13T11:50:32.800Z",
+            "reviewBody": "I baked this in a stoneware casserole and found it took much longer to cook through in the middle.  I served it at a Prayer Breakfast and church and the pastor even had seconds!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kathryn Rayner",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-12T09:04:09.290Z",
+            "reviewBody": "This is easy to make and an elegant breakfast.  The family liked it at our house.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lilcat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-04T17:12:56.180Z",
+            "reviewBody": "very good base with some changes: I cut the sugar back to  3/4 of what is called for, decreased cream cheese to 6 oz (after spreading what looked like a decent amoount on the bread slices I still had about 2 oz left over) and doubled the blueberries. Did half cinnamon and half nutmeg as the berries really wanted cinnamon and I don't care for strong nutmeg flavor...only want a hint of it. With that it was much improved. I will make it again but one more change I will add next time is to add a little lemon zest as well. 3 stars as written since I did need to make quite a few changes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "camohn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-12-28T08:40:32.083Z",
+            "reviewBody": "This was a hit! We host Thanksgiving and most of the family stayed overnight. I opted for brunch for Friday morning and had no leftovers with this dish.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MommaMel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-17T10:53:47.263Z",
+            "reviewBody": "Wowwyy!!  Yum!!  I used only 3 oz. reduced fat cream cheese and only tore 8 pieces of bread for the top.  I took it out of the refrigerator about 1/2hr-1hr before baking it for 30 minutes.  Then I served it by scooping the pieces, flipping them bottom side down onto the serving plates and spooned compote over them.  Don't skip on the compote.  This is delicious!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Stacy Rowenhorst Wempe",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T07:59:46.130Z",
+            "reviewBody": "Amazing!  I followed other advice and baked for 45 minutes at 350, taking foil off with 10 minutes to go.  Instead of nutmeg (which I was out of!), I used cinnamon - This breakfast was amazing - very rich, but everyone loved it.  Will be making more frequently for sure.  And the compote (which we weren't sure about), added to the amazing taste of this breakfast dish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rlbarr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T10:03:31.573Z",
+            "reviewBody": "I was very disappointed in this recipe.  I fixed it for my family recently, expecting everyone to love it.  However, by following the instructions, even baking it for almost twice as long, it ended up mushy.  Taste was good but consistency was bad.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barbara Lee-Conley",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-09-25T13:01:08.350Z",
+            "reviewBody": "Very good! Served it at a birthday brunch to rave reviews, even by some who usually aren't so complimentary :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mayaclone",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-09T23:47:50.290Z",
+            "reviewBody": "The only problem was that the kids wanted more!  Wonderfully good!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ria Conrad",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T08:12:45.150Z",
+            "reviewBody": "Too sweet! Just a fluffy, sweet and rich bread casserole dish.   Children might like it.  Would not make this again! Not French toast at all.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MARLENE13",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-06T17:45:57.607Z",
+            "reviewBody": "I thought it was delicious!  My only complaint was that my kids didn't like it.  Not sure what the heck is wrong with them!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "janalynn505",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T14:13:07.200Z",
+            "reviewBody": "General recipe was good.  Took a tip from another reviewer and baked at 400 deg. for 30 min.  Added cinnamon and sugar over bread.  Also added a little more berries.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "vicki",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-08T10:34:43.097Z",
+            "reviewBody": "I made this for my office monthly breakfast birthday party.  It was a great success.  I used mascarpone instead of cream cheese. Also i agree that you have to cook this for almost an hour instead of the 20-30 min per directions.  I also cook at 375.  I toasted the bread cubes on top and used raw sugar and added 1/2 tea of cinnamon in the topping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "moyechristophergmail",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-11T10:34:38.730Z",
+            "reviewBody": "This is delicious all tho I forgot and didn't make it the nite before I just let it set for an hour before I baked it and it turned out great. Also my husband (who doesn't like it when I experiment) thought it was great, I gave this a 10++ in my book.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "skporto",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-05T07:39:45.217Z",
+            "reviewBody": "Just made for the first time.  Made the mistake of not reading through the entire recipe this morning and found I was supposed to let sit overnight in the frig.   Didn't have time to do this, let it sit for maybe 30 min. and made the recipe.  Everyone loved it.  I also added cinnamon to the recipie as another review suggested.  Good idea!   Will probably cut back on the sugar next time too.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie DeCosta",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-13T03:58:10.910Z",
+            "reviewBody": "A delish morning comfort treat, but IMHO this should be renamed Bread Pudding. Tweaked with lo-fat &amp; sugar-free ingredients. Thanks everyone for your helpful hints. We all enjoyed, but a lot of prep for the results.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Beckyshobby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-09T14:25:26.130Z",
+            "reviewBody": "Very good recipe without to much fuss, my family enjoyed it.  I too made a few changes:  I discovered I had run out of white sugar so I used brown sugar in the wet mixture and also as the topping except with cinnamon instead of nutmeg.  I used a small baguette cut into slices as the bread covering the bottom then pulling apart the cheese into chunks and scattering over the layer of sliced bread which made for nice warm chunks of cheese to bite into after baking.  I used strawberries instead of blueberries.  I baked at 450 instaed of the 350 for about 30 mins and it cooked perfectly.  I was originally going to try to make the compote using powdered sugar but opted to not make it after all.  I used syrup over the top for the kids whereas my hubby and I opted for no topping at all as it was plenty sweet.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MommyTo4QTs",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-08-11T12:54:09.243Z",
+            "reviewBody": "I did take the advice of another review and cubed the bottom layer of bread as well as the cream cheese.  It was a lot easier then spreading the cream cheese on bread slices.  I also omitted the sugar with the main dish.  The maple syrup was sweet enough.  Added cinnamon to my liking.  Worked great with gluten free bread, though I did cook a bit longer because it still seemed soggy after 30 min.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joby",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-05-11T08:19:54.287Z",
+            "reviewBody": "Needs more blueberries",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jill Hoisve",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-02T10:17:44.613Z",
+            "reviewBody": "Definitely as delicious as it sounds.  We did find Neufchatel cheese, which contributed greatly to the texture of the dish.  The cooking time and temperature should be increased substantially.  I really should have read the other suggestions before following this recipe--it would have helped.  We will definitely make this again, next time substituting wheat bread, adding cinnamon and nutmeg, submerging the bread completely before refrigerating, and minimizing the amount of sugar.  But the flavors were wonderful as is already.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "RusoJap",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-25T07:52:35.180Z",
+            "reviewBody": "Not so good.  The cream cheese didn't bake in &amp; looked unappealing.  It was dry even with syrup or compote on it. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sushigringo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-07T11:09:12.850Z",
+            "reviewBody": "Delicious, but needs nearly an hour to bake. I put three eggs in a measuring container, then added the milk to equal 3 cups, not 3 full cups of milk. I sliced sourdough baguette in 1/2\"  thick rounds and made \"sandwiches\" out of 2 slices - not cubed bread on top. I would add more blueberries next time. Any spices you wish will only improve it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lettuceleaf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-06-13T13:25:42.003Z",
+            "reviewBody": "I agree the cooking time is all wrong. A half hour covered is not enough time.  My daughter-in-law was over and said she made a similar recipe, but then baked it another half hour uncovered. That worked.  I think next time I'll add a little more cream cheese, eggs and milk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peggy T",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-17T12:55:24.177Z",
+            "reviewBody": "This is a Great Brunch Recipe!  Served it to several Ladies and they wanted the recipe!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "marykathryn11",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-10-15T09:48:06.580Z",
+            "reviewBody": "I have made this a few times and it is a big hit. I use a loaf of Italian or French bread from the bakery rather than pre-sliced white bread and it is delicious.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GRNSISTER",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-02-18T08:18:05.287Z",
+            "reviewBody": "I made this for my family, and they loved it!!!!  The blueberry compote over the top, completes this dish!!!  Will definitely make again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "italianmama76",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-02-09T14:37:09.323Z",
+            "reviewBody": "If I could give this recipe 6 stars, I would. It was the best French toast casserole recipe I\u2019ve ever done.  I followed the recipe as written with only a couple of tweaks. I cubed all the bread and then cubed the cream cheese and sprinkled it over the bread. I also added extra cinnamon into the egg mixture and sprinkled cinnamon sugar on top right before baking. It did take about 40 minutes to bake thru. But it was a huge hit with my house party the weekend I made it. Definitely a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "czarria60",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-04-04T08:13:01.190Z",
+            "reviewBody": "I used Texas toast for the bottom layer. Worked great!  Everyone loved this!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annette Larson",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-16T10:38:55.853Z",
+            "reviewBody": "took me over an hour to cook, I don't know if it was because I made it in a glass casserole dish or I had too much liquid filling. \n\nI added berry jam to the cream cheese spread and used cinnamon raisin bread instead of white. I also sprinkled shelled walnuts to the top and it gave the toast a nice crunch.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eric Ellensohn",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-08-20T19:44:45.663Z",
+            "reviewBody": "Made as written except I baked mine for 45 mins covered and 15 mins uncovered until the bread started to toast. Came out perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David Cox",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-08-26T08:31:11.000Z",
+            "reviewBody": "The taste of the sauce was good, but everything other than the very top of the dish was super soggy! I don't care for soggy bread.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Brooke",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-05-04T12:05:04.593",
+            "reviewBody": "If you are looking for a great brunch recipe, you may want to try this.  It\u2019s delicious.  I made half the recipe using two eggs.  I used Italian bread and cut the milk by a third because my bread was still fresh.  The first half of the baking time I covered the dish, then removed the cover and it came out perfect.  This recipe is a keeper.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Deb C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-04-08T14:43:16.533Z",
+            "reviewBody": "I tried this recipe twice- once, as written and then with a few tweaks.\nI found the maple syrup made the french toast too sweet. I also used about 3 cups of blueberries in total instead of 2 cups. Also, I grated fresh nutmeg over the whole thing, rather than using just 1/4 t. (So I probably used more than the recipe called for- but it was just right! Without the maple syrup, I give it 5 stars!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joanne Brown",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-01-14T11:36:36.687Z",
+            "reviewBody": "Too sweet, but I gave it 4 *'s because I know that if I make it again, I can easily adjust the sugar.  Also, most of my family doesn't seem to like sweet breakfasts.  I wouldn't bother making the compote next time, either - we all preferred maple syrup.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "earthygirl",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/122806/orange-french-toast/",
+    "name": "Orange French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F979035.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-02T17:12:05.000Z",
+    "description": "Kristy Martin of Circle Pine, Minnesota uses leftover slices of cinnamon bread in creating this awesome overnight brunch dish. With a hint of orange flavor, it's a special way to wake up the taste buds of weekend guests.",
+    "prepTime": "P0DT0H15M",
+    "cookTime": "P0DT0H35M",
+    "totalTime": "P0DT0H50M",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+        "6  large eggs eggs, lightly beaten",
+        "\u00be cup orange juice",
+        "\u00bd cup half-and-half cream",
+        "2 tablespoons sugar",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon grated orange peel",
+        "8 piece (blank)s thick slices cinnamon bread",
+        "\u00bc cup butter or margarine, melted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow bowl, combine the first six ingredients. Dip both sides of bread into egg mixture; let soak for 5 minutes. Place in a greased 15-in. x 10-in. x 1-in. baking pan. Cover and refrigerate overnight. Uncover; drizzle with butter. Bake at 325 degrees F for 35-40 minutes or until browned.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 18,
+        "itemReviewed": "Orange French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "228.4 calories",
+        "carbohydrateContent": "20.6 g",
+        "cholesterolContent": "160.3 mg",
+        "fatContent": "13.8 g",
+        "fiberContent": "2.1 g",
+        "proteinContent": "8.4 g",
+        "saturatedFatContent": "6.4 g",
+        "servingSize": null,
+        "sodiumContent": "214.8 mg",
+        "sugarContent": "9.5 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-03T11:57:09.123Z",
+            "reviewBody": "Wow was this a hit for the holidays!  Instead of cinnamon raisin bread, we were lucky to have enough left-over Panatone to use instead.  We also had enough homemade eggnog to replace the called for half-and-half.  As if this weren\u2019t decadent enough we opted to use 1T of Cointreau in place of the grated orange peal.  (It was the holidays!) \nWe soaked the bread mixture overnight and devoured it for brunch in the morning.  I think we\u2019ve found a new holiday favorite.  Thanks for sharing this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stacykr",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-24T15:42:44.377",
+            "reviewBody": "I made this for my boys and I for breakfast wanting something different from your typical French toast recipe.  Because the weather has been so warm, I didn't cook this in the oven. I used my big countertop griddle. I cut the recipe in half, which made six pieces of french toast. (This was enough for our breakfast plus some leftover to freeze for busy mornings.) I didn't have cinnamon bread, just plain ol' wonder bread. I added a bit of ground cinnamon to the egg mixture instead.  This came out good. I wish that it had been more of an orange flavor. I think that if I make this next time, I'll bypass the cinnamon and add even more orange zest. I'd like to see if I could have it come out like \"creamsicle\" french toast.  (If you make this on a griddle like me, be careful to watch it carefully. The  sugar in the egg mixture causes the bread to brown quickly. I came close to burning mine!)  EDITED: I made a second batch this morning for my husband who arrived home unexpectedly. I halved the recipe again and omitted the cinnamon. I think it's better without the cinnamon flavor as did my husband.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-29T09:39:57.153Z",
+            "reviewBody": "I have tried this with left over sweet rolls, kind of like Panatone, that I cut into cubes and then poured the egg mixture over. It was much better than when I made it with the cinnamon bread. The cinnamon bread was too overpowering to taste the orange. I also used evaporated low fat milk to cut back on the fat. It worked great. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CRAZY4SUSHI",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-04T07:42:02.983Z",
+            "reviewBody": "I did not care for this french toast at all (sorry Kristy!). Not only did this taste nothing of orange to me (not even a \"hint\"), it also stuck to my baking dish BIG TIME. I followed Kristy's directions to the letter, with the only exception being halving the recipe for my fiance and I. Our french toast was dry (it's a good thing it was not soggy, however, there needs to be a happy medium between the two, IMHO). For those of you thinking of giving this a try, I suggest a couple of modifications. First, instead of throwing out your leftover egg mixture, pour it over your already soaked french toast (otherwise, you'll risk everything drying out like mine did). Second, if time is short, fry your slices in a pan. I'm sure this would have alleviated my problem alltogether. I also think you should cover your baking dish for at least half of the baking time (and I'm not sure you need to bake for as long as directed either...). I might give this another try around the holidays using SAK's changes as my inspiration, but not anytime before that! My fiance and I were both full, but sorely unsatisfied. Oh well! Thanks anyways :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle Roth-Kiva",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-03-24T14:57:25.960Z",
+            "reviewBody": "Delish!!!  Made this for Christmas breakfast, and Hubby and I gobbled it right up.  I noticed though, that the baking left it a little dry, so I whipped up a simple syrup to go along with it - orange juice, powdered sugar, and orange zest.  I think it was the perfect addition... ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lizzaurie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2008-07-28T13:27:45.940Z",
+            "reviewBody": "This was really yummy. I really love orange so next time I will add more orange flavour to the recipe. I also had to turn the bread over for another 10 mins after the original 40 mins so that the other side would be cooked like the other side. Everyone at the house ate them for breakfast with fruit and it was very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chantille",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-10-27T08:29:56.010Z",
+            "reviewBody": "I just had a craving for French toast but we were out of milk, so I came here to find a recipe using orange juice. My husband just made this with a few changes: He used some Southern Butter Pecan coffee creamer instead of half-and-half, whole wheat bread instead of cinnamon, omitted the orange peel and butter, and fried it instead of soak overnight and bake. It is DELICIOUS!! Best French toast I've ever had! And I'm sure the original version is delicious, too. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Amy M",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-01-21T10:08:51.797Z",
+            "reviewBody": "This was good.  We had to layer to thinly sliced pieces of bread because we couldn't find thick sliced.  They stuck together when baked and turned out really good.  We used cinnamon raison bread and added a touch of maple syrup to the mix.  Instead of dipping the bread into the mixture, we poured it over the bread and let it sit overnight before baking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather VanDyken Liming",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-05T06:48:23.183Z",
+            "reviewBody": "This recipe was pretty good but I wish it had more of an orange flavour.  Next time I will add more orange juice to the mix.  Perhaps orange liquor or orange extract would add some much needed flavour.  Overall this was a pretty good recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Becky",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-06-26T20:07:56.080Z",
+            "reviewBody": "This was good, not great, but good.  I was hoping for something with more orange flavor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JODIBRONSONNIMS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2007-04-19T05:56:13.820Z",
+            "reviewBody": "This was easy to prepare and a huge hit with my family.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GMAR367",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-02T07:27:26.943Z",
+            "reviewBody": "As written, a 3. With some changes, I'm sure it has potential to be a 4 or 5...Why? Orange French toast should have a hint of orange flavor, don't you think? I appreciate the ease of the recipe, with all the work done the night before and just pop it in the oven the next day. However, we preferred the taste of a couple we pan-fried (didn't fit in the pan we baked, so we did a test). Had the pan-fried stayed as fluffy as the oven baked pieces, it would have been much better. But still, no hint of orange flavor. I added a splash of Grand Marnier and flavors still didn't pop. I won't be back for this recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FNChef",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-21T16:16:24.020Z",
+            "reviewBody": "The first time I tried this, i used the cinnamon bread, found it was too thin and therefore turned out soggy. I tried it again, and this time used Challah bread (thicker) and WOW....much much better. The orange flavor was more intense this time around and was a hit with the family over the holidays! This will be my new Christmas morning breakfast starch!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chef Bella",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-11-30T19:13:49.110Z",
+            "reviewBody": "This was the best French Toast ever.  My daughter LOVED it.  We will make this again, and again, and again, and....  One note:  I did not have anh half and half, so I used heavy cream instead.  The extra cream was whipped to top the French Toast and just made this great dish even better",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tracy Jarvis",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2016-02-22T12:55:36.470Z",
+            "reviewBody": "a little less of the orange next time, but very good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susan Dahl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-05-21T09:24:58.133Z",
+            "reviewBody": "Wow - simply amazing!  I followed the recipe to the letter (halving it) - using Safeway's Extra Thick Slice Raisin Bread - but due to time constraints, I simply pan-fried the french toast in butter (as opposed to drizzling it for the oven-baked option.) I let it soak about 5 minutes before hitting the pan and it was scrumptious!  So incredibly tasty and delicious!  Half the recipe made 6 slices. My whole family loved it, it had the orange flavor that was definitely there, but not overwhelming.  To me, this recipe is perfect as is!  Thanks so much for sharing your recipe, Kristy!  My mouth is watering just remembering how good this french toast is! :)  This recipe is a definite keeper, I'll be using it over and over again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Morrigan",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

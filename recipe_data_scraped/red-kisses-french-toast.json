@@ -1,0 +1,112 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/89516/red-kisses-french-toast/",
+    "name": "Red & Kisses French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.allrecipes.com/img/misc/og-default.png",
+        "width": null,
+        "height": null,
+        "caption": "Red & Kisses French Toast"
+    },
+    "datePublished": "2021-08-03T19:22:46.000Z",
+    "description": "Breakfast with your sweetheart or special child? Indulge in cinnamon-flecked French toast topped with strawberry jam and a scattering of chocolate kisses.",
+    "prepTime": null,
+    "cookTime": null,
+    "totalTime": "P0DT0H15M",
+    "recipeYield": "2 servings",
+    "recipeIngredient": [
+        "3  large eggs large eggs",
+        "2 tablespoons milk",
+        "4 slices Market Pantry\u2122 Roundtop White Sandwich Bread",
+        "10 each Hershey's dark chocolate kisses, unwrapped",
+        "2 tablespoons Strawberry jam",
+        "1 teaspoon Archer Farms\u2122 Cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow bowl, beat together eggs and milk.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip each slice of bread in the egg mixture, one at a time.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook in a lightly oiled skillet over medium heat until both sides are golden.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set two of the slices of toast on a plate.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "On each slice, spread a thin layer of jam and add four Hershey's Kisses pointy-side up.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Top with the other slices.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Put a small puddle of jam in the center of each top slice, place the last two Kisses in the center of each puddle.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle with cinnamon and serve.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1,
+        "itemReviewed": "Red & Kisses French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "429.1 calories",
+        "carbohydrateContent": "53.3 g",
+        "cholesterolContent": "283.5 mg",
+        "fatContent": "17.4 g",
+        "fiberContent": "3.4 g",
+        "proteinContent": "15.2 g",
+        "saturatedFatContent": "7.2 g",
+        "servingSize": null,
+        "sodiumContent": "380.4 mg",
+        "sugarContent": "26.4 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2006-04-05T09:21:32.967Z",
+            "reviewBody": "I used raspberry jam - very good!  A little sweet for breakfast, but that's why its just for special occasions.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "beth",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

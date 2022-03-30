@@ -1,0 +1,536 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/162597/deep-fried-french-toast/",
+    "name": "Deep Fried French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1501621.jpg",
+        "width": 2448,
+        "height": 3264
+    },
+    "datePublished": "2020-06-19T03:35:07.000Z",
+    "description": "Crispy coating outside, chewy inside.",
+    "prepTime": "P0DT0H10M",
+    "cookTime": "P0DT0H10M",
+    "totalTime": "P0DT0H20M",
+    "recipeYield": "8 pieces",
+    "recipeIngredient": [
+        "6 eggs",
+        "5\u2009\u00bd teaspoons white sugar",
+        "\u00bc teaspoon salt",
+        "2 cups milk",
+        "1 cup all-purpose flour",
+        "2 quarts vegetable oil for frying",
+        "8 thick slices (1-inch thick) French bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Beat the eggs, sugar, and salt together in a mixing bowl. Whisk in the milk, followed by the flour; whisk until smooth.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Soak the bread slices in the egg mixture until the egg has penetrated through to the center of the bread. Wipe off the excess egg. Cook in the deep-fryer several pieces at a time to avoid overcrowding. Cook until golden brown on both sides and no longer soggy in the center, about 4 minutes. Drain the French toast on a paper towel-lined plate before serving.\n"
+        }
+    ],
+    "recipeCategory": [
+        "French Toast"
+    ],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "xley5",
+            "url": "https://www.allrecipes.comhttps://www.allrecipes.com/cook/2118048"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 31,
+        "itemReviewed": "Deep Fried French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "895.4 calories",
+        "carbohydrateContent": "75.4 g",
+        "cholesterolContent": "288.8 mg",
+        "fatContent": "55.4 g",
+        "fiberContent": "2.5 g",
+        "proteinContent": "24.9 g",
+        "saturatedFatContent": "9.8 g",
+        "servingSize": null,
+        "sodiumContent": "756 mg",
+        "sugarContent": "13.9 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2012-09-24T04:49:49.390Z",
+            "reviewBody": "I wanted my egg \"wash\" to be a little thicker so I cut the milk back to a cup and a half. That makes it 1/4 cup per egg. I also added two teaspoons of vanilla and a good amount ground cinnamon--that's what I add to all of my french toast recipes. This is seriously like french toast on crack. I used my cast iron skillet to deep fry these and it worked out fabulously. I served these with hot maple syrup. The family thought this was THE BEST french toast they've ever had.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-07-05T09:05:14.013Z",
+            "reviewBody": "I had never heard of this before. Being from the south and loving everything from a fried variety- I had to try it. It is DELICIOUS!!!  A great crispy outside with a nice french toast-soft inside. I sprinkle with a little powdered sugar and throw on some syrup and its just DELICIOUS!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TOMSGRL821",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-10-22T17:05:56.690Z",
+            "reviewBody": "This is one of the most awesomely fantasmagorical things I have ever made.  I added 2 tsps of vanilla b/c I just can't imagine french toast without it, but other than that, it was perfect.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "janebabes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-21T11:01:35.610Z",
+            "reviewBody": "This was very good, but had to sprinkle cinnamon and sugar on top, then maple syrup to taste better. I may try this again, with the powdered sugar instead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "autumn267",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-11T06:26:36.39",
+            "reviewBody": "I did not have any french bread so just used regular sliced white bread- it worked fine! This was fun to make, served with powdered sugar and maple syrup it was heavy for breakfast but I can see myself making it again for a dessert!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AliDot",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-07T09:35:18.947Z",
+            "reviewBody": "Yum! Not the healthiest, but good for a special occasion. My brother LOVED them. I just added a little leavening (baking powder) so they would be fluffier :) ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "swimminash",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-07-26T16:56:54.133Z",
+            "reviewBody": "Added one tsp of vanilla and a pinch or two of cinnamon and nutmeg.  No left overs :D",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Katrina Capella",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-03-27T09:45:01.347Z",
+            "reviewBody": "Wanted to try something new and this was it loved it and so did my son who is a picky eater!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Momma Stokes",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-08-07T17:56:47.220Z",
+            "reviewBody": "I love crunchy french toast. This is so much better than the traditonal way to make it. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "QUASINAUGHT",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-01-17T10:28:47.490Z",
+            "reviewBody": "The flavor was fine but the coating never got crisp.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SEY1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-28T19:23:42.427Z",
+            "reviewBody": "Delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "cookieMomster",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2009-11-05T06:41:02.397Z",
+            "reviewBody": "I was excited to try this but was really disappointed.It just tasted like deep fried bread. Even after I added cinnamon, vanilla, and nutmeg. I tried to improve it, because I really did want to like it. It was edible after I put syrup on it. Won't try again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer McCullough Sherrill",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-04-23T10:52:58.007Z",
+            "reviewBody": "I'll never be the type of person to complain about how a recipe turned out, if I fudged with/modified  the original recipe while making it. I've made this exact recipe twice, and it was okay... (Hence the 3-stars.) However, the past few times I've made deep fried French Toast, I've modified this recipe into what I think is a 5-star-worthy dish! Here's what I do, now:\n\n1 cup of flour.\n1-1/2 teaspoon of baking powder.\n1/4 cup of white sugar.\n1/2 teaspoon of kosher salt. \n1 teaspoon of cinnamon.\n1 teaspoon of nutmeg.\n2 eggs.\n1 cup of milk.\n2 teaspoons of vanilla extract.\n\n-Preheat deep-fryer to 375. *(I've only ever used corn oil for these, but I imagine canola/veggie/peanut oils would work just fine. Also, I would highly recommend a deep-fryer, instead of a skillet, so as to make sure the slices are evenly fried, and to maintain a perfect 375 degrees. But again, I imagine that this recipe would turn out fine, if all you have is a pan/skillet.)\n\n-Mix all  dry ingredients, whisk in the wet, then pour into a casserole dish.\n\n-Dip your bread slices on both sides. *(Make sure to use a spatula, instead of tongs, so as not to rip the bread. *I've made this recipe with both white bread, and Challah slices. They both = superb, but Challah is my fave.\n\n-Place into the oil, 2-3 slices at a time. They float immediately, so cook on both sides until nice and brown.\n\n-Finish with sifted powdered sugar, and a few more dashes of cinnammon.\n\n-Don't forget the bacon!\n\nHappy eating!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "dknight",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-03-09T15:48:52.973Z",
+            "reviewBody": "this recipe is great! made it twice this week. Added a little cinnamon and brown sugar and used regular white bread. It was a huge hit with the family",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daisy",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-05-18T07:36:49.093Z",
+            "reviewBody": "Totally unhealthy, but really delicious! I added cinnamon to the egg mixture.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sarah Rose Stumphf",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-11-14T10:56:34.283Z",
+            "reviewBody": "First time I've fried toast! I cut the bread into stick-like shapes before I dipped them into the batter, and made them into french toast fingers. They were pretty darn good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heylee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-09-18T08:03:27.790Z",
+            "reviewBody": "It's actually really good when you mix this recipe with the fluffy french toast recipe that adds 1/4 cup of all purpose flour to the mixture. I increased the milk to 1 1/2 cups, 1 tsp of ground cinnamon, 2 tsp of vanilla extract and used brown sugar instead of white. It was absolutely amazing because of the flour mixture and deep frying put it over the top. The southerner in me felt completely satisfied. Also I used the butter pecan syrup from ihop instead of regular maple syrup...talk about mouth explosion WOW! I will use this recipe everytime!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angel",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-04-26T16:27:09.773Z",
+            "reviewBody": "This taste so good, French Toast is good on the stove, but its allot cruncher in the deep fryer and allot worse off in health reasons. But all and all its good.. and SPRINKLE CINNAMON on top after you put syrup on and powder sugar, taste YUMMY!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maureen Esbensen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-27T17:10:54.940Z",
+            "reviewBody": "This recipe was delicious!! I used \"VanDeKamp French Toast Bread\" it is perfectly thick for this recipe. I cut the toast into thirds and made french toast sticks.  it was easier to flip over in the hot oil as well also kids love this finger food delight!! Two thumbs up!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "alisted1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-10-05T20:58:13.797Z",
+            "reviewBody": "I am a HUGE fan of French toast, and honestly, this recipe is different for me, because I have NEVER tried French toast that was deep fried! I tweaked the recipe a little by adding cinnamon, vanilla extract and sugar for a much added sweetness. Since I didn't have any French bread available, I used regular whole wheat bread, and it is SO good!! I would eat the deep fried French toast for dessert, instead of having it for breakfast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "msdramaqueen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2015-07-26T11:44:06.477Z",
+            "reviewBody": "YUM! I didn't use french bread. Regular sliced bread worked fine.  I did add vanilla and cinnamon into the mixture and sprinkled powdered sugar on the final product. Fried 2 min on each side of the bread.  :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Theresa Grantland",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-06-30T17:32:47.407Z",
+            "reviewBody": "Not worth the calories or the clean up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CatieR",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2019-10-21T16:43:43.430Z",
+            "reviewBody": "So good as a base. I added cinnamon, nutmeg and vanilla and it was fabulous!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "NewCook",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2017-02-12T14:48:32.253Z",
+            "reviewBody": "Crispy on the outside, tender on the inside, and not too greesy...it was a perfect French toast. I have been making it wrong all these years and did not know what I was missing until I tried this version.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eat",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2018-04-23T00:35:11.663Z",
+            "reviewBody": "Excellent recipe, I made it tonight using 1/2 the recipe and added a teaspoon of vanilla flavoring, tastes amazing, better than IHOP, Thanks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jim H",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-10-22T04:18:36.263Z",
+            "reviewBody": "Turned out amazing and will absolutely make again. I make a couple of minor changes. I halved the recipe and used Arnold country white bread and added 1 teaspoon pure vanilla extract to the batter. I also lightly sprinkled the finished slices with sugar and cinnamon. The unused slices I wrapped in plastic wrap and froze.  When I was in the mood for more I just popped a slice in the toaster oven and heated. Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Scotty68",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-12-28T19:23:42.427Z",
+            "reviewBody": "Delish!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allrecipes Member",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}

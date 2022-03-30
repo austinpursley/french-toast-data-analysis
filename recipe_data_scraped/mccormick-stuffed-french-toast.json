@@ -1,0 +1,638 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://www.allrecipes.com/recipe/213910/mccormick-stuffed-french-toast/",
+    "name": "McCormick&reg; Stuffed French Toast",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F988041.jpg",
+        "width": 250,
+        "height": 250
+    },
+    "datePublished": "2021-08-04T11:13:24.000Z",
+    "description": "French toast stuffed with sweet cinnamon-spiced cream cheese and apricot preserves is the perfect brunch dish to greet your family on a weekend morning.",
+    "prepTime": "P0DT0H20M",
+    "cookTime": "P0DT0H20M",
+    "totalTime": "P0DT0H40M",
+    "recipeYield": "8 servings",
+    "recipeIngredient": [
+        "1 (8 ounce) tub whipped cream cheese",
+        "1 tablespoon brown sugar",
+        "3 teaspoons McCormick\u00ae Cinnamon, Ground, divided",
+        "1\u2009\u00bd teaspoons McCormick\u00ae Pure Vanilla Extract, divided",
+        "16 (1/2 inch thick) slices Italian bread",
+        "\u00bd cup apricot preserves or jam",
+        "5  large eggs eggs",
+        "1 cup milk",
+        "2 tablespoons butter, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix cream cheese, brown sugar, 2 teaspoons of the cinnamon and 1 teaspoon of the vanilla in small bowl until well blended. Spread 2 tablespoons of cream cheese mixture on each of 8 slices of bread. Spread 1 tablespoon of preserves on each of the remaining 8 slices of bread. Press one each of the bread slices together to form 8 sandwiches.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat eggs with wire whisk in 13x9-inch baking dish. Stir in milk, remaining 1 teaspoon cinnamon and remaining 1/2 teaspoon vanilla until well blended. Dip sandwiches in egg mixture, soaking for 2 minutes on each side.\n"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt 1 tablespoon of the butter in large nonstick skillet or griddle on medium-low heat. Place 4 of the sandwiches in skillet. Cook 4 to 5 minutes per side or until golden brown. Repeat with remaining sandwiches, melting remaining tablespoon butter in skillet. Serve French toast with maple syrup, if desired.\n"
+        }
+    ],
+    "recipeCategory": [],
+    "recipeCuisine": [],
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Allrecipes Member",
+            "url": "https://www.allrecipes.comnull"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "ratingCount": 41,
+        "itemReviewed": "McCormick&reg; Stuffed French Toast",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "340.7 calories",
+        "carbohydrateContent": "38.8 g",
+        "cholesterolContent": "123.3 mg",
+        "fatContent": "16.8 g",
+        "fiberContent": "1.6 g",
+        "proteinContent": "9.5 g",
+        "saturatedFatContent": "8.4 g",
+        "servingSize": null,
+        "sodiumContent": "440.6 mg",
+        "sugarContent": "14.1 g",
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2010-03-31T16:26:54.680Z",
+            "reviewBody": "I made this for some out of town guests last Saturday and it was fantastic! Everyone loved it and I will definitely be saving this to my Recipe box!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Longj582",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-03T09:02:06.713Z",
+            "reviewBody": "This was excellent!  I did make some modifications.  Our family prefers strawberry, I used Smuckers Strawberry Simply Fruit.  I used regular cream cheese and let it soften at room temp, then used mixer to whip it.  Also, the night before, I sliced up a 16 oz container of strawberries and added a tablespoon of sugar. This morning, they were soft with a nice juice to top the french toast.  My family and my guests LOVED it! I will definitely do this again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mmmmmomma",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-02T04:43:13.220Z",
+            "reviewBody": "Very Good!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GINGERLY88",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-10T06:21:47.350Z",
+            "reviewBody": "I halved this recipe and made two \"sandwiches\" with apricot jam and two with raspberry.  Also ended up using wheat bread because it was what was in the fridge.  We really liked the wheat-raspberry combo, but the apricot got kind of lost in the wheat flavor, so if you're going to do apricot jam, definitely use a white bread.  The nice thing about the wheat bread, though, was that it was nice and sturdy for soaking and flipping.  Finally, I used regular cream cheese with a little milk to loosen it up to a \"whipped\" texture.  All in all a yummy breakfast!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kacey Platky Warren",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-10T21:31:59.033Z",
+            "reviewBody": "I just made this as a late-night snack, and it's pretty good! I scaled the recipe down for one serving; since the amounts were so tiny, I just eyeballed the vanilla and cinnamon.  I used Italian bread and Smuckers Simply Fruit Peach Preserves. For my taste, I'd add less cream cheese and more peaches.  I'd say play around with the amounts to get the ratio you like.  I also rubbed a little extra brown sugar on top of my toast because, hey, why not? :) Thanks for the recipe! Easy and yummy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-02T09:27:49.770Z",
+            "reviewBody": "I love this recipe I tested it this morning.  I never would have imagined putting Cream Cheese on my French toast, but it was delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BobbieGirl",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-09-05T09:46:33.183Z",
+            "reviewBody": "Pretty good, wasn't the greatest Ive ever had and I don't know if Id make it again but no one left any on their plates so it couldn't have been half bad. Id give it a 3.5 stars out of 5!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "inounv24",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-08-16T07:12:25.647Z",
+            "reviewBody": "We enjoyed this.  I like that the filling is really easy to customize depending on what you have handy.  I don't think that the filling needs the extra sugar though.  Plenty sweet without it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SBARLOW",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-02T18:24:57.443Z",
+            "reviewBody": "I COULDN'T IMAGINE THAT CREAM CHEESE COULD ADD SO MUCH TO FRENCH TOAST, BUT THIS WAS JUST DELICIOUS.  DEFINITELY WILL MAKE THIS AGAIN!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ritak96",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-01-31T14:34:57.863Z",
+            "reviewBody": "This was amazing! I used grape preserves instead of apricot, and it was absolutely delicious, so don't feel limited to apricot.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Laura Maurice",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-17T05:15:02.683Z",
+            "reviewBody": "Awesome! I used strawberry instead of apricot for the filling and I didn't let it sit for two minutes on the each side. It was more like 45 seconds each and I made sure to line the sides with the french toast mixture (as a sealant). No syrup desired or required! Simply excellent!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "amberness",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-07-22T13:08:20.940Z",
+            "reviewBody": "Fantastic.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Justine Saville",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-23T13:53:42.367Z",
+            "reviewBody": "These were ok.  I think I will try to make this again, as I would like to have something a little different on weekends (usually choc chip pancakes and cinnamon french toast).  My biggest problem with this is that I have issues with soggy bread.  I think that next time I will cook each piece individually so they get nice and crisp (more on the well done side) and once they are done, I would put only one tablespoon in between and then top them with whipped cream and fruit of choice.  In our case, we will go with strawberries.  Thanks for sharing though.  It gives me a good place to start!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jamey",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-02-10T16:50:33.067Z",
+            "reviewBody": "I did make some changes to this recipe which could have hurt or helped it. I am not sure. I used a strawberry whipped cream cheese, French bread, and sliced bananas instead of the preserves. I cut down the recipe to what I \"thought\" would be half. But after soaking the bread for 45 seconds, there was nothing left to soak any more bread in. Those sandwiches turned out VERY mushy. I like my french toast sturdier than that. So I made a few more that I just dunked a little in the egg &amp; milk mix. They turned out MUCH better. I will try this again as is to compare to my changes. Thanks for a great idea!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "D89BUTTONS",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-12T16:24:20.760Z",
+            "reviewBody": "Super easy and delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kimbaland6",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-05T05:42:35.647Z",
+            "reviewBody": "YUMMMM. I made this yesterday for Easter breakfast and it was wonderful! I used Strawberry preserves on half of them and Blueberry preserves on the other half. You don't even need syrup for these! Delicious and filling!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JJsMama",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-23T08:02:36.240Z",
+            "reviewBody": "Use half the cinnamon. It only ok",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kelly",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-09T12:41:13.733Z",
+            "reviewBody": "my husband liked it. i did  not enjoy this at all.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christina Vee",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-04T05:41:28.137Z",
+            "reviewBody": "Unbelievable!  My family loved it, especially my 3 yr old!  The taste is great, nothing to add or tweak.  However, you could use lower fat whipped cream cheese and no one would know the difference.  And make sure to use italian bread and don't slice them too thick, 1/2  inch is best.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ek1220",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-18T09:50:46.543Z",
+            "reviewBody": "This is really good!  Make 2, and heat the other one at another date.  Very filling.  One is enough!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Linda Glaeser",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-24T08:50:52.327Z",
+            "reviewBody": "The filling makes the bread really soggy inside, so much that I couldn't eat it. The texture was really weird between the crispy outside and mushy inside...almost like it wasn't cooked. It tastes good, I just couldn't eat it without being almost grossed out. I may try these again, except cook the french toast before stuffing it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "latte_queen2000",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-08T10:52:05.360Z",
+            "reviewBody": "Wow! Why haven't I thought of this before! I used regular cream cheese and heated it up to soften. I didn't use cinnamon since I was using strawberry preserves. I assume the recipe meant to soak the sandwiches for 2 seconds not 2 minutes as that would have made them too wet and they would have fallen apart when handling. Didn't need butter since I used my nonstick griddle. Served them up with powdered sugar and fresh strawberries I had prepared earlier on top. No need for syrup! Absolutely delicious! Thanks for posting!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kitchen_amatuer",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-01T15:01:02.537Z",
+            "reviewBody": "This is so good. Only change I made was using my homemade strawberry jam...that's what I had on hand. Can't wait to fix this for my grandkids.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MochaMoon",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-03T14:53:52.320Z",
+            "reviewBody": "This French toast was very good - even my kids gobbled it up. The only changes I will make next time are; I will not leave the stuffed Toast in the egg mix for quite as long and will cook at a lower temp. than regular French toast as it became quite soggy. It's also fantastic in that, you can change the flavors of preserves to whatever your taste buds are in the mood for. I will go with blueberry next time as it goes VERY well with cream cheese!\nThank You!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Suzie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-03T14:53:52.320Z",
+            "reviewBody": "This French toast was very good - even my kids gobbled it up. The only changes I will make next time are; I will not leave the stuffed Toast in the egg mix for quite as long and will cook at a lower temp. than regular French toast as it became quite soggy. It's also fantastic in that, you can change the flavors of preserves to whatever your taste buds are in the mood for. I will go with blueberry next time as it goes VERY well with cream cheese!\nThank You!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "BABBYLEE",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-05-17T15:29:27.473Z",
+            "reviewBody": "Delicious!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Melissa Trenado",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2011-04-17T13:00:09.097Z",
+            "reviewBody": "too sweet... I am too big a fan of regular french toast. this was too much in my opinion. my husband liked it a lot though. :)",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alathea Nichol Christensen",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2010-04-02T07:15:02.590Z",
+            "reviewBody": "Just made this for breakfast. Its good but not something I would make again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "natalie",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2013-03-16T07:11:15.520",
+            "reviewBody": "This makes a wonderful breakfast.  I sliced the French bread thickly, so I allowed extra time for the bread to absorb the egg mixture, and also covered the frying pan while cooking so that the French bread would cook through.  The orange marmalade added a little jazz making a nice change from the usual French toast.  What a fabulous start to the weekend.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Deb C",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-01-21T09:49:54.510Z",
+            "reviewBody": "My 10yr old daughter made this for the family (with minimal help) and everyone thought it was amazing. Seriously who needs IHOP. LOL ! I think we are going to try it with different fruit perserves to switch it up to please our fruit loving family!",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jessie Foster",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-22T18:55:58.000Z",
+            "reviewBody": "I really wanted to like this, but as others have said waaaayyy to sweet.  As in had to chug a glass of milk to get that cloying taste out of my mouth sweet.  I nixed the brown sugar and only used perhaps a teaspoon of jam as well.  I'll try again, but I think I'll skip the jam next time and try it just with the cream cheese.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Litegal1",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2012-06-22T07:51:20.657",
+            "reviewBody": "I made a variety of these using apricot, strawberry and peach jams.  Everyone's favourite was the strawberry.  A nice change from the traditional french toast.",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "5Foot3",
+                "image": null,
+                "sameAs": null
+            }
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2014-04-06T16:56:58.170Z",
+            "reviewBody": "Absolutely delicious breakfast (and lunch and dinner and midnight snack).",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bluepillow",
+                "image": null,
+                "sameAs": null
+            }
+        }
+    ]
+}
