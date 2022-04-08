@@ -11,7 +11,7 @@ raw_recipe_data_dir = "all_recipes_data-master/DataFiles/"
 raw_data_list = ["raw_data_1.txt", "raw_data_2.txt", "raw_data_3.txt",
                  "raw_data_4.txt"]
 
-pattern = r"=======================================(?:\n|\r\n?)((.*)+)(?:\n|\r\n?)((.*)+)(?:\n|\r\n?)(\[(([^=]|\n)*)+\])"
+pattern = r"=======================================(?:\n|\r\n?)((?:.+))(?:\n|\r\n?)((?:.+))(?:\n|\r\n?)(\[(?:[^=]|\n)+\])"
 recipereg = re.compile(pattern)
 df = pd.DataFrame(columns=["Title", "Type", "Ingredients"])
 for fn in raw_data_list:
@@ -21,8 +21,8 @@ for fn in raw_data_list:
     m = re.findall(pattern, contents)
     df_temp = pd.DataFrame(columns=["Title", "Type", "Ingredients"])
     df_temp["Title"] = [x[0] for x in m]
-    df_temp["Type"] = [x[2] for x in m]
-    df_temp["Ingredients"] = [x[4] for x in m]
+    df_temp["Type"] = [x[1] for x in m]
+    df_temp["Ingredients"] = [x[2] for x in m]
     df = df.append(df_temp)
     # contents = re.sub(pattern, r"TITE: \1 \n TYPE: \3 \n INGREDIENT: \5", contents)
     

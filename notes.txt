@@ -1,4 +1,34 @@
-# 2022-04-19
+# 2022-04-04
+TODAY:
+- wrapped-up part 1
+- spell check and massaging run through
+
+Next time:
+- one more spell check, grammer, and massaging run-through
+- html formatting, some quirks i.e. space above iamge captions too large
+- one last sanity check, is data actual clean, etc.
+- publish / push part 1
+- clean-up code dir
+- start part 2: analysis plan, plots, analysis, etc.
+
+# 2022-03-29
+TODAY:
+- Rought draft of "collect and clean-up" website article written up
+
+NEXT TIME:
+- "collect and clean-up"
+- - - parts called out in brackets (example code for clean-up, conclusion, etc.)
+- - - read through and flesh out
+- - - spell check
+- - - publish / push
+- did I miss any clean-up tasks? check below
+
+FUTURE:
+- analysis plan / ideas
+- analysis
+- part 2 "analysis and data viz"
+
+# 2022-03-19
 (late night)
 TODAY:
 - finished clean-up????
