@@ -12,10 +12,9 @@ import pprint
 ft_recipes = pd.read_csv("french_toast_recipes_cleaned_final.csv", index_col=False, na_filter = False) 
 ###############################################################################
 ###############################################################################
-# BAR CHARTS
+# BAR CHARTS, HORIZONTAL
 ###############################################################################
 ###############################################################################
-
 bread = ft_recipes.loc[ft_recipes["category"] == "bread"]
 bread = bread.sort_values(by=['ingr'])
 bread_vc = bread[["title", "category"]].value_counts()
@@ -35,8 +34,9 @@ egg_vc = egg[["title", "category"]].value_counts()
 egg_grp = egg.groupby(['title','category'])['ingr'].apply(' and '.join).reset_index()
 egg_cnt = egg_grp["ingr"].value_counts().reset_index()
 
+
 fig, axs = plt.subplots(1, 3, gridspec_kw={'width_ratios': [25, 54, 79]},
-                        figsize=(18,8), constrained_layout=True)
+                        figsize=(10,8), constrained_layout=True)
 # adjust title position to not be slightly off center
 mid = (fig.subplotpars.right + fig.subplotpars.left)/2
 fig.suptitle("allrecipes.com French Toast Recipes \n Essential Ingredient Types", fontsize=18, x=mid)
@@ -46,12 +46,13 @@ c1 = colors[0]
 c2 = colors[5]
 c3 = colors[9]
 
-N = 23
+N = 23 # equal # bars for bar with max # of bars
 y_pos = np.linspace(1,N*3.0,N)[::-1]
 ymax=75
 #############################################
 # bread
 #############################################
+
 ax = axs[0]
 ax.set_ylim([0, ymax])
 ax.set_ybound([0,ymax])
@@ -72,6 +73,7 @@ for s in ax.spines:
 #############################################
 # milk/cream
 #############################################
+
 ax = axs[1]
 ax.set_ylim([0, ymax])
 ax.set_ybound([0,ymax])
@@ -93,12 +95,14 @@ for s in ax.spines:
 #############################################
 # egg
 #############################################
+
 ax = axs[2]
 ax.set_ylim([0, ymax])
 ax.set_ybound([0,ymax])
 ax.margins(0.015)
 y = y_pos[0:len(egg_cnt["ingr"])]
-p1 = ax.barh(y, egg_cnt["ingr"], tick_label=egg_cnt["index"], 
+x = egg_cnt["ingr"]
+p1 = ax.barh(y, x, tick_label=egg_cnt["index"], 
                  height=2.5,  color=c3)
 xmin, xmax = ax.get_xbound()
 ax.set_xlim(xmin, xmax+10)
@@ -110,4 +114,6 @@ ax.bar_label(p1, label_type='edge', padding=8)
 # remove border 
 for s in ax.spines:
     ax.spines[s].set_visible(False)
-plt.savefig('2_analysis/plot3_bread_types_bar_charts-row.png', dpi=300)
+plt.savefig('2_analysis/french_toast_bar_plot.png', dpi=300)
+
+

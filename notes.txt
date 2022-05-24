@@ -1,3 +1,25 @@
+5/15/2022
+today:
+- more or less finished egg-to-milk ratio
+
+next time:
+- bar + pie charts for ingredients ->->-> html
+
+# 2022-04-12
+today:
+- finished normalize units and quantities for bread, milk, and eggs. or at least 90% lf the way there.
+- checking bread recipes instructions that call for loaves, adding "slices" to data if present
+- "thick slices" ~ "slices", not specific enough
+- I'm going to add recipes in that do not call for milk.
+- - - - see "no milk" folder. 
+- - - - have to finish and clean draft "french_toast_recipes_1_cleaned_draft-no-milk.csv"
+- - - - also should manually check instructions just to make sure not baked, etc.
+
+next time:
+- maybe re-visit part 1 with fresh eyes, edit and re-push
+- continue with this analysis train (keep it simple!!!!!)
+- consider: start writing with HTML page, along with doing basic statistics dev
+
 # 2022-04-04
 TODAY:
 - wrapped-up part 1

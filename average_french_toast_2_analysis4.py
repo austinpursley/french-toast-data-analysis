@@ -12,7 +12,7 @@ import pprint
 ft_recipes = pd.read_csv("french_toast_recipes_cleaned_final.csv", index_col=False, na_filter = False) 
 ###############################################################################
 ###############################################################################
-# BAR CHARTS
+# BAR CHARTS, VERTICAL
 ###############################################################################
 ###############################################################################
 
@@ -39,12 +39,13 @@ egg_cnt = egg_grp["ingr"].value_counts().reset_index()
 esz = len(egg_cnt["ingr"])
 
 fig, axs = plt.subplots(3, 1, gridspec_kw={'height_ratios': [bsz, msz, esz]},
-                        figsize=(6,14), constrained_layout=True)
+                        figsize=(10,14), constrained_layout=True)
 
 # adjust title position to not be slightly off center
 mid = (fig.subplotpars.right + fig.subplotpars.left)/2
 fig.suptitle("allrecipes.com French Toast Recipes \n Essential Ingredient Types", fontsize=18, x=mid)
 
+# colors
 colors = plt.cm.get_cmap('tab20b', 20).colors
 c1 = colors[0]
 c2 = colors[5]
@@ -109,4 +110,4 @@ for s in ax.spines:
 # plt.subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=None, hspace=None)
 # plt.show()
 # plt.margins(0, 0)
-plt.savefig('2_analysis/plot3_bread_types_bar_charts-col.png', dpi=300)
+plt.savefig('2_analysis/french_toast_bar_plot2.png', dpi=300)

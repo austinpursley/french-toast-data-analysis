@@ -16,11 +16,11 @@ ft_recipes = pd.read_csv("french_toast_recipes_cleaned_final.csv", index_col=Fal
 # PI CHART DIFFERENT INGREDIENTS
 ###############################################################################
 ###############################################################################
-fig, axs = plt.subplots(3, 1, figsize=(15, 15), subplot_kw=dict(aspect="equal"),
+fig, axs = plt.subplots(3, 1, figsize=(10, 15), subplot_kw=dict(aspect="equal"),
                         constrained_layout=True)
 # adjust title position to not be slightly off center
 mid = (fig.subplotpars.right + fig.subplotpars.left)/2 + 0.03 
-fig.suptitle("French Toast Recipes, Essential Ingredient Types", fontsize=32, x=mid)
+fig.suptitle("allrecipes.com French Toast Recipes\nEssential Ingredient Types", fontsize=32, x=mid)
 #############################################
 # Pie Chart Bread
 #############################################
@@ -64,7 +64,7 @@ wedges = pie_ax.patches
 labels = list(bread_pchart["legend"])
 wedges = wedges[m:e]
 labels = labels[m:e] 
-pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1.0, 0.85))
+pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(0.95, 0.95))
 
 #############################################
 # Pie Chart Milk/Cream
@@ -103,7 +103,7 @@ wedges = pie_ax.patches
 labels = list(mlk_pchart["legend"])
 wedges = wedges[m:e]
 labels = labels[m:e]
-pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(1, 0.8))
+pie_ax.legend(labels = labels[::-1], handles = wedges[::-1], bbox_to_anchor=(0.95, 0.85))
 
 #############################################
 # Pie Chart Eggs
@@ -129,4 +129,5 @@ pie_ax.pie(eggs_prc["ingr"], labels=eggs_prc["labels"],
             wedgeprops={'linewidth': 0.5, 'linestyle': 'solid',
                          'edgecolor' : 'black'})
 
-plt.savefig('2_analysis/plot1_french_toast_recipes_essential_ingr_break_downs_pie_charts.png', dpi=300)
+plt.savefig('2_analysis/french_toast_pie_plot.png', 
+            bbox_inches='tight', dpi=300)

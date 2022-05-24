@@ -7,6 +7,7 @@
 import pandas as pd
 
 df = pd.read_csv("french_toast_recipes_0_post_cut.csv", index_col=False)
+# df = pd.read_csv("french_toast_recipes_0_post_cut_no_milk.csv", index_col=False)
 df = df.apply(lambda x: x.str.split('\n').explode())
 
 df["Ingredients Numbers"] = df["Ingredients"].str.replace(r'[^0-9\\\s\n\/.]','', regex=True)

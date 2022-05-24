@@ -101,5 +101,6 @@ pie_chart_bread = bread_pchart.plot(kind="pie", ax=pie_ax,
                                     startangle=95, 
                                     cmap='tab20b', 
                                     ylabel='') 
-pie_ax.legend(bbox_to_anchor=(1.05, 0.90))
-plt.show()
+pie_ax.legend(bbox_to_anchor=(1.03, 0.93))
+plt.savefig('2_analysis/french_toast_pie_plot_exp.png', 
+            bbox_inches='tight', dpi=300)

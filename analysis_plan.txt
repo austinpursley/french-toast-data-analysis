@@ -1,3 +1,10 @@
+[x] attempt normalize data
+[x] Unique bread, milk/cream, eggs plots
+[x] ratio eggs to milk
+[ ] histograms / bar charts of egg, bread, milk
+[ ] "other" ingredients (prob just good ole'e bar chart)
+[ ] "average" french toast recipe
+
 bread, milk/cream, eggs
 - pie charts
 - bar charts
